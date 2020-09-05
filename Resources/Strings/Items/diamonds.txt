@@ -1,0 +1,23 @@
+Diamond
+Diamonds
+A valuable form of currency used to purchase powerful and rare items.
+<blank>
+<blank>
+You received a Diamond!
+You received [amount] Diamonds!
+You found a Diamond!
+You found [amount] Diamonds!
+Do you wish to use a Diamond on [nickname]?
+[nickname] doesn't need a Diamond!
+You used a Diamond on [nickname]!
+Your opponent used a Diamond on [nickname]!
+Diamond has been enabled!
+Diamond has been disabled!
+You crafted a Diamond!
+You crafted [amount] Diamonds!
+You don't have enough shards to craft a Diamond!
+You don't have enough shards to craft [amount] Diamonds!
+Do you want to sell a Diamond for [coins] coins?
+Do you want to sell [amount] Diamonds for [coins] coins?
+Do you wish to buy a Diamond for [coins] coins?
+Do you wish to buy [amount] Diamonds for [coins] coins?

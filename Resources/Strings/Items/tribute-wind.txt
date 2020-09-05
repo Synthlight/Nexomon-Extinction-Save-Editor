@@ -1,0 +1,23 @@
+Tribute of Tempest
+Tributes of Tempest
+An ancient elemental relic emitting a faint aura...
+<blank>
+<blank>
+You received the Tribute of Tempest!
+You received [amount] Tributes of Tempest!
+You found the Tribute of Tempest!
+You found [amount] Tributes of Tempest!
+Do you wish to use the Tribute of Tempest on [nickname]?
+[nickname] doesn't need the Tribute of Tempest!
+You used the Tribute of Tempest on [nickname]!
+Your opponent used the Tribute of Tempest on [nickname]!
+Tribute of Tempest has been enabled!
+Tribute of Tempest has been disabled!
+You crafted the Tribute of Tempest!
+You crafted [amount] Tributes of Tempest!
+You don't have enough shards to craft the Tribute of Tempest!
+You don't have enough shards to craft [amount] Tributes of Tempest!
+Do you want to sell the Tribute of Tempest for [coins] coins?
+Do you want to sell [amount] Tributes of Tempest for [coins] coins?
+Do you wish to buy the Tribute of Tempest for [coins] coins?
+Do you wish to buy [amount] Tributes of Tempest for [coins] coins?

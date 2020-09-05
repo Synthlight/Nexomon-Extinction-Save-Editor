@@ -1,0 +1,23 @@
+Synergy Core (III)
+Synergy Cores (III)
+Copies [value_1]% of the EXP received by other team members without having to fight.
+<blank>
+<blank>
+You received a Synergy Core (III)!
+You received [amount] Synergy Cores (III)!
+You found a Synergy Core (III)!
+You found [amount] Synergy Cores (III)!
+Do you wish to use a Synergy Core (III) on [nickname]?
+[nickname] doesn't need a Synergy Core (III)!
+You used a Synergy Core (III) on [nickname]!
+Your opponent used a Synergy Core (III) on [nickname]!
+Synergy Core (III) has been enabled!
+Synergy Core (III) has been disabled!
+You crafted a Synergy Core (III)!
+You crafted [amount] Synergy Cores (III)!
+You don't have enough shards to craft a Synergy Core (III)!
+You don't have enough shards to craft [amount] Synergy Cores (III)!
+Do you want to sell a Synergy Core (III) for [coins] coins?
+Do you want to sell [amount] Synergy Cores (III) for [coins] coins?
+Do you wish to buy a Synergy Core (III) for [coins] coins?
+Do you wish to buy [amount] Synergy Cores (III) for [coins] coins?

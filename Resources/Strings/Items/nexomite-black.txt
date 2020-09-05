@@ -1,0 +1,23 @@
+The Black Nexomite
+The Black Nexomites
+A fake legendary gemstone of immeasurable value!
+<blank>
+<blank>
+You received The Black Nexomite!
+You received [amount] The Black Nexomites!
+You found The Black Nexomite!
+You found [amount] The Black Nexomites!
+Do you wish to use The Black Nexomite on [nickname]?
+[nickname] doesn't need The Black Nexomite!
+You used The Black Nexomite on [nickname]!
+Your opponent used The Black Nexomite on [nickname]!
+The Black Nexomite has been enabled!
+The Black Nexomite has been disabled!
+You crafted The Black Nexomite!
+You crafted [amount] The Black Nexomites!
+You don't have enough shards to craft The Black Nexomite!
+You don't have enough shards to craft [amount] The Black Nexomites!
+Do you want to sell The Black Nexomite for [coins] coins?
+Do you want to sell [amount] The Black Nexomites for [coins] coins?
+Do you wish to buy The Black Nexomite for [coins] coins?
+Do you wish to buy [amount] The Black Nexomites for [coins] coins?

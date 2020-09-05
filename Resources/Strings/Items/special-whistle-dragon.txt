@@ -1,0 +1,23 @@
+DRAGON WHISTLE
+DRAGON WHISTLES
+With this item, NexoTraps are [value_1]% more likely to capture dragons. This can be stacked!
+<blank>
+<blank>
+You received a DRAGON WHISTLE!
+You received [amount] DRAGON WHISTLES!
+You found a DRAGON WHISTLE!
+You found [amount] DRAGON WHISTLES!
+Do you wish to use a DRAGON WHISTLE on [nickname]?
+[nickname] doesn't need a DRAGON WHISTLE!
+You used a DRAGON WHISTLE on [nickname]!
+Your opponent used a DRAGON WHISTLE on [nickname]!
+DRAGON WHISTLE has been enabled!
+DRAGON WHISTLE has been disabled!
+You crafted a DRAGON WHISTLE!
+You crafted [amount] DRAGON WHISTLES!
+You don't have enough shards to craft a DRAGON WHISTLE!
+You don't have enough shards to craft [amount] DRAGON WHISTLES!
+Do you want to sell a DRAGON WHISTLE for [coins] coins?
+Do you want to sell [amount] DRAGON WHISTLES for [coins] coins?
+Do you wish to buy a DRAGON WHISTLE for [coins] coins?
+Do you wish to buy [amount] DRAGON WHISTLES for [coins] coins?

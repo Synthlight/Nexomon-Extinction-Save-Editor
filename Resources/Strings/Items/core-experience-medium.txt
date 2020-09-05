@@ -1,0 +1,23 @@
+Experience Core (II)
+Experience Cores (II)
+Boosts the EXP earned by [value_1]%.
+<blank>
+<blank>
+You received an Experience Core (II)!
+You received [amount] Experience Cores (II)!
+You found an Experience Core (II)!
+You found [amount] Experience Cores (II)!
+Do you wish to use an Experience Core (II) on [nickname]?
+[nickname] doesn't need an Experience Core (II)!
+You used an Experience Core (II) on [nickname]!
+Your opponent used an Experience Core (II) on [nickname]!
+Experience Core (II) has been enabled!
+Experience Core (II) has been disabled!
+You crafted an Experience Core (II)!
+You crafted [amount] Experience Cores (II)!
+You don't have enough shards to craft an Experience Core (II)!
+You don't have enough shards to craft [amount] Experience Cores (II)!
+Do you want to sell an Experience Core (II) for [coins] coins?
+Do you want to sell [amount] Experience Cores (II) for [coins] coins?
+Do you wish to buy an Experience Core (II) for [coins] coins?
+Do you wish to buy [amount] Experience Cores (II) for [coins] coins?

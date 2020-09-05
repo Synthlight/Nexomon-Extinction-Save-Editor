@@ -1,0 +1,23 @@
+FIRE WHISTLE
+FIRE WHISTLES
+With this item, NexoTraps are [value_1]% more likely to capture Fire-Type Nexomon. This can be stacked!
+<blank>
+<blank>
+You received a FIRE WHISTLE!
+You received [amount] FIRE WHISTLES!
+You found a FIRE WHISTLE!
+You found [amount] FIRE WHISTLES!
+Do you wish to use a FIRE WHISTLE on [nickname]?
+[nickname] doesn't need a FIRE WHISTLE!
+You used a FIRE WHISTLE on [nickname]!
+Your opponent used a FIRE WHISTLE on [nickname]!
+FIRE WHISTLE has been enabled!
+FIRE WHISTLE has been disabled!
+You crafted a FIRE WHISTLE!
+You crafted [amount] FIRE WHISTLES!
+You don't have enough shards to craft a FIRE WHISTLE!
+You don't have enough shards to craft [amount] FIRE WHISTLES!
+Do you want to sell a FIRE WHISTLE for [coins] coins?
+Do you want to sell [amount] FIRE WHISTLES for [coins] coins?
+Do you wish to buy a FIRE WHISTLE for [coins] coins?
+Do you wish to buy [amount] FIRE WHISTLES for [coins] coins?

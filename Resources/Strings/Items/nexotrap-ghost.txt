@@ -1,0 +1,23 @@
+Ghost Nexotrap
+Ghost Nexotraps
+A Nexotrap designed to capture Ghost-type Nexomon!
+<blank>
+<blank>
+You received a Ghost Nexotrap!
+You received [amount] Ghost Nexotraps!
+You found a Ghost Nexotrap!
+You found [amount] Ghost Nexotraps!
+Do you wish to use a Ghost Nexotrap on [nickname]?
+[nickname] doesn't need a Ghost Nexotrap!
+You used a Ghost Nexotrap on [nickname]!
+Your opponent used a Ghost Nexotrap on [nickname]!
+Ghost Nexotrap has been enabled!
+Ghost Nexotrap has been disabled!
+You crafted a Ghost Nexotrap!
+You crafted [amount] Ghost Nexotraps!
+You don't have enough shards to craft a Ghost Nexotrap!
+You don't have enough shards to craft [amount] Ghost Nexotraps!
+Do you want to sell a Ghost Nexotrap for [coins] coins?
+Do you want to sell [amount] Ghost Nexotraps for [coins] coins?
+Do you wish to buy a Ghost Nexotrap for [coins] coins?
+Do you wish to buy [amount] Ghost Nexotraps for [coins] coins?

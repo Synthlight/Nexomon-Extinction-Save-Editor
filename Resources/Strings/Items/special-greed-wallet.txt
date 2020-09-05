@@ -1,0 +1,23 @@
+GREED WALLET
+GREED WALLETS
+Having this item in your inventory causes battles to yield [value_1]% more coins! This can be stacked!
+<blank>
+<blank>
+You received a GREED WALLET!
+You received [amount] GREED WALLETS!
+You found a GREED WALLET!
+You found [amount] GREED WALLETS!
+Do you wish to use a GREED WALLET on [nickname]?
+[nickname] doesn't need a GREED WALLET!
+You used a GREED WALLET on [nickname]!
+Your opponent used a GREED WALLET on [nickname]!
+GREED WALLET has been enabled!
+GREED WALLET has been disabled!
+You crafted a GREED WALLET!
+You crafted [amount] GREED WALLETS!
+You don't have enough shards to craft a GREED WALLET!
+You don't have enough shards to craft [amount] GREED WALLETS!
+Do you want to sell a GREED WALLET for [coins] coins?
+Do you want to sell [amount] GREED WALLETS for [coins] coins?
+Do you wish to buy a GREED WALLET for [coins] coins?
+Do you wish to buy [amount] GREED WALLETS for [coins] coins?

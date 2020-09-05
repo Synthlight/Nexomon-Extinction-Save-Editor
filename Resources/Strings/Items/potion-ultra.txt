@@ -1,0 +1,23 @@
+Ultra Potion
+Ultra Potions
+Restores [value_1] HP.
+<blank>
+<blank>
+You received an Ultra Potion!
+You received [amount] Ultra Potions!
+You found an Ultra Potion!
+You found [amount] Ultra Potions!
+Do you wish to use an Ultra Potion on [nickname]?
+[nickname] doesn't need an Ultra Potion!
+You used an Ultra Potion on [nickname]!
+Your opponent used an Ultra Potion on [nickname]!
+Ultra Potion has been enabled!
+Ultra Potion has been disabled!
+You crafted an Ultra Potion!
+You crafted [amount] Ultra Potions!
+You don't have enough shards to craft an Ultra Potion!
+You don't have enough shards to craft [amount] Ultra Potions!
+Do you want to sell an Ultra Potion for [coins] coins?
+Do you want to sell [amount] Ultra Potions for [coins] coins?
+Do you wish to buy an Ultra Potion for [coins] coins?
+Do you wish to buy [amount] Ultra Potions for [coins] coins?

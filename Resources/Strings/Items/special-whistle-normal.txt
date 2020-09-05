@@ -1,0 +1,23 @@
+NORMAL WHISTLE
+NORMAL WHISTLES
+With this item, NexoTraps are [value_1]% more likely to capture Normal-Type Nexomon. This can be stacked!
+<blank>
+<blank>
+You received a NORMAL WHISTLE!
+You received [amount] NORMAL WHISTLES!
+You found a NORMAL WHISTLE!
+You found [amount] NORMAL WHISTLES!
+Do you wish to use a NORMAL WHISTLE on [nickname]?
+[nickname] doesn't need a NORMAL WHISTLE!
+You used a NORMAL WHISTLE on [nickname]!
+Your opponent used a NORMAL WHISTLE on [nickname]!
+NORMAL WHISTLE has been enabled!
+NORMAL WHISTLE has been disabled!
+You crafted a NORMAL WHISTLE!
+You crafted [amount] NORMAL WHISTLES!
+You don't have enough shards to craft a NORMAL WHISTLE!
+You don't have enough shards to craft [amount] NORMAL WHISTLES!
+Do you want to sell a NORMAL WHISTLE for [coins] coins?
+Do you want to sell [amount] NORMAL WHISTLES for [coins] coins?
+Do you wish to buy a NORMAL WHISTLE for [coins] coins?
+Do you wish to buy [amount] NORMAL WHISTLES for [coins] coins?

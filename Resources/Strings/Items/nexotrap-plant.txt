@@ -1,0 +1,23 @@
+Plant Nexotrap
+Plant Nexotraps
+A Nexotrap designed to capture Plant-type Nexomon!
+<blank>
+<blank>
+You received a Plant Nexotrap!
+You received [amount] Plant Nexotraps!
+You found a Plant Nexotrap!
+You found [amount] Plant Nexotraps!
+Do you wish to use a Plant Nexotrap on [nickname]?
+[nickname] doesn't need a Plant Nexotrap!
+You used a Plant Nexotrap on [nickname]!
+Your opponent used a Plant Nexotrap on [nickname]!
+Plant Nexotrap has been enabled!
+Plant Nexotrap has been disabled!
+You crafted a Plant Nexotrap!
+You crafted [amount] Plant Nexotraps!
+You don't have enough shards to craft a Plant Nexotrap!
+You don't have enough shards to craft [amount] Plant Nexotraps!
+Do you want to sell a Plant Nexotrap for [coins] coins?
+Do you want to sell [amount] Plant Nexotraps for [coins] coins?
+Do you wish to buy a Plant Nexotrap for [coins] coins?
+Do you wish to buy [amount] Plant Nexotraps for [coins] coins?

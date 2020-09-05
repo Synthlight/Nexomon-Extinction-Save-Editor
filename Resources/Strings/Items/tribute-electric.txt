@@ -1,0 +1,23 @@
+Tribute of Thunder
+Tributes of Thunder
+An ancient elemental relic emitting a faint aura...
+<blank>
+<blank>
+You received the Tribute of Thunder!
+You received [amount] Tributes of Thunder!
+You found the Tribute of Thunder!
+You found [amount] Tributes of Thunder!
+Do you wish to use the Tribute of Thunder on [nickname]?
+[nickname] doesn't need the Tribute of Thunder!
+You used the Tribute of Thunder on [nickname]!
+Your opponent used the Tribute of Thunder on [nickname]!
+Tribute of Thunder has been enabled!
+Tribute of Thunder has been disabled!
+You crafted the Tribute of Thunder!
+You crafted [amount] Tributes of Thunder!
+You don't have enough shards to craft the Tribute of Thunder!
+You don't have enough shards to craft [amount] Tributes of Thunder!
+Do you want to sell the Tribute of Thunder for [coins] coins?
+Do you want to sell [amount] Tributes of Thunder for [coins] coins?
+Do you wish to buy the Tribute of Thunder for [coins] coins?
+Do you wish to buy [amount] Tributes of Thunder for [coins] coins?

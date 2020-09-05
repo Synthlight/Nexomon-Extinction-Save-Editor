@@ -1,0 +1,119 @@
+{
+    "normal": {
+        "matchups": {
+            "normal": 1,
+            "fire": 1,
+            "mineral": 1,
+            "electric": 1,
+            "plant": 1,
+            "water": 1,
+            "wind": 1,
+            "ghost": 0.65,
+            "psychic": 0.65
+        }
+    },
+    "fire": {
+        "matchups": {
+            "normal": 1,
+            "fire": 0.65,
+            "mineral": 0.65,
+            "electric": 1,
+            "plant": 1.25,
+            "water": 0.65,
+            "wind": 1.25,
+            "ghost": 1.25,
+            "psychic": 1
+        }
+    },
+    "water": {
+        "matchups": {
+            "normal": 1,
+            "fire": 1.25,
+            "mineral": 1.25,
+            "electric": 0.65,
+            "plant": 0.65,
+            "water": 0.65,
+            "wind": 1,
+            "ghost": 1.25,
+            "psychic": 1
+        }
+    },
+    "electric": {
+        "matchups": {
+            "normal": 1,
+            "fire": 1,
+            "mineral": 0.65,
+            "electric": 0.65,
+            "plant": 0.65,
+            "water": 1.25,
+            "wind": 1.25,
+            "ghost": 1,
+            "psychic": 1.25
+        }
+    },
+    "mineral": {
+        "matchups": {
+            "normal": 1,
+            "fire": 1.25,
+            "mineral": 1,
+            "electric": 1.25,
+            "plant": 1,
+            "water": 0.65,
+            "wind": 0.65,
+            "ghost": 1,
+            "psychic": 0.65
+        }
+    },
+    "wind": {
+        "matchups": {
+            "normal": 1,
+            "fire": 0.65,
+            "mineral": 1.25,
+            "electric": 0.65,
+            "plant": 1.25,
+            "water": 1,
+            "wind": 1,
+            "ghost": 0.65,
+            "psychic": 1
+        }
+    },
+    "plant": {
+        "matchups": {
+            "normal": 1,
+            "fire": 0.65,
+            "mineral": 1,
+            "electric": 1.25,
+            "plant": 0.65,
+            "water": 1.25,
+            "wind": 0.65,
+            "ghost": 1,
+            "psychic": 1.25
+        }
+    },
+    "ghost": {
+        "matchups": {
+            "normal": 1.25,
+            "fire": 0.65,
+            "mineral": 1,
+            "electric": 1,
+            "plant": 1.0,
+            "water": 0.65,
+            "wind": 1.25,
+            "ghost": 1,
+            "psychic": 1.25
+        }
+    },
+    "psychic": {
+        "matchups": {
+            "normal": 1.25,
+            "fire": 1,
+            "mineral": 0.65,
+            "electric": 1.25,
+            "plant": 1,
+            "water": 1,
+            "wind": 1,
+            "ghost": 1.25,
+            "psychic": 0.65
+        }
+    }
+}

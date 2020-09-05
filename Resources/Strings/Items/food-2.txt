@@ -1,0 +1,23 @@
+Canele
+Caneles
+An original recipe! Chocolate cake with a red berry gelatin top.
+<blank>
+<blank>
+You received a Canele!
+You received [amount] Caneles!
+You found a Canele!
+You found [amount] Caneles!
+Do you wish to use a Canele on [nickname]?
+[nickname] doesn't need a Canele!
+You used a Canele on [nickname]!
+Your opponent used a Canele on [nickname]!
+Canele has been enabled!
+Canele has been disabled!
+You crafted a Canele!
+You crafted [amount] Caneles!
+You don't have enough shards to craft a Canele!
+You don't have enough shards to craft [amount] Caneles!
+Do you want to sell a Canele for [coins] coins?
+Do you want to sell [amount] Caneles for [coins] coins?
+Do you wish to buy a Canele for [coins] coins?
+Do you wish to buy [amount] Caneles for [coins] coins?

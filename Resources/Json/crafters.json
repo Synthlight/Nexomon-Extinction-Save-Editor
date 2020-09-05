@@ -1,0 +1,309 @@
+{
+    "bonnie": {
+        "products": {
+            "core-destruction-low": {
+                "shard-fire": 3,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 2,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-destruction-medium": {
+                "shard-fire": 6,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 3,
+                "shard-electric": 3,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-destruction-high": {
+                "shard-fire": 10,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 5,
+                "shard-electric": 5,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-protection-low": {
+                "shard-fire": 0,
+                "shard-water": 1,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 3,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-protection-medium": {
+                "shard-fire": 0,
+                "shard-water": 3,
+                "shard-wind": 0,
+                "shard-plant": 1,
+                "shard-mineral": 5,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-protection-high": {
+                "shard-fire": 0,
+                "shard-water": 6,
+                "shard-wind": 0,
+                "shard-plant": 4,
+                "shard-mineral": 10,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-vitality-low": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 2,
+                "shard-plant": 3,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 1,
+                "shard-ghost": 0
+            },
+            "core-vitality-medium": {
+                "shard-fire": 0,
+                "shard-water": 2,
+                "shard-wind": 4,
+                "shard-plant": 7,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 2,
+                "shard-ghost": 0
+            },
+            "core-vitality-high": {
+                "shard-fire": 0,
+                "shard-water": 4,
+                "shard-wind": 6,
+                "shard-plant": 10,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 3,
+                "shard-ghost": 0
+            },
+            "core-immunity-low": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 2,
+                "shard-psychic": 1,
+                "shard-ghost": 1
+            },
+            "core-immunity-medium": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 1,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 4,
+                "shard-psychic": 2,
+                "shard-ghost": 2
+            },
+            "core-immunity-high": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 4,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 6,
+                "shard-psychic": 3,
+                "shard-ghost": 4
+            },
+            "core-experience-low": {
+                "shard-fire": 0,
+                "shard-water": 2,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 3,
+                "shard-ghost": 0
+            },
+            "core-experience-medium": {
+                "shard-fire": 0,
+                "shard-water": 3,
+                "shard-wind": 0,
+                "shard-plant": 4,
+                "shard-mineral": 1,
+                "shard-electric": 0,
+                "shard-psychic": 6,
+                "shard-ghost": 0
+            },
+            "core-experience-high": {
+                "shard-fire": 0,
+                "shard-water": 6,
+                "shard-wind": 0,
+                "shard-plant": 8,
+                "shard-mineral": 4,
+                "shard-electric": 0,
+                "shard-psychic": 10,
+                "shard-ghost": 0
+            },
+            "core-greed-low": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 1,
+                "shard-psychic": 0,
+                "shard-ghost": 2
+            },
+            "core-greed-medium": {
+                "shard-fire": 0,
+                "shard-water": 2,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 3,
+                "shard-psychic": 0,
+                "shard-ghost": 4
+            },
+            "core-greed-high": {
+                "shard-fire": 0,
+                "shard-water": 4,
+                "shard-wind": 0,
+                "shard-plant": 3,
+                "shard-mineral": 0,
+                "shard-electric": 5,
+                "shard-psychic": 0,
+                "shard-ghost": 7
+            },
+            "core-stamina-low": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 2,
+                "shard-psychic": 0,
+                "shard-ghost": 1
+            },
+            "core-stamina-medium": {
+                "shard-fire": 2,
+                "shard-water": 1,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 4,
+                "shard-psychic": 0,
+                "shard-ghost": 2
+            },
+            "core-stamina-high": {
+                "shard-fire": 4,
+                "shard-water": 3,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 8,
+                "shard-psychic": 0,
+                "shard-ghost": 4
+            }
+        }
+    },
+
+    "mylo": {
+        "products": {
+            "nexotrap-fire": {
+                "shard-fire": 3,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "nexotrap-water": {
+                "shard-fire": 0,
+                "shard-water": 3,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "nexotrap-wind": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 3,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "nexotrap-plant": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 3,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            }
+        }
+    },
+
+
+    "lisa": {
+        "products": {
+            "nexotrap-mineral": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 3,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "nexotrap-electric": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 3,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "nexotrap-psychic": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 3,
+                "shard-ghost": 0
+            },
+            "nexotrap-ghost": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 3
+            }
+        }
+    }
+}
+
+

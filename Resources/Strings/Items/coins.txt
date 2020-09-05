@@ -1,0 +1,23 @@
+Coin
+Coins
+This can be exchanged for goods and services.
+<blank>
+<blank>
+You received a Coin!
+You received [amount] Coins!
+You found a Coin!
+You found [amount] Coins!
+Do you wish to use a Coin on [nickname]?
+[nickname] doesn't need a Coin!
+You used a Coin on [nickname]!
+Your opponent used a Coin on [nickname]!
+Coin has been enabled!
+Coin has been disabled!
+You crafted a Coin!
+You crafted [amount] Coins!
+You don't have enough shards to craft a Coin!
+You don't have enough shards to craft [amount] Coins!
+Do you want to sell a Coin for [coins] coins?
+Do you want to sell [amount] Coins for [coins] coins?
+Do you wish to buy a Coin for [coins] coins?
+Do you wish to buy [amount] Coins for [coins] coins?

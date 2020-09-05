@@ -1,0 +1,23 @@
+Anti Burn
+Anti Burns
+Cures the "BURNING" status effect on a Nexomon!
+<blank>
+<blank>
+You received an Anti Burn!
+You received [amount] Anti Burns!
+You found an Anti Burn!
+You found [amount] Anti Burns!
+Do you wish to use an Anti Burn on [nickname]?
+[nickname] doesn't need an Anti Burn!
+You used an Anti Burn on [nickname]!
+Your opponent used an Anti Burn on [nickname]!
+Anti Burn has been enabled!
+Anti Burn has been disabled!
+You crafted an Anti Burn!
+You crafted [amount] Anti Burns!
+You don't have enough shards to craft an Anti Burn!
+You don't have enough shards to craft [amount] Anti Burns!
+Do you want to sell an Anti Burn for [coins] coins?
+Do you want to sell [amount] Anti Burns for [coins] coins?
+Do you wish to buy an Anti Burn for [coins] coins?
+Do you wish to buy [amount] Anti Burns for [coins] coins?

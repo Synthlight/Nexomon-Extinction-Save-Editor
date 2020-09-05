@@ -1,0 +1,23 @@
+Glazed Cake
+Glazed Cakes
+A delicious pie mixed with fresh berries and fruits on top.
+<blank>
+<blank>
+You received a Glazed Cake!
+You received [amount] Glazed Cakes!
+You found a Glazed Cake!
+You found [amount] Glazed Cakes!
+Do you wish to use a Glazed Cake on [nickname]?
+[nickname] doesn't need a Glazed Cake!
+You used a Glazed Cake on [nickname]!
+Your opponent used a Glazed Cake on [nickname]!
+Glazed Cake has been enabled!
+Glazed Cake has been disabled!
+You crafted a Glazed Cake!
+You crafted [amount] Glazed Cakes!
+You don't have enough shards to craft a Glazed Cake!
+You don't have enough shards to craft [amount] Glazed Cakes!
+Do you want to sell a Glazed Cake for [coins] coins?
+Do you want to sell [amount] Glazed Cakes for [coins] coins?
+Do you wish to buy a Glazed Cake for [coins] coins?
+Do you wish to buy [amount] Glazed Cakes for [coins] coins?

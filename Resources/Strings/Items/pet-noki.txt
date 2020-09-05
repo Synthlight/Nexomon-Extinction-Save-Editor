@@ -1,0 +1,23 @@
+Noki Companion
+Nokis
+A Noki follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Noki Companion!
+You received [amount] Nokis!
+You found a Noki Companion!
+You found [amount] Nokis!
+Do you wish to use a Noki on [nickname]?
+[nickname] doesn't need a Noki!
+You used a Noki on [nickname]!
+Your opponent used a Noki on [nickname]!
+Noki has been enabled!
+Noki has been disabled!
+You crafted a Noki!
+You crafted [amount] Nokis!
+You don't have enough shards to craft a Noki!
+You don't have enough shards to craft [amount] Nokis!
+Do you want to sell a Noki for [coins] coins?
+Do you want to sell [amount] Nokis for [coins] coins?
+Do you wish to buy a Noki for [coins] coins?
+Do you wish to buy [amount] Nokis for [coins] coins?

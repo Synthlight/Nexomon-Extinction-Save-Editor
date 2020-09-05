@@ -1,0 +1,23 @@
+Lacreme
+Lacremes
+Vanilla flavored ice cream filled with fresh nuts and sweet cream.
+<blank>
+<blank>
+You received a Lacreme!
+You received [amount] Lacremes!
+You found a Lacreme!
+You found [amount] Lacremes!
+Do you wish to use a Lacreme on [nickname]?
+[nickname] doesn't need a Lacreme!
+You used a Lacreme on [nickname]!
+Your opponent used a Lacreme on [nickname]!
+Lacreme has been enabled!
+Lacreme has been disabled!
+You crafted a Lacreme!
+You crafted [amount] Lacremes!
+You don't have enough shards to craft a Lacreme!
+You don't have enough shards to craft [amount] Lacremes!
+Do you want to sell a Lacreme for [coins] coins?
+Do you want to sell [amount] Lacremes for [coins] coins?
+Do you wish to buy a Lacreme for [coins] coins?
+Do you wish to buy [amount] Lacremes for [coins] coins?

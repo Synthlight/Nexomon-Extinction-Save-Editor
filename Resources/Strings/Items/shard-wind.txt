@@ -1,0 +1,23 @@
+Tempest Shard
+Tempest Shards
+A Wind-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Tempest Shard!
+You received [amount] Tempest Shards!
+You found a Tempest Shard!
+You found [amount] Tempest Shards!
+Do you wish to use a Tempest Shard on [nickname]?
+[nickname] doesn't need a Tempest Shard!
+You used a Tempest Shard on [nickname]!
+Your opponent used a Tempest Shard on [nickname]!
+Tempest Shard has been enabled!
+Tempest Shard has been disabled!
+You crafted a Tempest Shard!
+You crafted [amount] Tempest Shards!
+You don't have enough shards to craft a Tempest Shard!
+You don't have enough shards to craft [amount] Tempest Shards!
+Do you want to sell a Tempest Shard for [coins] coins?
+Do you want to sell [amount] Tempest Shards for [coins] coins?
+Do you wish to buy a Tempest Shard for [coins] coins?
+Do you wish to buy [amount] Tempest Shards for [coins] coins?

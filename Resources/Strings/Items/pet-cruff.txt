@@ -1,0 +1,23 @@
+Cruff Companion
+Cruffs
+A Cruff follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Cruff Companion!
+You received [amount] Cruffs!
+You found a Cruff Companion!
+You found [amount] Cruffs!
+Do you wish to use a Cruff on [nickname]?
+[nickname] doesn't need a Cruff!
+You used a Cruff on [nickname]!
+Your opponent used a Cruff on [nickname]!
+Cruff has been enabled!
+Cruff has been disabled!
+You crafted a Cruff!
+You crafted [amount] Cruffs!
+You don't have enough shards to craft a Cruff!
+You don't have enough shards to craft [amount] Cruffs!
+Do you want to sell a Cruff for [coins] coins?
+Do you want to sell [amount] Cruffs for [coins] coins?
+Do you wish to buy a Cruff for [coins] coins?
+Do you wish to buy [amount] Cruffs for [coins] coins?

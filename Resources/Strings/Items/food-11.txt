@@ -1,0 +1,23 @@
+Donut
+Donuts
+A classic among tamers. It is not recommended to eat in large portions.
+<blank>
+<blank>
+You received a Donut!
+You received [amount] Donuts!
+You found a Donut!
+You found [amount] Donuts!
+Do you wish to use a Donut on [nickname]?
+[nickname] doesn't need a Donut!
+You used a Donut on [nickname]!
+Your opponent used a Donut on [nickname]!
+Donut has been enabled!
+Donut has been disabled!
+You crafted a Donut!
+You crafted [amount] Donuts!
+You don't have enough shards to craft a Donut!
+You don't have enough shards to craft [amount] Donuts!
+Do you want to sell a Donut for [coins] coins?
+Do you want to sell [amount] Donuts for [coins] coins?
+Do you wish to buy a Donut for [coins] coins?
+Do you wish to buy [amount] Donuts for [coins] coins?

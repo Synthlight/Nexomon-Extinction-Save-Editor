@@ -1,0 +1,23 @@
+Grape
+Grapes
+Usually used as an ingredient for desserts but it can also be eaten by itself. Very healthy!
+<blank>
+<blank>
+You received a Grape!
+You received [amount] Grapes!
+You found a Grape!
+You found [amount] Grapes!
+Do you wish to use a Grape on [nickname]?
+[nickname] doesn't need a Grape!
+You used a Grape on [nickname]!
+Your opponent used a Grape on [nickname]!
+Grape has been enabled!
+Grape has been disabled!
+You crafted a Grape!
+You crafted [amount] Grapes!
+You don't have enough shards to craft a Grape!
+You don't have enough shards to craft [amount] Grapes!
+Do you want to sell a Grape for [coins] coins?
+Do you want to sell [amount] Grapes for [coins] coins?
+Do you wish to buy a Grape for [coins] coins?
+Do you wish to buy [amount] Grapes for [coins] coins?

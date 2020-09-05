@@ -1,0 +1,23 @@
+Vitality Core (III)
+Vitality Cores (III)
+Boosts the HP stat by [value_1]%.
+<blank>
+<blank>
+You received a Vitality Core (III)!
+You received [amount] Vitality Cores (III)!
+You found a Vitality Core (III)!
+You found [amount] Vitality Cores (III)!
+Do you wish to use a Vitality Core (III) on [nickname]?
+[nickname] doesn't need a Vitality Core (III)!
+You used a Vitality Core (III) on [nickname]!
+Your opponent used a Vitality Core (III) on [nickname]!
+Vitality Core (III) has been enabled!
+Vitality Core (III) has been disabled!
+You crafted a Vitality Core (III)!
+You crafted [amount] Vitality Cores (III)!
+You don't have enough shards to craft a Vitality Core (III)!
+You don't have enough shards to craft [amount] Vitality Cores (III)!
+Do you want to sell a Vitality Core (III) for [coins] coins?
+Do you want to sell [amount] Vitality Cores (III) for [coins] coins?
+Do you wish to buy a Vitality Core (III) for [coins] coins?
+Do you wish to buy [amount] Vitality Cores (III) for [coins] coins?

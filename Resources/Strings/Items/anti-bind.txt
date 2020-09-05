@@ -1,0 +1,23 @@
+Anti Bind
+Anti Binds
+Cures the "BOUND" status effect on a Nexomon!
+<blank>
+<blank>
+You received an Anti Bind!
+You received [amount] Anti Binds!
+You found an Anti Bind!
+You found [amount] Anti Binds!
+Do you wish to use an Anti Bind on [nickname]?
+[nickname] doesn't need an Anti Bind!
+You used an Anti Bind on [nickname]!
+Your opponent used an Anti Bind on [nickname]!
+Anti Bind has been enabled!
+Anti Bind has been disabled!
+You crafted an Anti Bind!
+You crafted [amount] Anti Binds!
+You don't have enough shards to craft an Anti Bind!
+You don't have enough shards to craft [amount] Anti Binds!
+Do you want to sell an Anti Bind for [coins] coins?
+Do you want to sell [amount] Anti Binds for [coins] coins?
+Do you wish to buy an Anti Bind for [coins] coins?
+Do you wish to buy [amount] Anti Binds for [coins] coins?

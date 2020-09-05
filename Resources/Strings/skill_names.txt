@@ -1,0 +1,208 @@
+Explosion
+Soul Feeder
+Psychic Blast
+Barrier
+Fire Barrier
+Wind Barrier
+Fire Cage
+Creep
+Blooming Spores
+Power Up
+Quick Feet
+Elemental Up
+Resistance
+Raging Focus
+Sky Blessing
+Burn
+Incinerate
+Disruption Ray
+Mud Attack
+Drill
+EMP
+Darkness
+Electric Bomb
+Fire Claw
+Flame
+Flame Breath
+Flame Column
+Freeze
+Grasping Root
+Piercing Root
+Heal
+Stamina Surge
+Spiritual Boost
+Healing Water
+Tropical Rain
+Howling Winds
+Hydro Sphere
+Water Blast
+Leaf Dance
+Mystic Aroma
+Pulse Storm
+Electric Current
+Electric Storm
+Sandstorm
+Scratch
+Screech
+Seismic Move
+Short Circuit
+Solar Flare
+Splash
+Slashing Current
+Thorn Pit
+Thunder
+Blue Charge
+Twin Tornado
+Vine Whip
+Vine Shield
+Wave
+Wind Pellet
+Bite
+Green Sphere
+Bubble Attack
+Bullet Seed
+Constrict
+Corrupted Mineral
+Sacred Mineral
+Frost Bite
+Crescent Wings
+Glare
+Snake Eyes
+Focus Seed
+Ice Flakes
+Blazing Mineral
+Resonating Rock
+Crushing Boulder
+Absolute Barrier
+Ice Assault
+Healing Stone
+Arcane Curse
+Thorn Storm
+Lock Target
+Super Punch
+Ocean Force
+Spinning Kick
+Poison Cloud
+Poison Sting
+Green Spirit
+Recover
+Fire Stigma
+Pyro Bomb
+Rock Punch
+Rock  Barrage
+Rocky Rift
+Mirage
+Forest Song
+Wind Song
+Meteor Strike
+Meteor Shower
+Rock Wall
+Reflective Mirror
+Spectral Wall
+Thunder Blast
+Tackle
+Siphon
+Aqua Siphon
+Fire Siphon
+Green Siphon
+Electric Siphon
+Mineral Siphon
+Wind Siphon
+Psychic Siphon
+Arcane Siphon
+Dispell
+Poison Bubbles
+Double Slash
+Whirlpool
+Tsunami
+Fire Will
+Toxic Splash
+Smoke Screen
+Blitz Barrier
+Infected Seed
+Phantom Abyss
+Psy Bomb
+Psy Field
+Ghost Slash
+Spectral Invasion
+Mind Control
+Cleanse
+Renovate
+Haunting
+Sonic Scream
+Telepathy
+Cyclone
+Eternal Darkness
+Corrosive Breeze
+Conflagration
+Wind Blast
+Arcane Magic
+Disintegrate
+Fire Cross
+Inception
+Glaze
+Icicle
+Headbutt
+Super Slam
+Combo
+Tornado Kick
+Super Charge
+Drain
+Wind Strike
+Pummel
+Psy Ray
+Rock Prison
+Frosty Winds
+Mind Shake
+Static Burst
+Solar Charge
+Lightning Roar
+X Slash
+Palm Flurry
+Natural Heal
+Kinetic Mirror
+Psychic Armor
+Psychic Barrage
+Crimson Blast
+Invincible
+Sleep Song
+Combustion
+Battle Roar
+Energy Strike
+Dark Flow
+Kinetic Sponge
+Blue Mirror
+Dark Mist
+Phantom Blast
+Gale
+Psychic Bomb
+Sunshine
+Martial Arts
+Pendulum
+Fireball
+Blaze
+Suncore
+Torrent
+Explosive Water
+Furious Torrent
+Fauna
+Green Flow
+Forest Energy
+Electrode
+Twin Electrode
+Electric Force
+Rocknite
+Rocknite Blast
+Rocknite Burst
+Gust
+Gust Wind
+Gusty Storm
+Plasma
+Plasma Cannon
+Plasma Star
+Psy Blast
+Psy Burst
+Psy Geyser
+Dark Flame
+Black Flame
+Phantom Burner

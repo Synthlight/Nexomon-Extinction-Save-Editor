@@ -1,0 +1,23 @@
+Mind Shard
+Mind Shards
+A Psychic-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Mind Shard!
+You received [amount] Mind Shards!
+You found a Mind Shard!
+You found [amount] Mind Shards!
+Do you wish to use a Mind Shard on [nickname]?
+[nickname] doesn't need a Mind Shard!
+You used a Mind Shard on [nickname]!
+Your opponent used a Mind Shard on [nickname]!
+Mind Shard has been enabled!
+Mind Shard has been disabled!
+You crafted a Mind Shard!
+You crafted [amount] Mind Shards!
+You don't have enough shards to craft a Mind Shard!
+You don't have enough shards to craft [amount] Mind Shards!
+Do you want to sell a Mind Shard for [coins] coins?
+Do you want to sell [amount] Mind Shards for [coins] coins?
+Do you wish to buy a Mind Shard for [coins] coins?
+Do you wish to buy [amount] Mind Shards for [coins] coins?

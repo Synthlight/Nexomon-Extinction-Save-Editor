@@ -1,0 +1,20 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ output extension=".cs" #>
+<#@ assembly name="System.Core" #>
+<#@ parameter type="System.String" name="_namespace" #>
+<#@ parameter type="System.String" name="className" #>
+<#@ parameter type="System.Collections.Generic.IEnumerable<System.Tuple<string, int>>" name="valueDataPairs" #>
+using System.Diagnostics.CodeAnalysis;
+
+namespace <#= _namespace #> {
+    [SuppressMessage("ReSharper", "UnusedMember.Global")]
+    [SuppressMessage("ReSharper", "InconsistentNaming")]
+    [SuppressMessage("ReSharper", "IdentifierTypo")]
+    public static class <#= className #> {
+<#
+    foreach (var entry in valueDataPairs) {
+        WriteLine($"        public const int {entry.Item1} = {entry.Item2};");
+    }
+#>
+    }
+}

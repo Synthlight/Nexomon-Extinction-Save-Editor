@@ -1,0 +1,23 @@
+Lioness Companion
+Lionesses
+A Lioness follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Lioness Companion!
+You received [amount] Lionesses!
+You found a Lioness Companion!
+You found [amount] Lionesses!
+Do you wish to use a Lioness on [nickname]?
+[nickname] doesn't need a Lioness!
+You used a Lioness on [nickname]!
+Your opponent used a Lioness on [nickname]!
+Lioness has been enabled!
+Lioness has been disabled!
+You crafted a Lioness!
+You crafted [amount] Lionesses!
+You don't have enough shards to craft a Lioness!
+You don't have enough shards to craft [amount] Lionesses!
+Do you want to sell a Lioness for [coins] coins?
+Do you want to sell [amount] Lionesses for [coins] coins?
+Do you wish to buy a Lioness for [coins] coins?
+Do you wish to buy [amount] Lionesses for [coins] coins?

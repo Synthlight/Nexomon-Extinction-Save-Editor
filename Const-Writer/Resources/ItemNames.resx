@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="anti_bind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-bind.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_burn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-burn.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_confusion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-confusion.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_freeze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-freeze.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_paralyze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-paralyze.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_poison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-poison.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="anti_sleep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\anti-sleep.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_bronze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-bronze.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_drake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-drake.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_gold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-gold.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_lateria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-lateria.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_master" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-master.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="badge_silver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\badge-silver.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="blueprints_resurrection" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\blueprints-resurrection.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="card_bonnie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\card-bonnie.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="coins" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\coins.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_destruction_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-destruction-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_destruction_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-destruction-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_destruction_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-destruction-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_experience_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-experience-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_experience_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-experience-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_experience_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-experience-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_greed_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-greed-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_greed_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-greed-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_greed_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-greed-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_immunity_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-immunity-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_immunity_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-immunity-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_immunity_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-immunity-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_protection_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-protection-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_protection_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-protection-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_protection_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-protection-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_stamina_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-stamina-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_stamina_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-stamina-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_stamina_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-stamina-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_synergy_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-synergy-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_synergy_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-synergy-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_synergy_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-synergy-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_vitality_high" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-vitality-high.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_vitality_low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-vitality-low.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="core_vitality_medium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\core-vitality-medium.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="diamonds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\diamonds.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="elixir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\elixir.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="elixir_max" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\elixir-max.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="elixir_super" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\elixir-super.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="elixir_ultra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\elixir-ultra.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ether" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\ether.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ether_max" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\ether-max.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ether_super" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\ether-super.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ether_ultra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\ether-ultra.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="explosives" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\explosives.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-11.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-12.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-13.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-14.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-15.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-16.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-17.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-18.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-19.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-20.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-21.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-22.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-23.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-24.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-25.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-26.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-27.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-28.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-29.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-3.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-30.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-5.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-6.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="food_perfect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\food-perfect.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="key_amelie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\key-amelie.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="key_atlanta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\key-atlanta.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="key_lydia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\key-lydia.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="key_vault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\key-vault.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="letter_hannah" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\letter-hannah.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexobox_golden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexobox-golden.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexobox_silver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexobox-silver.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexomite_black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexomite-black.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_electric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-electric.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-fire.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_ghost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-ghost.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_golden" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-golden.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_mineral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-mineral.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-normal.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-plant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_psychic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-psychic.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-regular.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_water" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-water.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="nexotrap_wind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\nexotrap-wind.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_acegon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-acegon.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_blizstrong" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-blizstrong.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_cruff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-cruff.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_dinja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-dinja.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_dreddiful" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-dreddiful.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_fortle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-fortle.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_gekoko" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-gekoko.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_glidlee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-glidlee.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_holoch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-holoch.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_imburion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-imburion.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_lioness" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-lioness.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_lume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-lume.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_lunabelle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-lunabelle.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_malitress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-malitress.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_mara" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-mara.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_masqiti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-masqiti.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_mearn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-mearn.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_mermella" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-mermella.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_minet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-minet.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_moonica" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-moonica.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_noki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-noki.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_paupo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-paupo.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_raksuma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-raksuma.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_sandillo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-sandillo.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_spektar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-spektar.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_vodo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-vodo.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_wargoyle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-wargoyle.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_woozy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-woozy.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pet_zumble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pet-zumble.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="pickaxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\pickaxe.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="potion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\potion.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="potion_max" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\potion-max.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="potion_super" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\potion-super.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="potion_ultra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\potion-ultra.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="quest_garbage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\quest-garbage.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="quest_lunch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\quest-lunch.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="quest_lure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\quest-lure.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="quest_ring" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\quest-ring.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="quest_supplies" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\quest-supplies.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="relic_tyrant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\relic-tyrant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="revive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\revive.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="revive_super" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\revive-super.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="revive_ultra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\revive-ultra.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_electric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-electric.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-fire.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_ghost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-ghost.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_mineral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-mineral.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-normal.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-plant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_psychic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-psychic.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_water" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-water.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="shard_wind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\shard-wind.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_challenge_badge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-challenge-badge.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_discount_voucher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-discount-voucher.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_exp_booster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-exp-booster.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_exp_multiplier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-exp-multiplier.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_greed_wallet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-greed-wallet.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_level_up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-level-up.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_mining_goggles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-mining-goggles.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_radar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-radar.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_repel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-repel.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_running_shoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-running-shoes.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_secret_sauce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-secret-sauce.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_team_cure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-team-cure.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_ultra_pickaxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-ultra-pickaxe.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_dragon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-dragon.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_electric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-electric.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-fire.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_ghost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-ghost.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_mineral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-mineral.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-normal.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-plant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_psychic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-psychic.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_tyrant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-tyrant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_water" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-water.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="special_whistle_wind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\special-whistle-wind.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="template" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\template.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="ticket_airship" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\ticket-airship.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_electric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-electric.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-fire.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_ghost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-ghost.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_mineral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-mineral.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-normal.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-plant.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_psychic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-psychic.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_water" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-water.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="tribute_wind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\tribute-wind.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="vial_drake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\resources\strings\items\vial-drake.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+</root>

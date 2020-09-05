@@ -1,0 +1,23 @@
+Immunity Core (II)
+Immunity Cores (II)
+Decreases the chance of receiving status effects by [value_1]%.
+<blank>
+<blank>
+You received an Immunity Core (II)!
+You received [amount] Immunity Cores (II)!
+You found an Immunity Core (II)!
+You found [amount] Immunity Cores (II)!
+Do you wish to use an Immunity Core (II) on [nickname]?
+[nickname] doesn't need an Immunity Core (II)!
+You used an Immunity Core (II) on [nickname]!
+Your opponent used an Immunity Core (II) on [nickname]!
+Immunity Core (II) has been enabled!
+Immunity Core (II) has been disabled!
+You crafted an Immunity Core (II)!
+You crafted [amount] Immunity Cores (II)!
+You don't have enough shards to craft an Immunity Core (II)!
+You don't have enough shards to craft [amount] Immunity Cores (II)!
+Do you want to sell an Immunity Core (II) for [coins] coins?
+Do you want to sell [amount] Immunity Cores (II) for [coins] coins?
+Do you wish to buy an Immunity Core (II) for [coins] coins?
+Do you wish to buy [amount] Immunity Cores (II) for [coins] coins?

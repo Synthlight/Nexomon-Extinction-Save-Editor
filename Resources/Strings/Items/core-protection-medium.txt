@@ -1,0 +1,23 @@
+Protection Core (II)
+Protection Cores (II)
+Boosts the DEF stat by [value_1]%.
+<blank>
+<blank>
+You received a Protection Core (II)!
+You received [amount] Protection Cores (II)!
+You found a Protection Core (II)!
+You found [amount] Protection Cores (II)!
+Do you wish to use a Protection Core (II) on [nickname]?
+[nickname] doesn't need a Protection Core (II)!
+You used a Protection Core (II) on [nickname]!
+Your opponent used a Protection Core (II) on [nickname]!
+Protection Core (II) has been enabled!
+Protection Core (II) has been disabled!
+You crafted a Protection Core (II)!
+You crafted [amount] Protection Cores (II)!
+You don't have enough shards to craft a Protection Core (II)!
+You don't have enough shards to craft [amount] Protection Cores (II)!
+Do you want to sell a Protection Core (II) for [coins] coins?
+Do you want to sell [amount] Protection Cores (II) for [coins] coins?
+Do you wish to buy a Protection Core (II) for [coins] coins?
+Do you wish to buy [amount] Protection Cores (II) for [coins] coins?

@@ -1,0 +1,23 @@
+Imburion Companion
+Imburions
+A Imburion follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Imburion Companion!
+You received [amount] Imburions!
+You found a Imburion Companion!
+You found [amount] Imburions!
+Do you wish to use a Imburion on [nickname]?
+[nickname] doesn't need a Imburion!
+You used a Imburion on [nickname]!
+Your opponent used a Imburion on [nickname]!
+Imburion has been enabled!
+Imburion has been disabled!
+You crafted a Imburion!
+You crafted [amount] Imburions!
+You don't have enough shards to craft a Imburion!
+You don't have enough shards to craft [amount] Imburions!
+Do you want to sell a Imburion for [coins] coins?
+Do you want to sell [amount] Imburions for [coins] coins?
+Do you wish to buy a Imburion for [coins] coins?
+Do you wish to buy [amount] Imburions for [coins] coins?

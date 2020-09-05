@@ -1,0 +1,3498 @@
+{
+    "tamer-13-10": {
+        "party-early":[
+            {"name":"cloddy","difficulty":2,"skills":[],"cores":[]},
+            {"name":"masquiti","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "party-regular":[
+            {"name":"rubby","difficulty":2,"skills":[],"cores":[]},
+            {"name":"moonette","difficulty":2,"skills":[],"cores":[]},
+            {"name":"masquiti","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "party-late":[
+            {"name":"lukuma","difficulty":2,"skills":[],"cores":[]},
+            {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},
+            {"name":"masqat","difficulty":2,"skills":[],"cores":[]},
+            {"name":"prankrow","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":701,
+        "comment":"(13,10) -> 189"
+    },
+    "tamer-15-9": {
+        "party-early":[
+           {"name":"eqo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"scaratic","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"soniqo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"scaratic","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"baloompa","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"eqoloptera","difficulty":2,"skills":[],"cores":[]},
+           {"name":"enercer","difficulty":2,"skills":[],"cores":[]},
+           {"name":"blimpapa","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":702,
+        "comment":"(6,15) -> 171"
+    },
+    "tamer-15-10": {
+        "party-early":[
+           {"name":"ghouze","difficulty":2,"skills":[],"cores":[]},
+           {"name":"yummo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"ghouze","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},
+           {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kerosion","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glunch","difficulty":2,"skills":[],"cores":[]},
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":703,
+        "comment":"(10,4) -> 162"
+    },
+    "tamer-16-9": {
+        "party-early":[
+           {"name":"mimi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"prankrow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"mimi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"cranillow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"mimorus","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},
+           {"name":"swactrum","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"rapi","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":704,
+        "comment":"(13,6) -> 190"
+    },
+    "tamer-19-8": {
+        "party-early":[
+           {"name":"yummo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sae","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"yummo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"taipluff","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},
+           {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bira","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":705,
+        "comment":"(8,8) -> 188"
+    },
+    "tamer-29-16": {
+        "party-early":[
+           {"name":"dinja","difficulty":2,"skills":[],"cores":[]},
+           {"name":"candly","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"dichala","difficulty":2,"skills":[],"cores":[]},
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"scaratic","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"namansi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
+           {"name":"enercer","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":706,
+        "comment":"(12,30) -> 175"
+    },
+    "tamer-29-17": {
+        "party-early":[
+           {"name":"ghouze","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lurkennie","difficulty":2,"skills":[],"cores":[]},
+           {"name":"mound","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"candly","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"gradow","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":707,
+        "comment":"(20,18) -> 178"
+    },
+    "tamer-29-18": {
+        "party-early":[
+           {"name":"lumbi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"basil","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"tiki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"wysil","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]},
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"flizard","difficulty":2,"skills":[],"cores":[]},
+           {"name":"tarragon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"dracly","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":708,
+        "comment":"(14,11) -> 180"
+    },
+    "tamer-30-14": {
+        "party-early":[
+           {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
+           {"name":"snaibble","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":709,
+        "comment":"(27,8) -> 182"
+    },
+    "tamer-30-15": {
+        "party-early":[
+           {"name":"pebglem","difficulty":2,"skills":[],"cores":[]},
+           {"name":"goateeze","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
+           {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"woozy","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},
+           {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},
+           {"name":"croncho","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"frictingle","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":710,
+        "comment":"(7,6) -> 172"
+    },
+    "tamer-31-11": {
+        "party-early":[
+           {"name":"tesling","difficulty":2,"skills":[],"cores":[]},
+           {"name":"smanic","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"teslad","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"algon","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"teslad","difficulty":2,"skills":[],"cores":[]},
+           {"name":"resonic","difficulty":2,"skills":[],"cores":[]},
+           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"divette","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":711,
+        "comment":"(14,16) -> 173"
+    },
+    "tamer-33-7": {
+	        "party-early":[
+	           {"name":"drare","difficulty":2,"skills":[],"cores":[]},
+	           {"name":"basil","difficulty":2,"skills":[],"cores":[]}
+	       ],
+	       "party-regular":[
+	           {"name":"ignigon","difficulty":2,"skills":[],"cores":[]},         	
+			   {"name":"wysil","difficulty":2,"skills":[],"cores":[]},	
+	           {"name":"chaparral","difficulty":2,"skills":[],"cores":[]}
+	       ],
+	       "party-late":[
+	           {"name":"acegon","difficulty":2,"skills":[],"cores":[]},
+	           {"name":"tarragon","difficulty":2,"skills":[],"cores":[]},
+	           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},		 
+	           {"name":"orgot","difficulty":2,"skills":[],"cores":[]}
+	       ],
+        "switch":712,
+        "comment":"(3,18) -> 184"
+    },
+    "tamer-33-8": {
+        "party-early":[
+           {"name":"faucefant","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fortle","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"draniphant","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},	
+		    {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"neglente","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"tuskant","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fortank","difficulty":2,"skills":[],"cores":[]},
+           {"name":"grath","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"outgrov","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":713,
+        "comment":"(15,5) -> 176"
+    },
+    "tamer-45-7": {
+        "party-early":[
+           {"name":"magnipub","difficulty":2,"skills":[],"cores":[]},
+           {"name":"gomarm","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"sunnos","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"gomarm","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"starckal","difficulty":2,"skills":[],"cores":[]},
+           {"name":"guazharm","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"carcaros","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":714,
+        "comment":"(7,8) -> 185"
+    },
+    "tamer-43-8": {
+        "party-early":[
+           {"name":"duh","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"rappub","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},
+           {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
+           {"name":"caninui","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":715,
+        "comment":"(19,7) -> 169"
+    },
+    "tamer-51-7": {
+        "party-early":[
+           {"name":"virox","difficulty":2,"skills":[],"cores":[]},
+           {"name":"skerdi","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"carcaros","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},
+           {"name":"dreddiful","difficulty":2,"skills":[],"cores":[]},
+           {"name":"immortis","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":716,
+        "comment":"(2,13) -> 170"
+    },
+    "tamer-55-11": {
+        "party-early":[
+           {"name":"vodo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"yummo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"malevodo","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"tundri","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"malenostra","difficulty":2,"skills":[],"cores":[]},
+           {"name":"glunch","difficulty":2,"skills":[],"cores":[]},
+           {"name":"tundrox","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"onin","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":717,
+        "comment":"(11,9) -> 191"
+    },
+    "tamer-57-4": {
+        "party-early":[
+           {"name":"dreaver","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"dredmore","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"moonline","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"virox","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"brumtler","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"dredrone","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"brumenie","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":718,
+        "comment":"(14,12) -> 168"
+    },
+    "tamer-58-10": {
+        "party-early":[
+           {"name":"duh","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},
+           {"name":"branipus","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"spektar","difficulty":2,"skills":[],"cores":[]},
+           {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
+           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"malitress","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"divette","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":719,
+        "comment":"(8,15) -> 179"
+    },
+    "tamer-61-8": {
+        "party-early":[
+           {"name":"hinazuru","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"senshizuru","difficulty":2,"skills":[],"cores":[]},
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"dracly","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":720,
+        "comment":"(10,11) -> 187"
+    },
+    "tamer-62-7": {
+        "party-early":[
+           {"name":"stinger","difficulty":2,"skills":[],"cores":[]},
+           {"name":"worb","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
+           {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"globlob","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":721,
+        "comment":"(9,6) -> 177"
+    },
+    "tamer-62-8": {
+        "party-early":[
+           {"name":"porklet","difficulty":2,"skills":[],"cores":[]},
+           {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"porklet","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},		   
+           {"name":"ribombo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
+           {"name":"streamoad","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":722,
+        "comment":"(28,9) -> 183"
+    },
+    "tamer-64-26": {
+        "party-early":[
+           {"name":"rust","difficulty":2,"skills":[],"cores":[]},
+           {"name":"deember","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},	   
+           {"name":"scalder","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"scailla","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":723,
+        "comment":"(14,9) -> 174"
+    },
+    "tamer-72-9": {
+        "party-early":[
+           {"name":"pebglem","difficulty":2,"skills":[],"cores":[]},
+           {"name":"chowser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"moonette","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},
+           {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"boilgog","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":724,
+        "comment":"(4,11) -> 181"
+    },
+    "tamer-71-8": {
+        "party-early":[
+           {"name":"lume","difficulty":2,"skills":[],"cores":[]},
+           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"lumefur","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"lumerei","difficulty":2,"skills":[],"cores":[]},
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"grath","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"moonica","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":725,
+        "comment":"(14,10) -> 2"
+    },
+    "tamer-92-5": {
+        "party-early":[
+           {"name":"rust","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kolphur","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
+           {"name":"moltano","difficulty":2,"skills":[],"cores":[]},          
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":726,
+        "comment":"(11,3) -> 8"
+    },
+    "tamer-76-10": {
+        "party-early":[
+           {"name":"ribombo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lumbi","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"lumbi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},
+           {"name":"tiki","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":727,
+        "comment":"(2,14) -> 29"
+    },
+    "tamer-79-7": {
+        "party-early":[
+           {"name":"worb","difficulty":2,"skills":[],"cores":[]},
+           {"name":"deember","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"quarmor","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":728,
+        "comment":"(16,7) -> 33"
+    },
+    "tamer-102-13": {
+        "party-early":[
+           {"name":"sae","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
+           {"name":"harectic","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":729,
+        "comment":"(16,8) -> 25"
+    },
+    "tamer-104-2": {
+        "party-early":[
+           {"name":"bira","difficulty":2,"skills":[],"cores":[]},
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"biralo","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"skunqute","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"waser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"bisina","difficulty":2,"skills":[],"cores":[]},
+           {"name":"tresaur","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"skounquet","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":730,
+        "comment":"(5,10) -> 6"
+    },
+    "tamer-105-6": {
+        "party-early":[
+           {"name":"rapi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"volt","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"rapi","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"volnamic","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"waser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"rapilux","difficulty":2,"skills":[],"cores":[]},
+           {"name":"voltaic","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":731,
+        "comment":"(10,4) -> 15     Requires [75] (Jin defeated)"
+    },
+    "tamer-106-5": {
+        "party-early":[
+           {"name":"flotter","difficulty":2,"skills":[],"cores":[]},
+           {"name":"paupo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"dratter","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"paupo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"onin","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"furrygon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"arispauva","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"peltry","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"rapnux","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":732,
+        "comment":"(6,8) -> 1"
+    },
+    "tamer-111-23": {
+        "party-early":[
+           {"name":"siki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lovinu","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"lovidovi","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"rappub","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"sikipha","difficulty":2,"skills":[],"cores":[]},
+           {"name":"gradow","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"caninui","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":733,
+        "comment":"(26,20) -> 13"
+    },
+    "tamer-111-24": {
+        "party-early":[
+           {"name":"nekpanchi","difficulty":2,"skills":[],"cores":[]},
+           {"name":"gomarm","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"nekgiri","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"guazharm","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"frogick","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"felclaw","difficulty":2,"skills":[],"cores":[]},
+           {"name":"guazharm","difficulty":2,"skills":[],"cores":[]}, 
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":734,
+        "comment":"(18,5) -> 4"
+    },
+    "tamer-111-25": {
+        "party-early":[
+           {"name":"stalkee","difficulty":2,"skills":[],"cores":[]},
+           {"name":"wadgon","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"mantoo","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"mantrass","difficulty":2,"skills":[],"cores":[]},
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]}, 			
+           {"name":"lurkennie","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":735,
+        "comment":"(7,19) -> 40    Requires [92] (Speak with Mylo)"
+    },
+    "tamer-113-9": {
+        "party-early":[
+           {"name":"noki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"mara","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"marasuma","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mearn","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},
+           {"name":"raksuma","difficulty":2,"skills":[],"cores":[]}, 	
+		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"mojompu","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":736,
+        "comment":"(5,15) -> 18"
+    },
+    "tamer-113-10": {
+        "party-early":[
+           {"name":"siki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"ponic","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"giddiyelp","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"deember","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"dichala","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"sikipha","difficulty":2,"skills":[],"cores":[]},
+           {"name":"centeror","difficulty":2,"skills":[],"cores":[]}, 	
+		   {"name":"deember","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"namansi","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":737,
+        "comment":"(8,22) -> 41"
+    },
+    "tamer-112-9": {
+        "party-early":[
+           {"name":"oren","difficulty":2,"skills":[],"cores":[]},
+           {"name":"chibbit","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"orgot","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"xotor","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"odiborg","difficulty":2,"skills":[],"cores":[]}, 	
+		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":738,
+        "comment":"(13,11) -> 19    Requires [100] (Lydia waterfall)"
+    },
+    "tamer-149-7": {
+        "party-early":[
+           {"name":"mearn","difficulty":2,"skills":[],"cores":[]},
+           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"yarnesty","difficulty":2,"skills":[],"cores":[]},
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}, 	
+		   {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"globlob","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":739,
+        "comment":"(19,9) -> 28   (bandit)"
+    },
+    "tamer-150-17": {
+        "party-early":[
+           {"name":"jeloon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"jeliflo","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"coral","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mermella","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"jeliflux","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fainglori","difficulty":2,"skills":[],"cores":[]}, 	
+		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":740,
+        "comment":"(8,14) -> 21"
+    },
+    "tamer-155-9": {
+        "party-early":[
+           {"name":"croo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"ploriol","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"bomriol","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"pont","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"navrigal","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"bloomriol","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":741,
+        "comment":"(9,7) -> 7"
+    },
+    "tamer-154-22": {
+        "party-early":[
+           {"name":"hinazuru","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fortle","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"scalder","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"flotter","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"senshizuru","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"fortank","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"dratter","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":742,
+        "comment":"(30,7) -> 28   (bandit)"
+    },
+    "tamer-157-8": {
+        "party-early":[
+           {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]},
+           {"name":"waser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"helipa","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"waser","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":743,
+        "comment":"(10,5) -> 28   (bandit)"
+    },
+    "tamer-168-10": {
+        "party-early":[
+           {"name":"moonica","difficulty":2,"skills":[],"cores":[]},
+           {"name":"larkito","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"moonette","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"moska","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"sakka","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":744,
+        "comment":"(16,16) -> 28   (bandit)"
+    },
+    "tamer-171-7": {
+        "party-early":[
+           {"name":"bloopish","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"glimoory","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"smanic","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"resonic","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"hydrose","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":745,
+        "comment":"(14,31) -> 28   (bandit)"
+    },
+    "tamer-172-7": {
+        "party-early":[
+           {"name":"frogick","difficulty":2,"skills":[],"cores":[]},
+           {"name":"coral","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"frogick","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"candly","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":746,
+        "comment":"(16,27) -> 28   (bandit)"
+    },
+    "tamer-172-8": {
+        "party-early":[
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]},
+           {"name":"cruff","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"croncho","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"dracly","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"domigator","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":747,
+        "comment":"(5,11) -> 20"
+    },
+    "tamer-169-7": {
+        "party-early":[
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]},
+           {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"streamoad","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"snaibble","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":748,
+        "comment":"(20,7) -> 39"
+    },
+    "tamer-168-11": {
+        "party-early":[
+           {"name":"snaibble","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sae","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"palsae","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mermella","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":749,
+        "comment":"(20,29) -> 26"
+    },
+    "tamer-170-7": {
+        "party-early":[
+           {"name":"cryzzard","difficulty":2,"skills":[],"cores":[]},
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"blizzarm","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"leechy","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"faucefant","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"blizzaur","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"dracly","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tuskant","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":750,
+        "comment":"(17,11) -> 16"
+    },
+    "tamer-167-7": {
+        "party-early":[
+           {"name":"worb","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"gravello","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":751,
+        "comment":"(16,19) -> 11"
+    },
+    "tamer-167-8": {
+        "party-early":[
+           {"name":"noki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"pont","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":752,
+        "comment":"(26,13) -> 12"
+    },
+    "tamer-174-7": {
+        "party-early":[
+           {"name":"spikus","difficulty":2,"skills":[],"cores":[]},
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"spikarm","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"thornox","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"tresaur","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"goateeze","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":753,
+        "comment":"(23,5) -> 37"
+    },
+    "tamer-173-11": {
+        "party-early":[
+           {"name":"briar","difficulty":2,"skills":[],"cores":[]},
+           {"name":"tundri","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"tundri","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"bulbrit","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"tundrox","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"cromeon","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":754,
+        "comment":"(23,10) -> 3"
+    },
+    "tamer-225-13": {
+        "party-early":[
+           {"name":"deember","difficulty":2,"skills":[],"cores":[]},
+           {"name":"waser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"waser","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":755,
+        "comment":"(6,4) -> 24"
+    },
+    "tamer-225-14": {
+        "party-early":[
+           {"name":"stinger","difficulty":2,"skills":[],"cores":[]},
+           {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glimoory","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":756,
+        "comment":"(30,6) -> 22    Requires [75] (Jin defeated)"
+    },
+    "tamer-235-7": {
+        "party-early":[
+           {"name":"blit","difficulty":2,"skills":[],"cores":[]},
+           {"name":"worb","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"glontern","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"lamparos","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"mound","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":757,
+        "comment":"(5,13) -> 42"
+    },
+    "tamer-227-17": {
+        "party-early":[
+           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]},
+           {"name":"oren","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"orgot","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"scalder","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":758,
+        "comment":"(25,15) -> 31"
+    },
+    "tamer-232-4": {
+        "party-early":[
+           {"name":"ribombo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"pebglem","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":759,
+        "comment":"(11,9) -> 35"
+    },
+    "tamer-268-10": {
+        "party-early":[
+           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"porklet","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"pongo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":760,
+        "comment":"(8,9) -> 38    Requires [22] (Become a Guild Tamer)"
+    },
+    "tamer-285-7": {
+        "party-early":[
+           {"name":"omentic","difficulty":2,"skills":[],"cores":[]},
+           {"name":"chirrent","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"omepark","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"chirrent","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"griffgar","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"omecharge","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"ostrolt","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"lioness","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"florozard","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":761,
+        "comment":"(12,11) -> 43    Requires [6] (Got a Nexomon)"
+    },
+    "tamer-292-9": {
+        "party-early":[
+           {"name":"algon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"lovinu","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"algon","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"lovinu","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"behilda","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"rubby","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"lovidovi","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"runk","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":762,
+        "comment":"(8,12) -> 46"
+    },
+    "tamer-294-10": {
+        "party-early":[
+           {"name":"wadgon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"skunqute","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"skunqeau","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"skounquet","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},		 	
+           {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":763,
+        "comment":"(11,10) -> 47"
+    },
+    "tamer-294-11": {
+        "party-early":[
+           {"name":"branipus","difficulty":2,"skills":[],"cores":[]},
+           {"name":"deyam","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"deyama","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"croo","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"octollect","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"phantra","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"cranoad","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":764,
+        "comment":"(25,8) -> 52"
+    },
+    "tamer-295-6": {
+        "party-early":[
+           {"name":"babicle","difficulty":2,"skills":[],"cores":[]},
+           {"name":"medlass","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"shardice","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"madamusa","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"shardberg","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"madamusa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"moga","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":765,
+        "comment":"(10,9) -> 50"
+    },
+    "tamer-299-9": {
+        "party-early":[
+           {"name":"noki","difficulty":2,"skills":[],"cores":[]},
+           {"name":"scooptor","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"excravator","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"ghouze","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"minetor","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"scalder","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":766,
+        "comment":"(13,11) -> 49"
+    },
+    "tamer-297-11": {
+        "party-early":[
+           {"name":"auga","difficulty":2,"skills":[],"cores":[]},
+           {"name":"prankrow","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"florauga","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"prankrow","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"quarauga","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"runk","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":767,
+        "comment":"(9,20) -> 48"
+    },
+    "tamer-297-12": {
+        "party-early":[
+           {"name":"folicurse","difficulty":2,"skills":[],"cores":[]},
+           {"name":"griff","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"griffgar","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"singletti","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"singlette","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"lioness","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"couplet","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"bushnome","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":768,
+        "comment":"(12,12) -> 44"
+    },
+    "tamer-299-10": {
+        "party-early":[
+           {"name":"taipluff","difficulty":2,"skills":[],"cores":[]},
+           {"name":"ripha","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"grimmon","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"lumbi","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"ninstuff","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"devoul","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tiki","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"grath","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":769,
+        "comment":"(5,16) -> 9"
+    },
+    "tamer-86-7": {
+        "party-early":[
+           {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},
+           {"name":"kolphur","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},	 
+		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"grath","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"moltano","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}		   
+	],
+        "switch":770,
+        "comment":"(11,8) -> 10"
+    },
+    "tamer-87-14": {
+        "party-early":[
+           {"name":"fortle","difficulty":2,"skills":[],"cores":[]},
+           {"name":"pebglem","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"fortank","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"boilgog","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"cuisizle","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":771,
+        "comment":"(5,13) -> 27    Requires [75]    (Jin defeated)"
+    },
+    "tamer-63-7": {
+        "party-early":[
+           {"name":"wadgon","difficulty":2,"skills":[],"cores":[]},
+           {"name":"shromporo","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"shrombrela","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"shromboff","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mimorus","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":772,
+        "comment":"(6,13) -> 30"
+    },
+    "tamer-62-9": {
+        "party-early":[
+           {"name":"snaibble","difficulty":2,"skills":[],"cores":[]},
+           {"name":"chowser","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"chowser","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"rustu","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"cuisizle","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"rustung","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"boilgog","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":773,
+        "comment":"(18,10) -> 23"
+    },
+    "tamer-171-8": {
+        "party-early":[
+           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"sorvian","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":774,
+        "comment":"(11,17) -> 45"
+    },
+    "tamer-169-8": {
+        "party-early":[
+           {"name":"sae","difficulty":2,"skills":[],"cores":[]},
+           {"name":"coral","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"coral","difficulty":2,"skills":[],"cores":[]},		  		 
+		   {"name":"pont","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":775,
+        "comment":"(16,14) -> 5"
+    },
+    "tamer-244-25": {
+        "party-early":[
+           {"name":"snush","difficulty":2,"skills":[],"cores":[]},
+           {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"shloom","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"briar","difficulty":2,"skills":[],"cores":[]},	  		 
+		   {"name":"virox","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"swamplow","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},			 	
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":776,
+        "comment":"(9,6) -> 36"
+    },
+
+
+
+    "tamer-324-6": {
+        "party-early":[
+           {"name":"yummo","difficulty":2,"skills":[],"cores":[]},
+           {"name":"skerdi","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},		  		 
+		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"glunch","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"dreddiful","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},				 	
+           {"name":"masqat","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":777,
+        "comment":"(6,8) -> 58"
+    },
+    "tamer-330-4": {
+        "party-early":[
+           {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},
+           {"name":"mearn","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},		  		 
+		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"yarnesty","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},				 	
+           {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":778,
+        "comment":"(7,14) -> 186"
+    },
+    "tamer-330-5": {
+        "party-early":[
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]},
+           {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"fanling","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},			  		 
+		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]}			
+       ],
+       "party-late":[
+           {"name":"treclay","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},				 	
+           {"name":"blimpapa","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":779,
+        "comment":"(21,7) -> 166"
+    },
+    "tamer-156-9": {
+        "party-early":[
+           {"name":"waser","difficulty":2,"skills":[],"cores":[]},
+           {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"waser","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]}	
+       ],
+       "party-late":[
+           {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"croncho","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},					 	
+           {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":780,
+        "comment":"(24,9) -> 167"
+    },
+    "tamer-69-4": {
+        "party-early":[
+           {"name":"worb","difficulty":2,"skills":[],"cores":[]},
+           {"name":"porklet","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}	
+       ],
+       "party-late":[
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]},		   				 	
+           {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":781,
+        "comment":"(13,9) -> 61"
+    },
+    "tamer-78-7": {
+        "party-early":[
+           {"name":"rust","difficulty":2,"skills":[],"cores":[]},
+           {"name":"oren","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"orgot","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"keromb","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]}	
+       ],
+       "party-late":[
+           {"name":"rustung","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"kerosion","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},		   				 	
+           {"name":"imburion","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":782,
+        "comment":"(10,3) -> 59"
+    },
+    "tamer-108-13": {
+        "party-early":[
+           {"name":"masquiti","difficulty":2,"skills":[],"cores":[]},
+           {"name":"behilda","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"masqat","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"graciful","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}	
+       ],
+       "party-late":[
+           {"name":"feliblanqo","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"floreina","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},			   				 	
+           {"name":"felclaw","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":783,
+        "comment":"(12,11) -> 63"
+    },
+    "tamer-150-18": {
+        "party-early":[
+           {"name":"pebglem","difficulty":2,"skills":[],"cores":[]},
+           {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
+       ],
+       "party-regular":[
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},         	
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},	
+		   {"name":"felclaw","difficulty":2,"skills":[],"cores":[]}	
+       ],
+       "party-late":[
+           {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},         
+		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},		 
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},			   				 	
+           {"name":"reptomotor","difficulty":2,"skills":[],"cores":[]}
+       ],
+        "switch":784,
+        "comment":"(5,43) -> 54"
+    },
+
+
+
+
+    "dragon-tutorial": {
+        "party":[
+            {"name":"graloon","difficulty":45,"skills":[24, 98, 24],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": true,
+        "wild": true,
+        "instant":  true,
+        "scene": "tutorial-dragon",
+        "use_map_difficulty": [false, false],
+        "hp_percentage_modifier": 2.5,
+        "sta_percentage_modifier": 2.5
+    },
+    "citadel-guards-early": {
+        "party":[
+            {"name":"dinja","difficulty":2,"skills":[],"cores":[]},
+            {"name":"gekoko","difficulty":2,"skills":[],"cores":[]},
+            {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "checkpoint_override":{
+            "map_id":5,
+            "coords":[6,10],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-bandits-videll": {
+        "party":[
+            {"name":"eqo","difficulty":2,"skills":[],"cores":[]},
+            {"name":"ribombo","difficulty":2,"skills":[],"cores":[]},
+            {"name":"scaratic","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "weight":1,
+        "switch":0,
+        "comment":"",
+        "bgm": "null"
+    },
+    "story-nivalis-cave": {
+        "party":[
+            {"name":"nivalis","difficulty":10,"skills":[37, 28, 38, 62],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-300", "core-destruction-medium", "core-vitality-high"]}
+        ],
+        "use_map_difficulty": [true, false],
+        "weight": 3,
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hp_percentage_modifier": 1.45,
+        "sta_percentage_modifier": 1.45,
+        "checkpoint_override":{
+            "map_id":40,
+            "coords":[35,9],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hide_enemy_levels": true,
+        "scene": "nivalis-weakened"
+    },
+    "regular-hannah": {
+        "party":[
+			{"name":"croncho","difficulty":2,"skills":[],"cores":[]},
+            {"name":"worb","difficulty":2,"skills":[],"cores":[]},
+            {"name":"lovinu","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "weight":1,
+        "switch":0,
+        "comment":""
+    },
+    "regular-alfred": {
+        "party":[
+            {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":""
+    },
+    "story-bandit-orphanage-bedroom": {
+        "party":[
+            {"name":"outgrov","difficulty":2,"skills":[],"cores":[]},
+            {"name":"scalder","difficulty":2,"skills":[],"cores":[]},
+            {"name":"skerdi","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "checkpoint_override":{
+            "map_id":5,
+            "coords":[6,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-bandit-orphanage-upstairs": {
+        "party":[
+            {"name":"pongo","difficulty":2,"skills":[],"cores":[]},
+            {"name":"resonic","difficulty":2,"skills":[],"cores":[]},
+            {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "checkpoint_override":{
+            "map_id":5,
+            "coords":[6,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-bandit-orphanage-storage": {
+        "party":[
+            {"name":"rust","difficulty":2,"skills":[],"cores":[]},
+            {"name":"snush","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "checkpoint_override":{
+            "map_id":5,
+            "coords":[6,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-monkapow-ghost": {
+        "party":[
+            {"name":"monkapow","difficulty":2,"skills":[],"cores":["core-vitality-boss-150"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":2,
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hide_enemy_levels": true
+    },
+    "story-carcaros-ghost": {
+        "party":[
+            {"name":"carcaros","difficulty":2,"skills":[],"cores":["core-vitality-boss-150"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":2,
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hide_enemy_levels": true
+    },
+    "story-folicurse-ghost": {
+        "party":[
+            {"name":"folicurse","difficulty":2,"skills":[88],"cores":["core-vitality-boss-150"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hide_enemy_levels": true
+    },
+    "story-mega-darkness": {
+        "party":[
+            {"name":"dracly","difficulty":2,"skills":[],"cores":["core-vitality-low"]},
+            {"name":"grimmon","difficulty":2,"skills":[],"cores":["core-destruction-low"]},
+            {"name":"masqat","difficulty":2,"skills":[],"cores":[]},
+            {"name":"imburion","difficulty":2,"skills":[],"cores":[]},
+            {"name":"ripha","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "weight":2,
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "instant":  false
+    },
+    "story-nivalis-ignitia": {
+        "party":[
+            {"name":"blizzarm","difficulty":2,"skills":[],"cores":[]},
+            {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]},
+            {"name":"domigator","difficulty":2,"skills":[],"cores":[]},
+            {"name":"nivalis","difficulty":2,"skills":[37, 28, 38, 62],"cores":["core-vitality-boss-150", "core-stamina-boss-200"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":80,
+            "coords":[18,10],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["nivalis"]
+    },
+    "story-fenrir-tomb": {
+        "party":[
+            {"name":"fona","difficulty":2,"skills":[16,17,45,115],"cores":
+                ["core-vitality-boss-200", "core-stamina-boss-200", "core-immunity-boss-50","core-vitality-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "weight":2,
+        "hp_percentage_modifier": 1.5,
+        "sta_percentage_modifier": 1.5,
+        "checkpoint_override":{
+            "map_id":87,
+            "coords":[11,11],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["fona"]
+    },
+    "story-mulcimer-ignitia": {
+        "party":[
+            {"name":"kerosion","difficulty":2,"skills":[],"cores":[]},
+            {"name":"bisina","difficulty":2,"skills":[],"cores":[]},
+            {"name":"grath","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"resonic","difficulty":2,"skills":[],"cores":[]},
+            {"name":"mulcimer","difficulty":2,"skills":[183,141,45,60],"cores":["core-vitality-boss-150", "core-stamina-boss-100", "core-immunity-boss-50","core-vitality-high"]}
+        ],
+        "weight":1,
+        "switch":0,
+        "comment":"",
+        "bgm": "cesar/dragon",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":74,
+            "coords":[34,24],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["mulcimer"]
+    },
+    "story-green-ranger": {
+        "party":[
+            {"name":"florozard","difficulty":2,"skills":[],"cores":[]},
+            {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
+            {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},
+            {"name":"outgrov","difficulty":2,"skills":[],"cores":[]},
+            {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "weight":2,
+        "switch":0,
+        "comment":""
+    },
+    "story-dracon-xanders": {
+        "party":[
+            {"name":"dracon","difficulty":2,"skills":[141,184,1,4],"cores":
+                ["core-vitality-boss-200", "core-stamina-boss-150","core-immunity-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":1,
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hp_percentage_modifier": 1.65,
+        "sta_percentage_modifier": 1.65,
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["dracon"]
+    },
+    "story-nadine-tomb": {
+        "party":[
+            {"name":"ventra","difficulty":2,"skills":[31,55,59,143],"cores":
+                ["core-vitality-boss-200", "core-stamina-boss-250","core-immunity-boss-50","core-vitality-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "weight":3,
+        "hp_percentage_modifier": 1.8,
+        "sta_percentage_modifier": 2.0,
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["ventra"]
+    },
+    "story-eurus-lab": {
+        "party":[
+            {"name":"dratter","difficulty":2,"skills":[],"cores":[]},
+            {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
+            {"name":"blizzaur","difficulty":2,"skills":[],"cores":[]},
+            {"name":"voltaic","difficulty":2,"skills":[],"cores":[]},
+            {"name":"eurus","difficulty":2,"skills":[36,51,55,31],"cores":["core-vitality-boss-150", "core-stamina-boss-200","core-immunity-boss-50"]}
+        ],
+        "switch":0,
+        "weight":2,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "do_not_repopulate_skills_for_units":["eurus"]
+    },
+    "story-ross-lab": {
+        "party":[
+            {"name":"nekgiri","difficulty":2,"skills":[],"cores":[]},
+            {"name":"kamelevo","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"calplex","difficulty":2,"skills":[],"cores":[]},
+			{"name":"singletti","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "weight":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false
+    },
+    "story-nora-lab": {
+        "party":[
+            {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},
+            {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]},
+			{"name":"fortoise","difficulty":2,"skills":[],"cores":[]},
+			{"name":"singlette","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "weight":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false
+    },
+    "story-bandit-bombmaker": {
+        "party":[
+            {"name":"malitress","difficulty":2,"skills":[],"cores":[]},
+            {"name":"eqoloptera","difficulty":2,"skills":[],"cores":[]},
+			{"name":"lukuma","difficulty":2,"skills":[],"cores":[]},
+			{"name":"phantra","difficulty":2,"skills":[],"cores":[]},
+			{"name":"lumefur","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "weight":3,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false
+    },
+    "story-blizstrong-one": {
+        "party":[
+            {"name":"blizstrong","difficulty":2,"skills":[75,91,103],"cores":["core-vitality-boss-150", "core-stamina-boss-100","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":1,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "checkpoint_override":{
+            "map_id":160,
+            "coords":[48,3],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["blizstrong"]
+    },
+    "story-blizstrong-two": {
+        "party":[
+            {"name":"blizstrong","difficulty":2,"skills":[75,91,103],"cores":["core-vitality-boss-150", "core-stamina-boss-100","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":2,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "checkpoint_override":{
+            "map_id":160,
+            "coords":[48,3],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["blizstrong"]
+    },
+    "story-ivan-one": {
+        "party":[
+            {"name":"barboraco","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+            {"name":"fortank","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+            {"name":"moltano","difficulty":2,"skills":[],"cores":["core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":2,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":161,
+            "coords":[9,3],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-ivan-two": {
+        "party":[
+            {"name":"lukuma","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+            {"name":"kamelevo","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+			{"name":"immortis","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+			{"name":"grath","difficulty":2,"skills":[],"cores":["core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":2,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":161,
+            "coords":[9,3],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-xanders-bunker": {
+        "party":[
+            {"name":"shardberg","difficulty":2,"skills":[],"cores":["core-destruction-medium","core-vitality-high"]},
+            {"name":"centeror","difficulty":2,"skills":[],"cores":["core-vitality-high","core-vitality-high"]},
+            {"name":"tresaur","difficulty":2,"skills":[],"cores":["core-destruction-medium","core-vitality-high"]},
+            {"name":"blazetilia","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+            {"name":"voltaic","difficulty":2,"skills":[],"cores":["core-vitality-high","core-vitality-high"]},
+            {"name":"rustung","difficulty":2,"skills":[],"cores":["core-destruction-medium","core-vitality-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":2,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":161,
+            "coords":[9,3],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-tower-bandits": {
+        "party":[
+            {"name":"dreddiful","difficulty":2,"skills":[],"cores":[]},
+            {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]},
+			{"name":"reptomotor","difficulty":2,"skills":[],"cores":[]},
+			{"name":"bullogan","difficulty":2,"skills":[],"cores":[]},
+			{"name":"sorvian","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":0,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":132,
+            "coords":[10,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-tower-ranger-red": {
+        "party":[
+            {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},
+			{"name":"skounquet","difficulty":2,"skills":[],"cores":[]},
+            {"name":"lumerei","difficulty":2,"skills":[],"cores":[]},
+			{"name":"imburion","difficulty":2,"skills":[],"cores":[]},
+			{"name":"cromeon","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":0,
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":132,
+            "coords":[10,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-tower-ranger-green": {
+        "party":[
+            {"name":"navrigal","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},
+            {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"thornox","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"streamoad","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":0,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":132,
+            "coords":[10,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-tower-ranger-purple": {
+        "party":[
+            {"name":"volpressor","difficulty":2,"skills":[],"cores":[]},
+			{"name":"ostrolt","difficulty":2,"skills":[],"cores":[]},
+            {"name":"bloomriol","difficulty":2,"skills":[],"cores":[]},
+            {"name":"omecharge","difficulty":2,"skills":[],"cores":[]},
+            {"name":"mantrass","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":0,
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":132,
+            "coords":[10,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-nivalis-tower": {
+        "party":[
+            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},
+            {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
+            {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},
+            {"name":"blizzaur","difficulty":2,"skills":[],"cores":[]},
+            {"name":"nivalis","difficulty":2,"skills":[37, 28, 38, 62],"cores":["core-vitality-boss-150","core-stamina-boss-200","core-destruction-high","core-protection-medium"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "checkpoint_override":{
+            "map_id":132,
+            "coords":[10,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["nivalis"]
+    },
+    "story-volta-tower": {
+        "party":[
+            {"name":"volta","difficulty":2,"skills":[121,159,193,21],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-250","core-destruction-high","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "weight":2,
+        "hp_percentage_modifier": 2.5,
+        "sta_percentage_modifier": 2.5,
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["volta"]
+    },
+    "story-ross-tournament": {
+        "party":[
+            {"name":"bouldcran","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+            {"name":"namansi","difficulty":2,"skills":[],"cores":[]},
+			{"name":"sunnos","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "weight":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":180,
+            "coords":[11,22],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-barbarian-tournament": {
+        "party":[
+            {"name":"thrammer","difficulty":2,"skills":[],"cores":[]},
+			{"name":"minetor","difficulty":2,"skills":[],"cores":["core-vitality-high"]}
+        ],
+        "switch":0,
+        "weight":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":180,
+            "coords":[11,22],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-trashman-tournament": {
+        "party":[
+            {"name":"jeliflux","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+            {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},
+            {"name":"swactrum","difficulty":2,"skills":[],"cores":["core-vitality-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":180,
+            "coords":[11,22],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-bolzen-cadium": {
+        "party":[
+            {"name":"bolzen","difficulty":2,"skills":[43,53,102,157],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-100","core-destruction-high","core-destruction-high"]}
+        ],
+        "weight": 1,
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hp_percentage_modifier": 2.2,
+        "sta_percentage_modifier": 2.0,
+        "checkpoint_override":{
+            "map_id":191,
+            "coords":[10,10],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["bolzen"]
+    },
+    "story-celine-assault": {
+        "party":[
+            {"name":"eqoloptera","difficulty":2,"skills":[],"cores":[]},
+            {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},
+			{"name":"wargoyle","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"minetor","difficulty":2,"skills":[],"cores":[]},
+            {"name":"sikipha","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"oregoon","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":236,
+            "coords":[4,5],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-petram-assault": {
+        "party":[
+            {"name":"petram","difficulty":2,"skills":[20,44,99,195],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-200","core-destruction-high","core-vitality-high"]}
+        ],
+        "weight": 1,
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "hp_percentage_modifier": 3.0,
+        "sta_percentage_modifier": 3.0,
+        "checkpoint_override":{
+            "map_id":236,
+            "coords":[4,5],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["petram"]
+    },
+    "story-hannah-tomb": {
+        "party":[
+            {"name":"hainok","difficulty":2,"skills":[],"cores":["core-destruction-high","core-vitality-high"]},
+            {"name":"frictingle","difficulty":2,"skills":[],"cores":["core-protection-high","core-protection-high"]},
+			{"name":"cuisizle","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+			{"name":"rapilux","difficulty":2,"skills":[],"cores":["core-protection-high","core-vitality-high"]},
+            {"name":"arispauva","difficulty":2,"skills":[],"cores":["core-destruction-high","core-protection-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":268,
+            "coords":[19,6],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-raksuma-cave-khan": {
+        "party":[
+            {"name":"raksuma","difficulty":2,"skills":[],"cores":["core-vitality-boss-100"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":3,
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true
+    },
+    "story-khan-invader-one": {
+        "party":[
+            {"name":"goblat","difficulty":2,"skills":[],"cores":[]},
+			{"name":"dracly","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+			{"name":"skounquet","difficulty":2,"skills":[],"cores":[]},
+			{"name":"boilgog","difficulty":2,"skills":[],"cores":["core-vitality-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":254,
+            "coords":[12,11],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-khan-invader-two": {
+        "party":[
+            {"name":"yarnesty","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+			{"name":"raksuma","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+			{"name":"malenostra","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+			{"name":"felclaw","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+			{"name":"reeferus","difficulty":2,"skills":[],"cores":["core-vitality-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":254,
+            "coords":[12,11],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-xanders-drake-isles": {
+        "party":[
+            {"name":"domigator","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"immortis","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"grath","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"fortank","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"barboraco","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"boilgog","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "cesar/dragon",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":109,
+            "coords":[18,24],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-mulcimer-resurrection": {
+        "party":[
+            {"name":"mulcimer","difficulty":2,"skills":[183,141,115,60],"cores":
+                ["core-vitality-boss-250", "core-stamina-boss-200","core-destruction-high","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "weight":3,
+        "hp_percentage_modifier": 2.0,
+        "sta_percentage_modifier": 2.0,
+        "checkpoint_override":{
+            "map_id":88,
+            "coords":[13,16],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["mulcimer"]
+    },
+    "story-minions-atlanta": {
+        "party":[
+            {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
+			{"name":"bisina","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+		    {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"zappnic","difficulty":2,"skills":[],"cores":["core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":279,
+            "coords":[10,11],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-lobo-atlanta": {
+        "party":[
+            {"name":"varawirl","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"lurkennie","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+			{"name":"foreer","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"blazetilia","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"rapnux","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"shardrillion","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]}
+        ],
+        "switch":0,
+        "weight":2,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":279,
+            "coords":[10,11],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-acegon-logan": {
+        "party":[
+            {"name":"acegon","difficulty":2,"skills":[60,141,182],"cores":["core-vitality-boss-200"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "weight":1,
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "checkpoint_override":{
+            "map_id":265,
+            "coords":[7,5],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "do_not_repopulate_skills_for_units":["acegon"]
+    },
+    "story-ziegler-cadium": {
+        "party":[
+            {"name":"darine","difficulty":2,"skills":[114,117,119,186],"cores":["core-vitality-boss-100", "core-stamina-boss-100","core-destruction-high","core-destruction-high"]},
+            {"name":"titan","difficulty":2,"skills":[194,195,196,115],"cores":["core-vitality-boss-200", "core-stamina-boss-200","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":2,
+        "comment":"",
+        "bgm": "old/ziegler",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":192,
+            "coords":[12,5],
+            "turn_switches_on":[],
+            "turn_switches_off":[270]
+        },
+        "hide_enemy_levels": true,
+        "do_not_repopulate_skills_for_units":["titan","darine"]
+    },
+    "story-laterian-raid-deal": {
+        "party":[
+			{"name":"boilgog","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+            {"name":"tuskant","difficulty":2,"skills":[],"cores":["core-vitality-high"]},
+			{"name":"rustung","difficulty":2,"skills":[],"cores":["core-destruction-high"]},
+            {"name":"glontern","difficulty":2,"skills":[],"cores":["core-vitality-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "",
+        "weight":2,
+        "checkpoint_override":{
+            "map_id":219,
+            "coords":[23,14],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-celine-resurrection": {
+        "party":[
+            {"name":"caninui","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"quarmor","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+			{"name":"imburion","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"tresaur","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"oregoon","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"goatlanche","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":227,
+            "coords":[2,15],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-nolan-grandmaster": {
+        "party":[
+            {"name":"snaijet","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"sirnymfa","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+			{"name":"scailla","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"hainok","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[317]
+        }
+    },
+    "story-finn-grandmaster": {
+        "party":[
+            {"name":"antlorm","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+		    {"name":"felclaw","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+		    {"name":"kerosion","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"lamparos","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[317]
+        }
+    },
+    "story-riley-grandmaster": {
+        "party":[
+            {"name":"voltaic","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+			{"name":"resonic","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+			{"name":"omecharge","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"reptomotor","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]}
+        ],
+        "switch":0,
+        "weight":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[317]
+        }
+    },
+    "story-admin-grandmaster": {
+        "party":[
+            {"name":"lioness","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"horget","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+		    {"name":"rapnux","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"tundrox","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"yomnom","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"orologikus","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":1,
+        "comment":"",
+        "bgm": "andi/battle",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[317]
+        }
+    },
+    "story-xanders-final": {
+        "party":[
+            {"name":"boilgog","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"tresaur","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+			{"name":"grath","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"blizzaur","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"rustung","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"wargoyle","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":2,
+        "comment":"",
+        "bgm": "cesar/battle-penultimate",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-edward-final": {
+        "party":[
+            {"name":"domigator","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"gradow","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+		    {"name":"shardberg","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+		    {"name":"foreer","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"goblat","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"lumerei","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "weight":2,
+        "comment":"",
+        "bgm": "cesar/tyrant",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant": false,
+        "checkpoint_override":{
+            "map_id":20,
+            "coords":[24,28],
+            "turn_switches_on":[],
+            "turn_switches_off":[323]
+        }
+    },
+
+
+    
+
+    "story-post-capture-vados": {
+        "party":[
+            {"name":"protovados","difficulty":2,"skills":[146, 184, 98],"cores":["core-vitality-boss-250", "core-stamina-boss-300"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "cesar/battle-final",
+        "allowed_escape": true,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": true,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-vados",
+        "weight":4,
+        "use_map_difficulty": [true, false],
+        "hide_enemy_levels": true
+    },
+
+    "story-post-drake-mineral": {
+        "party":[
+            {"name":"graloon","difficulty":2,"skills":[194,195,20,45],"cores":["core-vitality-boss-150", "core-stamina-boss-200"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,376",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-fire": {
+        "party":[
+            {"name":"dracon","difficulty":2,"skills":[49,118,183,184],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,377",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-ghost": {
+        "party":[
+            {"name":"krainnull","difficulty":2,"skills":[206,208,22,200],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,384",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-psychic": {
+        "party":[
+            {"name":"mystogen","difficulty":2,"skills":[203,204,3,153],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,383",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-water": {
+        "party":[
+            {"name":"glamond","difficulty":2,"skills":[173,185,186,28],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,378",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-wind": {
+        "party":[
+            {"name":"tyrake","difficulty":2,"skills":[36,51,55,45],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,379",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-plant": {
+        "party":[
+            {"name":"boscage","difficulty":2,"skills":[52,56,57,85],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,380",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-normal": {
+        "party":[
+            {"name":"wyverne","difficulty":2,"skills":[103,115,120,145],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,382",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-drake-electric": {
+        "party":[
+            {"name":"volta","difficulty":2,"skills":[159,192,192,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-dragon,381",
+        "use_map_difficulty": [true, false],
+        "weight":4,
+        "hide_enemy_levels": true
+    },
+    "story-post-fenrir": {
+        "party":[
+            {"name":"fona","difficulty":2,"skills":[16,17,26,84],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,387",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-nadine": {
+        "party":[
+            {"name":"ventra","difficulty":2,"skills":[31,55,59,143],"cores":["core-vitality-boss-200", "core-stamina-boss-300"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,388",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-mentor": {
+        "party":[
+            {"name":"grunda","difficulty":2,"skills":[91,93,98,115],"cores":["core-vitality-boss-200", "core-stamina-boss-300"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,389",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-zetta": {
+        "party":[
+            {"name":"luxa","difficulty":2,"skills":[192,192,193,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,390",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-merida": {
+        "party":[
+            {"name":"arqua","difficulty":2,"skills":[28,34,37,58],"cores":["core-vitality-boss-150", "core-stamina-boss-200"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,391",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-deena": {
+        "party":[
+            {"name":"nara","difficulty":2,"skills":[85,188,189,190],"cores":["core-vitality-boss-200", "core-stamina-boss-200"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "old/omnicron",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": true,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "post-game-capture-primordial,392",
+        "use_map_difficulty": [true, false],
+        "weight":6,
+        "hide_enemy_levels": true
+    },
+    "story-post-eliza": {
+        "party":[
+            {"name":"horget","difficulty":2,"skills":[],"cores":["core-vitality-boss-100"]},
+		    {"name":"dreddiful","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+		    {"name":"swactrum","difficulty":2,"skills":[],"cores":["core-vitality-boss-100"]},
+            {"name":"lovidovi","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"lurkennie","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"domigator","difficulty":2,"skills":[],"cores":["core-vitality-boss-100"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "weight":4
+    },
+    "story-vados-airship-regular": {
+        "party":[
+            {"name":"protovados","difficulty":10,"skills":[146, 184, 98],"cores":
+                ["core-vitality-boss-300", "core-stamina-boss-400", "core-immunity-boss-50"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":3,
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "vados-airship-regular",
+        "use_map_difficulty": [true, false],
+        "checkpoint_override":{
+            "map_id":468,
+            "coords":[10,7],
+            "turn_switches_on":[],
+            "turn_switches_off":[352,353,354,355]
+        },
+        "hp_percentage_modifier": 2.5,
+        "sta_percentage_modifier": 3.5,
+        "hide_enemy_levels": true
+    },
+    "story-vados-airship-solus": {
+        "party":[
+            {"name":"protovados","difficulty":10,"skills":[146, 184, 98],"cores":
+                ["core-vitality-boss-300", "core-stamina-boss-300"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":3,
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": true,
+        "wild": true,
+        "instant":  true,
+        "scene": "vados-airship-solus",
+        "use_map_difficulty": [true, false],
+        "checkpoint_override":{
+            "map_id":468,
+            "coords":[10,7],
+            "turn_switches_on":[],
+            "turn_switches_off":[352,353,354,355]
+        },
+        "hp_percentage_modifier": 2.5,
+        "sta_percentage_modifier": 3.5,
+        "hide_enemy_levels": true
+    },
+    "story-amelie-final": {
+        "party":[
+            {"name":"noocidal","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"hainok","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"namansi","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"tresaur","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"feliblanqo","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
+            {"name":"dracon","difficulty":10,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": false,
+        "instant":  false,
+        "weight": 3,
+        "scene": "amelie-final",
+        "checkpoint_override":{
+            "map_id":463,
+            "coords":[8,7],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    },
+    "story-vados-final-showdown": {
+        "party":[
+            {"name":"vados","difficulty":2,"skills":[146, 184, 98],"cores":
+                ["core-stamina-boss-300"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "weight":3,
+        "allowed_escape": false,
+        "allowed_items":  true,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "vados-final-showdown",
+        "use_map_difficulty": [true, false],
+      "checkpoint_override": {
+        "map_id": 463,
+        "coords": [ 8, 7 ],
+        "turn_switches_on": [],
+        "turn_switches_off": []
+      },
+        "hp_percentage_modifier": 1.5,
+        "sta_percentage_modifier": 4.0,
+        "hide_enemy_levels": true
+    },
+    "story-vados-final-showdown-solus": {
+        "party":[
+            {"name":"vados","difficulty":99,"skills":[146, 184, 98],"cores":
+                ["core-vitality-boss-50", "core-stamina-boss-400"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": false,
+        "allowed_capture": false,
+        "allowed_defeat": true,
+        "wild": true,
+        "instant":  true,
+        "scene": "vados-final-showdown-solus",
+        "use_map_difficulty": [true, false],
+        "checkpoint_override":{
+            "map_id":463,
+            "coords":[8,7],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hp_percentage_modifier": 1.5,
+        "sta_percentage_modifier": 4.0,
+        "hide_enemy_levels": true
+    },
+    "story-vados-final-showdown-omnisun": {
+        "party":[
+            {"name":"vados","difficulty":99,"skills":[146, 184, 98],"cores":
+                ["core-vitality-boss-300", "core-stamina-boss-400"]}
+        ],
+        "switch":0,
+        "comment":"",
+        "bgm": "null",
+        "allowed_escape": false,
+        "allowed_items":  false,
+        "allowed_party": true,
+        "allowed_capture": false,
+        "allowed_defeat": false,
+        "wild": true,
+        "instant":  true,
+        "scene": "vados-final-showdown-omnisun",
+        "use_map_difficulty": [false, false],
+        "checkpoint_override":{
+            "map_id":463,
+            "coords":[8,7],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        },
+        "hp_percentage_modifier": 4.0,
+        "sta_percentage_modifier": 4.0,
+        "hide_enemy_levels": true
+    },
+
+
+    "regular-demo": {
+        "party":[
+            {"name":"tyrake","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":""
+    },
+
+
+    "sidequest-antidotes": {
+        "party":[
+            {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
+			{"name":"tiki","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":""
+    },
+    "sidequest-missing-kid": {
+        "party":[
+            {"name":"croo","difficulty":2,"skills":[],"cores":[]},
+            {"name":"chirrent","difficulty":2,"skills":[],"cores":[]},
+			{"name":"algon","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":""
+    },
+    "sidequest-exorcism": {
+        "party":[
+            {"name":"florozard","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"blizstrong","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"divette","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"rapnux","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"hyphoon","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"monkapow","difficulty":2,"skills":[200,201,202],"cores":["core-vitality-boss-50"]}
+        ],
+        "weight":4,
+        "switch":0,
+        "comment":""
+    },
+    "sidequest-extinction": {
+        "party":[
+            {"name":"florozard","difficulty":2,"skills":[],"cores":[]},
+            {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]},
+            {"name":"divette","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":""
+    },
+
+    "template": {
+        "party":[
+            {"name":"divette","difficulty":2,"skills":[],"cores":[]}
+        ],
+        "switch":0,
+        "comment":"",
+        "checkpoint_override":{
+            "map_id":2,
+            "coords":[12,2],
+            "turn_switches_on":[],
+            "turn_switches_off":[]
+        }
+    }
+}

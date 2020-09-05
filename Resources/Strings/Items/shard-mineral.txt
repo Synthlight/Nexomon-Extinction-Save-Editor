@@ -1,0 +1,23 @@
+Stone Shard
+Stone Shards
+A Mineral-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Stone Shard!
+You received [amount] Stone Shards!
+You found a Stone Shard!
+You found [amount] Stone Shards!
+Do you wish to use a Stone Shard on [nickname]?
+[nickname] doesn't need a Stone Shard!
+You used a Stone Shard on [nickname]!
+Your opponent used a Stone Shard on [nickname]!
+Stone Shard has been enabled!
+Stone Shard has been disabled!
+You crafted a Stone Shard!
+You crafted [amount] Stone Shards!
+You don't have enough shards to craft a Stone Shard!
+You don't have enough shards to craft [amount] Stone Shards!
+Do you want to sell a Stone Shard for [coins] coins?
+Do you want to sell [amount] Stone Shards for [coins] coins?
+Do you wish to buy a Stone Shard for [coins] coins?
+Do you wish to buy [amount] Stone Shards for [coins] coins?

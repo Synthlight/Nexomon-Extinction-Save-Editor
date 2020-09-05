@@ -1,0 +1,23 @@
+Tribute of Decay
+Tributes of Decay
+An ancient elemental relic emitting a faint aura...
+<blank>
+<blank>
+You received the Tribute of Decay!
+You received [amount] Tributes of Decay!
+You found the Tribute of Decay!
+You found [amount] Tributes of Decay!
+Do you wish to use the Tribute of Decay on [nickname]?
+[nickname] doesn't need the Tribute of Decay!
+You used the Tribute of Decay on [nickname]!
+Your opponent used the Tribute of Decay on [nickname]!
+Tribute of Decay has been enabled!
+Tribute of Decay has been disabled!
+You crafted the Tribute of Decay!
+You crafted [amount] Tributes of Decay!
+You don't have enough shards to craft the Tribute of Decay!
+You don't have enough shards to craft [amount] Tributes of Decay!
+Do you want to sell the Tribute of Decay for [coins] coins?
+Do you want to sell [amount] Tributes of Decay for [coins] coins?
+Do you wish to buy the Tribute of Decay for [coins] coins?
+Do you wish to buy [amount] Tributes of Decay for [coins] coins?

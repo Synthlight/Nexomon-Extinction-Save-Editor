@@ -1,0 +1,23 @@
+Pink Pecana
+Pink Pecanas
+A colorful dish. Very popular among young girls and some Nexomon too!
+<blank>
+<blank>
+You received a Pink Pecana!
+You received [amount] Pink Pecanas!
+You found a Pink Pecana!
+You found [amount] Pink Pecanas!
+Do you wish to use a Pink Pecana on [nickname]?
+[nickname] doesn't need a Pink Pecana!
+You used a Pink Pecana on [nickname]!
+Your opponent used a Pink Pecana on [nickname]!
+Pink Pecana has been enabled!
+Pink Pecana has been disabled!
+You crafted a Pink Pecana!
+You crafted [amount] Pink Pecanas!
+You don't have enough shards to craft a Pink Pecana!
+You don't have enough shards to craft [amount] Pink Pecanas!
+Do you want to sell a Pink Pecana for [coins] coins?
+Do you want to sell [amount] Pink Pecanas for [coins] coins?
+Do you wish to buy a Pink Pecana for [coins] coins?
+Do you wish to buy [amount] Pink Pecanas for [coins] coins?

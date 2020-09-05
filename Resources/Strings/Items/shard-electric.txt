@@ -1,0 +1,23 @@
+Thunder Shard
+Thunder Shards
+An Electric-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Thunder Shard!
+You received [amount] Thunder Shards!
+You found a Thunder Shard!
+You found [amount] Thunder Shards!
+Do you wish to use a Thunder Shard on [nickname]?
+[nickname] doesn't need a Thunder Shard!
+You used a Thunder Shard on [nickname]!
+Your opponent used a Thunder Shard on [nickname]!
+Thunder Shard has been enabled!
+Thunder Shard has been disabled!
+You crafted a Thunder Shard!
+You crafted [amount] Thunder Shards!
+You don't have enough shards to craft a Thunder Shard!
+You don't have enough shards to craft [amount] Thunder Shards!
+Do you want to sell a Thunder Shard for [coins] coins?
+Do you want to sell [amount] Thunder Shards for [coins] coins?
+Do you wish to buy a Thunder Shard for [coins] coins?
+Do you wish to buy [amount] Thunder Shards for [coins] coins?

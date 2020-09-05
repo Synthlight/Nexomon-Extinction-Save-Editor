@@ -1,0 +1,23 @@
+DISCOUNT VOUCHER
+DISCOUNT VOUCHERS
+Merchants will lower their prices by [value_1]%! This item can be stacked!
+<blank>
+<blank>
+You received a DISCOUNT VOUCHER!
+You received [amount] DISCOUNT VOUCHERS!
+You found a DISCOUNT VOUCHER!
+You found [amount] DISCOUNT VOUCHERS!
+Do you wish to use a DISCOUNT VOUCHER on [nickname]?
+[nickname] doesn't need a DISCOUNT VOUCHER!
+You used a DISCOUNT VOUCHER on [nickname]!
+Your opponent used a DISCOUNT VOUCHER on [nickname]!
+DISCOUNT VOUCHER has been enabled!
+DISCOUNT VOUCHER has been disabled!
+You crafted a DISCOUNT VOUCHER!
+You crafted [amount] DISCOUNT VOUCHERS!
+You don't have enough shards to craft a DISCOUNT VOUCHER!
+You don't have enough shards to craft [amount] DISCOUNT VOUCHERS!
+Do you want to sell a DISCOUNT VOUCHER for [coins] coins?
+Do you want to sell [amount] DISCOUNT VOUCHERS for [coins] coins?
+Do you wish to buy a DISCOUNT VOUCHER for [coins] coins?
+Do you wish to buy [amount] DISCOUNT VOUCHERS for [coins] coins?

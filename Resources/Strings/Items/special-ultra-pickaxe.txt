@@ -1,0 +1,23 @@
+ULTRA PICKAXE
+ULTRA PICKAXES
+With this, mining ore boulders will yield more shards than usual!
+<blank>
+<blank>
+You received an ULTRA PICKAXE!
+You received [amount] ULTRA PICKAXES!
+You found an ULTRA PICKAXE!
+You found [amount] ULTRA PICKAXES!
+Do you wish to use an ULTRA PICKAXE on [nickname]?
+[nickname] doesn't need an ULTRA PICKAXE!
+You used an ULTRA PICKAXE on [nickname]!
+Your opponent used an ULTRA PICKAXE on [nickname]!
+ULTRA PICKAXE has been enabled!
+ULTRA PICKAXE has been disabled!
+You crafted an ULTRA PICKAXE!
+You crafted [amount] ULTRA PICKAXES!
+You don't have enough shards to craft an ULTRA PICKAXE!
+You don't have enough shards to craft [amount] ULTRA PICKAXES!
+Do you want to sell an ULTRA PICKAXE for [coins] coins?
+Do you want to sell [amount] ULTRA PICKAXES for [coins] coins?
+Do you wish to buy an ULTRA PICKAXE for [coins] coins?
+Do you wish to buy [amount] ULTRA PICKAXES for [coins] coins?

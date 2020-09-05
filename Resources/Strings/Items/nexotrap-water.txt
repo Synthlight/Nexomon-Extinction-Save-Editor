@@ -1,0 +1,23 @@
+Water Nexotrap
+Water Nexotraps
+A Nexotrap designed to capture Water-type Nexomon!
+<blank>
+<blank>
+You received a Water Nexotrap!
+You received [amount] Water Nexotraps!
+You found a Water Nexotrap!
+You found [amount] Water Nexotraps!
+Do you wish to use a Water Nexotrap on [nickname]?
+[nickname] doesn't need a Water Nexotrap!
+You used a Water Nexotrap on [nickname]!
+Your opponent used a Water Nexotrap on [nickname]!
+Water Nexotrap has been enabled!
+Water Nexotrap has been disabled!
+You crafted a Water Nexotrap!
+You crafted [amount] Water Nexotraps!
+You don't have enough shards to craft a Water Nexotrap!
+You don't have enough shards to craft [amount] Water Nexotraps!
+Do you want to sell a Water Nexotrap for [coins] coins?
+Do you want to sell [amount] Water Nexotraps for [coins] coins?
+Do you wish to buy a Water Nexotrap for [coins] coins?
+Do you wish to buy [amount] Water Nexotraps for [coins] coins?

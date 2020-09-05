@@ -1,0 +1,23 @@
+Silver Badge
+Silver Badges
+A badge granted to those who perform heroic acts! Keep up the good work!
+<blank>
+<blank>
+You received a Silver Badge!
+You received [amount] Silver Badges!
+You found a Silver Badge!
+You found [amount] Silver Badges!
+Do you wish to use a Silver Badge on [nickname]?
+[nickname] doesn't need a Silver Badge!
+You used a Silver Badge on [nickname]!
+Your opponent used a Silver Badge on [nickname]!
+Silver Badge has been enabled!
+Silver Badge has been disabled!
+You crafted a Silver Badge!
+You crafted [amount] Silver Badges!
+You don't have enough shards to craft a Silver Badge!
+You don't have enough shards to craft [amount] Silver Badges!
+Do you want to sell a Silver Badge for [coins] coins?
+Do you want to sell [amount] Silver Badges for [coins] coins?
+Do you wish to buy a Silver Badge for [coins] coins?
+Do you wish to buy [amount] Silver Badges for [coins] coins?

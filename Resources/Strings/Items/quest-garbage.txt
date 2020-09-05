@@ -1,0 +1,23 @@
+Pile of garbage
+Piles of garbage
+Rubbish that we found while cleaning up the city.
+<blank>
+<blank>
+You received a Pile of garbage!
+You received [amount] Piles of garbage!
+You found a Pile of garbage!
+You found [amount] Piles of garbage!
+Do you wish to use a Pile of garbage on [nickname]?
+[nickname] doesn't need a Pile of garbage!
+You used a Pile of garbage on [nickname]!
+Your opponent used a Pile of garbage on [nickname]!
+Pile of garbage has been enabled!
+Pile of garbage has been disabled!
+You crafted a Pile of garbage!
+You crafted [amount] Piles of garbage!
+You don't have enough shards to craft a Pile of garbage!
+You don't have enough shards to craft [amount] Piles of garbage!
+Do you want to sell a Pile of garbage for [coins] coins?
+Do you want to sell [amount] Piles of garbage for [coins] coins?
+Do you wish to buy a Pile of garbage for [coins] coins?
+Do you wish to buy [amount] Piles of garbage for [coins] coins?

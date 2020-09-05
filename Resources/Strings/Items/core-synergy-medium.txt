@@ -1,0 +1,23 @@
+Synergy Core (II)
+Synergy Cores (II)
+Copies [value_1]% of the EXP received by other team members without having to fight.
+<blank>
+<blank>
+You received a Synergy Core (II)!
+You received [amount] Synergy Cores (II)!
+You found a Synergy Core (II)!
+You found [amount] Synergy Cores (II)!
+Do you wish to use a Synergy Core (II) on [nickname]?
+[nickname] doesn't need a Synergy Core (II)!
+You used a Synergy Core (II) on [nickname]!
+Your opponent used a Synergy Core (II) on [nickname]!
+Synergy Core (II) has been enabled!
+Synergy Core (II) has been disabled!
+You crafted a Synergy Core (II)!
+You crafted [amount] Synergy Cores (II)!
+You don't have enough shards to craft a Synergy Core (II)!
+You don't have enough shards to craft [amount] Synergy Cores (II)!
+Do you want to sell a Synergy Core (II) for [coins] coins?
+Do you want to sell [amount] Synergy Cores (II) for [coins] coins?
+Do you wish to buy a Synergy Core (II) for [coins] coins?
+Do you wish to buy [amount] Synergy Cores (II) for [coins] coins?

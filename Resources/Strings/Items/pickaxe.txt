@@ -1,0 +1,23 @@
+Pickaxe
+Pickaxes
+A tool used to break small boulders that might contain elemental shards!
+<blank>
+<blank>
+You received a Pickaxe!
+You received [amount] Pickaxes!
+You found a Pickaxe!
+You found [amount] Pickaxes!
+Do you wish to use a Pickaxe on [nickname]?
+[nickname] doesn't need a Pickaxe!
+You used a Pickaxe on [nickname]!
+Your opponent used a Pickaxe on [nickname]!
+Pickaxe has been enabled!
+Pickaxe has been disabled!
+You crafted a Pickaxe!
+You crafted [amount] Pickaxes!
+You don't have enough shards to craft a Pickaxe!
+You don't have enough shards to craft [amount] Pickaxes!
+Do you want to sell a Pickaxe for [coins] coins?
+Do you want to sell [amount] Pickaxes for [coins] coins?
+Do you wish to buy a Pickaxe for [coins] coins?
+Do you wish to buy [amount] Pickaxes for [coins] coins?

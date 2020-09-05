@@ -1,0 +1,23 @@
+Paupo Companion
+Paupos
+A Paupo follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Paupo Companion!
+You received [amount] Paupos!
+You found a Paupo Companion!
+You found [amount] Paupos!
+Do you wish to use a Paupo on [nickname]?
+[nickname] doesn't need a Paupo!
+You used a Paupo on [nickname]!
+Your opponent used a Paupo on [nickname]!
+Paupo has been enabled!
+Paupo has been disabled!
+You crafted a Paupo!
+You crafted [amount] Paupos!
+You don't have enough shards to craft a Paupo!
+You don't have enough shards to craft [amount] Paupos!
+Do you want to sell a Paupo for [coins] coins?
+Do you want to sell [amount] Paupos for [coins] coins?
+Do you wish to buy a Paupo for [coins] coins?
+Do you wish to buy [amount] Paupos for [coins] coins?

@@ -1,0 +1,23 @@
+Sandillo Companion
+Sandillos
+A Sandillo follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Sandillo Companion!
+You received [amount] Sandillos!
+You found a Sandillo Companion!
+You found [amount] Sandillos!
+Do you wish to use a Sandillo on [nickname]?
+[nickname] doesn't need a Sandillo!
+You used a Sandillo on [nickname]!
+Your opponent used a Sandillo on [nickname]!
+Sandillo has been enabled!
+Sandillo has been disabled!
+You crafted a Sandillo!
+You crafted [amount] Sandillos!
+You don't have enough shards to craft a Sandillo!
+You don't have enough shards to craft [amount] Sandillos!
+Do you want to sell a Sandillo for [coins] coins?
+Do you want to sell [amount] Sandillos for [coins] coins?
+Do you wish to buy a Sandillo for [coins] coins?
+Do you wish to buy [amount] Sandillos for [coins] coins?

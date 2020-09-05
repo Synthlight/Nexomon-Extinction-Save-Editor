@@ -1,0 +1,23 @@
+Lume Companion
+Lumes
+A Lume follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Lume Companion!
+You received [amount] Lumes!
+You found a Lume Companion!
+You found [amount] Lumes!
+Do you wish to use a Lume on [nickname]?
+[nickname] doesn't need a Lume!
+You used a Lume on [nickname]!
+Your opponent used a Lume on [nickname]!
+Lume has been enabled!
+Lume has been disabled!
+You crafted a Lume!
+You crafted [amount] Lumes!
+You don't have enough shards to craft a Lume!
+You don't have enough shards to craft [amount] Lumes!
+Do you want to sell a Lume for [coins] coins?
+Do you want to sell [amount] Lumes for [coins] coins?
+Do you wish to buy a Lume for [coins] coins?
+Do you wish to buy [amount] Lumes for [coins] coins?

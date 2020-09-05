@@ -1,0 +1,23 @@
+Power Shard
+Power Shards
+A Normal-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Power Shard!
+You received [amount] Power Shards!
+You found a Power Shard!
+You found [amount] Power Shards!
+Do you wish to use a Power Shard on [nickname]?
+[nickname] doesn't need a Power Shard!
+You used a Power Shard on [nickname]!
+Your opponent used a Power Shard on [nickname]!
+Power Shard has been enabled!
+Power Shard has been disabled!
+You crafted a Power Shard!
+You crafted [amount] Power Shards!
+You don't have enough shards to craft a Power Shard!
+You don't have enough shards to craft [amount] Power Shards!
+Do you want to sell a Power Shard for [coins] coins?
+Do you want to sell [amount] Power Shards for [coins] coins?
+Do you wish to buy a Power Shard for [coins] coins?
+Do you wish to buy [amount] Power Shards for [coins] coins?

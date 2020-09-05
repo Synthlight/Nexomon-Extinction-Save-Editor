@@ -1,0 +1,23 @@
+Flan
+Flans
+A wiggly dessert with a cherry on top. It is not too sweet, just enough to give it proper flavor.
+<blank>
+<blank>
+You received a Flan!
+You received [amount] Flans!
+You found a Flan!
+You found [amount] Flans!
+Do you wish to use a Flan on [nickname]?
+[nickname] doesn't need a Flan!
+You used a Flan on [nickname]!
+Your opponent used a Flan on [nickname]!
+Flan has been enabled!
+Flan has been disabled!
+You crafted a Flan!
+You crafted [amount] Flans!
+You don't have enough shards to craft a Flan!
+You don't have enough shards to craft [amount] Flans!
+Do you want to sell a Flan for [coins] coins?
+Do you want to sell [amount] Flans for [coins] coins?
+Do you wish to buy a Flan for [coins] coins?
+Do you wish to buy [amount] Flans for [coins] coins?

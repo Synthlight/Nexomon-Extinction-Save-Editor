@@ -1,0 +1,80 @@
+//------------------------------------------------
+//--- 010 Editor v10.0 Binary Template
+//
+//      File: 
+//   Authors: 
+//   Version: 
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+typedef struct {
+    short monsterId;
+    string nickname;
+    short level;
+    short hp;
+    short sta;
+    short exp;
+    byte size<hidden=true, optimize=false>; if (size > 0) int skills[size];
+    byte size<hidden=true, optimize=false>; if (size > 0) int cores[size];
+    byte useGridAdapter;
+    if (useGridAdapter) {
+        string gridAdapter1;
+        int gridAdapter2;
+        int gridAdapter3;
+        byte gridAdapter4;
+    }
+    byte cosmic;
+    byte harmony;
+} Monster;
+
+typedef struct {
+    ubyte occupied;
+    if (occupied == 1) Monster monster;
+} Slot;
+
+typedef struct {
+    FSkip(1); char boxName[ReadUByte(FTell() - 1)];
+    int size1;
+    int size2;
+
+    Slot slot[size1]<optimize=false>;
+} Box;
+
+typedef struct {
+    int itemId;
+    int value;
+} Item;
+
+typedef struct {
+    int coins;
+    int diamonds;
+    int tokens;
+} Wallet;
+
+uint magic;
+ubyte size<hidden=true, optimize=false>; if (size > 0) char buildDate[size];
+ubyte size<hidden=true, optimize=false>; if (size > 0) char buildTarget[size];
+ubyte size<hidden=true, optimize=false>; if (size > 0) char buildVersion[size];
+ubyte size<hidden=true, optimize=false>; if (size > 0) char saveDateUtc[size];
+ubyte size<hidden=true, optimize=false>; if (size > 0) char playerName[size];
+ubyte size<hidden=true, optimize=false>; if (size > 0) char playerBody[size];
+int playtimeSeconds;
+ubyte size<hidden=true, optimize=false>; if (size > 0) char petBody[size];
+int mapId;
+int playerX;
+int playerY;
+FSkip(1); char playerDirection[ReadUByte(FTell() - 1)];
+int checkpointMapId;
+int checkpointX;
+int checkpointY;
+int volumeBGM;
+int volumeSFX;
+ubyte autoSaveEnabled;
+FSkip(1); char languageId[ReadUByte(FTell() - 1)];
+int size<hidden=true, optimize=false>; if (size > 0) Monster monsters[size]<optimize=false>;
+int size<hidden=true, optimize=false>; Box storageBoxes[size]<optimize=false>;
+int size<hidden=true, optimize=false>; Item items[size]<optimize=false>;
+Wallet wallet;

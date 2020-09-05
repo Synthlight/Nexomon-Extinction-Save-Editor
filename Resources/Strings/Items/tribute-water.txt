@@ -1,0 +1,23 @@
+Tribute of Ocean
+Tributes of Ocean
+An ancient elemental relic emitting a faint aura...
+<blank>
+<blank>
+You received the Tribute of Ocean!
+You received [amount] Tributes of Ocean!
+You found the Tribute of Ocean!
+You found [amount] Tributes of Ocean!
+Do you wish to use the Tribute of Ocean on [nickname]?
+[nickname] doesn't need the Tribute of Ocean!
+You used the Tribute of Ocean on [nickname]!
+Your opponent used the Tribute of Ocean on [nickname]!
+Tribute of Ocean has been enabled!
+Tribute of Ocean has been disabled!
+You crafted the Tribute of Ocean!
+You crafted [amount] Tributes of Ocean!
+You don't have enough shards to craft the Tribute of Ocean!
+You don't have enough shards to craft [amount] Tributes of Ocean!
+Do you want to sell the Tribute of Ocean for [coins] coins?
+Do you want to sell [amount] Tributes of Ocean for [coins] coins?
+Do you wish to buy the Tribute of Ocean for [coins] coins?
+Do you wish to buy [amount] Tributes of Ocean for [coins] coins?

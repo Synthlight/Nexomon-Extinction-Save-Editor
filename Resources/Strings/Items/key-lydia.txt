@@ -1,0 +1,23 @@
+Shrine Key
+Shrine Keys
+A key given by Lydia used to open an ancient shrine located in Drake Isles.
+<blank>
+<blank>
+You received the Shrine Key!
+You received [amount] Shrine Keys!
+You found the Shrine Key!
+You found [amount] Shrine Keys!
+Do you wish to use the Shrine Key on [nickname]?
+[nickname] doesn't need the Shrine Key!
+You used the Shrine Key on [nickname]!
+Your opponent used the Shrine Key on [nickname]!
+Shrine Key has been enabled!
+Shrine Key has been disabled!
+You crafted the Shrine Key!
+You crafted [amount] Shrine Keys!
+You don't have enough shards to craft the Shrine Key!
+You don't have enough shards to craft [amount] Shrine Keys!
+Do you want to sell the Shrine Key for [coins] coins?
+Do you want to sell [amount] Shrine Keys for [coins] coins?
+Do you wish to buy the Shrine Key for [coins] coins?
+Do you wish to buy [amount] Shrine Keys for [coins] coins?

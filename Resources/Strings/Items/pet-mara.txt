@@ -1,0 +1,23 @@
+Mara Companion
+Maras
+A Mara follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Mara Companion!
+You received [amount] Maras!
+You found a Mara Companion!
+You found [amount] Maras!
+Do you wish to use a Mara on [nickname]?
+[nickname] doesn't need a Mara!
+You used a Mara on [nickname]!
+Your opponent used a Mara on [nickname]!
+Mara has been enabled!
+Mara has been disabled!
+You crafted a Mara!
+You crafted [amount] Maras!
+You don't have enough shards to craft a Mara!
+You don't have enough shards to craft [amount] Maras!
+Do you want to sell a Mara for [coins] coins?
+Do you want to sell [amount] Maras for [coins] coins?
+Do you wish to buy a Mara for [coins] coins?
+Do you wish to buy [amount] Maras for [coins] coins?

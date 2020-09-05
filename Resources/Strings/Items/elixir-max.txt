@@ -1,0 +1,23 @@
+Max Elixir
+Max Elixirs
+Restores both [value_1] HP and [value_2] stamina.
+<blank>
+<blank>
+You received a Max Elixir!
+You received [amount] Max Elixirs!
+You found a Max Elixir!
+You found [amount] Max Elixirs!
+Do you wish to use a Max Elixir on [nickname]?
+[nickname] doesn't need a Max Elixir!
+You used a Max Elixir on [nickname]!
+Your opponent used a Max Elixir on [nickname]!
+Max Elixir has been enabled!
+Max Elixir has been disabled!
+You crafted a Max Elixir!
+You crafted [amount] Max Elixirs!
+You don't have enough shards to craft a Max Elixir!
+You don't have enough shards to craft [amount] Max Elixirs!
+Do you want to sell a Max Elixir for [coins] coins?
+Do you want to sell [amount] Max Elixirs for [coins] coins?
+Do you wish to buy a Max Elixir for [coins] coins?
+Do you wish to buy [amount] Max Elixirs for [coins] coins?

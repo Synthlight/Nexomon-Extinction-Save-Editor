@@ -1,0 +1,23 @@
+Electric NexoTrap
+Electric NexoTraps
+A NexoTrap designed to capture Electric-type Nexomon!
+<blank>
+<blank>
+You received an Electric NexoTrap!
+You received [amount] Electric NexoTraps!
+You found an Electric NexoTrap!
+You found [amount] Electric NexoTraps!
+Do you wish to use an Electric NexoTrap on [nickname]?
+[nickname] doesn't need an Electric NexoTrap!
+You used an Electric NexoTrap on [nickname]!
+Your opponent used an Electric NexoTrap on [nickname]!
+Electric NexoTrap has been enabled!
+Electric NexoTrap has been disabled!
+You crafted an Electric NexoTrap!
+You crafted [amount] Electric NexoTraps!
+You don't have enough shards to craft an Electric NexoTrap!
+You don't have enough shards to craft [amount] Electric NexoTraps!
+Do you want to sell an Electric NexoTrap for [coins] coins?
+Do you want to sell [amount] Electric NexoTraps for [coins] coins?
+Do you wish to buy an Electric NexoTrap for [coins] coins?
+Do you wish to buy [amount] Electric NexoTraps for [coins] coins?

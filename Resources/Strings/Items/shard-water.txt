@@ -1,0 +1,23 @@
+Ocean Shard
+Ocean Shards
+A Water-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received an Ocean Shard!
+You received [amount] Ocean Shards!
+You found an Ocean Shard!
+You found [amount] Ocean Shards!
+Do you wish to use an Ocean Shard on [nickname]?
+[nickname] doesn't need an Ocean Shard!
+You used an Ocean Shard on [nickname]!
+Your opponent used an Ocean Shard on [nickname]!
+Ocean Shard has been enabled!
+Ocean Shard has been disabled!
+You crafted an Ocean Shard!
+You crafted [amount] Ocean Shards!
+You don't have enough shards to craft an Ocean Shard!
+You don't have enough shards to craft [amount] Ocean Shards!
+Do you want to sell an Ocean Shard for [coins] coins?
+Do you want to sell [amount] Ocean Shards for [coins] coins?
+Do you wish to buy an Ocean Shard for [coins] coins?
+Do you wish to buy [amount] Ocean Shards for [coins] coins?

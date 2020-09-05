@@ -1,0 +1,23 @@
+Egg Tart
+Egg Tarts
+A very exclusive dish and it is not easy to cook. It requires a certain mastery to be cooked correctly. 
+<blank>
+<blank>
+You received an Egg Tart!
+You received [amount] Egg Tarts!
+You found an Egg Tart!
+You found [amount] Egg Tarts!
+Do you wish to use an Egg Tart on [nickname]?
+[nickname] doesn't need an Egg Tart!
+You used an Egg Tart on [nickname]!
+Your opponent used an Egg Tart on [nickname]!
+Egg Tart has been enabled!
+Egg Tart has been disabled!
+You crafted an Egg Tart!
+You crafted [amount] Egg Tarts!
+You don't have enough shards to craft an Egg Tart!
+You don't have enough shards to craft [amount] Egg Tarts!
+Do you want to sell an Egg Tart for [coins] coins?
+Do you want to sell [amount] Egg Tarts for [coins] coins?
+Do you wish to buy an Egg Tart for [coins] coins?
+Do you wish to buy [amount] Egg Tarts for [coins] coins?

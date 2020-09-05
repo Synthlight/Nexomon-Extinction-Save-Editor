@@ -1,0 +1,23 @@
+CHALLENGE BADGE
+CHALLENGE BADGES
+Tamers across the world will want to rematch you even sooner!
+<blank>
+<blank>
+You received a CHALLENGE BADGE!
+You received [amount] CHALLENGE BADGES!
+You found a CHALLENGE BADGE!
+You found [amount] CHALLENGE BADGES!
+Do you wish to use a CHALLENGE BADGE on [nickname]?
+[nickname] doesn't need a CHALLENGE BADGE!
+You used a CHALLENGE BADGE on [nickname]!
+Your opponent used a CHALLENGE BADGE on [nickname]!
+CHALLENGE BADGE has been enabled!
+CHALLENGE BADGE has been disabled!
+You crafted a CHALLENGE BADGE!
+You crafted [amount] CHALLENGE BADGES!
+You don't have enough shards to craft a CHALLENGE BADGE!
+You don't have enough shards to craft [amount] CHALLENGE BADGES!
+Do you want to sell a CHALLENGE BADGE for [coins] coins?
+Do you want to sell [amount] CHALLENGE BADGES for [coins] coins?
+Do you wish to buy a CHALLENGE BADGE for [coins] coins?
+Do you wish to buy [amount] CHALLENGE BADGES for [coins] coins?

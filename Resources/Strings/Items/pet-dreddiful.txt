@@ -1,0 +1,23 @@
+Dreddiful Companion
+Dreddifuls
+A Dreddiful follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Dreddiful Companion!
+You received [amount] Dreddifuls!
+You found a Dreddiful Companion!
+You found [amount] Dreddifuls!
+Do you wish to use a Dreddiful on [nickname]?
+[nickname] doesn't need a Dreddiful!
+You used a Dreddiful on [nickname]!
+Your opponent used a Dreddiful on [nickname]!
+Dreddiful has been enabled!
+Dreddiful has been disabled!
+You crafted a Dreddiful!
+You crafted [amount] Dreddifuls!
+You don't have enough shards to craft a Dreddiful!
+You don't have enough shards to craft [amount] Dreddifuls!
+Do you want to sell a Dreddiful for [coins] coins?
+Do you want to sell [amount] Dreddifuls for [coins] coins?
+Do you wish to buy a Dreddiful for [coins] coins?
+Do you wish to buy [amount] Dreddifuls for [coins] coins?

@@ -1,0 +1,23 @@
+Onigiri
+Onigiris
+A traditional rice ball with subtle salty flavors.
+<blank>
+<blank>
+You received an Onigiri!
+You received [amount] Onigiris!
+You found an Onigiri!
+You found [amount] Onigiris!
+Do you wish to use an Onigiri on [nickname]?
+[nickname] doesn't need an Onigiri!
+You used an Onigiri on [nickname]!
+Your opponent used an Onigiri on [nickname]!
+Onigiri has been enabled!
+Onigiri has been disabled!
+You crafted an Onigiri!
+You crafted [amount] Onigiris!
+You don't have enough shards to craft an Onigiri!
+You don't have enough shards to craft [amount] Onigiris!
+Do you want to sell an Onigiri for [coins] coins?
+Do you want to sell [amount] Onigiris for [coins] coins?
+Do you wish to buy an Onigiri for [coins] coins?
+Do you wish to buy [amount] Onigiris for [coins] coins?

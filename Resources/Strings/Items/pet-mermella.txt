@@ -1,0 +1,23 @@
+Mermella Companion
+Mermellas
+A Mermella follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Mermella Companion!
+You received [amount] Mermellas!
+You found a Mermella Companion!
+You found [amount] Mermellas!
+Do you wish to use a Mermella on [nickname]?
+[nickname] doesn't need a Mermella!
+You used a Mermella on [nickname]!
+Your opponent used a Mermella on [nickname]!
+Mermella has been enabled!
+Mermella has been disabled!
+You crafted a Mermella!
+You crafted [amount] Mermellas!
+You don't have enough shards to craft a Mermella!
+You don't have enough shards to craft [amount] Mermellas!
+Do you want to sell a Mermella for [coins] coins?
+Do you want to sell [amount] Mermellas for [coins] coins?
+Do you wish to buy a Mermella for [coins] coins?
+Do you wish to buy [amount] Mermellas for [coins] coins?

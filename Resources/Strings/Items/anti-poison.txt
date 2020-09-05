@@ -1,0 +1,23 @@
+Anti Poison
+Anti Poisons
+Cures the "POISONED" status effect on a Nexomon!
+<blank>
+<blank>
+You received an Anti Poison!
+You received [amount] Anti Poisons!
+You found an Anti Poison!
+You found [amount] Anti Poisons!
+Do you wish to use an Anti Poison on [nickname]?
+[nickname] doesn't need an Anti Poison!
+You used an Anti Poison on [nickname]!
+Your opponent used an Anti Poison on [nickname]!
+Anti Poison has been enabled!
+Anti Poison has been disabled!
+You crafted an Anti Poison!
+You crafted [amount] Anti Poisons!
+You don't have enough shards to craft an Anti Poison!
+You don't have enough shards to craft [amount] Anti Poisons!
+Do you want to sell an Anti Poison for [coins] coins?
+Do you want to sell [amount] Anti Poisons for [coins] coins?
+Do you wish to buy an Anti Poison for [coins] coins?
+Do you wish to buy [amount] Anti Poisons for [coins] coins?

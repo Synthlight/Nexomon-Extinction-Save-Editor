@@ -1,0 +1,23 @@
+Minet Companion
+Minets
+A Minet follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Minet Companion!
+You received [amount] Minets!
+You found a Minet Companion!
+You found [amount] Minets!
+Do you wish to use a Minet on [nickname]?
+[nickname] doesn't need a Minet!
+You used a Minet on [nickname]!
+Your opponent used a Minet on [nickname]!
+Minet has been enabled!
+Minet has been disabled!
+You crafted a Minet!
+You crafted [amount] Minets!
+You don't have enough shards to craft a Minet!
+You don't have enough shards to craft [amount] Minets!
+Do you want to sell a Minet for [coins] coins?
+Do you want to sell [amount] Minets for [coins] coins?
+Do you wish to buy a Minet for [coins] coins?
+Do you wish to buy [amount] Minets for [coins] coins?

@@ -1,0 +1,23 @@
+Acegon Companion
+Acegon Companions
+An Acegon follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received an Acegon Companion!
+You received [amount] Acegon Companions!
+You found an Acegon Companion!
+You found [amount] Acegon Companions!
+Do you wish to use a Acegon on [nickname]?
+[nickname] doesn't need a Acegon!
+You used a Acegon on [nickname]!
+Your opponent used a Acegon on [nickname]!
+Acegon has been enabled!
+Acegon has been disabled!
+You crafted a Acegon!
+You crafted [amount] Acegons!
+You don't have enough shards to craft a Acegon!
+You don't have enough shards to craft [amount] Acegons!
+Do you want to sell a Acegon for [coins] coins?
+Do you want to sell [amount] Acegons for [coins] coins?
+Do you wish to buy a Acegon for [coins] coins?
+Do you wish to buy [amount] Acegons for [coins] coins?

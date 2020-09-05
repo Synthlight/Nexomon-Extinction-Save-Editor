@@ -1,0 +1,23 @@
+Ether
+Ethers
+Restores [value_1] stamina.
+<blank>
+<blank>
+You received an Ether!
+You received [amount] Ethers!
+You found an Ether!
+You found [amount] Ethers!
+Do you wish to use an Ether on [nickname]?
+[nickname] doesn't need an Ether!
+You used an Ether on [nickname]!
+Your opponent used an Ether on [nickname]!
+Ether has been enabled!
+Ether has been disabled!
+You crafted an Ether!
+You crafted [amount] Ethers!
+You don't have enough shards to craft an Ether!
+You don't have enough shards to craft [amount] Ethers!
+Do you want to sell an Ether for [coins] coins?
+Do you want to sell [amount] Ethers for [coins] coins?
+Do you wish to buy an Ether for [coins] coins?
+Do you wish to buy [amount] Ethers for [coins] coins?

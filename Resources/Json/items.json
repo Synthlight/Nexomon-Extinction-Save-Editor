@@ -1,0 +1,997 @@
+{
+  "coins": {
+    "category": "currency",
+    "effectvalues": [ "50" ],
+    "serialization": "4183"
+  },
+  "diamonds": {
+    "category": "currency",
+    "effectvalues": [ "50" ],
+    "serialization": "3589"
+  },
+  "potion": {
+    "category": "consumable",
+    "effectvalues": [ "40" ],
+    "serialization": "4679"
+  },
+  "potion-super": {
+    "category": "consumable",
+    "effectvalues": [ "80" ],
+    "serialization": "6320"
+  },
+  "potion-ultra": {
+    "category": "consumable",
+    "effectvalues": [ "120" ],
+    "serialization": "8911"
+  },
+  "potion-max": {
+    "category": "consumable",
+    "effectvalues": [ "200" ],
+    "serialization": "9213"
+  },
+  "ether": {
+    "category": "consumable",
+    "effectvalues": [ "60" ],
+    "serialization": "9697"
+  },
+  "ether-super": {
+    "category": "consumable",
+    "effectvalues": [ "100" ],
+    "serialization": "5814"
+  },
+  "ether-ultra": {
+    "category": "consumable",
+    "effectvalues": [ "150" ],
+    "serialization": "9944"
+  },
+  "ether-max": {
+    "category": "consumable",
+    "effectvalues": [ "200" ],
+    "serialization": "3272"
+  },
+  "elixir": {
+    "category": "consumable",
+    "effectvalues": [ "50", "50" ],
+    "serialization": "8711"
+  },
+  "elixir-super": {
+    "category": "consumable",
+    "effectvalues": [ "90", "90" ],
+    "serialization": "6221"
+  },
+  "elixir-ultra": {
+    "category": "consumable",
+    "effectvalues": [ "140", "140" ],
+    "serialization": "3761"
+  },
+  "elixir-max": {
+    "category": "consumable",
+    "effectvalues": [ "200", "200" ],
+    "serialization": "5901"
+  },
+  "revive": {
+    "category": "consumable",
+    "effectvalues": [ "50" ],
+    "serialization": "8960"
+  },
+  "revive-super": {
+    "category": "consumable",
+    "effectvalues": [ "80" ],
+    "serialization": "4473"
+  },
+  "revive-ultra": {
+    "category": "consumable",
+    "effectvalues": [ "120" ],
+    "serialization": "7956"
+  },
+  "anti-burn": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "8772"
+  },
+  "anti-paralyze": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "8045"
+  },
+  "anti-poison": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "9170"
+  },
+  "anti-freeze": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "4454"
+  },
+  "anti-sleep": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "5760"
+  },
+  "anti-confusion": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "5037"
+  },
+  "anti-bind": {
+    "category": "consumable",
+    "effectvalues": [],
+    "serialization": "1660"
+  },
+  "shard-fire": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "8963"
+  },
+  "shard-water": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "4674"
+  },
+  "shard-wind": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "4438"
+  },
+  "shard-plant": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "3656"
+  },
+  "shard-electric": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "8692"
+  },
+  "shard-mineral": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "6017"
+  },
+  "shard-ghost": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "7332"
+  },
+  "shard-psychic": {
+    "category": "shard",
+    "effectvalues": [],
+    "serialization": "9901"
+  },
+  "nexotrap-regular": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "8555"
+  },
+  "nexotrap-golden": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "6960"
+  },
+  "nexotrap-fire": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "9331"
+  },
+  "nexotrap-water": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "3318"
+  },
+  "nexotrap-wind": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "9078"
+  },
+  "nexotrap-plant": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "2258"
+  },
+  "nexotrap-electric": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "2381"
+  },
+  "nexotrap-mineral": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "7915"
+  },
+  "nexotrap-ghost": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "9225"
+  },
+  "nexotrap-psychic": {
+    "category": "trap",
+    "effectvalues": [],
+    "serialization": "9703"
+  },
+  "nexobox-silver": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4248"
+  },
+  "nexobox-golden": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2822"
+  },
+  "food-perfect": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "3203"
+  },
+  "food-1": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "9377"
+  },
+  "food-2": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "2222"
+  },
+  "food-3": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1752"
+  },
+  "food-4": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1852"
+  },
+  "food-5": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1688"
+  },
+  "food-6": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "9441"
+  },
+  "food-7": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "5892"
+  },
+  "food-8": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "3296"
+  },
+  "food-9": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1638"
+  },
+  "food-10": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "7482"
+  },
+  "food-11": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "3370"
+  },
+  "food-12": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1806"
+  },
+  "food-13": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "5543"
+  },
+  "food-14": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "9322"
+  },
+  "food-15": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "4664"
+  },
+  "food-16": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1116"
+  },
+  "food-17": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1248"
+  },
+  "food-18": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "7798"
+  },
+  "food-19": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "3788"
+  },
+  "food-20": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "2725"
+  },
+  "food-21": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "5470"
+  },
+  "food-22": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "3561"
+  },
+  "food-23": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "9065"
+  },
+  "food-24": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "8836"
+  },
+  "food-25": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "2974"
+  },
+  "food-26": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1119"
+  },
+  "food-27": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "2973"
+  },
+  "food-28": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "5128"
+  },
+  "food-29": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "1102"
+  },
+  "food-30": {
+    "category": "food",
+    "effectvalues": [],
+    "serialization": "2505"
+  },
+  "core-destruction-low": {
+    "category": "core",
+    "effectvalues": [ "4" ],
+    "serialization": "1187"
+  },
+  "core-destruction-medium": {
+    "category": "core",
+    "effectvalues": [ "7" ],
+    "serialization": "1090"
+  },
+  "core-destruction-high": {
+    "category": "core",
+    "effectvalues": [ "10" ],
+    "serialization": "2195"
+  },
+  "core-protection-low": {
+    "category": "core",
+    "effectvalues": [ "4" ],
+    "serialization": "9266"
+  },
+  "core-protection-medium": {
+    "category": "core",
+    "effectvalues": [ "7" ],
+    "serialization": "4560"
+  },
+  "core-protection-high": {
+    "category": "core",
+    "effectvalues": [ "10" ],
+    "serialization": "8301"
+  },
+  "core-vitality-low": {
+    "category": "core",
+    "effectvalues": [ "5" ],
+    "serialization": "6768"
+  },
+  "core-vitality-medium": {
+    "category": "core",
+    "effectvalues": [ "7" ],
+    "serialization": "7036"
+  },
+  "core-vitality-high": {
+    "category": "core",
+    "effectvalues": [ "12" ],
+    "serialization": "1971"
+  },
+  "core-stamina-low": {
+    "category": "core",
+    "effectvalues": [ "6" ],
+    "serialization": "8462"
+  },
+  "core-stamina-medium": {
+    "category": "core",
+    "effectvalues": [ "12" ],
+    "serialization": "5480"
+  },
+  "core-stamina-high": {
+    "category": "core",
+    "effectvalues": [ "15" ],
+    "serialization": "8834"
+  },
+  "core-immunity-low": {
+    "category": "core",
+    "effectvalues": [ "5" ],
+    "serialization": "5991"
+  },
+  "core-immunity-medium": {
+    "category": "core",
+    "effectvalues": [ "10" ],
+    "serialization": "3862"
+  },
+  "core-immunity-high": {
+    "category": "core",
+    "effectvalues": [ "15" ],
+    "serialization": "2701"
+  },
+  "core-experience-low": {
+    "category": "core",
+    "effectvalues": [ "7" ],
+    "serialization": "3560"
+  },
+  "core-experience-medium": {
+    "category": "core",
+    "effectvalues": [ "13" ],
+    "serialization": "4537"
+  },
+  "core-experience-high": {
+    "category": "core",
+    "effectvalues": [ "20" ],
+    "serialization": "1161"
+  },
+  "core-greed-low": {
+    "category": "core",
+    "effectvalues": [ "3" ],
+    "serialization": "5443"
+  },
+  "core-greed-medium": {
+    "category": "core",
+    "effectvalues": [ "6" ],
+    "serialization": "9280"
+  },
+  "core-greed-high": {
+    "category": "core",
+    "effectvalues": [ "9" ],
+    "serialization": "8784"
+  },
+  "relic-tyrant": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2444"
+  },
+  "pickaxe": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4051"
+  },
+  "blueprints-resurrection": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7706"
+  },
+  "nexomite-black": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7642"
+  },
+  "key-vault": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "6741"
+  },
+  "key-atlanta": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4260"
+  },
+  "key-lydia": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "1496"
+  },
+  "key-amelie": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "6961"
+  },
+  "vial-drake": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2431"
+  },
+  "explosives": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4608"
+  },
+  "card-bonnie": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "9192"
+  },
+  "badge-bronze": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4107"
+  },
+  "badge-silver": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2493"
+  },
+  "badge-gold": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "3112"
+  },
+  "badge-master": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "5101"
+  },
+  "badge-drake": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "1404"
+  },
+  "badge-lateria": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "1046"
+  },
+  "ticket-airship": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "4426"
+  },
+  "letter-hannah": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "8594"
+  },
+  "quest-supplies": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7299"
+  },
+  "quest-garbage": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2518"
+  },
+  "quest-lunch": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "9592"
+  },
+  "quest-ring": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "5233"
+  },
+  "quest-lure": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2489"
+  },
+  "tribute-normal": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "3258"
+  },
+  "tribute-fire": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "8385"
+  },
+  "tribute-water": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "9480"
+  },
+  "tribute-wind": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "9601"
+  },
+  "tribute-plant": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "2985"
+  },
+  "tribute-electric": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7852"
+  },
+  "tribute-mineral": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7229"
+  },
+  "tribute-ghost": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "3805"
+  },
+  "tribute-psychic": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "7251"
+  },
+  "pet-mearn": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "2499"
+  },
+  "pet-raksuma": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1283"
+  },
+  "pet-mermella": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "3810"
+  },
+  "pet-glidlee": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1056"
+  },
+  "pet-acegon": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1834"
+  },
+  "pet-dreddiful": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "3164"
+  },
+  "pet-zumble": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1007"
+  },
+  "pet-imburion": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "4566"
+  },
+  "pet-blizstrong": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "9433"
+  },
+  "pet-vodo": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "5569"
+  },
+  "pet-spektar": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "3987"
+  },
+  "pet-wargoyle": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "9812"
+  },
+  "pet-sandillo": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "8528"
+  },
+  "pet-cruff": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "8104"
+  },
+  "pet-lunabelle": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "2661"
+  },
+  "pet-paupo": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "6425"
+  },
+  "pet-moonica": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "6562"
+  },
+  "pet-fortle": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "4837"
+  },
+  "pet-lume": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1480"
+  },
+  "pet-holoch": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "2220"
+  },
+  "pet-noki": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "9244"
+  },
+  "pet-dinja": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "7610"
+  },
+  "pet-malitress": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1138"
+  },
+  "pet-woozy": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "5116"
+  },
+  "pet-minet": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "2526"
+  },
+  "pet-gekoko": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "2089"
+  },
+  "pet-mara": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "3457"
+  },
+  "pet-lioness": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "9670"
+  },
+  "pet-masqiti": {
+    "category": "pet",
+    "effectvalues": [],
+    "serialization": "1380"
+  },
+  "special-whistle-normal": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8171"
+  },
+  "special-whistle-fire": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8172"
+  },
+  "special-whistle-water": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8173"
+  },
+  "special-whistle-plant": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8174"
+  },
+  "special-whistle-wind": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8175"
+  },
+  "special-whistle-electric": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8176"
+  },
+  "special-whistle-mineral": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8177"
+  },
+  "special-whistle-psychic": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8178"
+  },
+  "special-whistle-ghost": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8179"
+  },
+  "special-whistle-dragon": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8180"
+  },
+  "special-whistle-tyrant": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8181"
+  },
+  "special-ultra-pickaxe": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "8281"
+  },
+  "special-secret-sauce": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "8282"
+  },
+  "special-running-shoes": {
+    "category": "key",
+    "effectvalues": [],
+    "serialization": "1097"
+  },
+  "special-greed-wallet": {
+    "category": "key",
+    "effectvalues": [ 10 ],
+    "serialization": "9501"
+  },
+  "special-exp-booster": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "7609"
+  },
+  "special-discount-voucher": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "7958"
+  },
+  "special-mining-goggles": {
+    "category": "key",
+    "effectvalues": [ ],
+    "serialization": "3809"
+  },
+  "special-challenge-badge": {
+    "category": "key",
+    "effectvalues": [ ],
+    "serialization": "7390"
+  },
+  "special-repel": {
+    "category": "key",
+    "effectvalues": [ ],
+    "serialization": "1208"
+  },
+
+
+
+
+
+
+  "core-vitality-boss-50": {
+    "category": "core",
+    "effectvalues": [ "50" ],
+    "serialization": "9531"
+  },
+  "core-vitality-boss-100": {
+    "category": "core",
+    "effectvalues": [ "100" ],
+    "serialization": "9532"
+  },
+  "core-vitality-boss-150": {
+    "category": "core",
+    "effectvalues": [ "150" ],
+    "serialization": "9533"
+  },
+  "core-vitality-boss-200": {
+    "category": "core",
+    "effectvalues": [ "200" ],
+    "serialization": "9534"
+  },
+  "core-vitality-boss-250": {
+    "category": "core",
+    "effectvalues": [ "250" ],
+    "serialization": "9535"
+  },
+  "core-vitality-boss-300": {
+    "category": "core",
+    "effectvalues": [ "300" ],
+    "serialization": "9536"
+  },
+  "core-vitality-boss-400": {
+    "category": "core",
+    "effectvalues": [ "400" ],
+    "serialization": "9547"
+  },
+  "core-vitality-boss-500": {
+    "category": "core",
+    "effectvalues": [ "500" ],
+    "serialization": "9538"
+  },
+
+
+  "core-stamina-boss-50": {
+    "category": "core",
+    "effectvalues": [ "50" ],
+    "serialization": "9621"
+  },
+  "core-stamina-boss-100": {
+    "category": "core",
+    "effectvalues": [ "100" ],
+    "serialization": "9602"
+  },
+  "core-stamina-boss-150": {
+    "category": "core",
+    "effectvalues": [ "150" ],
+    "serialization": "9603"
+  },
+  "core-stamina-boss-200": {
+    "category": "core",
+    "effectvalues": [ "200" ],
+    "serialization": "9604"
+  },
+  "core-stamina-boss-250": {
+    "category": "core",
+    "effectvalues": [ "250" ],
+    "serialization": "9605"
+  },
+  "core-stamina-boss-300": {
+    "category": "core",
+    "effectvalues": [ "300" ],
+    "serialization": "9606"
+  },
+  "core-stamina-boss-400": {
+    "category": "core",
+    "effectvalues": [ "400" ],
+    "serialization": "9607"
+  },
+  "core-stamina-boss-500": {
+    "category": "core",
+    "effectvalues": [ "500" ],
+    "serialization": "9608"
+  },
+
+
+  "core-immunity-boss-50": {
+    "category": "core",
+    "effectvalues": [ "50" ],
+    "serialization": "9701"
+  },
+  "core-immunity-boss-70": {
+    "category": "core",
+    "effectvalues": [ "70" ],
+    "serialization": "9702"
+  },
+  "core-immunity-boss-100": {
+    "category": "core",
+    "effectvalues": [ "100" ],
+    "serialization": "9707"
+  }
+}

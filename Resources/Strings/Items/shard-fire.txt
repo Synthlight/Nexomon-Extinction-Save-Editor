@@ -1,0 +1,23 @@
+Blazing Shard
+Blazing Shards
+A Fire-type elemental shard. Use it for crafting or selling!
+<blank>
+<blank>
+You received a Blazing Shard!
+You received [amount] Blazing Shards!
+You found a Blazing Shard!
+You found [amount] Blazing Shards!
+Do you wish to use a Blazing Shard on [nickname]?
+[nickname] doesn't need a Blazing Shard!
+You used a Blazing Shard on [nickname]!
+Your opponent used a Blazing Shard on [nickname]!
+Blazing Shard has been enabled!
+Blazing Shard has been disabled!
+You crafted a Blazing Shard!
+You crafted [amount] Blazing Shards!
+You don't have enough shards to craft a Blazing Shard!
+You don't have enough shards to craft [amount] Blazing Shards!
+Do you want to sell a Blazing Shard for [coins] coins?
+Do you want to sell [amount] Blazing Shards for [coins] coins?
+Do you wish to buy a Blazing Shard for [coins] coins?
+Do you wish to buy [amount] Blazing Shards for [coins] coins?

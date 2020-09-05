@@ -1,0 +1,23 @@
+Elixir
+Elixirs
+Restores both [value_1] HP and [value_2] stamina.
+<blank>
+<blank>
+You received an Elixir!
+You received [amount] Elixirs!
+You found an Elixir!
+You found [amount] Elixirs!
+Do you wish to use an Elixir on [nickname]?
+[nickname] doesn't need an Elixir!
+You used an Elixir on [nickname]!
+Your opponent used an Elixir on [nickname]!
+Elixir has been enabled!
+Elixir has been disabled!
+You crafted an Elixir!
+You crafted [amount] Elixirs!
+You don't have enough shards to craft an Elixir!
+You don't have enough shards to craft [amount] Elixirs!
+Do you want to sell an Elixir for [coins] coins?
+Do you want to sell [amount] Elixirs for [coins] coins?
+Do you wish to buy an Elixir for [coins] coins?
+Do you wish to buy [amount] Elixirs for [coins] coins?

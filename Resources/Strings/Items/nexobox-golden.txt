@@ -1,0 +1,23 @@
+Golden Nexobox
+Golden Nexoboxes
+A mysterious artifact that contains a very rare Nexomon inside. Open it to find out!
+<blank>
+<blank>
+You received a Golden Nexobox!
+You received [amount] Golden Nexoboxes!
+You found a Golden Nexobox!
+You found [amount] Golden Nexoboxes!
+Do you wish to use a Golden Nexobox on [nickname]?
+[nickname] doesn't need a Golden Nexobox!
+You used a Golden Nexobox on [nickname]!
+Your opponent used a Golden Nexobox on [nickname]!
+Golden Nexobox has been enabled!
+Golden Nexobox has been disabled!
+You crafted a Golden Nexobox!
+You crafted [amount] Golden Nexoboxes!
+You don't have enough shards to craft a Golden Nexobox!
+You don't have enough shards to craft [amount] Golden Nexoboxes!
+Do you want to sell a Golden Nexobox for [coins] coins?
+Do you want to sell [amount] Golden Nexoboxes for [coins] coins?
+Do you wish to buy a Golden Nexobox for [coins] coins?
+Do you wish to buy [amount] Golden Nexoboxes for [coins] coins?

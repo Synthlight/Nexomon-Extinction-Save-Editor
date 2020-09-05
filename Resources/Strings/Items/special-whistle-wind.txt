@@ -1,0 +1,23 @@
+WIND WHISTLE
+WIND WHISTLES
+With this item, NexoTraps are [value_1]% more likely to capture Wind-Type Nexomon. This can be stacked!
+<blank>
+<blank>
+You received a WIND WHISTLE!
+You received [amount] WIND WHISTLES!
+You found a WIND WHISTLE!
+You found [amount] WIND WHISTLES!
+Do you wish to use a WIND WHISTLE on [nickname]?
+[nickname] doesn't need a WIND WHISTLE!
+You used a WIND WHISTLE on [nickname]!
+Your opponent used a WIND WHISTLE on [nickname]!
+WIND WHISTLE has been enabled!
+WIND WHISTLE has been disabled!
+You crafted a WIND WHISTLE!
+You crafted [amount] WIND WHISTLES!
+You don't have enough shards to craft a WIND WHISTLE!
+You don't have enough shards to craft [amount] WIND WHISTLES!
+Do you want to sell a WIND WHISTLE for [coins] coins?
+Do you want to sell [amount] WIND WHISTLES for [coins] coins?
+Do you wish to buy a WIND WHISTLE for [coins] coins?
+Do you wish to buy [amount] WIND WHISTLES for [coins] coins?

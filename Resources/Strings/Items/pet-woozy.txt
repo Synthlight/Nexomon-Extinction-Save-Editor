@@ -1,0 +1,23 @@
+Woozy Companion
+Woozies
+A Woozy follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Woozy Companion!
+You received [amount] Woozies!
+You found a Woozy Companion!
+You found [amount] Woozies!
+Do you wish to use a Woozy on [nickname]?
+[nickname] doesn't need a Woozy!
+You used a Woozy on [nickname]!
+Your opponent used a Woozy on [nickname]!
+Woozy has been enabled!
+Woozy has been disabled!
+You crafted a Woozy!
+You crafted [amount] Woozies!
+You don't have enough shards to craft a Woozy!
+You don't have enough shards to craft [amount] Woozies!
+Do you want to sell a Woozy for [coins] coins?
+Do you want to sell [amount] Woozies for [coins] coins?
+Do you wish to buy a Woozy for [coins] coins?
+Do you wish to buy [amount] Woozies for [coins] coins?

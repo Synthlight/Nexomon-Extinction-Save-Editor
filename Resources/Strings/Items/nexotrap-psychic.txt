@@ -1,0 +1,23 @@
+Psychic Nexotrap
+Psychic Nexotraps
+A Nexotrap designed to capture Psychic-type Nexomon!
+<blank>
+<blank>
+You received a Psychic Nexotrap!
+You received [amount] Psychic Nexotraps!
+You found a Psychic Nexotrap!
+You found [amount] Psychic Nexotraps!
+Do you wish to use a Psychic Nexotrap on [nickname]?
+[nickname] doesn't need a Psychic Nexotrap!
+You used a Psychic Nexotrap on [nickname]!
+Your opponent used a Psychic Nexotrap on [nickname]!
+Psychic Nexotrap has been enabled!
+Psychic Nexotrap has been disabled!
+You crafted a Psychic Nexotrap!
+You crafted [amount] Psychic Nexotraps!
+You don't have enough shards to craft a Psychic Nexotrap!
+You don't have enough shards to craft [amount] Psychic Nexotraps!
+Do you want to sell a Psychic Nexotrap for [coins] coins?
+Do you want to sell [amount] Psychic Nexotraps for [coins] coins?
+Do you wish to buy a Psychic Nexotrap for [coins] coins?
+Do you wish to buy [amount] Psychic Nexotraps for [coins] coins?

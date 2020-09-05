@@ -1,0 +1,23 @@
+PLANT WHISTLE
+PLANT WHISTLES
+With this item, NexoTraps are [value_1]% more likely to capture Plant-Type Nexomon. This can be stacked!
+<blank>
+<blank>
+You received a PLANT WHISTLE!
+You received [amount] PLANT WHISTLES!
+You found a PLANT WHISTLE!
+You found [amount] PLANT WHISTLES!
+Do you wish to use a PLANT WHISTLE on [nickname]?
+[nickname] doesn't need a PLANT WHISTLE!
+You used a PLANT WHISTLE on [nickname]!
+Your opponent used a PLANT WHISTLE on [nickname]!
+PLANT WHISTLE has been enabled!
+PLANT WHISTLE has been disabled!
+You crafted a PLANT WHISTLE!
+You crafted [amount] PLANT WHISTLES!
+You don't have enough shards to craft a PLANT WHISTLE!
+You don't have enough shards to craft [amount] PLANT WHISTLES!
+Do you want to sell a PLANT WHISTLE for [coins] coins?
+Do you want to sell [amount] PLANT WHISTLES for [coins] coins?
+Do you wish to buy a PLANT WHISTLE for [coins] coins?
+Do you wish to buy [amount] PLANT WHISTLES for [coins] coins?

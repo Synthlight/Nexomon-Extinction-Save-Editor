@@ -1,0 +1,23 @@
+Laterian Sigil
+Laterian Sigils
+A mark of respect among Laterians, proof that you're a true warrior!
+<blank>
+<blank>
+You received a Laterian Sigil!
+You received [amount] Laterian Sigils!
+You found a Laterian Sigil!
+You found [amount] Laterian Sigils!
+Do you wish to use a Laterian Sigil on [nickname]?
+[nickname] doesn't need a Laterian Sigil!
+You used a Laterian Sigil on [nickname]!
+Your opponent used a Laterian Sigil on [nickname]!
+Laterian Sigil has been enabled!
+Laterian Sigil has been disabled!
+You crafted a Laterian Sigil!
+You crafted [amount] Laterian Sigils!
+You don't have enough shards to craft a Laterian Sigil!
+You don't have enough shards to craft [amount] Laterian Sigils!
+Do you want to sell a Laterian Sigil for [coins] coins?
+Do you want to sell [amount] Laterian Sigils for [coins] coins?
+Do you wish to buy a Laterian Sigil for [coins] coins?
+Do you wish to buy [amount] Laterian Sigils for [coins] coins?

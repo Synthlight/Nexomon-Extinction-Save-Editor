@@ -1,0 +1,23 @@
+Wargoyle Companion
+Wargoyles
+A Wargoyle follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Wargoyle Companion!
+You received [amount] Wargoyles!
+You found a Wargoyle Companion!
+You found [amount] Wargoyles!
+Do you wish to use a Wargoyle on [nickname]?
+[nickname] doesn't need a Wargoyle!
+You used a Wargoyle on [nickname]!
+Your opponent used a Wargoyle on [nickname]!
+Wargoyle has been enabled!
+Wargoyle has been disabled!
+You crafted a Wargoyle!
+You crafted [amount] Wargoyles!
+You don't have enough shards to craft a Wargoyle!
+You don't have enough shards to craft [amount] Wargoyles!
+Do you want to sell a Wargoyle for [coins] coins?
+Do you want to sell [amount] Wargoyles for [coins] coins?
+Do you wish to buy a Wargoyle for [coins] coins?
+Do you wish to buy [amount] Wargoyles for [coins] coins?

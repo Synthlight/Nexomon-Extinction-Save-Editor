@@ -1,0 +1,23 @@
+Orange
+Oranges
+A sweet and juicy orange. It needs lots of sunshine and water to grow!
+<blank>
+<blank>
+You received an Orange!
+You received [amount] Oranges!
+You found an Orange!
+You found [amount] Oranges!
+Do you wish to use an Orange on [nickname]?
+[nickname] doesn't need an Orange!
+You used an Orange on [nickname]!
+Your opponent used an Orange on [nickname]!
+Orange has been enabled!
+Orange has been disabled!
+You crafted an Orange!
+You crafted [amount] Oranges!
+You don't have enough shards to craft an Orange!
+You don't have enough shards to craft [amount] Oranges!
+Do you want to sell an Orange for [coins] coins?
+Do you want to sell [amount] Oranges for [coins] coins?
+Do you wish to buy an Orange for [coins] coins?
+Do you wish to buy [amount] Oranges for [coins] coins?

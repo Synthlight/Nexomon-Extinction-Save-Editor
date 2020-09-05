@@ -1,0 +1,23 @@
+TEAM CURE
+TEAM CURES
+Restores your entire party! Can only be used outside battles.
+<blank>
+<blank>
+You received a TEAM CURE!
+You received [amount] TEAM CURES!
+You found a TEAM CURE!
+You found [amount] TEAM CURES!
+Do you wish to use a TEAM CURE on [nickname]?
+[nickname] doesn't need a TEAM CURE!
+You used a TEAM CURE on [nickname]!
+Your opponent used a TEAM CURE on [nickname]!
+TEAM CURE has been enabled!
+TEAM CURE has been disabled!
+You crafted a TEAM CURE!
+You crafted [amount] TEAM CURES!
+You don't have enough shards to craft a TEAM CURE!
+You don't have enough shards to craft [amount] TEAM CURES!
+Do you want to sell a TEAM CURE for [coins] coins?
+Do you want to sell [amount] TEAM CURES for [coins] coins?
+Do you wish to buy a TEAM CURE for [coins] coins?
+Do you wish to buy [amount] TEAM CURES for [coins] coins?

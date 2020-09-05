@@ -1,0 +1,23 @@
+Super Potion
+Super Potions
+Restores [value_1] HP.
+<blank>
+<blank>
+You received a Super Potion!
+You received [amount] Super Potions!
+You found a Super Potion!
+You found [amount] Super Potions!
+Do you wish to use a Super Potion on [nickname]?
+[nickname] doesn't need a Super Potion!
+You used a Super Potion on [nickname]!
+Your opponent used a Super Potion on [nickname]!
+Super Potion has been enabled!
+Super Potion has been disabled!
+You crafted a Super Potion!
+You crafted [amount] Super Potions!
+You don't have enough shards to craft a Super Potion!
+You don't have enough shards to craft [amount] Super Potions!
+Do you want to sell a Super Potion for [coins] coins?
+Do you want to sell [amount] Super Potions for [coins] coins?
+Do you wish to buy a Super Potion for [coins] coins?
+Do you wish to buy [amount] Super Potions for [coins] coins?

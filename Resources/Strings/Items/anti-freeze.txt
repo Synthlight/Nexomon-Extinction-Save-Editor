@@ -1,0 +1,23 @@
+Anti Freeze
+Anti Freezes
+Cures the "FROZEN" status effect on a Nexomon!
+<blank>
+<blank>
+You received an Anti Freeze!
+You received [amount] Anti Freezes!
+You found an Anti Freeze!
+You found [amount] Anti Freezes!
+Do you wish to use an Anti Freeze on [nickname]?
+[nickname] doesn't need an Anti Freeze!
+You used an Anti Freeze on [nickname]!
+Your opponent used an Anti Freeze on [nickname]!
+Anti Freeze has been enabled!
+Anti Freeze has been disabled!
+You crafted an Anti Freeze!
+You crafted [amount] Anti Freezes!
+You don't have enough shards to craft an Anti Freeze!
+You don't have enough shards to craft [amount] Anti Freezes!
+Do you want to sell an Anti Freeze for [coins] coins?
+Do you want to sell [amount] Anti Freezes for [coins] coins?
+Do you wish to buy an Anti Freeze for [coins] coins?
+Do you wish to buy [amount] Anti Freezes for [coins] coins?

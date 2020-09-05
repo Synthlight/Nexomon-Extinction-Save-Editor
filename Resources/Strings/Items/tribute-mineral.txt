@@ -1,0 +1,23 @@
+Tribute of Stone
+Tributes of Stone
+An ancient elemental relic emitting a faint aura...
+<blank>
+<blank>
+You received the Tribute of Stone!
+You received [amount] Tributes of Stone!
+You found the Tribute of Stone!
+You found [amount] Tributes of Stone!
+Do you wish to use the Tribute of Stone on [nickname]?
+[nickname] doesn't need the Tribute of Stone!
+You used the Tribute of Stone on [nickname]!
+Your opponent used the Tribute of Stone on [nickname]!
+Tribute of Stone has been enabled!
+Tribute of Stone has been disabled!
+You crafted the Tribute of Stone!
+You crafted [amount] Tributes of Stone!
+You don't have enough shards to craft the Tribute of Stone!
+You don't have enough shards to craft [amount] Tributes of Stone!
+Do you want to sell the Tribute of Stone for [coins] coins?
+Do you want to sell [amount] Tributes of Stone for [coins] coins?
+Do you wish to buy the Tribute of Stone for [coins] coins?
+Do you wish to buy [amount] Tributes of Stone for [coins] coins?

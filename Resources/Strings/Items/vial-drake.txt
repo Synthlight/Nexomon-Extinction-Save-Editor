@@ -1,0 +1,23 @@
+Drake Vial
+Drake Vials
+A mysterious substance developed to lure dragons!
+<blank>
+<blank>
+You received the Drake Vial!
+You received [amount] Drake Vials!
+You found the Drake Vial!
+You found [amount] Drake Vials!
+Do you wish to use the Drake Vial on [nickname]?
+[nickname] doesn't need the Drake Vial!
+You used the Drake Vial on [nickname]!
+Your opponent used the Drake Vial on [nickname]!
+Drake Vial has been enabled!
+Drake Vial has been disabled!
+You crafted the Drake Vial!
+You crafted [amount] Drake Vials!
+You don't have enough shards to craft the Drake Vial!
+You don't have enough shards to craft [amount] Drake Vials!
+Do you want to sell the Drake Vial for [coins] coins?
+Do you want to sell [amount] Drake Vials for [coins] coins?
+Do you wish to buy the Drake Vial for [coins] coins?
+Do you wish to buy [amount] Drake Vials for [coins] coins?

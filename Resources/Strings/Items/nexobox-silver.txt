@@ -1,0 +1,23 @@
+Silver Nexobox
+Silver Nexoboxes
+A mysterious artifact that contains a rare Nexomon inside. Open it to find out!
+<blank>
+<blank>
+You received a Silver Nexobox!
+You received [amount] Silver Nexoboxes!
+You found a Silver Nexobox!
+You found [amount] Silver Nexoboxes!
+Do you wish to use a Silver Nexobox on [nickname]?
+[nickname] doesn't need a Silver Nexobox!
+You used a Silver Nexobox on [nickname]!
+Your opponent used a Silver Nexobox on [nickname]!
+Silver Nexobox has been enabled!
+Silver Nexobox has been disabled!
+You crafted a Silver Nexobox!
+You crafted [amount] Silver Nexoboxes!
+You don't have enough shards to craft a Silver Nexobox!
+You don't have enough shards to craft [amount] Silver Nexoboxes!
+Do you want to sell a Silver Nexobox for [coins] coins?
+Do you want to sell [amount] Silver Nexoboxes for [coins] coins?
+Do you wish to buy a Silver Nexobox for [coins] coins?
+Do you wish to buy [amount] Silver Nexoboxes for [coins] coins?

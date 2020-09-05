@@ -1,0 +1,23 @@
+Potion
+Potions
+Restores [value_1] HP.
+<blank>
+<blank>
+You received a Potion!
+You received [amount] Potions!
+You found a Potion!
+You found [amount] Potions!
+Do you wish to use a Potion on [nickname]?
+[nickname] doesn't need a Potion!
+You used a Potion on [nickname]!
+Your opponent used a Potion on [nickname]!
+Potion has been enabled!
+Potion has been disabled!
+You crafted a Potion!
+You crafted [amount] Potions!
+You don't have enough shards to craft a Potion!
+You don't have enough shards to craft [amount] Potions!
+Do you want to sell a Potion for [coins] coins?
+Do you want to sell [amount] Potions for [coins] coins?
+Do you wish to buy a Potion for [coins] coins?
+Do you wish to buy [amount] Potions for [coins] coins?

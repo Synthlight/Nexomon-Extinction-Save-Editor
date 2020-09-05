@@ -1,0 +1,208 @@
+Deals high Fire-type damage with great accuracy.
+Deals Ghost-type damage with a 40% chance to inflict leech.
+Deals Psychic-type damage with a 25% critical hit rate.
+Increases DEF by 25%.
+Creates a fire barrier for 3 turns, reducing Fire-type damage received by 50%.
+Creates a wind barrier for 3 turns, reducing Wind-type damage received by 50%.
+Has a 35% chance to inflict bind. Does not require much stamina.
+Has a 35% chance to inflict paralyze.
+Deals high Plant-type damage with a 10% chance to inflict poison.
+Increases ATK and DEF by 15%.
+Increases SPD by 40%.
+Increases elemental damage by 25%.
+Halves the chance of being inflicted with a status ailment.
+Increases ATK by 25%.
+Nullifies bonus elemental damage received for 5 turns.
+Deals Fire-type damage with a 30% chance to inflict burn.
+Deals high Fire-type damage with a 10% chance to inflict burn.
+Deals massive physical damage.
+Deals Mineral-type damage and removes all SPD status effects from opponent.
+Deals high Mineral-type damage with high accuracy.
+Deals massive Electric-type damage.
+Deals Ghost-type damage with a 25% critical hit rate.
+Deals high Electric-type damage with great accuracy.
+Deals high Fire-type damage with a 20% chance to inflict burn.
+Deals Fire-type damage with high accuracy.
+Deals Fire-type damage with a 25% critical hit rate.
+Deals Fire-type damage with a 30% chance to inflict bind.
+Has a 35% chance to inflict freeze.
+Has a 35% chance to inflict bind.
+Deals low Plant-type damage with a 30% chance to inflict bind.
+Restores 100 HP.
+Restores 50 ST.
+All skills require 10 less ST for 5 turns.
+Restores 30% of max HP.
+Increases SPD by 60% for 3 turns.
+Deals high Wind-type damage with high accuracy.
+Deals Water-type damage with a 25% critical hit rate.
+Deals great Water-type damage with high accuracy.
+Deals great Plant-type damage with high accuracy.
+Has a 40% chance to inflict confused.
+Deals Electric-type damage with high accuracy.
+Deals Electric-type damage with a 25% critical hit rate.
+Deals high Electric-type damage with a 10% chance to inflict paralyze.
+Deals Mineral-type damage with a 30% chance to inflict confuse.
+Deals physical damage with high accuracy.
+Decreases opponent's ATK and DEF by 15%.
+Deals high Mineral-type damage with a 10% chance to inflict confuse.
+Has a 35% chance to inflict puzzled.
+Deals massive Fire-type damage.
+Deals Water-type damage with high accuracy.
+Deals Wind-type damage with a 25% critical hit rate.
+Deals massive Plant-type damage.
+Deals Electric-type damage with a 25% critical hit rate.
+All paralyze-inflicting skills have an extra 25% chance to be successful.
+Deals high Wind-type damage with a 30% chance to inflict confused.
+Deals high Plant-type damage with a 10% chance to inflict bind.
+Reduces Normal-type damage against this Nexomon by 25% for 3 turns.
+Has a 50% chance to remove ATK buffs.
+Deals Wind-type damage with high accuracy.
+Deals physical damage with a 20% critical hit rate.
+Restores 30% of HP and ST at the end of the next turn.
+Deals Water-type damage with a 10% chance to inflict freeze.
+Deals Plant-type damage with a 25% critical hit rate.
+Has a 40% chance to instantly faint opponent if they are at least 15 levels lower than your Nexomon.
+Damage caused by status effects is doubled.
+Creates an invisible shield with HP equivalent to 25% of this Nexomon's current HP for up to 3 turns.
+Deals Water-type damage with a 20% chance to inflict freeze.
+Increases chance to evade by 75% next turn.
+Reduces opponents's ATK and DEF stats by 25% for 3 turns. Has no effect on Psychic-type or Ghost-type Nexomon. 
+Reduces critical hit chance of all opponent's skills by 60%.
+Increases chance to evade by 15%.
+Deals Water-type damage with a 30% chance to inflict freeze.
+Increases ATK damage by 25% but deals 15% of damage dealt to opponent back to this Nexomon every turn.
+Has a 35% chance to inflict confuse.
+Deals Mineral-type damage with a 20% chance to inflict frail.
+For the next 2 turns, any attacks that would reduce this Nexomon's HP to 0 instead reduce HP to 1.
+Deals Water-type damage with a 10% chance to inflict freeze.
+Restores 25% of max HP. If this Nexomon's HP is critical then it restores 50% instead.
+Deals Ghost-type damage with a 30% chance to inflict sick.
+Deals Plant-type damage with high accuracy.
+Increases accuracy by 45%.
+Deals physical damage with a 10% chance to inflict stun.
+Water-type skills have 40% increased critical hit chance but DEF is reduced by 30%.
+Deals physical damage with a 15% chance to inflict stun.
+Deals Plant-type damage with a 30% chance to inflict poison.
+Deals Plant-type damage with a 20% chance to inflict poison.
+Fully restores HP but costs a lot of ST.
+Grants recovery, restoring 8% of this Nexomon's maximum HP every turn.
+Deals Fire-type damage with a 10% chance to inflict bind.
+Deals some Fire-type damage with a 25% chance of removing opponents's DEF status effects.
+Deals Mineral-type damage with a 25% critical hit rate.
+Deals Mineral-type damage with high accuracy.
+Deals Mineral-type damage with a 30% chance to inflict frail.
+Increases chance to evade by 75% for 2 turns.
+Increases ST cost of all opponent's skills by 10 for 3 turns.
+Prevents this Nexomon from receiving status ailments for 4 turns.
+Deals high Mineral-type damage with a 10% chance to inflict frail.
+Deals massive Mineral-type damage.
+Nullifies 70% of damage received the next turn, then another 50% in the following turn, and finally 30% on the third turn.
+Reduces opponent's accuracy by 30% for 3 turns.
+Nullifies all Normal-type damage received for the next 3 turns.
+Deals Electric-type damage with a 20% chance to inflict paralyze.
+Has a 30% chance to decrease opponent's ATK by 20%.
+Damage received from the next physical attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Water-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Fire-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Plant-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Electric-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Mineral-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Wind-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Psychic-type attack is nullified and instead restores 50% of the damage received as HP.
+Damage received from the next Ghost-type attack is nullified and instead restores 50% of the damage received as HP.
+Removes all status ailments from this Nexomon.
+Has a 35% chance to inflict poison.
+Deals physical damage with a 10% chance to inflict demotivated.
+Has a 30% chance to deal double damage and a 20% chance to deal triple damage.
+Deals massive Water-type damage.
+Boosts Fire-type skill damage by 15%. Can be stacked up to 5 times.
+Deals Water-type damage with a 20% chance to inflict poison.
+Decreases opponent's accuracy by 15%.
+Gives this Nexomon a 30% chance to inflict paralyze when attacked for 3 turns.
+Reduces opponent's critical hit chance to 0 for 5 turns.
+Deals Ghost-type damage with a 15% chance to inflict hex.
+Deals Psychic-type damage with high accuracy.
+Has a 35% chance to inflict paralyze. 50% if opponent's HP is critical.
+Deals Ghost-type damage with a 25% chance to inflict nervous.
+Forces opponent to choose skills at random for 2 turns.
+Deals Psychic-type damage with a 30% chance to inflict provoked.
+Removes any positive status effects from opponent.
+Fully restores HP and removes all status ailments but needs to meditate for 2 turns.
+The next 3 Ghost-type skills have 100% accuracy.
+Deals physical damage with a 20% chance to inflict sleep.
+Deals damage, which increases by 30% each time the skill is used. Can be stacked up to 5 times.
+Deals massive Wind-type damage.
+Deals massive Ghost-type damage.
+Increases opponent's chance of being affected by status ailments by 35%.
+Self-destructs, dealing massive damage  with a 100% critical hit chance at the cost of this Nexomon fainting.
+Decreases opponent's SPD by 60% for 4 turns.
+Deals great Ghost-type damage with high accuracy.
+For 5 turns, opponent is vulnerable to Fire-type attacks and damage from all Fire-type skills is increased by 20%.
+Deals Fire-type damage with a high critical hit chance but deals 1/4 of damage dealt back to this Nexomon (only if critical damage is dealt).
+Deals Psychic-type damage and inflicts inception.
+Deals Wind-type damage with a 10% chance to inflict freeze.
+Deals Wind-type damage with a 20% chance to inflict freeze.
+A powerful physical attack that deals great damage.
+Deals high physical damage.
+Deals physical damage with a 30% chance to inflict demotivated.
+Has a 10% chance of decreasing opponent's DEF by 15%.
+Increases ATK, DEF, and SPD by 30%. Can be stacked up to 3 times.
+Absorbs 8% of opponent's maximum ST.
+Deals Wind-type damage with a 10% chance to inflict confused.
+Deals physical damage with a 20% chance to inflict demotivated.
+Deals massive Psychic-type damage.
+Prevents opponent from escaping.
+Deals Wind-type damage with a 30% chance to inflict freeze.
+Deals Psychic-type damage with a 10% chance to inflict confused.
+Deals Electric-type damage with a 30% chance to inflict puzzled.
+This Nexomon's next attack deals 50% extra damage.
+Deals high Electric-type damage with a 10% chance to inflict puzzled.
+Has a 20% chance to reduce elemental damage received by 25% for 1 - 3 turns.
+Deals physical damage with a 25% chance to inflict stun.
+Grants planted status, which restores 10% of maximum HP every turn but prevents switching out or fleeing.
+Grants a 60% chance of dealing 60% of damage received back to opponent.
+Prevents this Nexomon from receiving additional status ailments for 3 turns.
+Deals Psychic-type damage with a 25% chance to inflict puzzled.
+For 3 turns, attacks ignore 25% of opponent's DEF. Electric-type attacks ignore 50%.
+Grants invincible status, making this Nexomon unaffected by both damage and status skills during that turn.
+Has a 30% chance to inflict sleep status.
+Damage received from Normal-type attacks is reduced by 50% while elemental damage received is increased by 50%.
+Has a 30% chance to inflict demotivated.
+Has a 30% chance to decrease opponent's SPD by 20%.
+Makes opponent's skills require 25% more ST.
+Deals 20% of damage received back to opponent for 3 turns.
+For 5 turns, damage received from Normal-type attacks is reduced by 50%. 50% of the damage is dealt back to opponent.
+Has a 50% chance to inflict curse.
+Deals Ghost-type damage with high accuracy.
+For 5 turns, Wind-type skills have a 40% chance of ignoring opponent's DEF.
+Deals great Psychic-type damage with high accuracy.
+For 5 turns, this Nexomon's Fire-type skills will not be considered ineffective against the opponent.
+Increases critical hit chance by 30%.
+Has a 35% chance to inflict sleep.
+Deals Fire-type damage.
+Deals Fire-type damage with a 20% critical hit rate.
+Deals great Fire-type damage.
+Deals Water-type damage.
+Deals Water-type damage with a 20% critical hit rate.
+Deals great Water-type damage.
+Deals Plant-type damage.
+Deals Plant-type damage with a 20% critical hit rate.
+Deals great Plant-type damage.
+Deals Electric-type damage.
+Deals Electric-type damage with a 20% critical hit rate.
+Deals great Electric-type damage.
+Deals Mineral-type damage.
+Deals Mineral-type damage with a 20% critical hit rate.
+Deals great Mineral-type damage.
+Deals Wind-type damage.
+Deals Wind-type damage with a 20% critical hit rate.
+Deals great Wind-type damage.
+Deals physical damage.
+Deals physical damage with a 20% critical hit rate.
+Deals great physical damage with high accuracy.
+Deals Psychic-type damage.
+Deals Psychic-type damage with a 20% critical hit rate.
+Deals great Psychic-type damage.
+Deals Ghost-type damage.
+Deals Ghost-type damage with a 20% critical hit rate.
+Deals great Ghost-type damage.

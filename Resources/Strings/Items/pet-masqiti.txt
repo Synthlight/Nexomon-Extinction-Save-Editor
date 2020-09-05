@@ -1,0 +1,23 @@
+Masquiti Companion
+Masquitis
+A Masquiti follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Masquiti Companion!
+You received [amount] Masquitis!
+You found a Masquiti Companion!
+You found [amount] Masquitis!
+Do you wish to use a Masquiti on [nickname]?
+[nickname] doesn't need a Masquiti!
+You used a Masquiti on [nickname]!
+Your opponent used a Masquiti on [nickname]!
+Masquiti has been enabled!
+Masquiti has been disabled!
+You crafted a Masquiti!
+You crafted [amount] Masquitis!
+You don't have enough shards to craft a Masquiti!
+You don't have enough shards to craft [amount] Masquitis!
+Do you want to sell a Masquiti for [coins] coins?
+Do you want to sell [amount] Masquitis for [coins] coins?
+Do you wish to buy a Masquiti for [coins] coins?
+Do you wish to buy [amount] Masquitis for [coins] coins?

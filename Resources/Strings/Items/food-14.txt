@@ -1,0 +1,23 @@
+Green cake
+Green cakes
+A delicious cake made with the finest green tea.
+<blank>
+<blank>
+You received a Green cake!
+You received [amount] Green cakes!
+You found a Green cake!
+You found [amount] Green cakes!
+Do you wish to use a Green cake on [nickname]?
+[nickname] doesn't need a Green cake!
+You used a Green cake on [nickname]!
+Your opponent used a Green cake on [nickname]!
+Green cake has been enabled!
+Green cake has been disabled!
+You crafted a Green cake!
+You crafted [amount] Green cakes!
+You don't have enough shards to craft a Green cake!
+You don't have enough shards to craft [amount] Green cakes!
+Do you want to sell a Green cake for [coins] coins?
+Do you want to sell [amount] Green cakes for [coins] coins?
+Do you wish to buy a Green cake for [coins] coins?
+Do you wish to buy [amount] Green cakes for [coins] coins?

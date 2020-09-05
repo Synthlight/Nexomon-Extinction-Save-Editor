@@ -1,0 +1,23 @@
+Sausage
+Sausages
+A product usually made of fake meat. Not the healthiest dish but definitely has a strong flavor.
+<blank>
+<blank>
+You received a Sausage!
+You received [amount] Sausages!
+You found a Sausage!
+You found [amount] Sausages!
+Do you wish to use a Sausage on [nickname]?
+[nickname] doesn't need a Sausage!
+You used a Sausage on [nickname]!
+Your opponent used a Sausage on [nickname]!
+Sausage has been enabled!
+Sausage has been disabled!
+You crafted a Sausage!
+You crafted [amount] Sausages!
+You don't have enough shards to craft a Sausage!
+You don't have enough shards to craft [amount] Sausages!
+Do you want to sell a Sausage for [coins] coins?
+Do you want to sell [amount] Sausages for [coins] coins?
+Do you wish to buy a Sausage for [coins] coins?
+Do you wish to buy [amount] Sausages for [coins] coins?

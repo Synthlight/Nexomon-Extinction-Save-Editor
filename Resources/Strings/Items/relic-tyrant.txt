@@ -1,0 +1,23 @@
+Tyrant Relic
+Tyrant Relics
+An ancient relic that once belonged to a so-called "Tyrant of Light"...
+<blank>
+<blank>
+You received a Tyrant Relic!
+You received [amount] Tyrant Relics!
+You found a Tyrant Relic!
+You found [amount] Tyrant Relics!
+Do you wish to use a Tyrant Relic on [nickname]?
+[nickname] doesn't need a Tyrant Relic!
+You used a Tyrant Relic on [nickname]!
+Your opponent used a Tyrant Relic on [nickname]!
+Tyrant Relic has been enabled!
+Tyrant Relic has been disabled!
+You crafted a Tyrant Relic!
+You crafted [amount] Tyrant Relics!
+You don't have enough shards to craft a Tyrant Relic!
+You don't have enough shards to craft [amount] Tyrant Relics!
+Do you want to sell a Tyrant Relic for [coins] coins?
+Do you want to sell [amount] Tyrant Relics for [coins] coins?
+Do you wish to buy a Tyrant Relic for [coins] coins?
+Do you wish to buy [amount] Tyrant Relics for [coins] coins?

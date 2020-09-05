@@ -1,0 +1,23 @@
+Holoch Companion
+Holochs
+A Holoch follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Holoch Companion!
+You received [amount] Holochs!
+You found a Holoch Companion!
+You found [amount] Holochs!
+Do you wish to use a Holoch on [nickname]?
+[nickname] doesn't need a Holoch!
+You used a Holoch on [nickname]!
+Your opponent used a Holoch on [nickname]!
+Holoch has been enabled!
+Holoch has been disabled!
+You crafted a Holoch!
+You crafted [amount] Holochs!
+You don't have enough shards to craft a Holoch!
+You don't have enough shards to craft [amount] Holochs!
+Do you want to sell a Holoch for [coins] coins?
+Do you want to sell [amount] Holochs for [coins] coins?
+Do you wish to buy a Holoch for [coins] coins?
+Do you wish to buy [amount] Holochs for [coins] coins?

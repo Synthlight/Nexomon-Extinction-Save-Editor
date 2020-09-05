@@ -1,0 +1,4476 @@
+{
+
+  "1": {
+    "target_fx": "fx_explosion",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 46,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.8,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "2": {
+    "target_fx": "fx_soul_feeder",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 19,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.2,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {
+      "leech": {
+        "chance": 40,
+        "duration": [2,5],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "3": {
+    "target_fx": "fx_psychic_blast",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 47,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.35,
+    "mirror": true,
+    "execution_duration": 2.2,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "4": {
+    "target_fx": "",
+    "user_fx": "fx_barrier",
+    "cost": 5,
+    "speed": 88,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {
+      "background4": {
+        "chance": 100,
+        "duration": [-1,-1],
+        "needs_to_hurt_target": false
+      }
+    }
+  },
+
+  "5": {
+    "target_fx": "",
+    "user_fx": "fx_fire_barrier",
+    "cost": 15,
+    "speed": 80,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background5": {
+        "chance": 100,
+        "duration": [ 3, 3],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "6": {
+    "target_fx": "",
+    "user_fx": "fx_wind_barrier",
+    "cost": 15,
+    "speed": 50,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background6": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+
+  "7": {
+    "target_fx": "fx_fire_chain",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 59,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 35,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "8": {
+    "target_fx": "fx_creep",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 63,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {
+      "paralyze": {
+        "chance": 35,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "9": {
+    "target_fx": "fx_blooming_spores",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 16,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 65,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 1.5,
+    "user_effects": {},
+    "target_effects": {
+      "poison": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "10": {
+    "target_fx": "",
+    "user_fx": "fx_power_up",
+    "cost": 10,
+    "speed": 90,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background10": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "11": {
+    "target_fx": "",
+    "user_fx": "fx_quick_feet",
+    "cost": 5,
+    "speed": 88,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background11": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "12": {
+    "target_fx": "",
+    "user_fx": "fx_elemental_focus",
+    "cost": 10,
+    "speed": 91,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background12": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "13": {
+    "target_fx": "",
+    "user_fx": "fx_juggernaut",
+    "cost": 15,
+    "speed": 95,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": false,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background13": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "14": {
+    "target_fx": "",
+    "user_fx": "fx_raging_focus",
+    "cost": 5,
+    "speed": 86,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.5,
+    "user_effects": {
+      "background14": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "15": {
+    "target_fx": "",
+    "user_fx": "fx_sky_blessing",
+    "cost": 15,
+    "speed": 97,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background15": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "16": {
+    "target_fx": "fx_burn",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 20,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 85,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {
+      "burn": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "17": {
+    "target_fx": "fx_incinerate",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 25,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 120,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "burn": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "18": {
+    "target_fx": "fx_disruption_ray",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.4,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "19": {
+    "target_fx": "fx_mud_attack",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 73,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 20,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "20": {
+    "target_fx": "fx_drill",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": false,
+    "execution_duration": 1.8
+  },
+
+  "21": {
+    "target_fx": "fx_emp",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.6,
+    "mirror": true,
+    "execution_duration": 2.6
+  },
+
+  "22": {
+    "target_fx": "fx_darkness",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 47,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.2,
+    "mirror": true,
+    "execution_duration": 1.6
+  },
+
+  "23": {
+    "target_fx": "fx_electric_bomb",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 45,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.75,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "24": {
+    "target_fx": "fx_fire_claw",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 23,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 95,
+    "accuracy": 75,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.35,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {
+      "burn": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "25": {
+    "target_fx": "fx_flame",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 54,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.6,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "26": {
+    "target_fx": "fx_flame_breath",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 50,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "27": {
+    "target_fx": "fx_flame_column",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 13,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 55,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 30,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "28": {
+    "target_fx": "fx_freeze",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 62,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.4,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 35,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "29": {
+    "target_fx": "fx_grasping_root",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 60,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 35,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "30": {
+    "target_fx": "fx_piercing_root",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 11,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 35,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 30,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "31": {
+    "target_fx": "",
+    "user_fx": "fx_heal",
+    "cost": 25,
+    "speed": 100,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.3
+  },
+
+  "32": {
+    "target_fx": "",
+    "user_fx": "fx_blessed_mana",
+    "cost": 0,
+    "speed": 100,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "33": {
+    "target_fx": "",
+    "user_fx": "fx_spiritual_boost",
+    "cost": 15,
+    "speed": 75,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {
+      "background33": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "34": {
+    "target_fx": "",
+    "user_fx": "fx_healing_water",
+    "cost": 15,
+    "speed": 75,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+    "35": {
+        "target_fx": "",
+        "user_fx": "fx_tropical_rain",
+        "cost": 10,
+        "speed": 92,
+        "element": "water",
+        "damage_target": false,
+        "damage_target_power": 0,
+        "accuracy": -1,
+        "critical": 0,
+        "target_hurt_animation": false,
+        "target_hurt_animation_delay": 0.0,
+        "mirror": true,
+        "user_effects": {
+            "background35": {
+                "chance": 100,
+                "duration": [ 3, 3 ],
+                "needs_to_hurt_target": false
+            }
+        },
+        "target_effects": {},
+        "execution_duration": 3.0
+    },
+
+  "36": {
+    "target_fx": "fx_howling_wind",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 43,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "37": {
+    "target_fx": "fx_hydro_sphere",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 50,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "38": {
+    "target_fx": "fx_water_blast",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 46,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "39": {
+    "target_fx": "fx_leaf_dance",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 45,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "40": {
+    "target_fx": "fx_mystic_aroma",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 58,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 40,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "41": {
+    "target_fx": "fx_pulse_shot",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 53,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "42": {
+    "target_fx": "fx_electric_current",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 23,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 95,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {
+      "paralyze": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "43": {
+    "target_fx": "fx_electric_storm",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 24,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 105,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "paralyze": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "44": {
+    "target_fx": "fx_sandstorm",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 15,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 65,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 30,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "45": {
+    "target_fx": "fx_scratch",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 55,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 40,
+    "accuracy": 95,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.6
+  },
+
+  "46": {
+    "target_fx": "",
+    "user_fx": "fx_screech",
+    "cost": 10,
+    "speed": 83,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {
+      "background46": {
+        "chance": 90,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "47": {
+    "target_fx": "fx_seismic_move",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 16,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 70,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 10,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "48": {
+    "target_fx": "fx_short_circuit",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 68,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.8,
+    "user_effects": {},
+    "target_effects": {
+      "puzzled": {
+        "chance": 35,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "49": {
+    "target_fx": "fx_solar_flare",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "50": {
+    "target_fx": "fx_splash",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 55,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.15,
+    "mirror": true,
+    "execution_duration": 1.8
+  },
+
+  "51": {
+    "target_fx": "fx_slashing_current",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 48,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.7
+  },
+
+  "52": {
+    "target_fx": "fx_thorn_pit",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "53": {
+    "target_fx": "fx_thunder",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 49,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.5
+  },
+
+  "54": {
+    "target_fx": "",
+    "user_fx": "fx_blue_thunder",
+    "cost": 10,
+    "speed": 89,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background54": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "55": {
+    "target_fx": "fx_tornado",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 13,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 1.6,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 30,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "56": {
+    "target_fx": "fx_vine_attack",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 22,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 95,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 10,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "57": {
+    "target_fx": "",
+    "user_fx": "fx_vine_shield",
+    "cost": 15,
+    "speed": 50,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 100,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.1,
+    "user_effects": {
+      "background57": {
+        "chance": 100,
+        "duration": [ 3, 3],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "58": {
+    "target_fx": "fx_wave",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 72,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 15,
+    "accuracy": 90,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.5
+  },
+
+  "59": {
+    "target_fx": "fx_wind_pellet",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 52,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 45,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.45
+  },
+
+  "60": {
+    "target_fx": "fx_bite",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 51,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "61": {
+    "target_fx": "",
+    "user_fx": "fx_blessed_fruit",
+    "cost": 15,
+    "speed": 90,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background61": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "62": {
+    "target_fx": "fx_bubble_attack",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 73,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 25,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "63": {
+    "target_fx": "fx_bullet_seed",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 49,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "64": {
+    "target_fx": "fx_choke",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 85,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 0,
+    "accuracy": 50,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.5
+  },
+
+  "65": {
+    "target_fx": "fx_corrupted_mineral",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 76,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {},
+    "target_effects": {
+      "background65": {
+        "chance": 70,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "66": {
+    "target_fx": "",
+    "user_fx": "fx_sacred_mineral",
+    "cost": 15,
+    "speed": 96,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background66": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "67": {
+    "target_fx": "fx_frost_bite",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 18,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "68": {
+    "target_fx": "",
+    "user_fx": "fx_crescent_wings",
+    "cost": 15,
+    "speed": 93,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background68": {
+        "chance": 100,
+        "duration": [ 1, 1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "69": {
+    "target_fx": "fx_glare",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 77,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {},
+    "target_effects": {
+      "background69": {
+        "chance": 75,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "70": {
+    "target_fx": "fx_snake_eyes",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 80,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {},
+    "target_effects": {
+      "background70": {
+        "chance": 80,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "71": {
+    "target_fx": "",
+    "user_fx": "fx_seed_focus",
+    "cost": 5,
+    "speed": 87,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background71": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "72": {
+    "target_fx": "fx_snow_flake",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 16,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 65,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "73": {
+    "target_fx": "",
+    "user_fx": "fx_raging_mineral",
+    "cost": 10,
+    "speed": 90,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background73": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "74": {
+    "target_fx": "fx_resonating_rock",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 57,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 35,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "75": {
+    "target_fx": "fx_crushing_boulder",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 14,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 55,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.1,
+    "user_effects": {},
+    "target_effects": {
+      "frail": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "76": {
+    "target_fx": "",
+    "user_fx": "fx_survive",
+    "cost": 5,
+    "speed": 67,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background76": {
+        "chance": 100,
+        "duration": [ 2, 2 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "77": {
+    "target_fx": "fx_ice_assault",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 24,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 95,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "78": {
+    "target_fx": "",
+    "user_fx": "fx_healing_stone",
+    "cost": 15,
+    "speed": 80,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "79": {
+    "target_fx": "fx_arcane_curse",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 22,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 90,
+    "accuracy": 80,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.4,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "sick": {
+        "chance": 30,
+        "duration": [ 4, 4 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "80": {
+    "target_fx": "fx_thorn",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 54,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.5
+  },
+
+  "81": {
+    "target_fx": "fx_lockdown",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 86,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background81": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "82": {
+    "target_fx": "fx_punch",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 40,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 90,
+    "accuracy": 75,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background82": {
+        "chance": 10,
+        "duration": [ 1 , 1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "83": {
+    "target_fx": "",
+    "user_fx": "fx_ocean_force",
+    "cost": 15,
+    "speed": 99,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background83": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    }
+  },
+
+  "84": {
+    "target_fx": "fx_kick",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 26,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background84": {
+        "chance": 15,
+        "duration": [ 1, 1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "85": {
+    "target_fx": "fx_poison",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 11,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 30,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "poison": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "86": {
+    "target_fx": "fx_poison_sting",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 12,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 40,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "poison": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "87": {
+    "target_fx": "",
+    "user_fx": "fx_green_spirit",
+    "cost": 70,
+    "speed": 10,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "88": {
+    "target_fx": "",
+    "user_fx": "fx_recover",
+    "cost": 5,
+    "speed": 10,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "recover": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "89": {
+    "target_fx": "fx_fire_stigma",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 66,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 70,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "bind": {
+        "chance": 10,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    }
+  },
+
+  "90": {
+    "target_fx": "fx_pyro_bomb",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 17,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 35,
+    "accuracy": 90,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.7
+  },
+
+  "91": {
+    "target_fx": "fx_rock_punch",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 72,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 75,
+    "accuracy": 80,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "92": {
+    "target_fx": "fx_rock",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 48,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "93": {
+    "target_fx": "fx_granite",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 53,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 40,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "frail": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "94": {
+    "target_fx": "",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 20,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background94": {
+        "chance": 100,
+        "duration": [ 2, 2 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "95": {
+    "target_fx": "fx_forest_song",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 79,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background95": {
+        "chance": 80,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "96": {
+    "target_fx": "",
+    "user_fx": "fx_wind_song",
+    "cost": 15,
+    "speed": 55,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background96": {
+        "chance": 100,
+        "duration": [ 4, 4 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "97": {
+    "target_fx": "fx_meteor",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 21,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 90,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "frail": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "98": {
+    "target_fx": "fx_meteor_shower",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "99": {
+    "target_fx": "",
+    "user_fx": "fx_rock_wall",
+    "cost": 35,
+    "speed": 15,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background99": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+    "100": {
+        "target_fx": "",
+        "user_fx": "fx_reflective",
+        "cost": 15,
+        "speed": 98,
+        "element": "ghost",
+        "damage_target": false,
+        "damage_target_power": 0,
+        "accuracy": -1,
+        "critical": 0,
+        "target_hurt_animation": false,
+        "target_hurt_animation_delay": 0.0,
+        "mirror": true,
+        "execution_duration": 1.6,
+        "user_effects": {
+            "background100": {
+                "chance": 100,
+                "duration": [ 3, 3 ],
+                "needs_to_hurt_target": false
+            }
+        },
+        "target_effects": {}
+    },
+
+    "101": {
+        "target_fx": "",
+        "user_fx": "fx_specter",
+        "cost": 20,
+        "speed": 100,
+        "element": "ghost",
+        "damage_target": false,
+        "damage_target_power": 0,
+        "accuracy": -1,
+        "critical": 0,
+        "target_hurt_animation": false,
+        "target_hurt_animation_delay": 0.0,
+        "mirror": true,
+        "execution_duration": 2.0,
+        "user_effects": {
+            "background101": {
+                "chance": 100,
+                "duration": [ 3, 3 ],
+                "needs_to_hurt_target": false
+            }
+        },
+        "target_effects": {}
+    },
+
+  "102": {
+    "target_fx": "fx_thunder_blast",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 20,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 85,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "paralyze": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "103": {
+    "target_fx": "fx_tackle",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 74,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 30,
+    "accuracy": 80,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background103": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+
+  "104": {
+    "target_fx": "",
+    "user_fx": "fx_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background104": {
+        "chance": 100,
+        "duration": [ -1 , -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+
+  "105": {
+    "target_fx": "",
+    "user_fx": "fx_aqua_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background105": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "106": {
+    "target_fx": "",
+    "user_fx": "fx_fire_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background106": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "107": {
+    "target_fx": "",
+    "user_fx": "fx_green_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background107": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+
+  "108": {
+    "target_fx": "",
+    "user_fx": "fx_electric_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background108": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "109": {
+    "target_fx": "",
+    "user_fx": "fx_rock_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background109": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "110": {
+    "target_fx": "",
+    "user_fx": "fx_wind_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background110": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "111": {
+    "target_fx": "",
+    "user_fx": "fx_psychic_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background111": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "112": {
+    "target_fx": "",
+    "user_fx": "fx_arcane_siphon",
+    "cost": 15,
+    "speed": 60,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background112": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "113": {
+    "target_fx": "",
+    "user_fx": "fx_dispell",
+    "cost": 20,
+    "speed": 35,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "114": {
+    "target_fx": "fx_poison_bubbles",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 65,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "poison": {
+        "chance": 35,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "115": {
+    "target_fx": "fx_double_slash",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 24,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 105,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.2,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "demotivated": {
+        "chance": 10,
+        "duration": [ 1, 2 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+
+  "116": {
+    "target_fx": "fx_whirlpool",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 90,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 25,
+    "accuracy": 95,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+
+  "117": {
+    "target_fx": "fx_tsunami",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "118": {
+    "target_fx": "",
+    "user_fx": "fx_fire_will",
+    "cost": 10,
+    "speed": 92,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background118": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "119": {
+    "target_fx": "fx_toxic_splash",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 12,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 35,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "poison": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "120": {
+    "target_fx": "fx_smoke_screen",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 81,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 85,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background120": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "121": {
+    "target_fx": "",
+    "user_fx": "fx_blitz",
+    "cost": 20,
+    "speed": 40,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background121": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "122": {
+    "target_fx": "fx_infected_seed",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 75,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 0,
+    "accuracy": 70,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.35,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background122": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+  
+  "123": {
+    "target_fx": "fx_phantom_abyss",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 15,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 90,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "hex": {
+        "chance": 15,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "124": {
+    "target_fx": "fx_seizure",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 52,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 90,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.35,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "125": {
+    "target_fx": "fx_mental_shock",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 64,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 35,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.35,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "paralyze": {
+        "chance": -1,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "126": {
+    "target_fx": "fx_ghost_slash",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 11,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 35,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "nervous": {
+        "chance": 25,
+        "duration": [ 2, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "127": {
+    "target_fx": "fx_possess",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 70,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 70,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background127": {
+        "chance": 100,
+        "duration": [ 2, 2 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "128": {
+    "target_fx": "fx_mind_control",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 19,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "provoked": {
+        "chance": 30,
+        "duration": [ 2, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "129": {
+    "target_fx": "fx_brainwash",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 78,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 0,
+    "accuracy": 75,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "130": {
+    "target_fx": "",
+    "user_fx": "fx_meditate",
+    "cost": 15,
+    "speed": 60,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {
+      "background130": {
+        "chance": 100,
+        "duration": [ 1, 1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "131": {
+    "target_fx": "",
+    "user_fx": "fx_haunting",
+    "cost": 15,
+    "speed": 93,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background131": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false,
+        "preset_values": [3]
+      }
+    },
+    "target_effects": {}
+  },
+
+  "132": {
+    "target_fx": "",
+    "user_fx": "fx_sonic_scream",
+    "cost": 15,
+    "speed": 21,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 85,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "sleep": {
+        "chance": 20,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "133": {
+    "target_fx": "",
+    "user_fx": "fx_telepathy",
+    "cost": 10,
+    "speed": 95,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 30,
+    "accuracy": 90,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background133": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    },
+    "target_effects": {}
+  },
+
+  "134": {
+    "target_fx": "fx_cyclone",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "135": {
+    "target_fx": "fx_eternal_darkness",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.5,
+    "mirror": true,
+    "execution_duration": 3.8
+  },
+
+  "136": {
+    "target_fx": "fx_corrosive_breeze",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 76,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 70,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background136": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "137": {
+    "target_fx": "",
+    "user_fx": "fx_conflagration",
+    "cost": 50,
+    "speed": 10,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 140,
+    "accuracy": 100,
+    "critical": 100,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.5,
+    "mirror": true,
+    "execution_duration": 4.0
+  },
+
+
+  "138": {
+    "target_fx": "fx_hurricane",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 20,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 50,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.0,
+    "user_effects": {},
+    "target_effects": {
+      "background138": {
+        "chance": 100,
+        "duration": [ 4, 4 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "139": {
+    "target_fx": "fx_arcane_magic",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 41,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.7
+  },
+
+  "140": {
+    "target_fx": "fx_disintegrate",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 82,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 85,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background140": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "141": {
+    "target_fx": "fx_blaze",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 40,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 70,
+    "accuracy": 100,
+    "critical": 40,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "142": {
+    "target_fx": "fx_inception",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 17,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 70,
+    "accuracy": 90,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {
+      "inception": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "143": {
+    "target_fx": "fx_glaze",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 25,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 115,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "144": {
+    "target_fx": "fx_icicle",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 17,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 70,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.7,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 20,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "145": {
+    "target_fx": "fx_headbutt",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 23,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 100,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.4
+  },
+
+  "146": {
+    "target_fx": "fx_super_slam",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 25,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 80,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "147": {
+    "target_fx": "fx_combo",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 22,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 95,
+    "accuracy": 75,
+    "critical": 25,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "demotivated": {
+        "chance": 30,
+        "duration": [ 2, 3 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "148": {
+    "target_fx": "fx_tornado_kick",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 74,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 35,
+    "accuracy": 80,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background148": {
+        "chance": 10,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "149": {
+    "target_fx": "",
+    "user_fx": "fx_super_charge",
+    "cost": 10,
+    "speed": 91,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background149": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "150": {
+    "target_fx": "fx_elec_reverse",
+    "user_fx": "fx_drain_user",
+    "cost": 5,
+    "speed": 85,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 999,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 3.5
+  },
+
+  "151": {
+    "target_fx": "fx_wind_strike",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 21,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 90,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 1.6,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 10,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "152": {
+    "target_fx": "fx_pummel",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 20,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "demotivated": {
+        "chance": 20,
+        "duration": [ 1, 2 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+
+  "153": {
+    "target_fx": "fx_psy_ray",
+    "user_fx": "",
+    "cost": 25,
+    "speed": 10,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 150,
+    "accuracy": 90,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+
+  "154": {
+    "target_fx": "fx_rock_prison",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 100,
+    "element": "mineral",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 3.2,
+    "user_effects": {},
+    "target_effects": {
+      "background154": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "155": {
+    "target_fx": "fx_frost",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 14,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 55,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "freeze": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "156": {
+    "target_fx": "",
+    "user_fx": "fx_mind_shake",
+    "cost": 10,
+    "speed": 14,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "confusion": {
+        "chance": 10,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "157": {
+    "target_fx": "fx_static_burst",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 15,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "puzzled": {
+        "chance": 30,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "158": {
+    "target_fx": "",
+    "user_fx": "fx_solar_charge",
+    "cost": 10,
+    "speed": 100,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background158": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+    "159": {
+        "target_fx": "fx_electric_current",
+        "user_fx": "fx_screech",
+        "cost": 10,
+        "speed": 18,
+        "element": "electric",
+        "damage_target": true,
+        "damage_target_power": 70,
+        "accuracy": 95,
+        "critical": 5,
+        "target_hurt_animation": true,
+        "target_hurt_animation_delay": 0.3,
+        "mirror": true,
+        "execution_duration": 2.0,
+        "user_effects": {},
+        "target_effects": {
+            "puzzled": {
+                "chance": 10,
+                "duration": [ 1, 3 ],
+                "needs_to_hurt_target": true
+            }
+        }
+    },
+
+  "160": {
+    "target_fx": "fx_slash",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 71,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 15,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background160": {
+        "chance": 20,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "161": {
+    "target_fx": "fx_force_chop",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 19,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 115,
+    "accuracy": 70,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background161": {
+        "chance": 25,
+        "duration": [ 1, 1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "162": {
+    "target_fx": "",
+    "user_fx": "fx_plant",
+    "cost": 15,
+    "speed": 65,
+    "element": "plant",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": false,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "planted": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "163": {
+    "target_fx": "",
+    "user_fx": "fx_kinetic_mirror",
+    "cost": 20,
+    "speed": 30,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background163": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "164": {
+    "target_fx": "",
+    "user_fx": "fx_psychic_armor",
+    "cost": 20,
+    "speed": 30,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background164": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "165": {
+    "target_fx": "fx_psychic_barrage",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 13,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 80,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.5,
+    "user_effects": {},
+    "target_effects": {
+      "puzzled": {
+        "chance": 25,
+        "duration": [ 1, 3 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "166": {
+    "target_fx": "fx_black_bolt",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 45,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.4,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background166": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    }
+  },
+
+
+  "167": {
+    "target_fx": "",
+    "user_fx": "fx_invinsible",
+    "cost": 20,
+    "speed": 56,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.5,
+    "user_effects": {
+      "invincible": {
+        "chance": 100,
+        "duration": [ 1, 1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+
+  "168": {
+    "target_fx": "fx_sleep_song",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 65,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": false,
+    "execution_duration": 2.7,
+    "user_effects": {},
+    "target_effects": {
+      "sleep": {
+        "chance": 30,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "169": {
+    "target_fx": "",
+    "user_fx": "fx_combustion",
+    "cost": 10,
+    "speed": 89,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background169": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "170": {
+    "target_fx": "",
+    "user_fx": "fx_battle_roar",
+    "cost": 10,
+    "speed": 67,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 30,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "demotivated": {
+        "chance": 30,
+        "duration": [ 2, 4 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "171": {
+    "target_fx": "fx_palm_strike",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 71,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 20,
+    "accuracy": 95,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background171": {
+        "chance": 30,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+
+  "172": {
+    "target_fx": "fx_exhaust",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 75,
+    "element": "electric",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 70,
+    "critical": 0,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background172": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": true
+      }
+    }
+  },
+
+  "173": {
+    "target_fx": "",
+    "user_fx": "fx_kinetic_sponge",
+    "cost": 15,
+    "speed": 60,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 100,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background173": {
+        "chance": 100,
+        "duration": [ 3, 3 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "174": {
+    "target_fx": "",
+    "user_fx": "fx_ice_mirror",
+    "cost": 20,
+    "speed": 25,
+    "element": "water",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background174": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "175": {
+    "target_fx": "fx_jinx",
+    "user_fx": "",
+    "cost": 20,
+    "speed": 5,
+    "element": "ghost",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "cursed": {
+        "chance": 50,
+        "duration": [ 2, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "176": {
+    "target_fx": "fx_phantom_blast",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 51,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 50,
+    "accuracy": 90,
+    "critical": 15,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0
+  },
+
+  "177": {
+    "target_fx": "fx_gale",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 84,
+    "element": "wind",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 0.5,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "background177": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": false
+      }
+    }
+  },
+
+  "178": {
+    "target_fx": "fx_psychic_bomb",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 35,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 85,
+    "accuracy": 100,
+    "critical": 5,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.7,
+    "mirror": true,
+    "execution_duration": 2.3
+  },
+
+
+  "179": {
+    "target_fx": "fx_sunshine",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 70,
+    "element": "fire",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 100,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background179": {
+        "chance": 100,
+        "duration": [ 5, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "180": {
+    "target_fx": "",
+    "user_fx": "fx_martial_arts",
+    "cost": 5,
+    "speed": 87,
+    "element": "normal",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": 100,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {
+      "background180": {
+        "chance": 100,
+        "duration": [ -1, -1 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "target_effects": {}
+  },
+
+  "181": {
+    "target_fx": "fx_sleep",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 61,
+    "element": "psychic",
+    "damage_target": false,
+    "damage_target_power": 0,
+    "accuracy": -1,
+    "critical": 0,
+    "target_hurt_animation": false,
+    "target_hurt_animation_delay": 1.0,
+    "mirror": true,
+    "execution_duration": 2.0,
+    "user_effects": {},
+    "target_effects": {
+      "sleep": {
+        "chance": 35,
+        "duration": [ 1, 5 ],
+        "needs_to_hurt_target": false
+      }
+    },
+    "user_effect_dependent": false,
+    "target_effect_dependent": true
+  },
+
+  "182": {
+    "target_fx": "fx_new_fire",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "183": {
+    "target_fx": "fx_new_fire_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "184": {
+    "target_fx": "fx_new_fire_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "fire",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "185": {
+    "target_fx": "fx_new_water",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "186": {
+    "target_fx": "fx_new_water_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "187": {
+    "target_fx": "fx_new_water_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "water",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "188": {
+    "target_fx": "fx_new_plant",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "189": {
+    "target_fx": "fx_new_plant_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "190": {
+    "target_fx": "fx_new_plant_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "plant",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "191": {
+    "target_fx": "fx_new_elect",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "192": {
+    "target_fx": "fx_new_elect_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "193": {
+    "target_fx": "fx_new_elect_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "electric",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "194": {
+    "target_fx": "fx_new_rock",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "195": {
+    "target_fx": "fx_new_rock_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "196": {
+    "target_fx": "fx_new_rock_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "mineral",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "197": {
+    "target_fx": "fx_new_wind",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "198": {
+    "target_fx": "fx_new_wind_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "199": {
+    "target_fx": "fx_new_wind_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "wind",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "200": {
+    "target_fx": "fx_new_normal",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "201": {
+    "target_fx": "fx_new_normal_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "202": {
+    "target_fx": "fx_new_normal_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "normal",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "203": {
+    "target_fx": "fx_new_psy",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "204": {
+    "target_fx": "fx_new_psy_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "205": {
+    "target_fx": "fx_new_psy_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "psychic",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "206": {
+    "target_fx": "fx_new_ghost",
+    "user_fx": "",
+    "cost": 5,
+    "speed": 56,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 60,
+    "accuracy": 85,
+    "critical": 10,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "207": {
+    "target_fx": "fx_new_ghost_2",
+    "user_fx": "",
+    "cost": 10,
+    "speed": 52,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 80,
+    "accuracy": 75,
+    "critical": 20,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  },
+
+  "208": {
+    "target_fx": "fx_new_ghost_3",
+    "user_fx": "",
+    "cost": 15,
+    "speed": 44,
+    "element": "ghost",
+    "damage_target": true,
+    "damage_target_power": 110,
+    "accuracy": 95,
+    "critical": 8,
+    "target_hurt_animation": true,
+    "target_hurt_animation_delay": 0.3,
+    "mirror": true,
+    "execution_duration": 1.3,
+    "user_effects": {},
+    "target_effects": {}
+  }
+
+}

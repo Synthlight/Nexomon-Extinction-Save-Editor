@@ -1,0 +1,569 @@
+{
+
+  "merchant-orphanage-early": {
+    "type": "city",
+    "products": {
+      "potion": 35,
+      "ether":  20,
+      "revive": 90,
+      "nexotrap-regular": 50,
+      "anti-poison": 20,
+      "anti-burn": 20,
+      "food-1":18,
+      "food-2":18,
+      "food-3":18,
+      "food-4":18,
+      "food-5":18
+    },
+    "body":"_fillers/generic/merchants/1"
+  },
+
+  "cooper-parum-bronze": {
+    "type": "city",
+    "products": {
+      "potion": 70,
+      "ether":  45,
+      "revive": 115,
+      "elixir":  125,
+      "nexotrap-regular": 100,
+      "anti-poison": 40,
+      "anti-burn": 40,
+      "anti-freeze": 40,
+      "food-6":30,
+      "food-7":30,
+      "food-8":30,
+      "food-9":30,
+      "food-10":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-parum-silver": {
+    "type": "city",
+    "products": {
+      "potion": 80,
+      "potion-super":130,
+      "ether":  45,
+      "ether-super":  100,
+      "revive": 120,
+      "elixir":  140,
+      "nexotrap-regular": 110,
+      "nexotrap-fire": 450,
+      "nexotrap-water": 450,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-bind": 50,
+      "food-6":35,
+      "food-7":35,
+      "food-8":35,
+      "food-9":35,
+      "food-10":35,
+      "food-11":35
+    },
+    "body":"cooper"
+  },
+
+  "cooper-parum-gold": {
+    "type": "city",
+    "products": {
+      "potion": 85,
+      "potion-super":135,
+      "potion-ultra":240,
+      "ether":  55,
+      "ether-super":  110,
+      "ether-ultra":  180,
+      "revive": 130,
+      "revive-super": 220,
+      "revive-ultra": 340,
+      "elixir":  155,
+      "elixir-super":  240,
+      "elixir-ultra":  370,
+      "nexotrap-regular": 120,
+      "nexotrap-fire": 450,
+      "nexotrap-water": 450,
+      "nexotrap-plant": 450,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-confusion": 50,
+      "anti-sleep": 50,
+      "anti-bind": 50,
+      "food-6":35,
+      "food-7":35,
+      "food-8":35,
+      "food-9":35,
+      "food-10":35,
+      "food-11":35,
+      "food-12":35
+    },
+    "body":"cooper"
+  },
+
+  "cooper-parum-grandmaster": {
+    "type": "city",
+    "products": {
+      "potion": 75,
+      "potion-super":120,
+      "potion-ultra":220,
+      "ether":  40,
+      "ether-super":  90,
+      "ether-ultra":  150,
+      "revive": 110,
+      "revive-super": 180,
+      "revive-ultra": 300,
+      "elixir":  130,
+      "elixir-super":  210,
+      "elixir-ultra":  340,
+      "nexotrap-regular": 100,
+      "nexotrap-fire": 400,
+      "nexotrap-water": 400,
+      "nexotrap-plant": 400,
+      "anti-poison": 40,
+      "anti-burn": 40,
+      "anti-freeze": 40,
+      "anti-paralyze": 40,
+      "anti-confusion": 40,
+      "anti-sleep": 40,
+      "anti-bind": 40,
+      "food-6":30,
+      "food-7":30,
+      "food-8":30,
+      "food-9":30,
+      "food-10":30,
+      "food-11":30,
+      "food-12":30
+    },
+    "body":"cooper"
+  },
+
+  "ollie-lateria-expensive": {
+    "type": "city",
+    "products": {
+      "potion": 250,
+      "potion-super":500,
+      "ether":  200,
+      "ether-super":  400,
+      "revive": 400,
+      "elixir":  500,
+      "nexotrap-regular": 400,
+      "nexotrap-fire": 800,
+      "nexotrap-electric": 800,
+      "anti-poison": 300,
+      "anti-burn": 300,
+      "anti-freeze": 300,
+      "food-10":100,
+      "food-11":100,
+      "food-12":100,
+      "food-13":100,
+      "food-14":100,
+      "food-15":100
+    },
+    "body":"ollie"
+  },
+
+  "ollie-lateria-discounted": {
+    "type": "city",
+    "products": {
+      "potion": 50,
+      "potion-super":120,
+      "ether":  30,
+      "ether-super":  70,
+      "revive": 90,
+      "revive-super": 190,
+      "elixir":  80,
+      "elixir-super":  190,
+      "nexotrap-regular": 90,
+      "nexotrap-electric": 280,
+      "anti-poison": 35,
+      "anti-burn": 35,
+      "anti-freeze": 35,
+      "anti-bind": 35,
+      "food-10":30,
+      "food-11":30,
+      "food-12":30,
+      "food-13":30,
+      "food-14":30,
+      "food-15":30
+    },
+    "body":"ollie"
+  },
+
+  "cooper-palmaya-bronze": {
+    "type": "city",
+    "products": {
+      "potion": 80,
+      "ether":  55,
+      "revive": 125,
+      "elixir":  135,
+      "nexotrap-regular": 110,
+      "nexotrap-ghost": 450,
+      "nexotrap-psychic": 450,
+      "anti-poison": 40,
+      "anti-burn": 40,
+      "anti-freeze": 40,
+      "anti-confusion": 40,
+      "food-14":30,
+      "food-15":30,
+      "food-16":30,
+      "food-17":30,
+      "food-18":30,
+      "food-19":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-palmaya-silver": {
+    "type": "city",
+    "products": {
+      "potion": 80,
+      "potion-super":130,
+      "ether":  45,
+      "ether-super":  100,
+      "revive": 120,
+      "elixir":  140,
+      "nexotrap-regular": 110,
+      "nexotrap-ghost": 450,
+      "nexotrap-psychic": 450,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-bind": 50,
+      "food-14":30,
+      "food-15":30,
+      "food-16":30,
+      "food-17":30,
+      "food-18":30,
+      "food-19":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-palmaya-gold": {
+    "type": "city",
+    "products": {
+      "potion": 85,
+      "potion-super":135,
+      "potion-ultra":240,
+      "ether":  55,
+      "ether-super":  110,
+      "ether-ultra":  180,
+      "revive": 130,
+      "revive-super": 220,
+      "revive-ultra": 340,
+      "elixir":  155,
+      "elixir-super":  240,
+      "elixir-ultra":  370,
+      "nexotrap-regular": 120,
+      "nexotrap-ghost": 450,
+      "nexotrap-psychic": 450,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-confusion": 50,
+      "anti-sleep": 50,
+      "anti-bind": 50,
+      "food-14":30,
+      "food-15":30,
+      "food-16":30,
+      "food-17":30,
+      "food-18":30,
+      "food-19":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-frozen-bronze": {
+    "type": "city",
+    "products": {
+      "potion": 60,
+      "ether":  40,
+      "revive": 110,
+      "nexotrap-regular": 120,
+      "anti-poison": 35,
+      "anti-burn": 35,
+      "anti-freeze": 75,
+      "food-18":30,
+      "food-19":30,
+      "food-20":30,
+      "food-21":30,
+      "food-22":30,
+      "food-23":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-frozen-gold": {
+    "type": "city",
+    "products": {
+      "potion": 85,
+      "potion-super":135,
+      "potion-ultra":240,
+      "ether":  55,
+      "ether-super":  110,
+      "ether-ultra":  180,
+      "revive": 130,
+      "revive-super": 220,
+      "revive-ultra": 340,
+      "elixir":  155,
+      "elixir-super":  240,
+      "elixir-ultra":  370,
+      "nexotrap-regular": 120,
+      "nexotrap-mineral": 450,
+      "nexotrap-wind": 450,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-confusion": 50,
+      "anti-sleep": 50,
+      "anti-bind": 50,
+      "food-18":30,
+      "food-19":30,
+      "food-20":30,
+      "food-21":30,
+      "food-22":30,
+      "food-23":30
+    },
+    "body":"cooper"
+  },
+
+  "cooper-ghost-bronze": {
+    "type": "city",
+    "products": {
+      "potion": 70,
+      "ether":  45,
+      "revive": 115,
+      "elixir":  125,
+      "nexotrap-regular": 100,
+      "anti-poison": 40,
+      "anti-burn": 40,
+      "anti-freeze": 40,
+      "food-21":30,
+      "food-22":30,
+      "food-23":30,
+      "food-24":30,
+      "food-25":30,
+      "food-26":30
+    },
+    "body":"cooper"
+  },
+
+  "ollie-ignitia-jin": {
+    "type": "city",
+    "products": {
+      "potion": 100,
+      "ether":  70,
+      "revive":  180,
+      "nexotrap-regular": 150
+    },
+    "body":"ollie"
+  },
+
+  "ollie-ignitia-after-jin": {
+    "type": "city",
+    "products": {
+      "potion": 50,
+      "potion-super": 120,
+      "potion-ultra": 190,
+      "ether":  30,
+      "ether-super":  70,
+      "ether-ultra":  130,
+      "revive": 90,
+      "revive-super": 190,
+      "nexotrap-regular": 100,
+      "anti-poison":  25,
+      "anti-paralyze":  25,
+      "anti-freeze":  25,
+      "anti-burn":  50
+    },
+    "body":"ollie"
+  },
+
+  "merchant-sasha": {
+    "type": "city",
+    "products": {
+      "nexotrap-regular" : 130,
+      "nexotrap-fire" : 430,
+      "nexotrap-water" : 430,
+      "nexotrap-wind" : 430,
+      "nexotrap-ghost" : 430,
+      "nexotrap-psychic" : 430
+    },
+    "body":"_fillers/generic/merchants/4"
+  },
+
+  "merchant-sasha-discounted": {
+    "type": "city",
+    "products": {
+      "nexotrap-regular" : 100,
+      "nexotrap-fire" : 280,
+      "nexotrap-water" : 280,
+      "nexotrap-wind" : 280,
+      "nexotrap-ghost" : 280,
+      "nexotrap-psychic" : 280
+    },
+    "body":"_fillers/generic/merchants/4"
+  },
+
+  "mylo": {
+    "type": "city",
+    "products": {
+      "potion": 70,
+      "ether":  50,
+      "nexotrap-regular": 100
+    },
+    "body":"mylo"
+  },
+
+  "vendor-drake-isles-marketplace": {
+    "type": "city",
+    "products": {
+      "potion": 80,
+      "potion-super":130,
+      "ether":  45,
+      "ether-super":  100,
+      "revive": 120,
+      "elixir":  140,
+      "food-18":35,
+      "food-19":35,
+      "food-20":35,
+      "food-21":35,
+      "food-22":35,
+      "food-23":35,
+      "food-24":35,
+      "food-25":35,
+      "food-26":35,
+      "food-27":35,
+      "food-28":35,
+      "food-29":35,
+      "food-30":35
+    },
+    "body":"_fillers/generic/merchants/3"
+  },
+
+  "merchant-chasm": {
+    "type": "city",
+    "products": {
+      "potion": 70,
+      "potion-super":120,
+      "ether":  40,
+      "ether-super":  90,
+      "revive": 110,
+      "elixir":  120,
+      "nexotrap-regular": 110,
+      "anti-poison": 50,
+      "anti-burn": 50,
+      "anti-freeze": 50,
+      "anti-paralyze": 50,
+      "anti-bind": 50,
+      "food-9":35,
+      "food-10":35,
+      "food-20":35,
+      "food-21":35,
+      "food-22":35,
+      "food-25":35
+    },
+    "body":"_fillers/generic/merchants/2"
+  },
+
+  "merchant-drake-port": {
+    "type": "city",
+    "products": {
+      "potion-super": 150,
+      "ether-super":  100,
+      "nexotrap-regular": 120,
+      "anti-burn": 40,
+      "anti-sleep": 40,
+      "anti-bind": 40,
+      "food-2":35,
+      "food-4":35,
+      "food-6":35,
+      "food-8":35
+    },
+    "body":"_fillers/generic/merchants/2"
+  },
+
+
+  "witch-camp-potions": {
+    "type": "city",
+    "products": {
+      "potion-max": 350,
+      "ether-max":  250,
+      "elixir-max":  450,
+      "revive-ultra":  330
+    },
+    "body":"_fillers/peculiar/witches/17"
+  },
+
+
+  "cadium-guy": {
+    "type": "city",
+    "products": {
+      "potion": 70,
+      "potion-super": 120,
+      "potion-ultra": 210,
+      "ether":  40,
+      "ether-super":  90,
+      "ether-ultra":  130,
+      "nexotrap-regular": 110,
+      "anti-paralyze": 65,
+      "anti-sleep": 40,
+      "anti-freeze": 40
+    },
+    "body":"_fillers/main/057"
+  },
+
+  "merchant-gabe": {
+    "type": "city",
+    "products": {
+      "food-perfect": 150,
+      "food-1": 25,
+      "food-2": 25,
+      "food-3": 25,
+      "food-4": 25,
+      "food-5": 25,
+      "food-6": 25,
+      "food-7": 25,
+      "food-8": 25
+    },
+    "body":"_fillers/generic/merchants/1"
+  },
+
+  "merchant-rick": {
+    "type": "city",
+    "products": {
+      "anti-poison": 25,
+      "anti-burn": 25,
+      "anti-paralyze": 25,
+      "anti-sleep": 25,
+      "anti-freeze": 25,
+      "anti-bind": 25,
+      "anti-confusion": 25
+    },
+    "body":"_fillers/generic/merchants/3"
+  },
+
+  "claive": {
+    "buyer": true,
+    "type": "city",
+    "products": {
+      "shard-fire": 25,
+      "shard-water": 25,
+      "shard-electric": 25,
+      "shard-wind": 25,
+      "shard-plant": 25,
+      "shard-mineral": 25,
+      "shard-psychic": 25,
+      "shard-ghost": 25
+    },
+    "body":"$claive"
+  }
+
+}
+
+

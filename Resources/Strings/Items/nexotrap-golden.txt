@@ -1,0 +1,23 @@
+Golden Nexotrap
+Golden Nexotraps
+A perfect Nexotrap that can capture any Nexomon no matter what!
+<blank>
+<blank>
+You received a Golden Nexotrap!
+You received [amount] Golden Nexotraps!
+You found a Golden Nexotrap!
+You found [amount] Golden Nexotraps!
+Do you wish to use a Golden Nexotrap on [nickname]?
+[nickname] doesn't need a Golden Nexotrap!
+You used a Golden Nexotrap on [nickname]!
+Your opponent used a Golden Nexotrap on [nickname]!
+Golden Nexotrap has been enabled!
+Golden Nexotrap has been disabled!
+You crafted a Golden Nexotrap!
+You crafted [amount] Golden Nexotraps!
+You don't have enough shards to craft a Golden Nexotrap!
+You don't have enough shards to craft [amount] Golden Nexotraps!
+Do you want to sell a Golden Nexotrap for [coins] coins?
+Do you want to sell [amount] Golden Nexotraps for [coins] coins?
+Do you wish to buy a Golden Nexotrap for [coins] coins?
+Do you wish to buy [amount] Golden Nexotraps for [coins] coins?

@@ -1,0 +1,23 @@
+Taco
+Tacos
+Made of fresh ingredients and wrapped by a crunchy tortilla.
+<blank>
+<blank>
+You received a Taco!
+You received [amount] Tacos!
+You found a Taco!
+You found [amount] Tacos!
+Do you wish to use a Taco on [nickname]?
+[nickname] doesn't need a Taco!
+You used a Taco on [nickname]!
+Your opponent used a Taco on [nickname]!
+Taco has been enabled!
+Taco has been disabled!
+You crafted a Taco!
+You crafted [amount] Tacos!
+You don't have enough shards to craft a Taco!
+You don't have enough shards to craft [amount] Tacos!
+Do you want to sell a Taco for [coins] coins?
+Do you want to sell [amount] Tacos for [coins] coins?
+Do you wish to buy a Taco for [coins] coins?
+Do you wish to buy [amount] Tacos for [coins] coins?

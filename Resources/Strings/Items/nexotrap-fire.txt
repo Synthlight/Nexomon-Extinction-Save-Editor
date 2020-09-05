@@ -1,0 +1,23 @@
+Fire Nexotrap
+Fire Nexotraps
+A Nexotrap designed to capture Fire-type Nexomon!
+<blank>
+<blank>
+You received a Fire Nexotrap!
+You received [amount] Fire Nexotraps!
+You found a Fire Nexotrap!
+You found [amount] Fire Nexotraps!
+Do you wish to use a Fire Nexotrap on [nickname]?
+[nickname] doesn't need a Fire Nexotrap!
+You used a Fire Nexotrap on [nickname]!
+Your opponent used a Fire Nexotrap on [nickname]!
+Fire Nexotrap has been enabled!
+Fire Nexotrap has been disabled!
+You crafted a Fire Nexotrap!
+You crafted [amount] Fire Nexotraps!
+You don't have enough shards to craft a Fire Nexotrap!
+You don't have enough shards to craft [amount] Fire Nexotraps!
+Do you want to sell a Fire Nexotrap for [coins] coins?
+Do you want to sell [amount] Fire Nexotraps for [coins] coins?
+Do you wish to buy a Fire Nexotrap for [coins] coins?
+Do you wish to buy [amount] Fire Nexotraps for [coins] coins?

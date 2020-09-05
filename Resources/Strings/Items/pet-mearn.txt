@@ -1,0 +1,23 @@
+Mearn Companion
+Mearns
+A Mearn follower! Activate it in the profile menu.
+<blank>
+<blank>
+You received a Mearn Companion!
+You received [amount] Mearns!
+You found a Mearn Companion!
+You found [amount] Mearns!
+Do you wish to use a Mearn on [nickname]?
+[nickname] doesn't need a Mearn!
+You used a Mearn on [nickname]!
+Your opponent used a Mearn on [nickname]!
+Mearn has been enabled!
+Mearn has been disabled!
+You crafted a Mearn!
+You crafted [amount] Mearns!
+You don't have enough shards to craft a Mearn!
+You don't have enough shards to craft [amount] Mearns!
+Do you want to sell a Mearn for [coins] coins?
+Do you want to sell [amount] Mearns for [coins] coins?
+Do you wish to buy a Mearn for [coins] coins?
+Do you wish to buy [amount] Mearns for [coins] coins?
