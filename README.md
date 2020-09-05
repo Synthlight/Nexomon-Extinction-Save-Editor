@@ -18,6 +18,9 @@ It'll ask you which file to open on startup.<br>
 Ctrl+S opens the save dialog.<br>
 That's basically it for the interface.
 
+The default save location is `C:\Program Files (x86)\Steam\userdata\<user id>\1196630\remote\data-<slot>.dat`<br>
+Do **NOT** bother editing the one in AppData/LocalLow. The one there seems to just be a backup and gets overwritten so ignore it.
+
 #### Made for & tested on Steam saves. (Build version from 2020-08-29.) Other platforms are unsupported.
 
 ### Use at your own risk, keep save backups, etc. I shouldn't need to tell you this part.
