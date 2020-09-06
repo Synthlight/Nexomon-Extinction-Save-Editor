@@ -21,7 +21,9 @@ That's basically it for the interface.
 The default save location is `C:\Program Files (x86)\Steam\userdata\<user id>\1196630\remote\data-<slot>.dat`<br>
 Do **NOT** bother editing the one in AppData/LocalLow. The one there seems to just be a backup and gets overwritten so ignore it.
 
-#### Made for & tested on Steam saves. (Build version from 2020-08-29.) Other platforms are unsupported.
+<b>Made for & tested on Steam saves. (Save version 20.)<br>
+Also tested with a Switch save that was version 13.<br>
+Other platforms are mostly unsupported. If you have a save that breaks things, open an issue.</b>
 
 ### Use at your own risk, keep save backups, etc. I shouldn't need to tell you this part.
 
