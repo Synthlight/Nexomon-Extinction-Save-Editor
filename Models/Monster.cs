@@ -2,7 +2,7 @@
 using System.IO;
 
 namespace Save_Editor.Models {
-    public class Monster : NotifyPropertyChangedBase {
+    public class Monster : NotifyPropertyChangedImpl {
         public string                      Name            => Data.MONSTER_NAMES_BY_ID[monsterId];
         public short                       monsterId       { get; set; }
         public string                      nickname        { get; set; }
@@ -25,9 +25,9 @@ namespace Save_Editor.Models {
 
     public static partial class Extensions {
         public static Monster ReadMonster(this BinaryReader reader) {
-            var monster = new Monster();
-
-            monster.monsterId = reader.ReadInt16();
+            var monster = new Monster {
+                monsterId = reader.ReadInt16()
+            };
 
             if (reader.ReadBoolean()) monster.nickname = reader.ReadString();
 

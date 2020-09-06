@@ -1,5 +1,5 @@
 ﻿namespace Save_Editor.Models {
-    public class Item : NotifyPropertyChangedBase {
+    public class Item : NotifyPropertyChangedImpl {
         public string Name => Data.ITEM_NAMES_BY_ID.TryGet(Id);
         public int    Id   { get; set; }
 

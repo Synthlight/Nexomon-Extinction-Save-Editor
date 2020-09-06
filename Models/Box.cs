@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 
 namespace Save_Editor.Models {
-    public class Box : NotifyPropertyChangedBase {
+    public class Box : NotifyPropertyChangedImpl {
         public const int SIZE = 60;
 
         public string    name { get; set; }
@@ -17,11 +17,11 @@ namespace Save_Editor.Models {
 
     public static partial class Extensions {
         public static Box ReadBox(this BinaryReader reader) {
-            var box = new Box();
-
-            box.name  = reader.ReadString();
-            box.size1 = reader.ReadInt32();
-            box.size2 = reader.ReadInt32();
+            var box = new Box {
+                name  = reader.ReadString(),
+                size1 = reader.ReadInt32(),
+                size2 = reader.ReadInt32()
+            };
 
             box.slots = new Monster[box.size1];
 

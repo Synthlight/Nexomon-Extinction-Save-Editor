@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.IO;
 
 namespace Save_Editor.Models {
-    public class SaveData : NotifyPropertyChangedBase {
+    public class SaveData : NotifyPropertyChangedImpl {
         public int                                 magic;
         public string                              buildDate       { get; set; }
         public string                              buildTarget     { get; set; }
@@ -46,28 +46,28 @@ namespace Save_Editor.Models {
 
     public static partial class Extensions {
         public static SaveData ReadSaveData(this BinaryReader reader) {
-            var saveData = new SaveData();
-
-            saveData.magic           = reader.ReadInt32();
-            saveData.buildDate       = reader.ReadString();
-            saveData.buildTarget     = reader.ReadString();
-            saveData.buildVersion    = reader.ReadString();
-            saveData.saveDateUtc     = reader.ReadString();
-            saveData.playerName      = reader.ReadString();
-            saveData.playerBody      = reader.ReadString();
-            saveData.playtimeSeconds = reader.ReadInt32();
-            saveData.petBody         = reader.ReadString();
-            saveData.mapId           = reader.ReadInt32();
-            saveData.playerX         = reader.ReadInt32();
-            saveData.playerY         = reader.ReadInt32();
-            saveData.playerDirection = reader.ReadString();
-            saveData.checkpointMapId = reader.ReadInt32();
-            saveData.checkpointX     = reader.ReadInt32();
-            saveData.checkpointY     = reader.ReadInt32();
-            saveData.volumeBGM       = reader.ReadInt32();
-            saveData.volumeSFX       = reader.ReadInt32();
-            saveData.autoSaveEnabled = reader.ReadBoolean();
-            saveData.languageId      = reader.ReadString();
+            var saveData = new SaveData {
+                magic           = reader.ReadInt32(),
+                buildDate       = reader.ReadString(),
+                buildTarget     = reader.ReadString(),
+                buildVersion    = reader.ReadString(),
+                saveDateUtc     = reader.ReadString(),
+                playerName      = reader.ReadString(),
+                playerBody      = reader.ReadString(),
+                playtimeSeconds = reader.ReadInt32(),
+                petBody         = reader.ReadString(),
+                mapId           = reader.ReadInt32(),
+                playerX         = reader.ReadInt32(),
+                playerY         = reader.ReadInt32(),
+                playerDirection = reader.ReadString(),
+                checkpointMapId = reader.ReadInt32(),
+                checkpointX     = reader.ReadInt32(),
+                checkpointY     = reader.ReadInt32(),
+                volumeBGM       = reader.ReadInt32(),
+                volumeSFX       = reader.ReadInt32(),
+                autoSaveEnabled = reader.ReadBoolean(),
+                languageId      = reader.ReadString()
+            };
 
             for (var i = reader.ReadInt32(); i > 0; i--) {
                 saveData.party.Add(reader.ReadMonster());

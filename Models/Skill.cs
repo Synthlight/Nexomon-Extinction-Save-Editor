@@ -1,5 +1,5 @@
 ﻿namespace Save_Editor.Models {
-    public class Skill : NotifyPropertyChangedBase {
+    public class Skill : NotifyPropertyChangedImpl {
         public string Name => Data.SKILL_NAMES_BY_ID.TryGet(Id);
         public int    Id   { get; set; }
 
