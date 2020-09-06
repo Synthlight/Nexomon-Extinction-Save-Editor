@@ -10,6 +10,7 @@
           AutoGenerateColumns="False"
           CanUserAddRows="False"
           CanUserDeleteRows="False"
+          EnableRowVirtualization="True"
           mc:Ignorable="d">
     <DataGrid.Columns>
         <DataGridComboBoxColumn DisplayMemberPath="Value"

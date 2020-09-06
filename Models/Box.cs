@@ -16,7 +16,7 @@ namespace Save_Editor.Models {
     }
 
     public static partial class Extensions {
-        public static Box ReadBox(this BinaryReader reader) {
+        public static Box ReadBox(this BinaryReader reader, int saveVersion) {
             var box = new Box {
                 name  = reader.ReadString(),
                 size1 = reader.ReadInt32(),
@@ -26,13 +26,13 @@ namespace Save_Editor.Models {
             box.slots = new Monster[box.size1];
 
             for (var i = 0; i < box.size1; i++) {
-                if (reader.ReadBoolean()) box.slots[i] = reader.ReadMonster();
+                if (reader.ReadBoolean()) box.slots[i] = reader.ReadMonster(saveVersion);
             }
 
             return box;
         }
 
-        public static void Write(this BinaryWriter writer, Box box) {
+        public static void Write(this BinaryWriter writer, Box box, int saveVersion) {
             writer.Write(box.name);
             writer.Write(box.size1);
             writer.Write(box.size2);
@@ -42,7 +42,7 @@ namespace Save_Editor.Models {
                     writer.Write(false);
                 } else {
                     writer.Write(true);
-                    writer.Write(box.slots[i]);
+                    writer.Write(box.slots[i], saveVersion);
                 }
             }
         }

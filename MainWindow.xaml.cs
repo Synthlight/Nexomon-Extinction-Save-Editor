@@ -10,6 +10,8 @@ using Save_Editor.Resources;
 
 namespace Save_Editor {
     public partial class MainWindow {
+        private const string SAVE_FILE_FILTER = "Windows (DAT)|*.dat|Switch (slot-*)|slot-*";
+
         public SaveData saveData { get; private set; }
         public string   targetFile;
 
@@ -57,7 +59,7 @@ namespace Save_Editor {
 
         private string GetOpenTarget() {
             var ofdResult = new OpenFileDialog {
-                Filter           = "DAT|*.dat",
+                Filter           = SAVE_FILE_FILTER,
                 Multiselect      = false,
                 InitialDirectory = Path.GetDirectoryName(targetFile) ?? string.Empty
             };
@@ -68,7 +70,7 @@ namespace Save_Editor {
 
         private string GetSaveTarget() {
             var sfdResult = new SaveFileDialog {
-                Filter           = "DAT|*.dat",
+                Filter           = SAVE_FILE_FILTER,
                 FileName         = $"{Path.GetFileNameWithoutExtension(targetFile)}",
                 AddExtension     = true,
                 InitialDirectory = Path.GetDirectoryName(targetFile) ?? string.Empty

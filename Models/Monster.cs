@@ -24,7 +24,7 @@ namespace Save_Editor.Models {
     }
 
     public static partial class Extensions {
-        public static Monster ReadMonster(this BinaryReader reader) {
+        public static Monster ReadMonster(this BinaryReader reader, int saveVersion) {
             var monster = new Monster {
                 monsterId = reader.ReadInt16()
             };
@@ -53,13 +53,13 @@ namespace Save_Editor.Models {
                 monster.gridAdapter4 = reader.ReadBoolean();
             }
 
-            monster.cosmic  = reader.ReadBoolean();
-            monster.harmony = reader.ReadByte();
+            if (saveVersion >= SaveData.MIN_VERSION_WITH_COSMIC) monster.cosmic  = reader.ReadBoolean();
+            if (saveVersion >= SaveData.MIN_VERSION_WITH_HARMONY) monster.harmony = reader.ReadByte();
 
             return monster;
         }
 
-        public static void Write(this BinaryWriter writer, Monster monster) {
+        public static void Write(this BinaryWriter writer, Monster monster, int saveVersion) {
             writer.Write(monster.monsterId);
 
             if (string.IsNullOrEmpty(monster.nickname)) {
@@ -93,8 +93,8 @@ namespace Save_Editor.Models {
                 writer.Write(monster.gridAdapter4);
             }
 
-            writer.Write(monster.cosmic);
-            writer.Write(monster.harmony);
+            if (saveVersion >= SaveData.MIN_VERSION_WITH_COSMIC) writer.Write(monster.cosmic);
+            if (saveVersion >= SaveData.MIN_VERSION_WITH_HARMONY) writer.Write(monster.harmony);
         }
     }
 }

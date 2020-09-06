@@ -10,6 +10,7 @@
           CanUserAddRows="True"
           CanUserDeleteRows="True"
           ColumnWidth="*"
+          EnableRowVirtualization="True"
           HeadersVisibility="None"
           mc:Ignorable="d">
     <DataGrid.Columns>

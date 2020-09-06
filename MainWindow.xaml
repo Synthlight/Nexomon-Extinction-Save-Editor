@@ -230,6 +230,7 @@
                 <DataGrid AutoGenerateColumns="False"
                           CanUserAddRows="True"
                           CanUserDeleteRows="True"
+                          EnableRowVirtualization="True"
                           ItemsSource="{Binding saveData.items}">
                     <DataGrid.Columns>
                         <DataGridComboBoxColumn DisplayMemberPath="Value"

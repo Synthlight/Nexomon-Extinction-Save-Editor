@@ -4,7 +4,10 @@ using System.IO;
 
 namespace Save_Editor.Models {
     public class SaveData : NotifyPropertyChangedImpl {
-        public int                                 magic;
+        public const int MIN_VERSION_WITH_COSMIC  = 15;
+        public const int MIN_VERSION_WITH_HARMONY = 12;
+
+        public int                                 saveVersion;
         public string                              buildDate       { get; set; }
         public string                              buildTarget     { get; set; }
         public string                              buildVersion    { get; set; }
@@ -47,7 +50,7 @@ namespace Save_Editor.Models {
     public static partial class Extensions {
         public static SaveData ReadSaveData(this BinaryReader reader) {
             var saveData = new SaveData {
-                magic           = reader.ReadInt32(),
+                saveVersion     = reader.ReadInt32(),
                 buildDate       = reader.ReadString(),
                 buildTarget     = reader.ReadString(),
                 buildVersion    = reader.ReadString(),
@@ -70,11 +73,11 @@ namespace Save_Editor.Models {
             };
 
             for (var i = reader.ReadInt32(); i > 0; i--) {
-                saveData.party.Add(reader.ReadMonster());
+                saveData.party.Add(reader.ReadMonster(saveData.saveVersion));
             }
 
             for (var i = reader.ReadInt32(); i > 0; i--) {
-                saveData.storage.Add(reader.ReadBox());
+                saveData.storage.Add(reader.ReadBox(saveData.saveVersion));
             }
 
             for (var i = reader.ReadInt32(); i > 0; i--) {
@@ -89,7 +92,7 @@ namespace Save_Editor.Models {
         }
 
         public static void Write(this BinaryWriter writer, SaveData saveData) {
-            writer.Write(saveData.magic);
+            writer.Write(saveData.saveVersion);
             writer.Write(saveData.buildDate);
             writer.Write(saveData.buildTarget);
             writer.Write(saveData.buildVersion);
@@ -112,12 +115,12 @@ namespace Save_Editor.Models {
 
             writer.Write(saveData.party.Count);
             foreach (var monster in saveData.party) {
-                writer.Write(monster);
+                writer.Write(monster, saveData.saveVersion);
             }
 
             writer.Write(saveData.storage.Count);
             foreach (var box in saveData.storage) {
-                writer.Write(box);
+                writer.Write(box, saveData.saveVersion);
             }
 
             writer.Write(saveData.items.Count);
