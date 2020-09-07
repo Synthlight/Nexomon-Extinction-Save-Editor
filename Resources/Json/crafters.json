@@ -210,6 +210,36 @@
                 "shard-electric": 8,
                 "shard-psychic": 0,
                 "shard-ghost": 4
+            },
+            "core-synergy-low": {
+                "shard-fire": 1,
+                "shard-water": 1,
+                "shard-wind": 1,
+                "shard-plant": 1,
+                "shard-mineral": 1,
+                "shard-electric": 1,
+                "shard-psychic": 1,
+                "shard-ghost": 1
+            },
+            "core-synergy-medium": {
+                "shard-fire": 3,
+                "shard-water": 3,
+                "shard-wind": 3,
+                "shard-plant": 3,
+                "shard-mineral": 3,
+                "shard-electric": 3,
+                "shard-psychic": 3,
+                "shard-ghost": 3
+            },
+            "core-synergy-high": {
+                "shard-fire": 5,
+                "shard-water": 5,
+                "shard-wind": 5,
+                "shard-plant": 5,
+                "shard-mineral": 5,
+                "shard-electric": 5,
+                "shard-psychic": 5,
+                "shard-ghost": 5
             }
         }
     },

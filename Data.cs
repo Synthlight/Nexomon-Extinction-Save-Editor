@@ -16,6 +16,7 @@ namespace Save_Editor {
         public static readonly Dictionary<int, string>        SKILL_NAMES_BY_ID   = new Dictionary<int, string>();
         public static readonly List<string>                   AVATARS;
         public static readonly List<string>                   PET_AVATARS;
+        public static readonly List<string>                   LANGUAGES;
 
         private static readonly TextInfo TEXT_INFO = new CultureInfo("en-US", false).TextInfo;
 
@@ -50,6 +51,7 @@ namespace Save_Editor {
             AVATARS     = JsonConvert.DeserializeObject<List<string>>(Encoding.UTF8.GetString(Assets.avatars));
             PET_AVATARS = JsonConvert.DeserializeObject<List<string>>(Encoding.UTF8.GetString(Assets.pets));
             PET_AVATARS.Insert(0, "");
+            LANGUAGES = JsonConvert.DeserializeObject<Dictionary<string, object>>(Encoding.UTF8.GetString(Assets.languages)).Keys.ToList();
         }
     }
 }

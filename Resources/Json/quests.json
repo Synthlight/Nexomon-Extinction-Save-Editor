@@ -599,10 +599,9 @@
         {"line": 6, "on_switches": [900], "off_switches": [], "comment": ""}
       ],
       "rewards": {
+        "nexotrap-golden": 1,
         "coins": 350,
-        "core-destruction-low": 1,
-        "food-13": 3,
-        "food-16": 3
+        "core-destruction-low": 1
       },
       "reputation":  10,
       "body": "_tamers/62"

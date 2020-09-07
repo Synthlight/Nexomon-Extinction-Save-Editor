@@ -3827,6 +3827,76 @@ namespace Save_Editor.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cosmic Charm
+        ///Cosmic Charms
+        ///It&apos;s said that this improves the chance of finding very peculiar Nexomon...
+        ///&lt;blank&gt;
+        ///&lt;blank&gt;
+        ///You received a Cosmic Charm!
+        ///You received [amount] Cosmic Charms!
+        ///You found a Cosmic Charm!
+        ///You found [amount] Cosmic Charms!
+        ///Do you wish to use a Cosmic Charm on [nickname]?
+        ///[nickname] doesn&apos;t need a Cosmic Charm!
+        ///You used a Cosmic Charm on [nickname]!
+        ///Your opponent used a Cosmic Charm on [nickname]!
+        ///Cosmic Charm has been enabled!
+        ///Cosmic Charm has been disabled!
+        ///You crafted  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string special_charm_cosmic {
+            get {
+                return ResourceManager.GetString("special_charm_cosmic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Workout Charm
+        ///Workout Charms
+        ///Causes your team to restore [value_1]% stamina after each battle. This can be stacked.
+        ///&lt;blank&gt;
+        ///&lt;blank&gt;
+        ///You received a Workout Charm!
+        ///You received [amount] Workout Charms!
+        ///You found a Workout Charm!
+        ///You found [amount] Workout Charms!
+        ///Do you wish to use a Workout Charm on [nickname]?
+        ///[nickname] doesn&apos;t need a Workout Charm!
+        ///You used a Workout Charm on [nickname]!
+        ///Your opponent used a Workout Charm on [nickname]!
+        ///Workout Charm has been enabled!
+        ///Workout Charm has been  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string special_charm_energy {
+            get {
+                return ResourceManager.GetString("special_charm_energy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Healthy Charm
+        ///Healthy Charms
+        ///Causes your team to restore [value_1]% HP after each battle. This can be stacked.
+        ///&lt;blank&gt;
+        ///&lt;blank&gt;
+        ///You received a Healthy Charm!
+        ///You received [amount] Healthy Charms!
+        ///You found a Healthy Charm!
+        ///You found [amount] Healthy Charms!
+        ///Do you wish to use a Healthy Charm on [nickname]?
+        ///[nickname] doesn&apos;t need a Healthy Charm!
+        ///You used a Healthy Charm on [nickname]!
+        ///Your opponent used a Healthy Charm on [nickname]!
+        ///Healthy Charm has been enabled!
+        ///Healthy Charm has been disab [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string special_charm_health {
+            get {
+                return ResourceManager.GetString("special_charm_health", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DISCOUNT VOUCHER
         ///DISCOUNT VOUCHERS
         ///Merchants will lower their prices by [value_1]%! This item can be stacked!

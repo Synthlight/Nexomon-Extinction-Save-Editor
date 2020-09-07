@@ -1,0 +1,23 @@
+Cosmic Charm
+Cosmic Charms
+It's said that this improves the chance of finding very peculiar Nexomon...
+<blank>
+<blank>
+You received a Cosmic Charm!
+You received [amount] Cosmic Charms!
+You found a Cosmic Charm!
+You found [amount] Cosmic Charms!
+Do you wish to use a Cosmic Charm on [nickname]?
+[nickname] doesn't need a Cosmic Charm!
+You used a Cosmic Charm on [nickname]!
+Your opponent used a Cosmic Charm on [nickname]!
+Cosmic Charm has been enabled!
+Cosmic Charm has been disabled!
+You crafted a Cosmic Charm!
+You crafted [amount] Cosmic Charms!
+You don't have enough shards to craft a Cosmic Charm!
+You don't have enough shards to craft [amount] Cosmic Charms!
+Do you want to sell a Cosmic Charm for [coins] coins?
+Do you want to sell [amount] Cosmic Charms for [coins] coins?
+Do you wish to buy a Cosmic Charm for [coins] coins?
+Do you wish to buy [amount] Cosmic Charms for [coins] coins?

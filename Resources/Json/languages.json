@@ -1,0 +1,102 @@
+{
+    "english": {
+        "strings": "english",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "french": {
+        "strings": "french",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "german": {
+        "strings": "german",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "italian": {
+        "strings": "italian",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "spanish": {
+        "strings": "spanish",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "spanish-latam": {
+        "strings": "spanish-latam",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "russian": {
+        "strings": "russian",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
+    "chinese": {
+        "strings": "chinese",
+        "fonts": {
+            "naked": "assets/raw/fonts/chinese/naked.asset",
+            "naked-bold": "assets/raw/fonts/chinese/naked-bold.asset",
+            "stroke": "assets/raw/fonts/chinese/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/chinese/stroke-bold.asset"
+        }
+    },
+
+    "japanese": {
+        "strings": "japanese",
+        "fonts": {
+            "naked": "assets/raw/fonts/japanese/naked.asset",
+            "naked-bold": "assets/raw/fonts/japanese/naked-bold.asset",
+            "stroke": "assets/raw/fonts/japanese/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/japanese/stroke-bold.asset"
+        }
+    },
+
+    "korean": {
+        "strings": "korean",
+        "fonts": {
+            "naked": "assets/raw/fonts/korean/naked.asset",
+            "naked-bold": "assets/raw/fonts/korean/naked-bold.asset",
+            "stroke": "assets/raw/fonts/korean/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/korean/stroke-bold.asset"
+        }
+    }
+
+}

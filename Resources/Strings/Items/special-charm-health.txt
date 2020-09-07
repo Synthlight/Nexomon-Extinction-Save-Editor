@@ -1,0 +1,23 @@
+Healthy Charm
+Healthy Charms
+Causes your team to restore [value_1]% HP after each battle. This can be stacked.
+<blank>
+<blank>
+You received a Healthy Charm!
+You received [amount] Healthy Charms!
+You found a Healthy Charm!
+You found [amount] Healthy Charms!
+Do you wish to use a Healthy Charm on [nickname]?
+[nickname] doesn't need a Healthy Charm!
+You used a Healthy Charm on [nickname]!
+Your opponent used a Healthy Charm on [nickname]!
+Healthy Charm has been enabled!
+Healthy Charm has been disabled!
+You crafted a Healthy Charm!
+You crafted [amount] Healthy Charms!
+You don't have enough shards to craft a Healthy Charm!
+You don't have enough shards to craft [amount] Healthy Charms!
+Do you want to sell a Healthy Charm for [coins] coins?
+Do you want to sell [amount] Healthy Charms for [coins] coins?
+Do you wish to buy a Healthy Charm for [coins] coins?
+Do you wish to buy [amount] Healthy Charms for [coins] coins?

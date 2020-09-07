@@ -1644,6 +1644,29 @@
         "switch":784,
         "comment":"(5,43) -> 54"
     },
+    "tamer-453-9": {
+        "party-early":[
+            {"name":"volt","difficulty":2,"skills":[41,42],"cores":[]},
+            {"name":"fortle","difficulty":2,"skills":[91,93],"cores":[]}
+       ],
+       "party-regular":[
+            {"name":"volnamic","difficulty":2,"skills":[41,42],"cores":[]},
+            {"name":"fortank","difficulty":2,"skills":[91,93],"cores":[]},
+            {"name":"yomnom","difficulty":2,"skills":[133,156],"cores":[]},
+            {"name":"blizzarm","difficulty":2,"skills":[28,37,38],"cores":[]}
+       ],
+       "party-late":[
+           {"name":"voltaic","difficulty":2,"skills":[21,41,42],"cores":[]},
+		   {"name":"fortank","difficulty":2,"skills":[91,93,97],"cores":[]},
+		   {"name":"glunch","difficulty":2,"skills":[133,153,156],"cores":[]},
+           {"name":"phantra","difficulty":2,"skills":[176,206,207],"cores":[]},
+           {"name":"grath","difficulty":2,"skills":[49,141,182],"cores":[]},
+           {"name":"blizzaur","difficulty":2,"skills":[28,37,38],"cores":[]}
+       ],
+        "switch":785,
+        "comment":"(6,13) -> nicholas",
+        "folder":"tamers-patch-4"
+    },
 
 
 
@@ -3112,7 +3135,7 @@
     },
     "story-post-drake-electric": {
         "party":[
-            {"name":"volta","difficulty":2,"skills":[159,192,192,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+            {"name":"volta","difficulty":2,"skills":[159,192,193,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
         ],
         "switch":0,
         "comment":"",
@@ -3188,7 +3211,7 @@
     },
     "story-post-zetta": {
         "party":[
-            {"name":"luxa","difficulty":2,"skills":[192,192,193,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
+            {"name":"luxa","difficulty":2,"skills":[159,192,193,21],"cores":["core-vitality-boss-150", "core-stamina-boss-250"]}
         ],
         "switch":0,
         "comment":"",

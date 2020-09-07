@@ -1,0 +1,23 @@
+Workout Charm
+Workout Charms
+Causes your team to restore [value_1]% stamina after each battle. This can be stacked.
+<blank>
+<blank>
+You received a Workout Charm!
+You received [amount] Workout Charms!
+You found a Workout Charm!
+You found [amount] Workout Charms!
+Do you wish to use a Workout Charm on [nickname]?
+[nickname] doesn't need a Workout Charm!
+You used a Workout Charm on [nickname]!
+Your opponent used a Workout Charm on [nickname]!
+Workout Charm has been enabled!
+Workout Charm has been disabled!
+You crafted a Workout Charm!
+You crafted [amount] Workout Charms!
+You don't have enough shards to craft a Workout Charm!
+You don't have enough shards to craft [amount] Workout Charms!
+Do you want to sell a Workout Charm for [coins] coins?
+Do you want to sell [amount] Workout Charms for [coins] coins?
+Do you wish to buy a Workout Charm for [coins] coins?
+Do you wish to buy [amount] Workout Charms for [coins] coins?

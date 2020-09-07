@@ -6426,7 +6426,8 @@
       "front_y": "-48",
       "front_scale_x": "0.9724206",
       "front_scale_y": "0.2500934"
-    }
+    },
+    "tier":3
   },
   "lumbi": {
     "element": "fire",

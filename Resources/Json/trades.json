@@ -208,7 +208,9 @@
       "item,nexotrap-plant,1"
     ],
     "npc": [
-      "item,nexotrap-golden,1"
+      "item,nexotrap-golden,1",
+      "coins,350",
+      "item,core-destruction-low,1"
     ],
     "body-npc":"_tamers/62"
   },

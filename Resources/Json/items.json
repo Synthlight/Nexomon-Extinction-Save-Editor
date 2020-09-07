@@ -464,6 +464,24 @@
     "effectvalues": [ "20" ],
     "serialization": "1161"
   },
+  "core-synergy-low": {
+    "category": "core",
+    "effectvalues": [ "8" ],
+    "serialization": "2093",
+    "folder":"items-patch-4"
+  },
+  "core-synergy-medium": {
+    "category": "core",
+    "effectvalues": [ "16" ],
+    "serialization": "1490",
+    "folder":"items-patch-4"
+  },
+  "core-synergy-high": {
+    "category": "core",
+    "effectvalues": [ "25" ],
+    "serialization": "7107",
+    "folder":"items-patch-4"
+  },
   "core-greed-low": {
     "category": "core",
     "effectvalues": [ "3" ],
@@ -888,6 +906,24 @@
     "category": "key",
     "effectvalues": [ ],
     "serialization": "1208"
+  },
+  "special-charm-cosmic": {
+    "category": "key",
+    "effectvalues": [ 50 ],
+    "serialization": "5398",
+    "folder":"items-patch-4"
+  },
+  "special-charm-health": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "5516",
+    "folder":"items-patch-4"
+  },
+  "special-charm-energy": {
+    "category": "key",
+    "effectvalues": [ 3 ],
+    "serialization": "5916",
+    "folder":"items-patch-4"
   },
 
 

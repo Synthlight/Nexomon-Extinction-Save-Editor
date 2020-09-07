@@ -270,7 +270,8 @@
       { "entity": 70, "on_switches": [ 876 ], "off_switches": [ 877 ], "icon": "star" },
       { "entity": 91, "on_switches": [ ], "off_switches": [813], "icon": "trade" },
       { "entity": 92, "on_switches": [ ], "off_switches": [814], "icon": "trade" },
-      { "entity": 93, "on_switches": [ ], "off_switches": [815], "icon": "trade" }
+      { "entity": 93, "on_switches": [ ], "off_switches": [815], "icon": "trade" },
+      { "entity": 94, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "repositions": [
       { "entity": 54, "on_switches": [ 33 ], "off_switches": [ 75 ], "target": [25,25,"down"] },
@@ -570,7 +571,8 @@
     "head_icons": [
       { "entity": 45, "on_switches": [ ], "off_switches": [ ], "icon": "healer" },
       { "entity": 50, "on_switches": [ ], "off_switches": [818], "icon": "trade" },
-      { "entity": 51, "on_switches": [ ], "off_switches": [820], "icon": "trade" }
+      { "entity": 51, "on_switches": [ ], "off_switches": [820], "icon": "trade" },
+      { "entity": 54, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ]
   },
   "48": {
@@ -833,7 +835,8 @@
     "head_icons": [
       { "entity": 71, "on_switches": [ 75 ], "off_switches": [ ], "icon": "star" },
       { "entity": 80, "on_switches": [ 75 ], "off_switches": [833], "icon": "trade" },
-      { "entity": 81, "on_switches": [ 75 ], "off_switches": [834], "icon": "trade" }
+      { "entity": 81, "on_switches": [ 75 ], "off_switches": [834], "icon": "trade" },
+      { "entity": 83, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "background":"ignitia",
     "liquid": "lava"
@@ -1125,7 +1128,8 @@
       { "entity": 47, "on_switches": [ 97 ], "off_switches": [ ], "icon": "nexotraps" },
       { "entity": 71, "on_switches": [ ], "off_switches": [841], "icon": "trade" },
       { "entity": 72, "on_switches": [ ], "off_switches": [842], "icon": "trade" },
-      { "entity": 48, "on_switches": [ ], "off_switches": [ ], "icon": "shop", "offset_y":-12 }
+      { "entity": 48, "on_switches": [ ], "off_switches": [ ], "icon": "shop", "offset_y":-12 },
+      { "entity": 75, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "background":"drake",
     "parallax": "drake"
@@ -1604,7 +1608,8 @@
       { "entity": 6, "on_switches": [ 116, 117, 118 ], "off_switches": [ 119 ], "icon": "star" },
       { "entity": 6, "on_switches": [ 121 ], "off_switches": [ 122 ], "icon": "star" },
       { "entity": 16, "on_switches": [ ], "off_switches": [ 893 ], "icon": "star" },
-      { "entity": 41, "on_switches": [ ], "off_switches": [ 898 ], "icon": "star" }
+      { "entity": 41, "on_switches": [ ], "off_switches": [ 898 ], "icon": "star" },
+      { "entity": 43, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "background": "snow",
     "weather": "snow-weak"
@@ -1841,7 +1846,8 @@
     ],
     "head_icons": [
       { "entity": 20, "on_switches": [ ], "off_switches": [ ], "icon": "healer" },
-      { "entity": 28, "on_switches": [ 13 ], "off_switches": [849], "icon": "trade" }
+      { "entity": 28, "on_switches": [ 13 ], "off_switches": [849], "icon": "trade" },
+      { "entity": 30, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "background": "pinewoods",
     "parallax":"drake"
@@ -2244,7 +2250,8 @@
       { "entity": 22, "on_switches": [ 249 ], "off_switches": [ 254 ], "icon": "star" },
       { "entity": 26, "on_switches": [ 249 ], "off_switches": [ 255 ], "icon": "star" },
       { "entity": 62, "on_switches": [ ], "off_switches": [827], "icon": "trade" },
-      { "entity": 63, "on_switches": [ ], "off_switches": [829], "icon": "trade" }
+      { "entity": 63, "on_switches": [ ], "off_switches": [829], "icon": "trade" },
+      { "entity": 64, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
     ],
     "background":"desert"
   },
@@ -2838,7 +2845,10 @@
     "comment": "",
     "autobgm": "daniel/palmaya",
     "background":"beach",
-    "liquid": "water-beach"
+    "liquid": "water-beach",
+    "head_icons": [
+      { "entity": 17, "on_switches": [ 22 ], "off_switches": [ ], "icon": "learning", "offset_y":-8 }
+    ]
   },
   "289": {
     "comment": "",
@@ -3690,7 +3700,10 @@
   "453": {
     "comment": "",
     "autobgm": "old/wind",
-    "background": "drake"
+    "background": "drake",
+    "head_icons": [
+      { "entity": 9, "on_switches": [ ], "off_switches": [ 785 ], "icon": "battle", "tamer":"453-9" }
+    ]
   },
   "454": {
     "comment": "",
