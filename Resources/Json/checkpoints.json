@@ -1,5 +1,5 @@
 {
-    
+
     "1": [
         {
             "override_map_target": 0,
@@ -9,7 +9,7 @@
             "comments":"bedroom"
         }
     ],
-    
+
     "5": [
         {
             "coords":[6,11],
@@ -30,7 +30,7 @@
             "comments":"outside orphanage"
         }
     ],
-    
+
     "6": [
         {
             "override_map_target": 0,
@@ -65,7 +65,7 @@
             "comments":"hero tomb"
         }
     ],
-    
+
     "16": [
         {
             "coords":[4,10],
@@ -74,7 +74,7 @@
             "comments":"darkwoods entrance"
         }
     ],
-    
+
     "18": [
         {
             "coords":[5,6],
@@ -89,7 +89,7 @@
             "comments":"parum bridge AFTER AMELIE"
         }
     ],
-    
+
     "19": [
         {
             "coords":[10,17],
@@ -98,7 +98,7 @@
             "comments":"parum entrance"
         }
     ],
-    
+
     "20": [
         {
             "coords":[24,28],
@@ -107,7 +107,7 @@
             "comments":"parum"
         }
     ],
-    
+
     "26": [
         {
             "coords":[5,4],
@@ -116,7 +116,7 @@
             "comments":"guild to upper levels"
         }
     ],
-    
+
     "29": [
         {
             "coords":[2,26],
@@ -131,7 +131,7 @@
             "comments":"outlands camp"
         }
     ],
-    
+
     "46": [
         {
             "coords":[10,12],
@@ -140,7 +140,7 @@
             "comments":"immortal citadel"
         }
     ],
-    
+
     "59": [
         {
             "coords":[11,8],
@@ -149,7 +149,7 @@
             "comments":"darkwoods camp"
         }
     ],
-    
+
     "65": [
         {
             "coords":[25,43],
@@ -158,7 +158,7 @@
             "comments":"grunda chasm"
         }
     ],
-    
+
     "68": [
         {
             "coords":[10,4],
@@ -167,7 +167,7 @@
             "comments":"entrance ignitia elevator"
         }
     ],
-    
+
     "74": [
         {
             "coords":[34,24],
@@ -176,7 +176,7 @@
             "comments":"ignitia in front of healing centre"
         }
     ],
-    
+
     "82": [
         {
             "coords":[4,9],
@@ -185,7 +185,7 @@
             "comments":"ignitia southern area"
         }
     ],
-    
+
     "87": [
         {
             "coords":[7,13],
@@ -194,7 +194,7 @@
             "comments":"ignitia fenrir tomb"
         }
     ],
-    
+
     "101": [
         {
             "coords":[15,16],
@@ -203,7 +203,7 @@
             "comments":"drake isles port"
         }
     ],
-    
+
     "109": [
         {
             "coords":[6,6],
@@ -218,7 +218,7 @@
             "comments":"lydia village AFTER ACCESS in front of healing centre"
         }
     ],
-    
+
     "132": [
         {
             "coords":[10,6],
@@ -227,7 +227,7 @@
             "comments":"nexolord tower only AFTER getting the raid quest"
         }
     ],
-    
+
     "152": [
         {
             "coords":[35,14],
@@ -236,7 +236,7 @@
             "comments":"frozen tundra city in front of healing centre"
         }
     ],
-    
+
     "153": [
         {
             "coords":[36,20],
@@ -245,7 +245,7 @@
             "comments":"frozen tundra guild bedroom"
         }
     ],
-    
+
     "156": [
         {
             "coords":[15,7],
@@ -254,7 +254,7 @@
             "comments":"outside bomb maker hut AFTER getting Videll quest"
         }
     ],
-    
+
     "161": [
         {
             "coords":[9,5],
@@ -263,7 +263,7 @@
             "comments":"outside bunker AFTER destroying the gates"
         }
     ],
-    
+
     "179": [
         {
             "coords":[8,7],
@@ -272,7 +272,7 @@
             "comments":"Cadium first sub"
         }
     ],
-    
+
     "180": [
         {
             "coords":[11,22],
@@ -281,7 +281,7 @@
             "comments":"Cadium city"
         }
     ],
-    
+
     "191": [
         {
             "coords":[10,10],
@@ -290,7 +290,7 @@
             "comments":"Cadium outside Amelie lab AFTER opening it"
         }
     ],
-    
+
     "203": [
         {
             "coords":[11,10],
@@ -299,7 +299,7 @@
             "comments":"Cadium Amelie lab before boss"
         }
     ],
-    
+
     "205": [
         {
             "coords":[15,7],
@@ -308,7 +308,7 @@
             "comments":"Cadium Amelie lab after boss SUB"
         }
     ],
-    
+
     "206": [
         {
             "coords":[6,5],
@@ -317,7 +317,7 @@
             "comments":"Parum harbor AFTER escaping with Zetta sub"
         }
     ],
-    
+
     "209": [
         {
             "coords":[15,9],
@@ -326,7 +326,7 @@
             "comments":"Lateria prison cell"
         }
     ],
-    
+
     "214": [
         {
             "coords":[20,6],
@@ -335,7 +335,7 @@
             "comments":"Lateria outside prison AFTER escaping"
         }
     ],
-    
+
     "219": [
         {
             "coords":[32,10],
@@ -344,7 +344,7 @@
             "comments":"Lateria city outside healing centre"
         }
     ],
-    
+
     "236": [
         {
             "coords":[4,5],
@@ -353,7 +353,7 @@
             "comments":"Lateria before Petram boss"
         }
     ],
-    
+
     "240": [
         {
             "coords":[15,3],
@@ -362,7 +362,7 @@
             "comments":"Khan woods camp"
         }
     ],
-    
+
     "254": [
         {
             "coords":[12,11],
@@ -371,7 +371,7 @@
             "comments":"Khan Hidden Village"
         }
     ],
-    
+
     "262": [
         {
             "coords":[13,7],
@@ -380,7 +380,7 @@
             "comments":"Solus small Guild outpost south of Petram crater BEFORE raid"
         }
     ],
-    
+
     "263": [
         {
             "coords":[13,7],
@@ -389,7 +389,7 @@
             "comments":"Solus small Guild outpost south of Petram crater AFTER raid"
         }
     ],
-    
+
     "265": [
         {
             "coords":[10,5],
@@ -398,7 +398,7 @@
             "comments":"Logan's shack"
         }
     ],
-    
+
     "268": [
         {
             "coords":[19,8],
@@ -407,7 +407,7 @@
             "comments":"Outside Grunda's tomb"
         }
     ],
-    
+
     "273": [
         {
             "coords":[10,15],
@@ -416,7 +416,7 @@
             "comments":"Before Grunda's chamber"
         }
     ],
-    
+
     "274": [
         {
             "coords":[14,5],
@@ -425,7 +425,7 @@
             "comments":"Grunda's chamber AFTER beating Hannah"
         }
     ],
-    
+
     "279": [
         {
             "coords":[10,11],
@@ -434,7 +434,7 @@
             "comments":"Nexotower before Lobo's chamber"
         }
     ],
-    
+
     "287": [
         {
             "coords":[8,6],
@@ -443,7 +443,7 @@
             "comments":"Palmaya port"
         }
     ],
-    
+
     "288": [
         {
             "coords":[8,3],
@@ -452,7 +452,7 @@
             "comments":"Palmaya city outside healing centre"
         }
     ],
-    
+
     "318": [
         {
             "coords":[10,6],
@@ -461,7 +461,7 @@
             "comments":"Royalle City ruins AFTER main story"
         }
     ],
-    
+
     "458": [
         {
             "coords":[11,7],
@@ -470,7 +470,7 @@
             "comments":"Guild upper level final room"
         }
     ],
-    
+
     "462": [
         {
             "coords":[9,6],
@@ -479,7 +479,7 @@
             "comments":"Terminus mountain base"
         }
     ],
-    
+
     "468": [
         {
             "coords":[10,6],

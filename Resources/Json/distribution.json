@@ -1,3212 +1,3212 @@
-{ 
-  "7": { 
-    "1": [ 
-      "poyal", 
-      "cloddy", 
-      "cruff", 
+{
+  "7": {
+    "1": [
+      "poyal",
+      "cloddy",
+      "cruff",
       "dinja"
-      ], 
-    "2": [ 
-      "poyal", 
-      "shromporo", 
-      "fanling", 
+      ],
+    "2": [
+      "poyal",
+      "shromporo",
+      "fanling",
       "calfter"
       ]
-    }, 
-  "9": { 
-    "1": [ 
-      "poyal", 
-      "shromporo", 
-      "singletti", 
-      "woozy", 
+    },
+  "9": {
+    "1": [
+      "poyal",
+      "shromporo",
+      "singletti",
+      "woozy",
       "dinja"
-      ], 
-    "2": [ 
-      "shromporo", 
-      "cloddy", 
+      ],
+    "2": [
+      "shromporo",
+      "cloddy",
       "woozy"
       ]
-    }, 
-  "10": { 
-    "1": [ 
-      "shromporo", 
-      "rubby", 
-      "fanling", 
-      "cruff", 
+    },
+  "10": {
+    "1": [
+      "shromporo",
+      "rubby",
+      "fanling",
+      "cruff",
       "dinja"
-      ], 
-    "2": [ 
-      "shromporo", 
-      "rubby", 
+      ],
+    "2": [
+      "shromporo",
+      "rubby",
       "calfter"
       ]
-    }, 
-  "12": { 
-    "1": [ 
-      "rubby", 
-      "cloddy", 
-      "calfter", 
+    },
+  "12": {
+    "1": [
+      "rubby",
+      "cloddy",
+      "calfter",
       "dinja"
-      ], 
-    "2": [ 
-      "rubby", 
-      "stinger", 
-      "fanling", 
+      ],
+    "2": [
+      "rubby",
+      "stinger",
+      "fanling",
       "woozy"
       ]
-    }, 
-  "13": { 
-    "1": [ 
-      "rubby", 
-      "stinger", 
-      "singletti", 
-      "cruff", 
+    },
+  "13": {
+    "1": [
+      "rubby",
+      "stinger",
+      "singletti",
+      "cruff",
       "dinja"
-      ], 
-    "2": [ 
-      "stinger", 
-      "cloddy", 
+      ],
+    "2": [
+      "stinger",
+      "cloddy",
       "cruff"
       ]
-    }, 
-  "15": { 
-    "1": [ 
-      "stinger", 
-      "poyal", 
-      "fanling", 
-      "calfter", 
+    },
+  "15": {
+    "1": [
+      "stinger",
+      "poyal",
+      "fanling",
+      "calfter",
       "dinja"
-      ], 
-    "2": [ 
-      "stinger", 
-      "poyal", 
-      "singletti", 
+      ],
+    "2": [
+      "stinger",
+      "poyal",
+      "singletti",
       "woozy"
-      ], 
-    "3": [ 
-      "poyal", 
-      "shromporo", 
-      "cloddy", 
-      "cruff", 
+      ],
+    "3": [
+      "poyal",
+      "shromporo",
+      "cloddy",
+      "cruff",
       "dinja"
       ]
-    }, 
-  "18": { 
-    "1": [ 
-      "scaratic", 
-      "leechy", 
-      "ribombo", 
+    },
+  "18": {
+    "1": [
+      "scaratic",
+      "leechy",
+      "ribombo",
       "mearn"
-      ], 
-    "2": [ 
-      "scaratic", 
-      "griff", 
-      "chirrent", 
+      ],
+    "2": [
+      "scaratic",
+      "griff",
+      "chirrent",
       "onin"
       ]
-    }, 
-  "19": { 
-    "1": [ 
-      "scaratic", 
-      "griff", 
-      "porklet", 
-      "goateeze", 
+    },
+  "19": {
+    "1": [
+      "scaratic",
+      "griff",
+      "porklet",
+      "goateeze",
       "mearn"
-      ], 
-    "2": [ 
-      "scaratic", 
-      "griff", 
-      "leechy", 
+      ],
+    "2": [
+      "scaratic",
+      "griff",
+      "leechy",
       "onin"
       ]
-    }, 
-  "29": { 
-    "1": [ 
-      "scaratic", 
-      "griff", 
-      "chirrent", 
-      "ribombo", 
+    },
+  "29": {
+    "1": [
+      "scaratic",
+      "griff",
+      "chirrent",
+      "ribombo",
       "mearn"
-      ], 
-    "2": [ 
-      "scaratic", 
-      "griff", 
-      "porklet", 
+      ],
+    "2": [
+      "scaratic",
+      "griff",
+      "porklet",
       "onin"
-      ], 
-    "3": [ 
-      "griff", 
-      "leechy", 
-      "goateeze", 
+      ],
+    "3": [
+      "griff",
+      "leechy",
+      "goateeze",
       "mearn"
-      ], 
-    "4": [ 
-      "griff", 
-      "larkito", 
-      "chirrent", 
+      ],
+    "4": [
+      "griff",
+      "larkito",
+      "chirrent",
       "onin"
-      ], 
-    "5": [ 
-      "griff", 
-      "larkito", 
-      "porklet", 
-      "ribombo", 
+      ],
+    "5": [
+      "griff",
+      "larkito",
+      "porklet",
+      "ribombo",
       "mearn"
-      ], 
-    "6": [ 
-      "griff", 
-      "larkito", 
-      "leechy", 
+      ],
+    "6": [
+      "griff",
+      "larkito",
+      "leechy",
       "ribombo"
-      ], 
-    "7": [ 
-      "griff", 
-      "larkito", 
-      "chirrent", 
-      "goateeze", 
+      ],
+    "7": [
+      "griff",
+      "larkito",
+      "chirrent",
+      "goateeze",
       "mearn"
-      ], 
-    "8": [ 
-      "griff", 
-      "larkito", 
-      "porklet", 
+      ],
+    "8": [
+      "griff",
+      "larkito",
+      "porklet",
       "goateeze"
       ]
-    }, 
-  "30": { 
-    "1": [ 
-      "larkito", 
-      "leechy", 
-      "onin", 
+    },
+  "30": {
+    "1": [
+      "larkito",
+      "leechy",
+      "onin",
       "mearn"
-      ], 
-    "2": [ 
-      "larkito", 
-      "scaratic", 
-      "chirrent", 
+      ],
+    "2": [
+      "larkito",
+      "scaratic",
+      "chirrent",
       "ribombo"
-      ], 
-    "3": [ 
-      "larkito", 
-      "scaratic", 
-      "porklet", 
-      "onin", 
+      ],
+    "3": [
+      "larkito",
+      "scaratic",
+      "porklet",
+      "onin",
       "mearn"
-      ], 
-    "4": [ 
-      "larkito", 
-      "scaratic", 
-      "leechy", 
+      ],
+    "4": [
+      "larkito",
+      "scaratic",
+      "leechy",
       "goateeze"
-      ], 
-    "5": [ 
-      "larkito", 
-      "scaratic", 
-      "chirrent", 
-      "onin", 
+      ],
+    "5": [
+      "larkito",
+      "scaratic",
+      "chirrent",
+      "onin",
       "mearn"
       ]
-    }, 
-  "31": { 
-    "1": [ 
-      "larkito", 
-      "scaratic", 
-      "porklet", 
+    },
+  "31": {
+    "1": [
+      "larkito",
+      "scaratic",
+      "porklet",
       "ribombo"
-      ], 
-    "2": [ 
-      "scaratic", 
-      "griff", 
-      "leechy", 
-      "ribombo", 
+      ],
+    "2": [
+      "scaratic",
+      "griff",
+      "leechy",
+      "ribombo",
       "mearn"
-      ], 
-    "3": [ 
-      "larkito", 
-      "scaratic", 
-      "chirrent", 
+      ],
+    "3": [
+      "larkito",
+      "scaratic",
+      "chirrent",
       "goateeze"
       ]
-    }, 
-  "344": { 
-    "1": [ 
-      "chibbit", 
-      "deember", 
-      "algon", 
-      "calplex", 
+    },
+  "344": {
+    "1": [
+      "chibbit",
+      "deember",
+      "algon",
+      "calplex",
       "trebly"
       ]
-    }, 
-  "345": { 
-    "1": [ 
-      "taipluff", 
-      "chibbit", 
-      "hohopi", 
-      "paupo", 
+    },
+  "345": {
+    "1": [
+      "taipluff",
+      "chibbit",
+      "hohopi",
+      "paupo",
       "trebly"
       ]
-    }, 
-  "346": { 
-    "1": [ 
-      "deember", 
-      "taipluff", 
-      "algon", 
-      "paupo", 
+    },
+  "346": {
+    "1": [
+      "deember",
+      "taipluff",
+      "algon",
+      "paupo",
       "trebly"
       ]
-    }, 
-  "347": { 
-    "1": [ 
-      "chibbit", 
-      "deember", 
-      "hohopi", 
-      "calplex", 
+    },
+  "347": {
+    "1": [
+      "chibbit",
+      "deember",
+      "hohopi",
+      "calplex",
       "trebly"
       ]
-    }, 
-  "348": { 
-    "1": [ 
-      "taipluff", 
-      "chibbit", 
-      "algon", 
-      "calplex", 
+    },
+  "348": {
+    "1": [
+      "taipluff",
+      "chibbit",
+      "algon",
+      "calplex",
       "trebly"
       ]
-    }, 
-  "35": { 
-    "1": [ 
-      "faucefant", 
-      "blublub", 
-      "goatlanche", 
+    },
+  "35": {
+    "1": [
+      "faucefant",
+      "blublub",
+      "goatlanche",
       "noki"
-      ], 
-    "2": [ 
-      "faucefant", 
-      "bloopish", 
-      "scooptor", 
+      ],
+    "2": [
+      "faucefant",
+      "bloopish",
+      "scooptor",
       "coral"
-      ], 
-    "3": [ 
-      "faucefant", 
-      "bloopish", 
-      "hinazuru", 
-      "tesling", 
+      ],
+    "3": [
+      "faucefant",
+      "bloopish",
+      "hinazuru",
+      "tesling",
       "noki"
       ]
-    }, 
-  "36": { 
-    "1": [ 
-      "faucefant", 
-      "bloopish", 
-      "blublub", 
+    },
+  "36": {
+    "1": [
+      "faucefant",
+      "bloopish",
+      "blublub",
       "coral"
-      ], 
-    "2": [ 
-      "bloopish", 
-      "scooptor", 
-      "goatlanche", 
+      ],
+    "2": [
+      "bloopish",
+      "scooptor",
+      "goatlanche",
       "noki"
-      ], 
-    "3": [ 
-      "bloopish", 
-      "sounse", 
-      "hinazuru", 
+      ],
+    "3": [
+      "bloopish",
+      "sounse",
+      "hinazuru",
       "goatlanche"
       ]
-    }, 
-  "38": { 
-    "1": [ 
-      "bloopish", 
-      "sounse", 
-      "blublub", 
-      "tesling", 
+    },
+  "38": {
+    "1": [
+      "bloopish",
+      "sounse",
+      "blublub",
+      "tesling",
       "noki"
-      ], 
-    "2": [ 
-      "bloopish", 
-      "sounse", 
-      "scooptor", 
+      ],
+    "2": [
+      "bloopish",
+      "sounse",
+      "scooptor",
       "tesling"
       ]
-    }, 
-  "39": { 
-    "1": [ 
-      "sounse", 
-      "hinazuru", 
-      "coral", 
+    },
+  "39": {
+    "1": [
+      "sounse",
+      "hinazuru",
+      "coral",
       "noki"
-      ], 
-    "2": [ 
-      "sounse", 
-      "faucefant", 
-      "blublub", 
+      ],
+    "2": [
+      "sounse",
+      "faucefant",
+      "blublub",
       "goatlanche"
-      ], 
-    "3": [ 
-      "sounse", 
-      "faucefant", 
-      "scooptor", 
-      "coral", 
+      ],
+    "3": [
+      "sounse",
+      "faucefant",
+      "scooptor",
+      "coral",
       "noki"
       ]
-    }, 
-  "40": { 
-    "1": [ 
-      "sounse", 
-      "faucefant", 
-      "hinazuru", 
+    },
+  "40": {
+    "1": [
+      "sounse",
+      "faucefant",
+      "hinazuru",
       "tesling"
-      ], 
-    "2": [ 
-      "faucefant", 
-      "bloopish", 
-      "blublub", 
-      "coral", 
+      ],
+    "2": [
+      "faucefant",
+      "bloopish",
+      "blublub",
+      "coral",
       "noki"
-      ], 
-    "3": [ 
-      "bloopish", 
-      "sounse", 
-      "scooptor", 
+      ],
+    "3": [
+      "bloopish",
+      "sounse",
+      "scooptor",
       "goatlanche"
       ]
-    }, 
-  "16": { 
-    "1": [ 
-      "skerdi", 
-      "vodo", 
-      "muu", 
+    },
+  "16": {
+    "1": [
+      "skerdi",
+      "vodo",
+      "muu",
       "lume"
-      ], 
-    "2": [ 
-      "skerdi", 
-      "griff", 
-      "rappub", 
+      ],
+    "2": [
+      "skerdi",
+      "griff",
+      "rappub",
       "potpot"
       ]
-    }, 
-  "42": { 
-    "1": [ 
-      "skerdi", 
-      "griff", 
-      "brumtler", 
-      "muu", 
+    },
+  "42": {
+    "1": [
+      "skerdi",
+      "griff",
+      "brumtler",
+      "muu",
       "lume"
-      ], 
-    "2": [ 
-      "griff", 
-      "vodo", 
+      ],
+    "2": [
+      "griff",
+      "vodo",
       "potpot"
-      ], 
-    "3": [ 
-      "griff", 
-      "dreaver", 
-      "rappub", 
-      "muu", 
+      ],
+    "3": [
+      "griff",
+      "dreaver",
+      "rappub",
+      "muu",
       "lume"
-      ], 
-    "4": [ 
-      "griff", 
-      "dreaver", 
-      "brumtler", 
-      "potpot"
-      ]
-    }, 
-  "43": { 
-    "1": [ 
-      "dreaver", 
-      "vodo", 
-      "muu", 
-      "lume"
-      ], 
-    "2": [ 
-      "dreaver", 
-      "branipus", 
-      "rappub", 
-      "potpot"
-      ], 
-    "3": [ 
-      "dreaver", 
-      "branipus", 
-      "brumtler", 
-      "muu", 
-      "lume"
-      ]
-    }, 
-  "44": { 
-    "1": [ 
-      "branipus", 
-      "vodo", 
-      "potpot"
-      ], 
-    "2": [ 
-      "branipus", 
-      "skerdi", 
-      "rappub", 
-      "muu", 
-      "lume"
-      ], 
-    "3": [ 
-      "branipus", 
-      "skerdi", 
-      "brumtler", 
+      ],
+    "4": [
+      "griff",
+      "dreaver",
+      "brumtler",
       "potpot"
       ]
-    }, 
-  "45": { 
-    "1": [ 
-      "skerdi", 
-      "dreaver", 
-      "vodo", 
-      "muu", 
+    },
+  "43": {
+    "1": [
+      "dreaver",
+      "vodo",
+      "muu",
       "lume"
-      ], 
-    "2": [ 
-      "griff", 
-      "skerdi", 
-      "rappub", 
+      ],
+    "2": [
+      "dreaver",
+      "branipus",
+      "rappub",
       "potpot"
-      ], 
-    "3": [ 
-      "dreaver", 
-      "griff", 
-      "brumtler", 
-      "muu", 
+      ],
+    "3": [
+      "dreaver",
+      "branipus",
+      "brumtler",
+      "muu",
       "lume"
       ]
-    }, 
-  "47": { 
-    "1": [ 
-      "auga", 
-      "sectoc", 
-      "virox", 
+    },
+  "44": {
+    "1": [
+      "branipus",
+      "vodo",
+      "potpot"
+      ],
+    "2": [
+      "branipus",
+      "skerdi",
+      "rappub",
+      "muu",
+      "lume"
+      ],
+    "3": [
+      "branipus",
+      "skerdi",
+      "brumtler",
+      "potpot"
+      ]
+    },
+  "45": {
+    "1": [
+      "skerdi",
+      "dreaver",
+      "vodo",
+      "muu",
+      "lume"
+      ],
+    "2": [
+      "griff",
+      "skerdi",
+      "rappub",
+      "potpot"
+      ],
+    "3": [
+      "dreaver",
+      "griff",
+      "brumtler",
+      "muu",
+      "lume"
+      ]
+    },
+  "47": {
+    "1": [
+      "auga",
+      "sectoc",
+      "virox",
       "behilda"
-      ], 
-    "2": [ 
-      "auga", 
-      "folicurse", 
-      "spikus", 
+      ],
+    "2": [
+      "auga",
+      "folicurse",
+      "spikus",
       "ripha"
-      ], 
-    "3": [ 
-      "auga", 
-      "folicurse", 
-      "skunqute", 
-      "ploriol", 
+      ],
+    "3": [
+      "auga",
+      "folicurse",
+      "skunqute",
+      "ploriol",
       "behilda"
-      ], 
-    "4": [ 
-      "auga", 
-      "folicurse", 
-      "foxdra", 
+      ],
+    "4": [
+      "auga",
+      "folicurse",
+      "foxdra",
       "virox"
       ]
-    }, 
-  "51": { 
-    "1": [ 
-      "auga", 
-      "folicurse", 
-      "sectoc", 
-      "ripha", 
+    },
+  "51": {
+    "1": [
+      "auga",
+      "folicurse",
+      "sectoc",
+      "ripha",
       "behilda"
-      ], 
-    "2": [ 
-      "auga", 
-      "folicurse", 
-      "spikus", 
+      ],
+    "2": [
+      "auga",
+      "folicurse",
+      "spikus",
       "virox"
-      ], 
-    "3": [ 
-      "auga", 
-      "folicurse", 
-      "skunqute", 
-      "ripha", 
+      ],
+    "3": [
+      "auga",
+      "folicurse",
+      "skunqute",
+      "ripha",
       "behilda"
-      ], 
-    "4": [ 
-      "folicurse", 
-      "foxdra", 
+      ],
+    "4": [
+      "folicurse",
+      "foxdra",
       "ploriol"
-      ], 
-    "5": [ 
-      "folicurse", 
-      "mimi", 
-      "sectoc", 
-      "ploriol", 
+      ],
+    "5": [
+      "folicurse",
+      "mimi",
+      "sectoc",
+      "ploriol",
       "behilda"
       ]
-    }, 
-  "55": { 
-    "1": [ 
-      "folicurse", 
-      "mimi", 
-      "spikus", 
+    },
+  "55": {
+    "1": [
+      "folicurse",
+      "mimi",
+      "spikus",
       "ploriol"
-      ], 
-    "2": [ 
-      "folicurse", 
-      "mimi", 
-      "skunqute", 
-      "virox", 
+      ],
+    "2": [
+      "folicurse",
+      "mimi",
+      "skunqute",
+      "virox",
       "behilda"
-      ], 
-    "3": [ 
-      "folicurse", 
-      "mimi", 
-      "foxdra", 
+      ],
+    "3": [
+      "folicurse",
+      "mimi",
+      "foxdra",
       "ripha"
-      ], 
-    "4": [ 
-      "folicurse", 
-      "mimi", 
-      "sectoc", 
-      "ripha", 
+      ],
+    "4": [
+      "folicurse",
+      "mimi",
+      "sectoc",
+      "ripha",
       "behilda"
-      ], 
-    "5": [ 
-      "folicurse", 
-      "mimi", 
-      "spikus", 
+      ],
+    "5": [
+      "folicurse",
+      "mimi",
+      "spikus",
       "ploriol"
       ]
-    }, 
-  "56": { 
-    "1": [ 
-      "mimi", 
-      "skunqute", 
-      "ripha", 
+    },
+  "56": {
+    "1": [
+      "mimi",
+      "skunqute",
+      "ripha",
       "behilda"
-      ], 
-    "2": [ 
-      "mimi", 
-      "medlass", 
-      "foxdra", 
+      ],
+    "2": [
+      "mimi",
+      "medlass",
+      "foxdra",
       "virox"
-      ], 
-    "3": [ 
-      "mimi", 
-      "medlass", 
-      "sectoc", 
-      "virox", 
+      ],
+    "3": [
+      "mimi",
+      "medlass",
+      "sectoc",
+      "virox",
       "behilda"
       ]
-    }, 
-  "57": { 
-    "1": [ 
-      "mimi", 
-      "medlass", 
-      "spikus", 
+    },
+  "57": {
+    "1": [
+      "mimi",
+      "medlass",
+      "spikus",
       "ripha"
-      ], 
-    "2": [ 
-      "mimi", 
-      "medlass", 
-      "skunqute", 
-      "ploriol", 
+      ],
+    "2": [
+      "mimi",
+      "medlass",
+      "skunqute",
+      "ploriol",
       "behilda"
-      ], 
-    "3": [ 
-      "mimi", 
-      "medlass", 
-      "foxdra", 
+      ],
+    "3": [
+      "mimi",
+      "medlass",
+      "foxdra",
       "virox"
-      ], 
-    "4": [ 
-      "mimi", 
-      "medlass", 
-      "sectoc", 
-      "ploriol", 
+      ],
+    "4": [
+      "mimi",
+      "medlass",
+      "sectoc",
+      "ploriol",
       "behilda"
       ]
-    }, 
-  "58": { 
-    "1": [ 
-      "medlass", 
-      "spikus", 
+    },
+  "58": {
+    "1": [
+      "medlass",
+      "spikus",
       "virox"
-      ], 
-    "2": [ 
-      "medlass", 
-      "auga", 
-      "skunqute", 
-      "ripha", 
+      ],
+    "2": [
+      "medlass",
+      "auga",
+      "skunqute",
+      "ripha",
       "behilda"
-      ], 
-    "3": [ 
-      "medlass", 
-      "auga", 
-      "foxdra", 
+      ],
+    "3": [
+      "medlass",
+      "auga",
+      "foxdra",
       "ploriol"
-      ], 
-    "4": [ 
-      "medlass", 
-      "auga", 
-      "sectoc", 
-      "ploriol", 
+      ],
+    "4": [
+      "medlass",
+      "auga",
+      "sectoc",
+      "ploriol",
       "behilda"
-      ], 
-    "5": [ 
-      "medlass", 
-      "auga", 
-      "spikus", 
+      ],
+    "5": [
+      "medlass",
+      "auga",
+      "spikus",
       "virox"
-      ], 
-    "6": [ 
-      "medlass", 
-      "auga", 
-      "skunqute", 
-      "virox", 
+      ],
+    "6": [
+      "medlass",
+      "auga",
+      "skunqute",
+      "virox",
       "behilda"
       ]
-    }, 
-  "323": { 
-    "1": [ 
-      "medlass", 
-      "auga", 
-      "foxdra", 
+    },
+  "323": {
+    "1": [
+      "medlass",
+      "auga",
+      "foxdra",
       "ripha"
-      ], 
-    "2": [ 
-      "auga", 
-      "medlass", 
-      "sectoc", 
-      "ripha", 
+      ],
+    "2": [
+      "auga",
+      "medlass",
+      "sectoc",
+      "ripha",
       "behilda"
-      ], 
-    "3": [ 
-      "folicurse", 
-      "mimi", 
-      "spikus", 
+      ],
+    "3": [
+      "folicurse",
+      "mimi",
+      "spikus",
       "ploriol"
       ]
-    }, 
-  "350": { 
-    "1": [ 
-      "dredmore", 
-      "ghouze", 
-      "pont", 
-      "magnipub", 
+    },
+  "350": {
+    "1": [
+      "dredmore",
+      "ghouze",
+      "pont",
+      "magnipub",
       "gekoko"
       ]
-    }, 
-  "351": { 
-    "1": [ 
-      "ghouze", 
-      "prankrow", 
-      "cranillow", 
-      "magnipub", 
+    },
+  "351": {
+    "1": [
+      "ghouze",
+      "prankrow",
+      "cranillow",
+      "magnipub",
       "gekoko"
       ]
-    }, 
-  "352": { 
-    "1": [ 
-      "prankrow", 
-      "gomarm", 
-      "pont", 
-      "magnipub", 
+    },
+  "352": {
+    "1": [
+      "prankrow",
+      "gomarm",
+      "pont",
+      "magnipub",
       "gekoko"
       ]
-    }, 
-  "353": { 
-    "1": [ 
-      "gomarm", 
-      "dredmore", 
-      "cranillow", 
-      "magnipub", 
+    },
+  "353": {
+    "1": [
+      "gomarm",
+      "dredmore",
+      "cranillow",
+      "magnipub",
       "gekoko"
       ]
-    }, 
-  "62": { 
-    "1": [ 
-      "bouldion", 
-      "nakazuru", 
+    },
+  "62": {
+    "1": [
+      "bouldion",
+      "nakazuru",
       "pongo"
-      ], 
-    "2": [ 
-      "bouldion", 
-      "fistuff", 
-      "blit", 
-      "pongo", 
+      ],
+    "2": [
+      "bouldion",
+      "fistuff",
+      "blit",
+      "pongo",
       "mara"
-      ], 
-    "3": [ 
-      "bouldion", 
-      "fistuff", 
-      "chowser", 
+      ],
+    "3": [
+      "bouldion",
+      "fistuff",
+      "chowser",
       "pongo"
-      ], 
-    "4": [ 
-      "bouldion", 
-      "fistuff", 
-      "nakazuru", 
-      "pongo", 
+      ],
+    "4": [
+      "bouldion",
+      "fistuff",
+      "nakazuru",
+      "pongo",
       "mara"
       ]
-    }, 
-  "63": { 
-    "1": [ 
-      "bouldion", 
-      "fistuff", 
-      "blit", 
+    },
+  "63": {
+    "1": [
+      "bouldion",
+      "fistuff",
+      "blit",
       "pongo"
-      ], 
-    "2": [ 
-      "fistuff", 
-      "chowser", 
-      "pongo", 
+      ],
+    "2": [
+      "fistuff",
+      "chowser",
+      "pongo",
       "mara"
-      ], 
-    "3": [ 
-      "fistuff", 
-      "lumbi", 
-      "nakazuru", 
+      ],
+    "3": [
+      "fistuff",
+      "lumbi",
+      "nakazuru",
       "pongo"
       ]
-    }, 
-  "64": { 
-    "1": [ 
-      "fistuff", 
-      "lumbi", 
-      "blit", 
-      "pongo", 
+    },
+  "64": {
+    "1": [
+      "fistuff",
+      "lumbi",
+      "blit",
+      "pongo",
       "mara"
-      ], 
-    "2": [ 
-      "fistuff", 
-      "lumbi", 
-      "chowser", 
+      ],
+    "2": [
+      "fistuff",
+      "lumbi",
+      "chowser",
       "moonica"
-      ], 
-    "3": [ 
-      "fistuff", 
-      "lumbi", 
-      "nakazuru", 
-      "moonica", 
+      ],
+    "3": [
+      "fistuff",
+      "lumbi",
+      "nakazuru",
+      "moonica",
       "mara"
-      ], 
-    "4": [ 
-      "lumbi", 
-      "blit", 
+      ],
+    "4": [
+      "lumbi",
+      "blit",
       "moonica"
       ]
-    }, 
-  "65": { 
-    "1": [ 
-      "lumbi", 
-      "bouldion", 
-      "chowser", 
-      "moonica", 
+    },
+  "65": {
+    "1": [
+      "lumbi",
+      "bouldion",
+      "chowser",
+      "moonica",
       "mara"
-      ], 
-    "2": [ 
-      "lumbi", 
-      "bouldion", 
-      "nakazuru", 
+      ],
+    "2": [
+      "lumbi",
+      "bouldion",
+      "nakazuru",
       "moonica"
-      ], 
-    "3": [ 
-      "lumbi", 
-      "bouldion", 
-      "blit", 
-      "moonica", 
+      ],
+    "3": [
+      "lumbi",
+      "bouldion",
+      "blit",
+      "moonica",
       "mara"
-      ], 
-    "4": [ 
-      "lumbi", 
-      "bouldion", 
-      "chowser", 
+      ],
+    "4": [
+      "lumbi",
+      "bouldion",
+      "chowser",
       "moonica"
-      ], 
-    "5": [ 
-      "bouldion", 
-      "fistuff", 
-      "nakazuru", 
-      "moonica", 
+      ],
+    "5": [
+      "bouldion",
+      "fistuff",
+      "nakazuru",
+      "moonica",
       "mara"
       ]
-    }, 
-  "69": { 
-    "1": [ 
-      "rust", 
-      "hoglet", 
+    },
+  "69": {
+    "1": [
+      "rust",
+      "hoglet",
       "worb"
-      ], 
-    "2": [ 
-      "rust", 
-      "kolphur", 
-      "sandillo", 
-      "worb", 
+      ],
+    "2": [
+      "rust",
+      "kolphur",
+      "sandillo",
+      "worb",
       "masquiti"
-      ], 
-    "3": [ 
-      "rust", 
-      "kolphur", 
-      "hoglet", 
+      ],
+    "3": [
+      "rust",
+      "kolphur",
+      "hoglet",
       "worb"
-      ], 
-    "4": [ 
-      "kolphur", 
-      "sandillo", 
-      "worb", 
+      ],
+    "4": [
+      "kolphur",
+      "sandillo",
+      "worb",
       "masquiti"
       ]
-    }, 
-  "70": { 
-    "1": [ 
-      "kolphur", 
-      "moonsting", 
-      "hoglet", 
+    },
+  "70": {
+    "1": [
+      "kolphur",
+      "moonsting",
+      "hoglet",
       "worb"
-      ], 
-    "2": [ 
-      "kolphur", 
-      "moonsting", 
-      "sandillo", 
-      "worb", 
+      ],
+    "2": [
+      "kolphur",
+      "moonsting",
+      "sandillo",
+      "worb",
       "masquiti"
-      ], 
-    "3": [ 
-      "moonsting", 
-      "hoglet", 
+      ],
+    "3": [
+      "moonsting",
+      "hoglet",
       "duh"
-      ], 
-    "4": [ 
-      "moonsting", 
-      "rust", 
-      "sandillo", 
-      "duh", 
+      ],
+    "4": [
+      "moonsting",
+      "rust",
+      "sandillo",
+      "duh",
       "masquiti"
       ]
-    }, 
-  "72": { 
-    "1": [ 
-      "moonsting", 
-      "rust", 
-      "hoglet", 
+    },
+  "72": {
+    "1": [
+      "moonsting",
+      "rust",
+      "hoglet",
       "duh"
-      ], 
-    "2": [ 
-      "rust", 
-      "kolphur", 
-      "sandillo", 
-      "duh", 
+      ],
+    "2": [
+      "rust",
+      "kolphur",
+      "sandillo",
+      "duh",
       "masquiti"
-      ], 
-    "3": [ 
-      "moonsting", 
-      "rust", 
-      "hoglet", 
+      ],
+    "3": [
+      "moonsting",
+      "rust",
+      "hoglet",
       "duh"
       ]
-    }, 
-  "355": { 
-    "1": [ 
-      "deebuz", 
-      "pebglem", 
-      "malevodo", 
-      "glontern", 
-      "moonette", 
+    },
+  "355": {
+    "1": [
+      "deebuz",
+      "pebglem",
+      "malevodo",
+      "glontern",
+      "moonette",
       "tantrunt"
       ]
-    }, 
-  "356": { 
-    "1": [ 
-      "deebuz", 
-      "pebglem", 
-      "candly", 
-      "malevodo", 
-      "moonette", 
+    },
+  "356": {
+    "1": [
+      "deebuz",
+      "pebglem",
+      "candly",
+      "malevodo",
+      "moonette",
       "tantrunt"
       ]
-    }, 
-  "357": { 
-    "1": [ 
-      "deebuz", 
-      "pebglem", 
-      "glontern", 
-      "candly", 
-      "moonette", 
+    },
+  "357": {
+    "1": [
+      "deebuz",
+      "pebglem",
+      "glontern",
+      "candly",
+      "moonette",
       "tantrunt"
       ]
-    }, 
-  "76": { 
-    "1": [ 
-      "tiki", 
-      "keromb", 
-      "imbuzi", 
+    },
+  "76": {
+    "1": [
+      "tiki",
+      "keromb",
+      "imbuzi",
       "lumefur"
-      ], 
-    "2": [ 
-      "tiki", 
-      "rustu", 
-      "durtacles", 
+      ],
+    "2": [
+      "tiki",
+      "rustu",
+      "durtacles",
       "imbuzi"
-      ], 
-    "3": [ 
-      "tiki", 
-      "rustu", 
-      "eqo", 
-      "imbuzi", 
+      ],
+    "3": [
+      "tiki",
+      "rustu",
+      "eqo",
+      "imbuzi",
       "lumefur"
-      ], 
-    "4": [ 
-      "tiki", 
-      "rustu", 
-      "yummo", 
+      ],
+    "4": [
+      "tiki",
+      "rustu",
+      "yummo",
       "imbuzi"
-      ], 
-    "5": [ 
-      "tiki", 
-      "rustu", 
-      "keromb", 
-      "imbuzi", 
+      ],
+    "5": [
+      "tiki",
+      "rustu",
+      "keromb",
+      "imbuzi",
       "lumefur"
       ]
-    }, 
-  "77": { 
-    "1": [ 
-      "tiki", 
-      "rustu", 
-      "durtacles", 
+    },
+  "77": {
+    "1": [
+      "tiki",
+      "rustu",
+      "durtacles",
       "imbuzi"
-      ], 
-    "2": [ 
-      "rustu", 
-      "eqo", 
-      "bombargrof", 
+      ],
+    "2": [
+      "rustu",
+      "eqo",
+      "bombargrof",
       "lumefur"
-      ], 
-    "3": [ 
-      "rustu", 
-      "sulphlo", 
-      "yummo", 
+      ],
+    "3": [
+      "rustu",
+      "sulphlo",
+      "yummo",
       "bombargrof"
       ]
-    }, 
-  "78": { 
-    "1": [ 
-      "rustu", 
-      "sulphlo", 
-      "keromb", 
-      "bombargrof", 
+    },
+  "78": {
+    "1": [
+      "rustu",
+      "sulphlo",
+      "keromb",
+      "bombargrof",
       "lumefur"
-      ], 
-    "2": [ 
-      "rustu", 
-      "sulphlo", 
-      "durtacles", 
+      ],
+    "2": [
+      "rustu",
+      "sulphlo",
+      "durtacles",
       "bombargrof"
-      ], 
-    "3": [ 
-      "rustu", 
-      "sulphlo", 
-      "eqo", 
-      "bombargrof", 
+      ],
+    "3": [
+      "rustu",
+      "sulphlo",
+      "eqo",
+      "bombargrof",
       "lumefur"
       ]
-    }, 
-  "79": { 
-    "1": [ 
-      "rustu", 
-      "sulphlo", 
-      "yummo", 
+    },
+  "79": {
+    "1": [
+      "rustu",
+      "sulphlo",
+      "yummo",
       "bombargrof"
-      ], 
-    "2": [ 
-      "sulphlo", 
-      "keromb", 
-      "parchidna", 
+      ],
+    "2": [
+      "sulphlo",
+      "keromb",
+      "parchidna",
       "lumefur"
-      ], 
-    "3": [ 
-      "sulphlo", 
-      "malitress", 
-      "durtacles", 
+      ],
+    "3": [
+      "sulphlo",
+      "malitress",
+      "durtacles",
       "parchidna"
       ]
-    }, 
-  "80": { 
-    "1": [ 
-      "sulphlo", 
-      "malitress", 
-      "eqo", 
-      "parchidna", 
+    },
+  "80": {
+    "1": [
+      "sulphlo",
+      "malitress",
+      "eqo",
+      "parchidna",
       "lumefur"
-      ], 
-    "2": [ 
-      "sulphlo", 
-      "malitress", 
-      "yummo", 
+      ],
+    "2": [
+      "sulphlo",
+      "malitress",
+      "yummo",
       "parchidna"
-      ], 
-    "3": [ 
-      "sulphlo", 
-      "malitress", 
-      "keromb", 
-      "parchidna", 
+      ],
+    "3": [
+      "sulphlo",
+      "malitress",
+      "keromb",
+      "parchidna",
       "lumefur"
       ]
-    }, 
-  "83": { 
-    "1": [ 
-      "sulphlo", 
-      "malitress", 
-      "durtacles", 
+    },
+  "83": {
+    "1": [
+      "sulphlo",
+      "malitress",
+      "durtacles",
       "parchidna"
-      ], 
-    "2": [ 
-      "malitress", 
-      "eqo", 
-      "teslad", 
+      ],
+    "2": [
+      "malitress",
+      "eqo",
+      "teslad",
       "lumefur"
       ]
-    }, 
-  "86": { 
-    "1": [ 
-      "malitress", 
-      "tiki", 
-      "yummo", 
+    },
+  "86": {
+    "1": [
+      "malitress",
+      "tiki",
+      "yummo",
       "teslad"
-      ], 
-    "2": [ 
-      "malitress", 
-      "tiki", 
-      "keromb", 
-      "teslad", 
+      ],
+    "2": [
+      "malitress",
+      "tiki",
+      "keromb",
+      "teslad",
       "lumefur"
-      ], 
-    "3": [ 
-      "malitress", 
-      "tiki", 
-      "durtacles", 
+      ],
+    "3": [
+      "malitress",
+      "tiki",
+      "durtacles",
       "teslad"
       ]
-    }, 
-  "87": { 
-    "1": [ 
-      "malitress", 
-      "tiki", 
-      "eqo", 
-      "teslad", 
+    },
+  "87": {
+    "1": [
+      "malitress",
+      "tiki",
+      "eqo",
+      "teslad",
       "lumefur"
-      ], 
-    "2": [ 
-      "malitress", 
-      "tiki", 
-      "yummo", 
+      ],
+    "2": [
+      "malitress",
+      "tiki",
+      "yummo",
       "teslad"
-      ], 
-    "3": [ 
-      "tiki", 
-      "sulphlo", 
-      "keromb", 
-      "imbuzi", 
+      ],
+    "3": [
+      "tiki",
+      "sulphlo",
+      "keromb",
+      "imbuzi",
       "lumefur"
-      ], 
-    "4": [ 
-      "rustu", 
-      "tiki", 
-      "durtacles", 
+      ],
+    "4": [
+      "rustu",
+      "tiki",
+      "durtacles",
       "bombargrof"
-      ], 
-    "5": [ 
-      "sulphlo", 
-      "rustu", 
-      "eqo", 
-      "parchidna", 
+      ],
+    "5": [
+      "sulphlo",
+      "rustu",
+      "eqo",
+      "parchidna",
       "lumefur"
       ]
-    }, 
-  "101": { 
-    "1": [ 
-      "heliwurm", 
-      "stalkee", 
-      "flotter", 
-      "briar", 
+    },
+  "101": {
+    "1": [
+      "heliwurm",
+      "stalkee",
+      "flotter",
+      "briar",
       "dichala"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "drare", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "drare",
       "flotter"
       ]
-    }, 
-  "103": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "deyam", 
-      "drare", 
+    },
+  "103": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "deyam",
+      "drare",
       "dichala"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "oren", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "oren",
       "deyam"
-      ], 
-    "3": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "basil", 
-      "oren", 
+      ],
+    "3": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "basil",
+      "oren",
       "dichala"
       ]
-    }, 
-  "104": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "briar", 
+    },
+  "104": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "briar",
       "basil"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "wadgon", 
-      "briar", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "wadgon",
+      "briar",
       "dichala"
-      ], 
-    "3": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "volt", 
+      ],
+    "3": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "volt",
       "wadgon"
       ]
-    }, 
-  "105": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "flotter", 
-      "volt", 
+    },
+  "105": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "flotter",
+      "volt",
       "dichala"
-      ], 
-    "2": [ 
-      "baloompa", 
-      "stalkee", 
-      "drare", 
+      ],
+    "2": [
+      "baloompa",
+      "stalkee",
+      "drare",
       "volt"
       ]
-    }, 
-  "106": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "deyam", 
-      "wadgon", 
+    },
+  "106": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "deyam",
+      "wadgon",
       "dichala"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "oren", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "oren",
       "briar"
-      ], 
-    "3": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "basil", 
-      "basil", 
+      ],
+    "3": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "basil",
+      "basil",
       "dichala"
       ]
-    }, 
-  "107": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "briar", 
+    },
+  "107": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "briar",
       "oren"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "wadgon", 
-      "deyam", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "wadgon",
+      "deyam",
       "dichala"
-      ], 
-    "3": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "volt", 
+      ],
+    "3": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "volt",
       "drare"
       ]
-    }, 
-  "108": { 
-    "1": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "oren", 
-      "flotter", 
+    },
+  "108": {
+    "1": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "oren",
+      "flotter",
       "dichala"
-      ], 
-    "2": [ 
-      "heliwurm", 
-      "baloompa", 
-      "stalkee", 
-      "volt", 
+      ],
+    "2": [
+      "heliwurm",
+      "baloompa",
+      "stalkee",
+      "volt",
       "flotter"
       ]
-    }, 
-  "111": { 
-    "1": [ 
-      "moska", 
-      "tundri", 
-      "ignigon", 
-      "deyama", 
+    },
+  "111": {
+    "1": [
+      "moska",
+      "tundri",
+      "ignigon",
+      "deyama",
       "felarnia"
-      ], 
-    "2": [ 
-      "moska", 
-      "zumble", 
-      "tundri", 
-      "dratter", 
+      ],
+    "2": [
+      "moska",
+      "zumble",
+      "tundri",
+      "dratter",
       "deyama"
-      ], 
-    "3": [ 
-      "moska", 
-      "zumble", 
-      "tundri", 
-      "wadtail", 
-      "dratter", 
+      ],
+    "3": [
+      "moska",
+      "zumble",
+      "tundri",
+      "wadtail",
+      "dratter",
       "felarnia"
       ]
-    }, 
-  "112": { 
-    "1": [ 
-      "moska", 
-      "zumble", 
-      "tundri", 
-      "wysil", 
+    },
+  "112": {
+    "1": [
+      "moska",
+      "zumble",
+      "tundri",
+      "wysil",
       "dratter"
-      ], 
-    "2": [ 
-      "moska", 
-      "zumble", 
-      "tundri", 
-      "deyama", 
-      "wadtail", 
+      ],
+    "2": [
+      "moska",
+      "zumble",
+      "tundri",
+      "deyama",
+      "wadtail",
       "felarnia"
       ]
-    }, 
-  "113": { 
-    "1": [ 
-      "moska", 
-      "zumble", 
-      "tundri", 
-      "ignigon", 
+    },
+  "113": {
+    "1": [
+      "moska",
+      "zumble",
+      "tundri",
+      "ignigon",
       "wadtail"
-      ], 
-    "2": [ 
-      "zumble", 
-      "tundri", 
-      "dratter", 
-      "wysil", 
+      ],
+    "2": [
+      "zumble",
+      "tundri",
+      "dratter",
+      "wysil",
       "felarnia"
-      ], 
-    "3": [ 
-      "zumble", 
-      "moska", 
-      "tundri", 
-      "wadtail", 
+      ],
+    "3": [
+      "zumble",
+      "moska",
+      "tundri",
+      "wadtail",
       "wysil"
-      ], 
-    "4": [ 
-      "zumble", 
-      "moska", 
-      "tundri", 
-      "wysil", 
-      "ignigon", 
+      ],
+    "4": [
+      "zumble",
+      "moska",
+      "tundri",
+      "wysil",
+      "ignigon",
       "felarnia"
       ]
-    }, 
-  "114": { 
-    "1": [ 
-      "zumble", 
-      "moska", 
-      "tundri", 
-      "deyama", 
+    },
+  "114": {
+    "1": [
+      "zumble",
+      "moska",
+      "tundri",
+      "deyama",
       "ignigon"
-      ], 
-    "2": [ 
-      "zumble", 
-      "moska", 
-      "tundri", 
-      "ignigon", 
-      "deyama", 
+      ],
+    "2": [
+      "zumble",
+      "moska",
+      "tundri",
+      "ignigon",
+      "deyama",
       "felarnia"
-      ], 
-    "3": [ 
-      "zumble", 
-      "moska", 
-      "tundri", 
-      "dratter", 
+      ],
+    "3": [
+      "zumble",
+      "moska",
+      "tundri",
+      "dratter",
       "ignigon"
       ]
-    }, 
-  "117": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "volnamic", 
-      "acegon", 
+    },
+  "117": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "volnamic",
+      "acegon",
       "heddeca"
       ]
-    }, 
-  "118": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "orgot", 
-      "volnamic", 
+    },
+  "118": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "orgot",
+      "volnamic",
       "heddeca"
       ]
-    }, 
-  "119": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "acegon", 
-      "orgot", 
+    },
+  "119": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "acegon",
+      "orgot",
       "heddeca"
       ]
-    }, 
-  "120": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "phantra", 
-      "acegon", 
+    },
+  "120": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "phantra",
+      "acegon",
       "heddeca"
       ]
-    }, 
-  "121": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "tarragon", 
-      "phantra", 
+    },
+  "121": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "tarragon",
+      "phantra",
       "heddeca"
       ]
-    }, 
-  "122": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "chaparral", 
-      "tarragon", 
+    },
+  "122": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "chaparral",
+      "tarragon",
       "heddeca"
       ]
-    }, 
-  "123": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "cryzzard", 
-      "chaparral", 
+    },
+  "123": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "cryzzard",
+      "chaparral",
       "heddeca"
       ]
-    }, 
-  "124": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "horget", 
-      "cryzzard", 
+    },
+  "124": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "horget",
+      "cryzzard",
       "heddeca"
       ]
-    }, 
-  "125": { 
-    "1": [ 
-      "xotor", 
-      "bulbrit", 
-      "cubdy", 
-      "volnamic", 
-      "horget", 
+    },
+  "125": {
+    "1": [
+      "xotor",
+      "bulbrit",
+      "cubdy",
+      "volnamic",
+      "horget",
       "heddeca"
       ]
-    }, 
-  "149": { 
-    "1": [ 
-      "helipa", 
-      "fandiose", 
-      "voltaic", 
-      "oregoon", 
+    },
+  "149": {
+    "1": [
+      "helipa",
+      "fandiose",
+      "voltaic",
+      "oregoon",
       "treclay"
-      ], 
-    "2": [ 
-      "helipa", 
-      "jeloon", 
-      "fandiose", 
-      "oregoon", 
+      ],
+    "2": [
+      "helipa",
+      "jeloon",
+      "fandiose",
+      "oregoon",
       "voltaic"
-      ], 
-    "3": [ 
-      "helipa", 
-      "jeloon", 
-      "fandiose", 
-      "blizzarm", 
-      "oregoon", 
+      ],
+    "3": [
+      "helipa",
+      "jeloon",
+      "fandiose",
+      "blizzarm",
+      "oregoon",
       "treclay"
       ]
-    }, 
-  "150": { 
-    "1": [ 
-      "jeloon", 
-      "fandiose", 
-      "voltaic", 
+    },
+  "150": {
+    "1": [
+      "jeloon",
+      "fandiose",
+      "voltaic",
       "blizzarm"
-      ], 
-    "2": [ 
-      "jeloon", 
-      "helipa", 
-      "fandiose", 
-      "oregoon", 
-      "voltaic", 
+      ],
+    "2": [
+      "jeloon",
+      "helipa",
+      "fandiose",
+      "oregoon",
+      "voltaic",
       "treclay"
-      ], 
-    "3": [ 
-      "jeloon", 
-      "helipa", 
-      "fandiose", 
-      "blizzarm", 
+      ],
+    "3": [
+      "jeloon",
+      "helipa",
+      "fandiose",
+      "blizzarm",
       "oregoon"
-      ], 
-    "4": [ 
-      "jeloon", 
-      "helipa", 
-      "fandiose", 
-      "voltaic", 
-      "blizzarm", 
+      ],
+    "4": [
+      "jeloon",
+      "helipa",
+      "fandiose",
+      "voltaic",
+      "blizzarm",
       "treclay"
       ]
-    }, 
-  "155": { 
-    "1": [ 
-      "shardrine", 
-      "gravello", 
-      "croo", 
+    },
+  "155": {
+    "1": [
+      "shardrine",
+      "gravello",
+      "croo",
       "vainok"
-      ], 
-    "2": [ 
-      "shardrine", 
-      "mound", 
-      "mallish", 
+      ],
+    "2": [
+      "shardrine",
+      "mound",
+      "mallish",
       "croo"
-      ], 
-    "3": [ 
-      "shardrine", 
-      "mound", 
-      "gravello", 
-      "croo", 
+      ],
+    "3": [
+      "shardrine",
+      "mound",
+      "gravello",
+      "croo",
       "vainok"
-      ], 
-    "4": [ 
-      "shardrine", 
-      "mound", 
-      "mallish", 
+      ],
+    "4": [
+      "shardrine",
+      "mound",
+      "mallish",
       "croo"
-      ], 
-    "5": [ 
-      "mound", 
-      "gravello", 
-      "croo", 
+      ],
+    "5": [
+      "mound",
+      "gravello",
+      "croo",
       "vainok"
-      ], 
-    "6": [ 
-      "mound", 
-      "hydrip", 
-      "mallish", 
+      ],
+    "6": [
+      "mound",
+      "hydrip",
+      "mallish",
       "croo"
       ]
-    }, 
-  "160": { 
-    "1": [ 
-      "mound", 
-      "hydrip", 
-      "gravello", 
-      "moonline", 
+    },
+  "160": {
+    "1": [
+      "mound",
+      "hydrip",
+      "gravello",
+      "moonline",
       "vainok"
-      ], 
-    "2": [ 
-      "mound", 
-      "hydrip", 
-      "mallish", 
+      ],
+    "2": [
+      "mound",
+      "hydrip",
+      "mallish",
       "moonline"
-      ], 
-    "3": [ 
-      "hydrip", 
-      "gravello", 
-      "moonline", 
+      ],
+    "3": [
+      "hydrip",
+      "gravello",
+      "moonline",
       "vainok"
-      ], 
-    "4": [ 
-      "hydrip", 
-      "shardrine", 
-      "mallish", 
+      ],
+    "4": [
+      "hydrip",
+      "shardrine",
+      "mallish",
       "moonline"
-      ], 
-    "5": [ 
-      "hydrip", 
-      "shardrine", 
-      "gravello", 
-      "moonline", 
+      ],
+    "5": [
+      "hydrip",
+      "shardrine",
+      "gravello",
+      "moonline",
       "vainok"
       ]
-    }, 
-  "161": { 
-    "1": [ 
-      "hydrip", 
-      "shardrine", 
-      "mallish", 
+    },
+  "161": {
+    "1": [
+      "hydrip",
+      "shardrine",
+      "mallish",
       "moonline"
-      ], 
-    "2": [ 
-      "shardrine", 
-      "mound", 
-      "gravello", 
-      "moonline", 
+      ],
+    "2": [
+      "shardrine",
+      "mound",
+      "gravello",
+      "moonline",
       "vainok"
       ]
-    }, 
-  "370": { 
-    "1": [ 
-      "aferaid", 
-      "draniphant", 
-      "singlette", 
-      "carcaros", 
+    },
+  "370": {
+    "1": [
+      "aferaid",
+      "draniphant",
+      "singlette",
+      "carcaros",
       "kamelevo"
       ]
-    }, 
-  "371": { 
-    "1": [ 
-      "draniphant", 
-      "aferaid", 
-      "streamole", 
-      "carcaros", 
+    },
+  "371": {
+    "1": [
+      "draniphant",
+      "aferaid",
+      "streamole",
+      "carcaros",
       "kamelevo"
       ]
-    }, 
-  "372": { 
-    "1": [ 
-      "varawirl", 
-      "draniphant", 
-      "singlette", 
-      "mermella", 
+    },
+  "372": {
+    "1": [
+      "varawirl",
+      "draniphant",
+      "singlette",
+      "mermella",
       "kamelevo"
       ]
-    }, 
-  "373": { 
-    "1": [ 
-      "aferaid", 
-      "varawirl", 
-      "streamole", 
-      "mermella", 
+    },
+  "373": {
+    "1": [
+      "aferaid",
+      "varawirl",
+      "streamole",
+      "mermella",
       "kamelevo"
       ]
-    }, 
-  "162": { 
-    "1": [ 
-      "glimoory", 
-      "enercer", 
-      "mallark", 
-      "minet", 
-      "bullogan", 
+    },
+  "162": {
+    "1": [
+      "glimoory",
+      "enercer",
+      "mallark",
+      "minet",
+      "bullogan",
       "croncho"
       ]
-    }, 
-  "163": { 
-    "1": [ 
-      "glimoory", 
-      "enercer", 
-      "minet", 
-      "yomnom", 
-      "croncho", 
+    },
+  "163": {
+    "1": [
+      "glimoory",
+      "enercer",
+      "minet",
+      "yomnom",
+      "croncho",
       "bullogan"
       ]
-    }, 
-  "164": { 
-    "1": [ 
-      "glimoory", 
-      "enercer", 
-      "yomnom", 
-      "mallark", 
-      "bullogan", 
+    },
+  "164": {
+    "1": [
+      "glimoory",
+      "enercer",
+      "yomnom",
+      "mallark",
+      "bullogan",
       "croncho"
       ]
-    }, 
-  "134": { 
-    "1": [ 
-      "puggard", 
-      "zasp", 
-      "swactrum", 
-      "grimmon", 
+    },
+  "134": {
+    "1": [
+      "puggard",
+      "zasp",
+      "swactrum",
+      "grimmon",
       "masqat"
       ]
-    }, 
-  "135": { 
-    "1": [ 
-      "puggard", 
-      "zasp", 
-      "globlob", 
-      "grimmon", 
+    },
+  "135": {
+    "1": [
+      "puggard",
+      "zasp",
+      "globlob",
+      "grimmon",
       "masqat"
       ]
-    }, 
-  "136": { 
-    "1": [ 
-      "zasp", 
-      "cerebrius", 
-      "mantoo", 
-      "grimmon", 
+    },
+  "136": {
+    "1": [
+      "zasp",
+      "cerebrius",
+      "mantoo",
+      "grimmon",
       "masqat"
       ]
-    }, 
-  "138": { 
-    "1": [ 
-      "zasp", 
-      "cerebrius", 
-      "streamog", 
-      "grimmon", 
+    },
+  "138": {
+    "1": [
+      "zasp",
+      "cerebrius",
+      "streamog",
+      "grimmon",
       "masqat"
       ]
-    }, 
-  "140": { 
-    "1": [ 
-      "cerebrius", 
-      "jeliflo", 
-      "swactrum", 
-      "bomriol", 
+    },
+  "140": {
+    "1": [
+      "cerebrius",
+      "jeliflo",
+      "swactrum",
+      "bomriol",
       "masqat"
       ]
-    }, 
-  "142": { 
-    "1": [ 
-      "cerebrius", 
-      "jeliflo", 
-      "globlob", 
-      "bomriol", 
+    },
+  "142": {
+    "1": [
+      "cerebrius",
+      "jeliflo",
+      "globlob",
+      "bomriol",
       "masqat"
       ]
-    }, 
-  "144": { 
-    "1": [ 
-      "jeliflo", 
-      "puggard", 
-      "mantoo", 
-      "bomriol", 
+    },
+  "144": {
+    "1": [
+      "jeliflo",
+      "puggard",
+      "mantoo",
+      "bomriol",
       "masqat"
       ]
-    }, 
-  "146": { 
-    "1": [ 
-      "jeliflo", 
-      "puggard", 
-      "streamog", 
-      "bomriol", 
+    },
+  "146": {
+    "1": [
+      "jeliflo",
+      "puggard",
+      "streamog",
+      "bomriol",
       "masqat"
       ]
-    }, 
-  "167": { 
-    "1": [ 
-      "heliventus", 
-      "excravator", 
-      "lunabelle", 
+    },
+  "167": {
+    "1": [
+      "heliventus",
+      "excravator",
+      "lunabelle",
       "namansi"
-      ], 
-    "2": [ 
-      "heliventus", 
-      "lioness", 
-      "brumenie", 
+      ],
+    "2": [
+      "heliventus",
+      "lioness",
+      "brumenie",
       "lunabelle"
-      ], 
-    "3": [ 
-      "heliventus", 
-      "lioness", 
-      "scalder", 
-      "lunabelle", 
+      ],
+    "3": [
+      "heliventus",
+      "lioness",
+      "scalder",
+      "lunabelle",
       "namansi"
-      ], 
-    "4": [ 
-      "heliventus", 
-      "lioness", 
-      "mojompu", 
+      ],
+    "4": [
+      "heliventus",
+      "lioness",
+      "mojompu",
       "lunabelle"
-      ], 
-    "5": [ 
-      "heliventus", 
-      "lioness", 
-      "excravator", 
-      "lunabelle", 
+      ],
+    "5": [
+      "heliventus",
+      "lioness",
+      "excravator",
+      "lunabelle",
       "namansi"
-      ], 
-    "6": [ 
-      "heliventus", 
-      "lioness", 
-      "brumenie", 
+      ],
+    "6": [
+      "heliventus",
+      "lioness",
+      "brumenie",
       "lunabelle"
       ]
-    }, 
-  "168": { 
-    "1": [ 
-      "heliventus", 
-      "lioness", 
-      "scalder", 
-      "lunabelle", 
+    },
+  "168": {
+    "1": [
+      "heliventus",
+      "lioness",
+      "scalder",
+      "lunabelle",
       "namansi"
-      ], 
-    "2": [ 
-      "heliventus", 
-      "lioness", 
-      "mojompu", 
+      ],
+    "2": [
+      "heliventus",
+      "lioness",
+      "mojompu",
       "lunabelle"
-      ], 
-    "3": [ 
-      "lioness", 
-      "excravator", 
-      "lunabelle", 
+      ],
+    "3": [
+      "lioness",
+      "excravator",
+      "lunabelle",
       "namansi"
-      ], 
-    "4": [ 
-      "lioness", 
-      "hydrose", 
-      "brumenie", 
+      ],
+    "4": [
+      "lioness",
+      "hydrose",
+      "brumenie",
       "lunabelle"
-      ], 
-    "5": [ 
-      "lioness", 
-      "hydrose", 
-      "scalder", 
-      "grebal", 
+      ],
+    "5": [
+      "lioness",
+      "hydrose",
+      "scalder",
+      "grebal",
       "namansi"
-      ], 
-    "6": [ 
-      "lioness", 
-      "hydrose", 
-      "mojompu", 
+      ],
+    "6": [
+      "lioness",
+      "hydrose",
+      "mojompu",
       "grebal"
       ]
-    }, 
-  "169": { 
-    "1": [ 
-      "lioness", 
-      "hydrose", 
-      "excravator", 
-      "grebal", 
+    },
+  "169": {
+    "1": [
+      "lioness",
+      "hydrose",
+      "excravator",
+      "grebal",
       "namansi"
-      ], 
-    "2": [ 
-      "lioness", 
-      "hydrose", 
-      "brumenie", 
+      ],
+    "2": [
+      "lioness",
+      "hydrose",
+      "brumenie",
       "grebal"
-      ], 
-    "3": [ 
-      "lioness", 
-      "hydrose", 
-      "scalder", 
-      "grebal", 
+      ],
+    "3": [
+      "lioness",
+      "hydrose",
+      "scalder",
+      "grebal",
       "namansi"
       ]
-    }, 
-  "170": { 
-    "1": [ 
-      "lioness", 
-      "hydrose", 
-      "mojompu", 
+    },
+  "170": {
+    "1": [
+      "lioness",
+      "hydrose",
+      "mojompu",
       "grebal"
-      ], 
-    "2": [ 
-      "hydrose", 
-      "excravator", 
-      "grebal", 
+      ],
+    "2": [
+      "hydrose",
+      "excravator",
+      "grebal",
       "namansi"
-      ], 
-    "3": [ 
-      "hydrose", 
-      "madamusa", 
-      "brumenie", 
+      ],
+    "3": [
+      "hydrose",
+      "madamusa",
+      "brumenie",
       "grebal"
-      ], 
-    "4": [ 
-      "hydrose", 
-      "madamusa", 
-      "scalder", 
-      "grebal", 
+      ],
+    "4": [
+      "hydrose",
+      "madamusa",
+      "scalder",
+      "grebal",
       "namansi"
       ]
-    }, 
-  "171": { 
-    "1": [ 
-      "hydrose", 
-      "madamusa", 
-      "mojompu", 
+    },
+  "171": {
+    "1": [
+      "hydrose",
+      "madamusa",
+      "mojompu",
       "grebal"
-      ], 
-    "2": [ 
-      "hydrose", 
-      "madamusa", 
-      "excravator", 
-      "frogick", 
+      ],
+    "2": [
+      "hydrose",
+      "madamusa",
+      "excravator",
+      "frogick",
       "namansi"
-      ], 
-    "3": [ 
-      "hydrose", 
-      "madamusa", 
-      "brumenie", 
+      ],
+    "3": [
+      "hydrose",
+      "madamusa",
+      "brumenie",
       "frogick"
-      ], 
-    "4": [ 
-      "hydrose", 
-      "madamusa", 
-      "scalder", 
-      "frogick", 
+      ],
+    "4": [
+      "hydrose",
+      "madamusa",
+      "scalder",
+      "frogick",
       "namansi"
-      ], 
-    "5": [ 
-      "hydrose", 
-      "madamusa", 
-      "mojompu", 
+      ],
+    "5": [
+      "hydrose",
+      "madamusa",
+      "mojompu",
       "frogick"
       ]
-    }, 
-  "172": { 
-    "1": [ 
-      "madamusa", 
-      "excravator", 
-      "frogick", 
+    },
+  "172": {
+    "1": [
+      "madamusa",
+      "excravator",
+      "frogick",
       "namansi"
-      ], 
-    "2": [ 
-      "madamusa", 
-      "heliventus", 
-      "brumenie", 
+      ],
+    "2": [
+      "madamusa",
+      "heliventus",
+      "brumenie",
       "frogick"
-      ], 
-    "3": [ 
-      "madamusa", 
-      "heliventus", 
-      "scalder", 
-      "frogick", 
+      ],
+    "3": [
+      "madamusa",
+      "heliventus",
+      "scalder",
+      "frogick",
       "namansi"
-      ], 
-    "4": [ 
-      "madamusa", 
-      "heliventus", 
-      "mojompu", 
+      ],
+    "4": [
+      "madamusa",
+      "heliventus",
+      "mojompu",
       "frogick"
-      ], 
-    "5": [ 
-      "madamusa", 
-      "heliventus", 
-      "excravator", 
-      "frogick", 
+      ],
+    "5": [
+      "madamusa",
+      "heliventus",
+      "excravator",
+      "frogick",
       "namansi"
       ]
-    }, 
-  "330": { 
-    "1": [ 
-      "madamusa", 
-      "heliventus", 
-      "brumenie", 
+    },
+  "330": {
+    "1": [
+      "madamusa",
+      "heliventus",
+      "brumenie",
       "frogick"
-      ], 
-    "2": [ 
-      "madamusa", 
-      "heliventus", 
-      "scalder", 
-      "lunabelle", 
+      ],
+    "2": [
+      "madamusa",
+      "heliventus",
+      "scalder",
+      "lunabelle",
       "namansi"
-      ], 
-    "3": [ 
-      "madamusa", 
-      "heliventus", 
-      "mojompu", 
+      ],
+    "3": [
+      "madamusa",
+      "heliventus",
+      "mojompu",
       "grebal"
       ]
-    }, 
-  "33": { 
-    "1": [ 
-      "seedko", 
-      "soniqo", 
-      "cadeto", 
+    },
+  "33": {
+    "1": [
+      "seedko",
+      "soniqo",
+      "cadeto",
       "marasuma"
-      ], 
-    "2": [ 
-      "seedko", 
-      "runk", 
-      "barboraco", 
+      ],
+    "2": [
+      "seedko",
+      "runk",
+      "barboraco",
       "cadeto"
-      ], 
-    "3": [ 
-      "seedko", 
-      "runk", 
-      "soniqo", 
-      "cadeto", 
+      ],
+    "3": [
+      "seedko",
+      "runk",
+      "soniqo",
+      "cadeto",
       "marasuma"
-      ], 
-    "4": [ 
-      "seedko", 
-      "runk", 
-      "barboraco", 
+      ],
+    "4": [
+      "seedko",
+      "runk",
+      "barboraco",
       "cadeto"
-      ], 
-    "5": [ 
-      "seedko", 
-      "runk", 
-      "soniqo", 
-      "cadeto", 
+      ],
+    "5": [
+      "seedko",
+      "runk",
+      "soniqo",
+      "cadeto",
       "marasuma"
-      ], 
-    "6": [ 
-      "runk", 
-      "barboraco", 
+      ],
+    "6": [
+      "runk",
+      "barboraco",
       "cadeto"
       ]
-    }, 
-  "61": { 
-    "1": [ 
-      "runk", 
-      "seedko", 
-      "soniqo", 
-      "rapilux", 
+    },
+  "61": {
+    "1": [
+      "runk",
+      "seedko",
+      "soniqo",
+      "rapilux",
       "marasuma"
-      ], 
-    "2": [ 
-      "runk", 
-      "seedko", 
-      "barboraco", 
+      ],
+    "2": [
+      "runk",
+      "seedko",
+      "barboraco",
       "rapilux"
-      ], 
-    "3": [ 
-      "runk", 
-      "seedko", 
-      "soniqo", 
-      "rapilux", 
+      ],
+    "3": [
+      "runk",
+      "seedko",
+      "soniqo",
+      "rapilux",
       "marasuma"
-      ], 
-    "4": [ 
-      "runk", 
-      "seedko", 
-      "barboraco", 
+      ],
+    "4": [
+      "runk",
+      "seedko",
+      "barboraco",
       "rapilux"
-      ], 
-    "5": [ 
-      "seedko", 
-      "runk", 
-      "soniqo", 
-      "rapilux", 
+      ],
+    "5": [
+      "seedko",
+      "runk",
+      "soniqo",
+      "rapilux",
       "marasuma"
       ]
-    }, 
-  "379": { 
-    "1": [ 
-      "glamoory", 
-      "kromicide", 
-      "roclas", 
-      "sirnymfa", 
+    },
+  "379": {
+    "1": [
+      "glamoory",
+      "kromicide",
+      "roclas",
+      "sirnymfa",
       "feliblanqo"
       ]
-    }, 
-  "380": { 
-    "1": [ 
-      "glamoory", 
-      "gemock", 
-      "thrammer", 
-      "sirnymfa", 
+    },
+  "380": {
+    "1": [
+      "glamoory",
+      "gemock",
+      "thrammer",
+      "sirnymfa",
       "feliblanqo"
       ]
-    }, 
-  "381": { 
-    "1": [ 
-      "kromicide", 
-      "glamoory", 
-      "roclas", 
-      "sirnymfa", 
+    },
+  "381": {
+    "1": [
+      "kromicide",
+      "glamoory",
+      "roclas",
+      "sirnymfa",
       "feliblanqo"
       ]
-    }, 
-  "382": { 
-    "1": [ 
-      "kromicide", 
-      "gemock", 
-      "thrammer", 
-      "neglente", 
+    },
+  "382": {
+    "1": [
+      "kromicide",
+      "gemock",
+      "thrammer",
+      "neglente",
       "feliblanqo"
       ]
-    }, 
-  "383": { 
-    "1": [ 
-      "gemock", 
-      "glamoory", 
-      "roclas", 
-      "neglente", 
+    },
+  "383": {
+    "1": [
+      "gemock",
+      "glamoory",
+      "roclas",
+      "neglente",
       "feliblanqo"
       ]
-    }, 
-  "173": { 
-    "1": [ 
-      "brauncer", 
-      "senshizuru", 
-      "domigator", 
+    },
+  "173": {
+    "1": [
+      "brauncer",
+      "senshizuru",
+      "domigator",
       "reptomotor"
-      ], 
-    "2": [ 
-      "brauncer", 
-      "zappnic", 
-      "spikarm", 
+      ],
+    "2": [
+      "brauncer",
+      "zappnic",
+      "spikarm",
       "domigator"
-      ], 
-    "3": [ 
-      "zappnic", 
-      "senshizuru", 
-      "domigator", 
+      ],
+    "3": [
+      "zappnic",
+      "senshizuru",
+      "domigator",
       "reptomotor"
-      ], 
-    "4": [ 
-      "zappnic", 
-      "snush", 
-      "spikarm", 
+      ],
+    "4": [
+      "zappnic",
+      "snush",
+      "spikarm",
       "domigator"
       ]
-    }, 
-  "176": { 
-    "1": [ 
-      "snush", 
-      "senshizuru", 
-      "cranoad", 
+    },
+  "176": {
+    "1": [
+      "snush",
+      "senshizuru",
+      "cranoad",
       "reptomotor"
       ]
-    }, 
-  "177": { 
-    "2": [ 
-      "snush", 
-      "brauncer", 
-      "spikarm", 
+    },
+  "177": {
+    "2": [
+      "snush",
+      "brauncer",
+      "spikarm",
       "cranoad"
-      ], 
-    "3": [ 
-      "brauncer", 
-      "zappnic", 
-      "senshizuru", 
-      "cranoad", 
+      ],
+    "3": [
+      "brauncer",
+      "zappnic",
+      "senshizuru",
+      "cranoad",
       "reptomotor"
       ]
-    }, 
-  "181": { 
-    "1": [ 
-      "odiborg", 
-      "mazecter", 
-      "orologikus", 
-      "skunqeau", 
-      "greben", 
+    },
+  "181": {
+    "1": [
+      "odiborg",
+      "mazecter",
+      "orologikus",
+      "skunqeau",
+      "greben",
       "hainok"
       ]
-    }, 
-  "182": { 
-    "1": [ 
-      "odiborg", 
-      "mazecter", 
-      "ostrolt", 
-      "orologikus", 
-      "greben", 
+    },
+  "182": {
+    "1": [
+      "odiborg",
+      "mazecter",
+      "ostrolt",
+      "orologikus",
+      "greben",
       "hainok"
       ]
-    }, 
-  "183": { 
-    "1": [ 
-      "mazecter", 
-      "cromeon", 
-      "skunqeau", 
-      "ostrolt", 
-      "greben", 
+    },
+  "183": {
+    "1": [
+      "mazecter",
+      "cromeon",
+      "skunqeau",
+      "ostrolt",
+      "greben",
       "hainok"
       ]
-    }, 
-  "184": { 
-    "1": [ 
-      "mazecter", 
-      "cromeon", 
-      "streamoad", 
-      "skunqeau", 
-      "frictingle", 
+    },
+  "184": {
+    "1": [
+      "mazecter",
+      "cromeon",
+      "streamoad",
+      "skunqeau",
+      "frictingle",
       "hainok"
       ]
-    }, 
-  "185": { 
-    "1": [ 
-      "cromeon", 
-      "jeliflux", 
-      "orologikus", 
-      "streamoad", 
-      "frictingle", 
+    },
+  "185": {
+    "1": [
+      "cromeon",
+      "jeliflux",
+      "orologikus",
+      "streamoad",
+      "frictingle",
       "hainok"
       ]
-    }, 
-  "186": { 
-    "1": [ 
-      "cromeon", 
-      "jeliflux", 
-      "ostrolt", 
-      "orologikus", 
-      "frictingle", 
+    },
+  "186": {
+    "1": [
+      "cromeon",
+      "jeliflux",
+      "ostrolt",
+      "orologikus",
+      "frictingle",
       "hainok"
       ]
-    }, 
-  "187": { 
-    "1": [ 
-      "jeliflux", 
-      "odiborg", 
-      "skunqeau", 
-      "ostrolt", 
-      "volpressor", 
+    },
+  "187": {
+    "1": [
+      "jeliflux",
+      "odiborg",
+      "skunqeau",
+      "ostrolt",
+      "volpressor",
       "hainok"
       ]
-    }, 
-  "188": { 
-    "1": [ 
-      "jeliflux", 
-      "odiborg", 
-      "streamoad", 
-      "skunqeau", 
-      "volpressor", 
+    },
+  "188": {
+    "1": [
+      "jeliflux",
+      "odiborg",
+      "streamoad",
+      "skunqeau",
+      "volpressor",
       "hainok"
       ]
-    }, 
-  "189": { 
-    "1": [ 
-      "odiborg", 
-      "mazecter", 
-      "orologikus", 
-      "streamoad", 
-      "volpressor", 
+    },
+  "189": {
+    "1": [
+      "odiborg",
+      "mazecter",
+      "orologikus",
+      "streamoad",
+      "volpressor",
       "hainok"
       ]
-    }, 
-  "225": { 
-    "1": [ 
-      "bouldcran", 
-      "minetor", 
-      "holoch", 
+    },
+  "225": {
+    "1": [
+      "bouldcran",
+      "minetor",
+      "holoch",
       "lumerei"
-      ], 
-    "2": [ 
-      "bouldcran", 
-      "flizard", 
-      "tundrox", 
+      ],
+    "2": [
+      "bouldcran",
+      "flizard",
+      "tundrox",
       "holoch"
-      ], 
-    "3": [ 
-      "bouldcran", 
-      "flizard", 
-      "cuisizle", 
-      "holoch", 
+      ],
+    "3": [
+      "bouldcran",
+      "flizard",
+      "cuisizle",
+      "holoch",
       "lumerei"
-      ], 
-    "4": [ 
-      "bouldcran", 
-      "flizard", 
-      "minetor", 
+      ],
+    "4": [
+      "bouldcran",
+      "flizard",
+      "minetor",
       "holoch"
       ]
-    }, 
-  "235": { 
-    "1": [ 
-      "bouldcran", 
-      "flizard", 
-      "tundrox", 
-      "holoch", 
+    },
+  "235": {
+    "1": [
+      "bouldcran",
+      "flizard",
+      "tundrox",
+      "holoch",
       "lumerei"
-      ], 
-    "2": [ 
-      "flizard", 
-      "cuisizle", 
+      ],
+    "2": [
+      "flizard",
+      "cuisizle",
       "holoch"
-      ], 
-    "3": [ 
-      "flizard", 
-      "sunknight", 
-      "minetor", 
-      "holoch", 
+      ],
+    "3": [
+      "flizard",
+      "sunknight",
+      "minetor",
+      "holoch",
       "lumerei"
-      ], 
-    "4": [ 
-      "flizard", 
-      "sunknight", 
-      "tundrox", 
+      ],
+    "4": [
+      "flizard",
+      "sunknight",
+      "tundrox",
       "holoch"
-      ], 
-    "5": [ 
-      "flizard", 
-      "sunknight", 
-      "cuisizle", 
-      "grath", 
+      ],
+    "5": [
+      "flizard",
+      "sunknight",
+      "cuisizle",
+      "grath",
       "lumerei"
       ]
-    }, 
-  "262": { 
-    "1": [ 
-      "flizard", 
-      "sunknight", 
-      "minetor", 
+    },
+  "262": {
+    "1": [
+      "flizard",
+      "sunknight",
+      "minetor",
       "grath"
       ]
-    }, 
-  "263": { 
-    "1": [ 
-      "sunknight", 
-      "tundrox", 
-      "grath", 
+    },
+  "263": {
+    "1": [
+      "sunknight",
+      "tundrox",
+      "grath",
       "lumerei"
       ]
-    }, 
-  "335": { 
-    "1": [ 
-      "shardrillion", 
-      "mimorus", 
-      "stalagca", 
-      "lamparos", 
-      "imburion", 
+    },
+  "335": {
+    "1": [
+      "shardrillion",
+      "mimorus",
+      "stalagca",
+      "lamparos",
+      "imburion",
       "sunnos"
-      ], 
-    "2": [ 
-      "mimorus", 
-      "antlorm", 
-      "lamparos", 
-      "stalagca", 
-      "imburion", 
+      ],
+    "2": [
+      "mimorus",
+      "antlorm",
+      "lamparos",
+      "stalagca",
+      "imburion",
       "sunnos"
-      ], 
-    "3": [ 
-      "antlorm", 
-      "shardrillion", 
-      "stalagca", 
-      "lamparos", 
-      "imburion", 
+      ],
+    "3": [
+      "antlorm",
+      "shardrillion",
+      "stalagca",
+      "lamparos",
+      "imburion",
       "sunnos"
-      ], 
-    "4": [ 
-      "blimpapa", 
-      "lukuma", 
-      "foreer", 
-      "blizzaur", 
+      ],
+    "4": [
+      "blimpapa",
+      "lukuma",
+      "foreer",
+      "blizzaur",
       "yarnesty"
       ]
-    }, 
-  "328": { 
-    "1": [ 
-      "blimpapa", 
-      "sakka", 
-      "lukuma", 
-      "furrygon", 
+    },
+  "328": {
+    "1": [
+      "blimpapa",
+      "sakka",
+      "lukuma",
+      "furrygon",
       "foreer"
-      ], 
-    "2": [ 
-      "blimpapa", 
-      "sakka", 
-      "lukuma", 
-      "blizzaur", 
-      "furrygon", 
+      ],
+    "2": [
+      "blimpapa",
+      "sakka",
+      "lukuma",
+      "blizzaur",
+      "furrygon",
       "yarnesty"
-      ], 
-    "3": [ 
-      "sakka", 
-      "lukuma", 
-      "foreer", 
+      ],
+    "3": [
+      "sakka",
+      "lukuma",
+      "foreer",
       "blizzaur"
       ]
-    }, 
-  "453": { 
-    "1": [ 
-      "sakka", 
-      "blimpapa", 
-      "lukuma", 
-      "furrygon", 
-      "foreer", 
+    },
+  "453": {
+    "1": [
+      "sakka",
+      "blimpapa",
+      "lukuma",
+      "furrygon",
+      "foreer",
       "yarnesty"
-      ], 
-    "2": [ 
-      "sakka", 
-      "blimpapa", 
-      "lukuma", 
-      "blizzaur", 
+      ],
+    "2": [
+      "sakka",
+      "blimpapa",
+      "lukuma",
+      "blizzaur",
       "furrygon"
       ]
-    }, 
-  "240": { 
-    "1": [ 
-      "shrombrela", 
-      "fainglori", 
-      "peltry", 
+    },
+  "240": {
+    "1": [
+      "shrombrela",
+      "fainglori",
+      "peltry",
       "raksuma"
-      ], 
-    "2": [ 
-      "shrombrela", 
-      "bushnome", 
-      "mantrass", 
+      ],
+    "2": [
+      "shrombrela",
+      "bushnome",
+      "mantrass",
       "peltry"
       ]
-    }, 
-  "241": { 
-    "1": [ 
-      "shrombrela", 
-      "bushnome", 
-      "eqoloptera", 
-      "peltry", 
+    },
+  "241": {
+    "1": [
+      "shrombrela",
+      "bushnome",
+      "eqoloptera",
+      "peltry",
       "raksuma"
-      ], 
-    "2": [ 
-      "shrombrela", 
-      "bushnome", 
-      "fainglori", 
+      ],
+    "2": [
+      "shrombrela",
+      "bushnome",
+      "fainglori",
       "peltry"
-      ], 
-    "3": [ 
-      "bushnome", 
-      "mantrass", 
-      "peltry", 
+      ],
+    "3": [
+      "bushnome",
+      "mantrass",
+      "peltry",
       "raksuma"
       ]
-    }, 
-  "242": { 
-    "1": [ 
-      "bushnome", 
-      "dredrone", 
-      "eqoloptera", 
+    },
+  "242": {
+    "1": [
+      "bushnome",
+      "dredrone",
+      "eqoloptera",
       "peltry"
-      ], 
-    "2": [ 
-      "bushnome", 
-      "dredrone", 
-      "fainglori", 
-      "peltry", 
+      ],
+    "2": [
+      "bushnome",
+      "dredrone",
+      "fainglori",
+      "peltry",
       "raksuma"
-      ], 
-    "3": [ 
-      "bushnome", 
-      "dredrone", 
-      "mantrass", 
+      ],
+    "3": [
+      "bushnome",
+      "dredrone",
+      "mantrass",
       "duktar"
       ]
-    }, 
-  "243": { 
-    "1": [ 
-      "dredrone", 
-      "eqoloptera", 
-      "duktar", 
+    },
+  "243": {
+    "1": [
+      "dredrone",
+      "eqoloptera",
+      "duktar",
       "raksuma"
-      ], 
-    "2": [ 
-      "dredrone", 
-      "shrombrela", 
-      "fainglori", 
+      ],
+    "2": [
+      "dredrone",
+      "shrombrela",
+      "fainglori",
       "duktar"
-      ], 
-    "3": [ 
-      "dredrone", 
-      "shrombrela", 
-      "mantrass", 
-      "duktar", 
+      ],
+    "3": [
+      "dredrone",
+      "shrombrela",
+      "mantrass",
+      "duktar",
       "raksuma"
-      ], 
-    "4": [ 
-      "dredrone", 
-      "shrombrela", 
-      "eqoloptera", 
+      ],
+    "4": [
+      "dredrone",
+      "shrombrela",
+      "eqoloptera",
       "duktar"
-      ], 
-    "5": [ 
-      "shrombrela", 
-      "bushnome", 
-      "fainglori", 
-      "duktar", 
+      ],
+    "5": [
+      "shrombrela",
+      "bushnome",
+      "fainglori",
+      "duktar",
       "raksuma"
       ]
-    }, 
-  "244": { 
-    "1": [ 
-      "florauga", 
-      "shloom", 
-      "dracly", 
-      "glunch", 
-      "immortis", 
+    },
+  "244": {
+    "1": [
+      "florauga",
+      "shloom",
+      "dracly",
+      "glunch",
+      "immortis",
       "bloomriol"
       ]
-    }, 
-  "245": { 
-    "1": [ 
-      "florauga", 
-      "shloom", 
-      "reeferus", 
-      "dracly", 
-      "immortis", 
+    },
+  "245": {
+    "1": [
+      "florauga",
+      "shloom",
+      "reeferus",
+      "dracly",
+      "immortis",
       "bloomriol"
       ]
-    }, 
-  "246": { 
-    "1": [ 
-      "florauga", 
-      "shloom", 
-      "glunch", 
-      "reeferus", 
-      "immortis", 
+    },
+  "246": {
+    "1": [
+      "florauga",
+      "shloom",
+      "glunch",
+      "reeferus",
+      "immortis",
       "bloomriol"
       ]
-    }, 
-  "247": { 
-    "1": [ 
-      "florauga", 
-      "shloom", 
-      "dracly", 
-      "glunch", 
-      "immortis", 
+    },
+  "247": {
+    "1": [
+      "florauga",
+      "shloom",
+      "dracly",
+      "glunch",
+      "immortis",
       "bloomriol"
       ]
-    }, 
-  "249": { 
-    "1": [ 
-      "seedkorsky", 
-      "couplet", 
-      "outgrov", 
+    },
+  "249": {
+    "1": [
+      "seedkorsky",
+      "couplet",
+      "outgrov",
       "noocidal"
-      ], 
-    "2": [ 
-      "seedkorsky", 
-      "shromboff", 
-      "skounquet", 
+      ],
+    "2": [
+      "seedkorsky",
+      "shromboff",
+      "skounquet",
       "outgrov"
-      ], 
-    "3": [ 
-      "seedkorsky", 
-      "shromboff", 
-      "couplet", 
-      "outgrov", 
+      ],
+    "3": [
+      "seedkorsky",
+      "shromboff",
+      "couplet",
+      "outgrov",
       "noocidal"
-      ], 
-    "4": [ 
-      "shromboff", 
-      "skounquet", 
+      ],
+    "4": [
+      "shromboff",
+      "skounquet",
       "outgrov"
       ]
-    }, 
-  "250": { 
-    "1": [ 
-      "shromboff", 
-      "guazharm", 
-      "couplet", 
-      "outgrov", 
+    },
+  "250": {
+    "1": [
+      "shromboff",
+      "guazharm",
+      "couplet",
+      "outgrov",
       "noocidal"
-      ], 
-    "2": [ 
-      "shromboff", 
-      "guazharm", 
-      "skounquet", 
+      ],
+    "2": [
+      "shromboff",
+      "guazharm",
+      "skounquet",
       "outgrov"
-      ], 
-    "3": [ 
-      "guazharm", 
-      "couplet", 
-      "devoul", 
+      ],
+    "3": [
+      "guazharm",
+      "couplet",
+      "devoul",
       "noocidal"
-      ], 
-    "4": [ 
-      "guazharm", 
-      "seedkorsky", 
-      "skounquet", 
+      ],
+    "4": [
+      "guazharm",
+      "seedkorsky",
+      "skounquet",
       "devoul"
-      ], 
-    "5": [ 
-      "guazharm", 
-      "seedkorsky", 
-      "couplet", 
-      "devoul", 
+      ],
+    "5": [
+      "guazharm",
+      "seedkorsky",
+      "couplet",
+      "devoul",
       "noocidal"
       ]
-    }, 
-  "255": { 
-    "1": [ 
-      "seedkorsky", 
-      "guazharm", 
-      "skounquet", 
+    },
+  "255": {
+    "1": [
+      "seedkorsky",
+      "guazharm",
+      "skounquet",
       "devoul"
-      ], 
-    "2": [ 
-      "shromboff", 
-      "seedkorsky", 
-      "couplet", 
-      "devoul", 
+      ],
+    "2": [
+      "shromboff",
+      "seedkorsky",
+      "couplet",
+      "devoul",
       "noocidal"
       ]
-    }, 
-  "90": { 
-    "1": [ 
-      "rustung", 
-      "quarmor", 
-      "bomblasta", 
+    },
+  "90": {
+    "1": [
+      "rustung",
+      "quarmor",
+      "bomblasta",
       "tresaur"
-      ], 
-    "2": [ 
-      "rustung", 
-      "moltano", 
-      "kerosion", 
+      ],
+    "2": [
+      "rustung",
+      "moltano",
+      "kerosion",
       "bomblasta"
-      ], 
-    "3": [ 
-      "rustung", 
-      "moltano", 
-      "quarmor", 
-      "bomblasta", 
+      ],
+    "3": [
+      "rustung",
+      "moltano",
+      "quarmor",
+      "bomblasta",
       "tresaur"
       ]
-    }, 
-  "91": { 
-    "1": [ 
-      "moltano", 
-      "kerosion", 
+    },
+  "91": {
+    "1": [
+      "moltano",
+      "kerosion",
       "bomblasta"
-      ], 
-    "2": [ 
-      "moltano", 
-      "ninstuff", 
-      "quarmor", 
-      "bomblasta", 
+      ],
+    "2": [
+      "moltano",
+      "ninstuff",
+      "quarmor",
+      "bomblasta",
       "tresaur"
-      ], 
-    "3": [ 
-      "moltano", 
-      "ninstuff", 
-      "kerosion", 
+      ],
+    "3": [
+      "moltano",
+      "ninstuff",
+      "kerosion",
       "bactoul"
-      ], 
-    "4": [ 
-      "ninstuff", 
-      "quarmor", 
-      "bactoul", 
+      ],
+    "4": [
+      "ninstuff",
+      "quarmor",
+      "bactoul",
       "tresaur"
       ]
-    }, 
-  "92": { 
-    "1": [ 
-      "ninstuff", 
-      "rustung", 
-      "kerosion", 
-      "bactoul", 
+    },
+  "92": {
+    "1": [
+      "ninstuff",
+      "rustung",
+      "kerosion",
+      "bactoul",
       "tresaur"
-      ], 
-    "2": [ 
-      "ninstuff", 
-      "rustung", 
-      "quarmor", 
-      "bactoul", 
+      ],
+    "2": [
+      "ninstuff",
+      "rustung",
+      "quarmor",
+      "bactoul",
       "tresaur"
       ]
-    }, 
-  "159": { 
-    "1": [ 
-      "tuskant", 
-      "gemaxar", 
-      "octollect", 
-      "scailla", 
-      "malenostra", 
+    },
+  "159": {
+    "1": [
+      "tuskant",
+      "gemaxar",
+      "octollect",
+      "scailla",
+      "malenostra",
       "navrigal"
       ]
-    }, 
-  "336": { 
-    "1": [ 
-      "dreddiful", 
-      "thornox", 
+    },
+  "336": {
+    "1": [
+      "dreddiful",
+      "thornox",
       "starckal"
-      ], 
-    "2": [ 
-      "dreddiful", 
-      "quarauga", 
-      "caninui", 
+      ],
+    "2": [
+      "dreddiful",
+      "quarauga",
+      "caninui",
       "starckal"
-      ], 
-    "3": [ 
-      "quarauga", 
-      "thornox", 
+      ],
+    "3": [
+      "quarauga",
+      "thornox",
       "starckal"
-      ], 
-    "4": [ 
-      "quarauga", 
-      "swamplow", 
-      "caninui", 
+      ],
+    "4": [
+      "quarauga",
+      "swamplow",
+      "caninui",
       "spektar"
-      ], 
-    "5": [ 
-      "swamplow", 
-      "thornox", 
+      ],
+    "5": [
+      "swamplow",
+      "thornox",
       "spektar"
-      ], 
-    "6": [ 
-      "swamplow", 
-      "dreddiful", 
-      "caninui", 
+      ],
+    "6": [
+      "swamplow",
+      "dreddiful",
+      "caninui",
       "spektar"
       ]
-    }, 
-  "359": { 
-    "1": [ 
-      "shardrillion", 
-      "flizard", 
-      "pont", 
-      "glontern", 
+    },
+  "359": {
+    "1": [
+      "shardrillion",
+      "flizard",
+      "pont",
+      "glontern",
       "parchidna"
       ]
-    }, 
-  "360": { 
-    "1": [ 
-      "flizard", 
-      "puggard", 
-      "glontern", 
-      "pont", 
+    },
+  "360": {
+    "1": [
+      "flizard",
+      "puggard",
+      "glontern",
+      "pont",
       "parchidna"
       ]
-    }, 
-  "361": { 
-    "1": [ 
-      "puggard", 
-      "shardrillion", 
-      "minet", 
-      "glontern", 
+    },
+  "361": {
+    "1": [
+      "puggard",
+      "shardrillion",
+      "minet",
+      "glontern",
       "moonette"
       ]
-    }, 
-  "362": { 
-    "1": [ 
-      "shardrillion", 
-      "puggard", 
-      "pont", 
-      "minet", 
+    },
+  "362": {
+    "1": [
+      "shardrillion",
+      "puggard",
+      "pont",
+      "minet",
       "tantrunt"
       ]
-    }, 
-  "364": { 
-    "1": [ 
-      "helipa", 
-      "glimoory", 
-      "roclas", 
-      "calplex", 
-      "ignigon", 
+    },
+  "364": {
+    "1": [
+      "helipa",
+      "glimoory",
+      "roclas",
+      "calplex",
+      "ignigon",
       "volt"
       ]
-    }, 
-  "365": { 
-    "1": [ 
-      "helipa", 
-      "glimoory", 
-      "nakazuru", 
-      "calplex", 
-      "volt", 
+    },
+  "365": {
+    "1": [
+      "helipa",
+      "glimoory",
+      "nakazuru",
+      "calplex",
+      "volt",
       "ignigon"
       ]
-    }, 
-  "367": { 
-    "1": [ 
-      "helipa", 
-      "glimoory", 
-      "roclas", 
-      "cadeto", 
-      "orgot", 
+    },
+  "367": {
+    "1": [
+      "helipa",
+      "glimoory",
+      "roclas",
+      "cadeto",
+      "orgot",
       "volt"
       ]
-    }, 
-  "368": { 
-    "1": [ 
-      "helipa", 
-      "glimoory", 
-      "nakazuru", 
-      "cadeto", 
-      "ignigon", 
+    },
+  "368": {
+    "1": [
+      "helipa",
+      "glimoory",
+      "nakazuru",
+      "cadeto",
+      "ignigon",
       "orgot"
       ]
-    }, 
-  "375": { 
-    "1": [ 
-      "dreddiful", 
-      "octollect", 
-      "globlob", 
-      "malenostra", 
-      "navrigal", 
+    },
+  "375": {
+    "1": [
+      "dreddiful",
+      "octollect",
+      "globlob",
+      "malenostra",
+      "navrigal",
       "volpressor"
       ]
-    }, 
-  "376": { 
-    "1": [ 
-      "tuskant", 
-      "dreddiful", 
-      "scailla", 
-      "globlob", 
-      "cranoad", 
+    },
+  "376": {
+    "1": [
+      "tuskant",
+      "dreddiful",
+      "scailla",
+      "globlob",
+      "cranoad",
       "navrigal"
       ]
-    }, 
-  "377": { 
-    "1": [ 
-      "octollect", 
-      "tuskant", 
-      "malenostra", 
-      "scailla", 
-      "volpressor", 
+    },
+  "377": {
+    "1": [
+      "octollect",
+      "tuskant",
+      "malenostra",
+      "scailla",
+      "volpressor",
       "cranoad"
       ]
-    }, 
-  "378": { 
-    "1": [ 
-      "dreddiful", 
-      "octollect", 
-      "globlob", 
-      "malenostra", 
-      "navrigal", 
+    },
+  "378": {
+    "1": [
+      "dreddiful",
+      "octollect",
+      "globlob",
+      "malenostra",
+      "navrigal",
       "volpressor"
       ]
-    }, 
-  "197": { 
-    "1": [ 
-      "zappnic", 
-      "enercer", 
-      "eqoloptera", 
-      "minetor", 
-      "domigator", 
+    },
+  "197": {
+    "1": [
+      "zappnic",
+      "enercer",
+      "eqoloptera",
+      "minetor",
+      "domigator",
       "reptomotor"
       ]
-    }, 
-  "198": { 
-    "1": [ 
-      "blimpapa", 
-      "zappnic", 
-      "ostrolt", 
-      "eqoloptera", 
-      "domigator", 
+    },
+  "198": {
+    "1": [
+      "blimpapa",
+      "zappnic",
+      "ostrolt",
+      "eqoloptera",
+      "domigator",
       "reptomotor"
       ]
-    }, 
-  "199": { 
-    "1": [ 
-      "enercer", 
-      "blimpapa", 
-      "minetor", 
-      "ostrolt", 
-      "frictingle", 
+    },
+  "199": {
+    "1": [
+      "enercer",
+      "blimpapa",
+      "minetor",
+      "ostrolt",
+      "frictingle",
       "reptomotor"
       ]
-    }, 
-  "200": { 
-    "1": [ 
-      "gemaxar", 
-      "enercer", 
-      "thrammer", 
-      "minetor", 
-      "frictingle", 
+    },
+  "200": {
+    "1": [
+      "gemaxar",
+      "enercer",
+      "thrammer",
+      "minetor",
+      "frictingle",
       "reptomotor"
       ]
-    }, 
-  "201": { 
-    "1": [ 
-      "zappnic", 
-      "gemaxar", 
-      "eqoloptera", 
-      "thrammer", 
-      "volpressor", 
+    },
+  "201": {
+    "1": [
+      "zappnic",
+      "gemaxar",
+      "eqoloptera",
+      "thrammer",
+      "volpressor",
       "reptomotor"
       ]
-    }, 
-  "202": { 
-    "1": [ 
-      "blimpapa", 
-      "gemaxar", 
-      "ostrolt", 
-      "thrammer", 
-      "volpressor", 
+    },
+  "202": {
+    "1": [
+      "blimpapa",
+      "gemaxar",
+      "ostrolt",
+      "thrammer",
+      "volpressor",
       "reptomotor"
       ]
-    }, 
-  "384": { 
-    "1": [ 
-      "gemaxar", 
-      "shardrillion", 
-      "lamparos", 
-      "stalagca", 
-      "imburion", 
+    },
+  "384": {
+    "1": [
+      "gemaxar",
+      "shardrillion",
+      "lamparos",
+      "stalagca",
+      "imburion",
       "grath"
       ]
-    }, 
-  "268": { 
-    "1": [ 
-      "brauncer", 
-      "sunknight", 
-      "roclas", 
-      "cuisizle", 
-      "grath", 
+    },
+  "268": {
+    "1": [
+      "brauncer",
+      "sunknight",
+      "roclas",
+      "cuisizle",
+      "grath",
       "holoch"
       ]
-    }, 
-  "269": { 
-    "1": [ 
-      "bouldcran", 
-      "antlorm", 
-      "swactrum", 
-      "malenostra", 
-      "starckal", 
+    },
+  "269": {
+    "1": [
+      "bouldcran",
+      "antlorm",
+      "swactrum",
+      "malenostra",
+      "starckal",
       "lumerei"
       ]
-    }, 
-  "270": { 
-    "1": [ 
-      "rustung", 
-      "bouldcran", 
-      "kerosion", 
-      "swactrum", 
-      "starckal", 
+    },
+  "270": {
+    "1": [
+      "rustung",
+      "bouldcran",
+      "kerosion",
+      "swactrum",
+      "starckal",
       "lumerei"
       ]
-    }, 
-  "271": { 
-    "1": [ 
-      "antlorm", 
-      "rustung", 
-      "malenostra", 
-      "kerosion", 
-      "immortis", 
+    },
+  "271": {
+    "1": [
+      "antlorm",
+      "rustung",
+      "malenostra",
+      "kerosion",
+      "immortis",
       "lumerei"
       ]
-    }, 
-  "272": { 
-    "1": [ 
-      "bouldcran", 
-      "rustung", 
-      "swactrum", 
-      "malenostra", 
-      "immortis", 
+    },
+  "272": {
+    "1": [
+      "bouldcran",
+      "rustung",
+      "swactrum",
+      "malenostra",
+      "immortis",
       "lumerei"
       ]
-    }, 
-  "273": { 
-    "1": [ 
-      "rustung", 
-      "antlorm", 
-      "kerosion", 
-      "swactrum", 
-      "starckal", 
+    },
+  "273": {
+    "1": [
+      "rustung",
+      "antlorm",
+      "kerosion",
+      "swactrum",
+      "starckal",
       "lumerei"
       ]
-    }, 
-  "251": { 
-    "1": [ 
-      "tuskant", 
-      "quarauga", 
-      "reeferus", 
-      "scailla", 
-      "navrigal", 
+    },
+  "251": {
+    "1": [
+      "tuskant",
+      "quarauga",
+      "reeferus",
+      "scailla",
+      "navrigal",
       "sirnymfa"
       ]
-    }, 
-  "252": { 
-    "1": [ 
-      "quarauga", 
-      "swamplow", 
-      "scailla", 
-      "thornox", 
-      "sirnymfa", 
+    },
+  "252": {
+    "1": [
+      "quarauga",
+      "swamplow",
+      "scailla",
+      "thornox",
+      "sirnymfa",
       "navrigal"
       ]
-    }, 
-  "253": { 
-    "1": [ 
-      "swamplow", 
-      "tuskant", 
-      "thornox", 
-      "reeferus", 
-      "navrigal", 
+    },
+  "253": {
+    "1": [
+      "swamplow",
+      "tuskant",
+      "thornox",
+      "reeferus",
+      "navrigal",
       "sirnymfa"
       ]
-    }, 
-  "325": { 
-    "1": [ 
-      "ninstuff", 
-      "brauncer", 
-      "moltano", 
-      "quarmor", 
-      "imburion", 
+    },
+  "325": {
+    "1": [
+      "ninstuff",
+      "brauncer",
+      "moltano",
+      "quarmor",
+      "imburion",
       "starckal"
-      ], 
-    "2": [ 
-      "ninstuff", 
-      "brauncer", 
-      "moltano", 
-      "quarmor", 
-      "imburion", 
+      ],
+    "2": [
+      "ninstuff",
+      "brauncer",
+      "moltano",
+      "quarmor",
+      "imburion",
       "starckal"
       ] ,
-    "3": [ 
-      "ninstuff", 
-      "brauncer", 
-      "moltano", 
-      "quarmor", 
-      "imburion", 
+    "3": [
+      "ninstuff",
+      "brauncer",
+      "moltano",
+      "quarmor",
+      "imburion",
       "starckal"
       ]
-    }, 
-  "277": { 
-    "1": [ 
-      "cromeon", 
-      "kromicide", 
-      "globlob", 
-      "thrammer", 
-      "domigator", 
+    },
+  "277": {
+    "1": [
+      "cromeon",
+      "kromicide",
+      "globlob",
+      "thrammer",
+      "domigator",
       "greben"
       ]
-    }, 
-  "278": { 
-    "1": [ 
-      "varawirl", 
-      "cromeon", 
-      "scailla", 
-      "globlob", 
-      "domigator", 
+    },
+  "278": {
+    "1": [
+      "varawirl",
+      "cromeon",
+      "scailla",
+      "globlob",
+      "domigator",
       "greben"
       ]
-    }, 
-  "279": { 
-    "1": [ 
-      "kromicide", 
-      "varawirl", 
-      "thrammer", 
-      "scailla", 
-      "domigator", 
+    },
+  "279": {
+    "1": [
+      "kromicide",
+      "varawirl",
+      "thrammer",
+      "scailla",
+      "domigator",
       "greben"
       ]
-    }, 
-  "292": { 
-    "1": [ 
-      "varawirl", 
-      "mound", 
-      "candly", 
-      "ostrolt", 
-      "arispauva", 
-      "lunabelle", 
-      "omecharge", 
-      "dalsae", 
+    },
+  "292": {
+    "1": [
+      "varawirl",
+      "mound",
+      "candly",
+      "ostrolt",
+      "arispauva",
+      "lunabelle",
+      "omecharge",
+      "dalsae",
       "reptomotor"
-      ], 
-    "2": [ 
-      "mazecter", 
-      "varawirl", 
-      "couplet", 
-      "candly", 
-      "lunabelle", 
-      "arispauva", 
-      "resonic", 
-      "sorvian", 
+      ],
+    "2": [
+      "mazecter",
+      "varawirl",
+      "couplet",
+      "candly",
+      "lunabelle",
+      "arispauva",
+      "resonic",
+      "sorvian",
       "feliblanqo"
-      ], 
-    "3": [ 
-      "kromicide", 
-      "mazecter", 
-      "foxdra", 
-      "couplet", 
-      "sirnymfa", 
-      "moonline", 
-      "goblat", 
-      "omecharge", 
+      ],
+    "3": [
+      "kromicide",
+      "mazecter",
+      "foxdra",
+      "couplet",
+      "sirnymfa",
+      "moonline",
+      "goblat",
+      "omecharge",
       "yarnesty"
-      ], 
-    "4": [ 
-      "bushnome", 
-      "kromicide", 
-      "reeferus", 
-      "foxdra", 
-      "frictingle", 
-      "sirnymfa", 
-      "blazetilia", 
-      "resonic", 
+      ],
+    "4": [
+      "bushnome",
+      "kromicide",
+      "reeferus",
+      "foxdra",
+      "frictingle",
+      "sirnymfa",
+      "blazetilia",
+      "resonic",
       "raksuma"
       ]
-    }, 
-  "293": { 
-    "1": [ 
-      "guazharm", 
-      "bushnome", 
-      "swactrum", 
-      "reeferus", 
-      "goatlanche", 
-      "frictingle", 
-      "felclaw", 
-      "goblat", 
+    },
+  "293": {
+    "1": [
+      "guazharm",
+      "bushnome",
+      "swactrum",
+      "reeferus",
+      "goatlanche",
+      "frictingle",
+      "felclaw",
+      "goblat",
       "hainok"
-      ], 
-    "2": [ 
-      "flizard", 
-      "guazharm", 
-      "caninui", 
-      "swactrum", 
-      "bullogan", 
-      "goatlanche", 
-      "boilgog", 
-      "blazetilia", 
+      ],
+    "2": [
+      "flizard",
+      "guazharm",
+      "caninui",
+      "swactrum",
+      "bullogan",
+      "goatlanche",
+      "boilgog",
+      "blazetilia",
       "noocidal"
-      ], 
-    "3": [ 
-      "gemaxar", 
-      "flizard", 
-      "streamoad", 
-      "caninui", 
-      "peltry", 
-      "bullogan", 
-      "centeror", 
-      "felclaw", 
+      ],
+    "3": [
+      "gemaxar",
+      "flizard",
+      "streamoad",
+      "caninui",
+      "peltry",
+      "bullogan",
+      "centeror",
+      "felclaw",
       "namansi"
       ]
-    }, 
-  "297": { 
-    "1": [ 
-      "antlorm", 
-      "gemaxar", 
-      "stalagca", 
-      "streamoad", 
-      "bactoul", 
-      "peltry", 
-      "lurkennie", 
-      "boilgog", 
+    },
+  "297": {
+    "1": [
+      "antlorm",
+      "gemaxar",
+      "stalagca",
+      "streamoad",
+      "bactoul",
+      "peltry",
+      "lurkennie",
+      "boilgog",
       "lumerei"
-      ], 
-    "2": [ 
-      "swamplow", 
-      "antlorm", 
-      "cuisizle", 
-      "stalagca", 
-      "starckal", 
-      "bactoul", 
-      "fortank", 
-      "centeror", 
+      ],
+    "2": [
+      "swamplow",
+      "antlorm",
+      "cuisizle",
+      "stalagca",
+      "starckal",
+      "bactoul",
+      "fortank",
+      "centeror",
       "tresaur"
-      ], 
-    "3": [ 
-      "octollect", 
-      "swamplow", 
-      "couplet", 
-      "cuisizle", 
-      "spektar", 
-      "starckal", 
-      "wargoyle", 
-      "lurkennie", 
+      ],
+    "3": [
+      "octollect",
+      "swamplow",
+      "couplet",
+      "cuisizle",
+      "spektar",
+      "starckal",
+      "wargoyle",
+      "lurkennie",
       "reptomotor"
-      ], 
-    "4": [ 
-      "shardrillion", 
-      "octollect", 
-      "dracly", 
-      "couplet", 
-      "outgrov", 
-      "spektar", 
-      "bisina", 
-      "fortank", 
+      ],
+    "4": [
+      "shardrillion",
+      "octollect",
+      "dracly",
+      "couplet",
+      "outgrov",
+      "spektar",
+      "bisina",
+      "fortank",
       "feliblanqo"
       ]
-    }, 
-  "298": { 
-    "1": [ 
-      "jeliflux", 
-      "shardrillion", 
-      "mojompu", 
-      "dracly", 
-      "cranoad", 
-      "outgrov", 
-      "floreina", 
-      "wargoyle", 
+    },
+  "298": {
+    "1": [
+      "jeliflux",
+      "shardrillion",
+      "mojompu",
+      "dracly",
+      "cranoad",
+      "outgrov",
+      "floreina",
+      "wargoyle",
       "yarnesty"
-      ], 
-    "2": [ 
-      "cromeon", 
-      "jeliflux", 
-      "glunch", 
-      "mojompu", 
-      "immortis", 
-      "cranoad", 
-      "sikipha", 
-      "harectic", 
+      ],
+    "2": [
+      "cromeon",
+      "jeliflux",
+      "glunch",
+      "mojompu",
+      "immortis",
+      "cranoad",
+      "sikipha",
+      "harectic",
       "raksuma"
-      ], 
-    "3": [ 
-      "runk", 
-      "cromeon", 
-      "globlob", 
-      "glunch", 
-      "domigator", 
-      "immortis", 
-      "shardberg", 
-      "floreina", 
+      ],
+    "3": [
+      "runk",
+      "cromeon",
+      "globlob",
+      "glunch",
+      "domigator",
+      "immortis",
+      "shardberg",
+      "floreina",
       "hainok"
-      ], 
-    "4": [ 
-      "glamoory", 
-      "runk", 
-      "brumenie", 
-      "globlob", 
-      "bloomriol", 
-      "domigator", 
-      "lovidovi", 
-      "antarzen", 
+      ],
+    "4": [
+      "glamoory",
+      "runk",
+      "brumenie",
+      "globlob",
+      "bloomriol",
+      "domigator",
+      "lovidovi",
+      "antarzen",
       "noocidal"
       ]
-    }, 
-  "299": { 
-    "1": [ 
-      "dreddiful", 
-      "glamoory", 
-      "roclas", 
-      "brumenie", 
-      "volpressor", 
-      "bloomriol", 
-      "snaijet", 
-      "shardberg", 
+    },
+  "299": {
+    "1": [
+      "dreddiful",
+      "glamoory",
+      "roclas",
+      "brumenie",
+      "volpressor",
+      "bloomriol",
+      "snaijet",
+      "shardberg",
       "namansi"
-      ], 
-    "2": [ 
-      "sunknight", 
-      "moga", 
-      "kerosion", 
-      "roclas", 
-      "bomblasta", 
-      "volpressor", 
-      "harectic", 
-      "lovidovi", 
+      ],
+    "2": [
+      "sunknight",
+      "moga",
+      "kerosion",
+      "roclas",
+      "bomblasta",
+      "volpressor",
+      "harectic",
+      "lovidovi",
       "lumerei"
-      ], 
-    "3": [ 
-      "tuskant", 
-      "monkapow", 
-      "lamparos", 
-      "kerosion", 
-      "devoul", 
-      "bomblasta", 
-      "antarzen", 
-      "snaijet", 
+      ],
+    "3": [
+      "tuskant",
+      "monkapow",
+      "lamparos",
+      "kerosion",
+      "devoul",
+      "bomblasta",
+      "antarzen",
+      "snaijet",
       "tresaur"
       ]
     }

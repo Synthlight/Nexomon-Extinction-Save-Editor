@@ -15,23 +15,23 @@
     <DataGrid.Columns>
         <DataGridComboBoxColumn DisplayMemberPath="Value"
                                 ItemsSource="{x:Static inventoryEditor:Data.MONSTER_NAMES_BY_ID}"
-                                SelectedValueBinding="{Binding monsterId}"
+                                SelectedValueBinding="{Binding monsterId, UpdateSourceTrigger=PropertyChanged}"
                                 SelectedValuePath="Key"/>
-        <DataGridTextColumn Binding="{Binding nickname}"
+        <DataGridTextColumn Binding="{Binding nickname, UpdateSourceTrigger=PropertyChanged}"
                             Header="Nickname"/>
-        <DataGridTextColumn Binding="{Binding level}"
+        <DataGridTextColumn Binding="{Binding level, UpdateSourceTrigger=PropertyChanged}"
                             Header="Level"/>
         <DataGridTextColumn Binding="{Binding EvolutionLevel}"
-                            Header="Next Evolution Level"
+                            Header="Next Evolution Level&#x0a;(Reference Only)"
                             IsReadOnly="True"/>
         <DataGridTextColumn Binding="{Binding EvolutionTarget}"
-                            Header="Next Evolution Target"
+                            Header="Next Evolution Target&#x0a;(Reference Only)"
                             IsReadOnly="True"/>
-        <DataGridTextColumn Binding="{Binding hp}"
+        <DataGridTextColumn Binding="{Binding hp, UpdateSourceTrigger=PropertyChanged}"
                             Header="Hp"/>
-        <DataGridTextColumn Binding="{Binding sta}"
+        <DataGridTextColumn Binding="{Binding sta, UpdateSourceTrigger=PropertyChanged}"
                             Header="Sta"/>
-        <DataGridTextColumn Binding="{Binding exp}"
+        <DataGridTextColumn Binding="{Binding exp, UpdateSourceTrigger=PropertyChanged}"
                             Header="Exp"/>
         <DataGridTemplateColumn Width="150"
                                 Header="Skills">
@@ -49,9 +49,9 @@
                 </DataTemplate>
             </DataGridTemplateColumn.CellTemplate>
         </DataGridTemplateColumn>
-        <DataGridCheckBoxColumn Binding="{Binding cosmic}"
+        <DataGridCheckBoxColumn Binding="{Binding cosmic, UpdateSourceTrigger=PropertyChanged}"
                                 Header="Is Cosmic"/>
-        <DataGridTextColumn Binding="{Binding harmony}"
+        <DataGridTextColumn Binding="{Binding harmony, UpdateSourceTrigger=PropertyChanged}"
                             Header="Harmony"/>
     </DataGrid.Columns>
 </DataGrid>

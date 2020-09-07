@@ -1,5 +1,5 @@
 {
-    
+
     "1":{
       "comment": "videll",
       "file": "quests/1-videll",
@@ -55,7 +55,7 @@
       "reputation":  10,
       "body": "eliza"
     },
-    
+
     "4":{
       "comment": "lava city",
       "file": "quests/4-tyrant-mulcimer",
@@ -98,7 +98,7 @@
       "reputation":  10,
       "body": "xanders"
     },
-    
+
     "6":{
       "comment": "bunker",
       "file": "quests/6-frozen-bunker",
@@ -118,7 +118,7 @@
       "reputation":  10,
       "body": "videll"
     },
-    
+
     "7":{
       "comment": "nexotower",
       "file": "quests/7-cursed-tower",
@@ -135,7 +135,7 @@
       "reputation":  10,
       "body": "edward"
     },
-    
+
     "8":{
       "comment": "cadium",
       "file": "quests/8-sinking-city",
@@ -152,7 +152,7 @@
       "reputation":  10,
       "body": "derek"
     },
-    
+
     "9":{
       "comment": "lateria",
       "file": "quests/9-desert-tyrant",
@@ -170,7 +170,7 @@
       "reputation":  10,
       "body": "garen"
     },
-    
+
     "10":{
       "comment": "protect",
       "file": "quests/10-protect-village",
@@ -185,7 +185,7 @@
       "reputation":  10,
       "body": "shaman-ghost"
     },
-    
+
     "11":{
       "comment": "WIIIIIND",
       "file": "quests/11-revive-eurus",
@@ -200,7 +200,7 @@
       "reputation":  10,
       "body": "lydia"
     },
-    
+
     "12":{
       "comment": "FIREEEEEE",
       "file": "quests/12-revive-mulcimer",
@@ -220,7 +220,7 @@
       "reputation":  10,
       "body": "jin"
     },
-    
+
     "13":{
       "comment": "WATEEEEER",
       "file": "quests/13-revive-nivalis",
@@ -237,7 +237,7 @@
       "reputation":  10,
       "body": "atlanta"
     },
-    
+
     "14":{
       "comment": "THUNDERRRRRR",
       "file": "quests/14-revive-bolzen",
@@ -256,7 +256,7 @@
       "reputation":  10,
       "body": "$logan"
     },
-    
+
     "15":{
       "comment": "EARRRRTH",
       "file": "quests/15-revive-petram",
@@ -276,7 +276,7 @@
       "reputation":  10,
       "body": "celine"
     },
-    
+
     "16":{
       "comment": "Become Grandmaster",
       "file": "quests/16-grandmaster",
@@ -292,7 +292,7 @@
       "reputation":  10,
       "body": "admin"
     },
-    
+
     "17":{
       "comment": "Destroy Vados",
       "file": "quests/17-destroy-vados",
@@ -491,7 +491,7 @@
         {"line": 7, "on_switches": [883], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "_peculiar/snow/$11",
@@ -616,7 +616,7 @@
         {"line": 6, "on_switches": [371], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "$logan"
@@ -631,7 +631,7 @@
         {"line": 7, "on_switches": [377], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -646,7 +646,7 @@
         {"line": 7, "on_switches": [378], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -661,7 +661,7 @@
         {"line": 7, "on_switches": [380], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -676,7 +676,7 @@
         {"line": 7, "on_switches": [379], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -691,7 +691,7 @@
         {"line": 7, "on_switches": [376], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -706,7 +706,7 @@
         {"line": 7, "on_switches": [381], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -721,7 +721,7 @@
         {"line": 7, "on_switches": [384], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -736,7 +736,7 @@
         {"line": 7, "on_switches": [383], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -751,7 +751,7 @@
         {"line": 7, "on_switches": [382], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "lydia"
@@ -765,7 +765,7 @@
         {"line": 6, "on_switches": [387], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "fenrir"
@@ -779,7 +779,7 @@
         {"line": 6, "on_switches": [388], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "nadine"
@@ -793,7 +793,7 @@
         {"line": 6, "on_switches": [391], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "merida"
@@ -807,7 +807,7 @@
         {"line": 6, "on_switches": [390], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "zetta"
@@ -821,7 +821,7 @@
         {"line": 6, "on_switches": [389], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "mentor"
@@ -835,7 +835,7 @@
         {"line": 6, "on_switches": [392], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "deena"
@@ -849,7 +849,7 @@
         {"line": 6, "on_switches": [374], "off_switches": [], "comment": ""}
       ],
       "rewards": {
-        
+
       },
       "reputation":  10,
       "body": "amelie"

@@ -16,7 +16,7 @@
     <DataGrid.Columns>
         <DataGridComboBoxColumn DisplayMemberPath="Value"
                                 ItemsSource="{x:Static inventoryEditor:Data.SKILL_NAMES_BY_ID}"
-                                SelectedValueBinding="{Binding Id}"
+                                SelectedValueBinding="{Binding Id, UpdateSourceTrigger=PropertyChanged}"
                                 SelectedValuePath="Key"/>
     </DataGrid.Columns>
 </DataGrid>

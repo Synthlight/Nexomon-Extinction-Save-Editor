@@ -244,14 +244,14 @@
     {"description": "VAULT","weight": 0.4,"on_switches": [612],"off_switches": []},
     {"description": "VAULT","weight": 0.4,"on_switches": [613],"off_switches": []},
 
-    
+
     {"description": "POST-FENRIR","weight": 0.6,"on_switches": [387],"off_switches": []},
     {"description": "POST-NADINE","weight": 0.6,"on_switches": [388],"off_switches": []},
     {"description": "POST-GRUNDA","weight": 0.6,"on_switches": [389],"off_switches": []},
     {"description": "POST-ZETTA","weight": 0.6,"on_switches": [390],"off_switches": []},
     {"description": "POST-MERIDA","weight": 0.6,"on_switches": [391],"off_switches": []},
     {"description": "POST-DEENA","weight": 0.6,"on_switches": [392],"off_switches": []},
-    
+
     {"description": "POST-DRAGON","weight": 0.5,"on_switches": [376],"off_switches": []},
     {"description": "POST-DRAGON","weight": 0.5,"on_switches": [377],"off_switches": []},
     {"description": "POST-DRAGON","weight": 0.5,"on_switches": [378],"off_switches": []},
@@ -278,7 +278,7 @@
         }
       ]
     },
-    
+
     {
       "description":"South Orphanage",
       "maps": [15],
@@ -350,7 +350,7 @@
         }
       ]
     }
-    
+
   ]
 
 

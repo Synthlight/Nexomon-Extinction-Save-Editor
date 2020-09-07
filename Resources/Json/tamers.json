@@ -25,13 +25,13 @@
        ],
        "party-regular":[
            {"name":"soniqo","difficulty":2,"skills":[],"cores":[]},
-           {"name":"scaratic","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"scaratic","difficulty":2,"skills":[],"cores":[]},
            {"name":"baloompa","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"eqoloptera","difficulty":2,"skills":[],"cores":[]},
            {"name":"enercer","difficulty":2,"skills":[],"cores":[]},
-           {"name":"blimpapa","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"blimpapa","difficulty":2,"skills":[],"cores":[]},
            {"name":"roclas","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":702,
@@ -65,13 +65,13 @@
        ],
        "party-regular":[
            {"name":"mimi","difficulty":2,"skills":[],"cores":[]},
-           {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},
            {"name":"cranillow","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"mimorus","difficulty":2,"skills":[],"cores":[]},
            {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},
-           {"name":"swactrum","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"swactrum","difficulty":2,"skills":[],"cores":[]},
            {"name":"rapi","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":704,
@@ -84,13 +84,13 @@
        ],
        "party-regular":[
            {"name":"yummo","difficulty":2,"skills":[],"cores":[]},
-           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},
            {"name":"taipluff","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},
            {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
-           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},
            {"name":"bira","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":705,
@@ -103,13 +103,13 @@
        ],
        "party-regular":[
            {"name":"dichala","difficulty":2,"skills":[],"cores":[]},
-           {"name":"pont","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]},
            {"name":"scaratic","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"namansi","difficulty":2,"skills":[],"cores":[]},
            {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
-           {"name":"enercer","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"enercer","difficulty":2,"skills":[],"cores":[]},
            {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":706,
@@ -122,14 +122,14 @@
        ],
        "party-regular":[
            {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
-           {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},
            {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
            {"name":"lurkennie","difficulty":2,"skills":[],"cores":[]},
            {"name":"mound","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"candly","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"candly","difficulty":2,"skills":[],"cores":[]},
            {"name":"gradow","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":707,
@@ -142,7 +142,7 @@
        ],
        "party-regular":[
            {"name":"tiki","difficulty":2,"skills":[],"cores":[]},
-           {"name":"wysil","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"wysil","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]},
            {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
        ],
@@ -150,7 +150,7 @@
            {"name":"flizard","difficulty":2,"skills":[],"cores":[]},
            {"name":"tarragon","difficulty":2,"skills":[],"cores":[]},
            {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"dracly","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"dracly","difficulty":2,"skills":[],"cores":[]},
            {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":708,
@@ -163,13 +163,13 @@
        ],
        "party-regular":[
            {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
-           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},
            {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},
            {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},
-           {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},
            {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":709,
@@ -182,14 +182,14 @@
        ],
        "party-regular":[
            {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
-           {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]},		
-		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]},
            {"name":"woozy","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},
            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},
-           {"name":"croncho","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"croncho","difficulty":2,"skills":[],"cores":[]},
            {"name":"frictingle","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":710,
@@ -201,14 +201,14 @@
            {"name":"smanic","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"teslad","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"teslad","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},
            {"name":"algon","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"teslad","difficulty":2,"skills":[],"cores":[]},
            {"name":"resonic","difficulty":2,"skills":[],"cores":[]},
-           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},		 
+           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},
            {"name":"divette","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":711,
@@ -220,14 +220,14 @@
 	           {"name":"basil","difficulty":2,"skills":[],"cores":[]}
 	       ],
 	       "party-regular":[
-	           {"name":"ignigon","difficulty":2,"skills":[],"cores":[]},         	
-			   {"name":"wysil","difficulty":2,"skills":[],"cores":[]},	
+	           {"name":"ignigon","difficulty":2,"skills":[],"cores":[]},
+			   {"name":"wysil","difficulty":2,"skills":[],"cores":[]},
 	           {"name":"chaparral","difficulty":2,"skills":[],"cores":[]}
 	       ],
 	       "party-late":[
 	           {"name":"acegon","difficulty":2,"skills":[],"cores":[]},
 	           {"name":"tarragon","difficulty":2,"skills":[],"cores":[]},
-	           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},		 
+	           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},
 	           {"name":"orgot","difficulty":2,"skills":[],"cores":[]}
 	       ],
         "switch":712,
@@ -239,16 +239,16 @@
            {"name":"fortle","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"draniphant","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},	
-		    {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"draniphant","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},
+		    {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},
            {"name":"neglente","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"tuskant","difficulty":2,"skills":[],"cores":[]},
            {"name":"fortank","difficulty":2,"skills":[],"cores":[]},
-           {"name":"grath","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"outgrov","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"grath","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"outgrov","difficulty":2,"skills":[],"cores":[]},
            {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":713,
@@ -260,14 +260,14 @@
            {"name":"gomarm","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"sunnos","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"gomarm","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"sunnos","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"gomarm","difficulty":2,"skills":[],"cores":[]},
            {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"starckal","difficulty":2,"skills":[],"cores":[]},
            {"name":"guazharm","difficulty":2,"skills":[],"cores":[]},
-           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
            {"name":"carcaros","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":714,
@@ -279,14 +279,14 @@
            {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},
            {"name":"rappub","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"duktar","difficulty":2,"skills":[],"cores":[]},
            {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
-           {"name":"caninui","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"caninui","difficulty":2,"skills":[],"cores":[]},
            {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":715,
@@ -298,14 +298,14 @@
            {"name":"skerdi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},
            {"name":"carcaros","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},
            {"name":"dreddiful","difficulty":2,"skills":[],"cores":[]},
-           {"name":"immortis","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"immortis","difficulty":2,"skills":[],"cores":[]},
            {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":716,
@@ -317,14 +317,14 @@
            {"name":"yummo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"malevodo","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"malevodo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},
            {"name":"tundri","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"malenostra","difficulty":2,"skills":[],"cores":[]},
            {"name":"glunch","difficulty":2,"skills":[],"cores":[]},
-           {"name":"tundrox","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"tundrox","difficulty":2,"skills":[],"cores":[]},
            {"name":"onin","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":717,
@@ -336,15 +336,15 @@
            {"name":"moonline","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"dredmore","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"moonline","difficulty":2,"skills":[],"cores":[]},		
-		   {"name":"virox","difficulty":2,"skills":[],"cores":[]},	
+           {"name":"dredmore","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"virox","difficulty":2,"skills":[],"cores":[]},
            {"name":"brumtler","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"dredrone","difficulty":2,"skills":[],"cores":[]},
            {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
-           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bactoul","difficulty":2,"skills":[],"cores":[]},
            {"name":"brumenie","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":718,
@@ -356,15 +356,15 @@
            {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"duktar","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},
            {"name":"branipus","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"spektar","difficulty":2,"skills":[],"cores":[]},
            {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
-           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"malitress","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"malitress","difficulty":2,"skills":[],"cores":[]},
            {"name":"divette","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":719,
@@ -376,15 +376,15 @@
            {"name":"sandillo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]},
            {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"senshizuru","difficulty":2,"skills":[],"cores":[]},
-           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},
            {"name":"dracly","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":720,
@@ -396,15 +396,15 @@
            {"name":"worb","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
            {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},
-           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},
            {"name":"globlob","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":721,
@@ -416,14 +416,14 @@
            {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"porklet","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},		   
+           {"name":"porklet","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
            {"name":"ribombo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
-           {"name":"streamoad","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"streamoad","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},
            {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":722,
@@ -435,15 +435,15 @@
            {"name":"deember","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},	   
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},
            {"name":"scalder","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
-           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
            {"name":"scailla","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":723,
@@ -455,14 +455,14 @@
            {"name":"chowser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]},
            {"name":"moonette","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},
-           {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},
            {"name":"boilgog","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":724,
@@ -474,14 +474,14 @@
            {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"lumefur","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"lumefur","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
            {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"lumerei","difficulty":2,"skills":[],"cores":[]},
-           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"grath","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"grath","difficulty":2,"skills":[],"cores":[]},
            {"name":"moonica","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":725,
@@ -493,16 +493,16 @@
            {"name":"kolphur","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},		  
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
            {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
-           {"name":"moltano","difficulty":2,"skills":[],"cores":[]},          
-		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"moltano","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},
            {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":726,
@@ -514,14 +514,14 @@
            {"name":"lumbi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lumbi","difficulty":2,"skills":[],"cores":[]},
            {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},
-           {"name":"tiki","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"tiki","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
            {"name":"parchidna","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":727,
@@ -533,15 +533,15 @@
            {"name":"deember","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
            {"name":"gravello","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
-           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},
            {"name":"quarmor","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":728,
@@ -553,14 +553,14 @@
            {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
-           {"name":"harectic","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},
            {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":729,
@@ -572,15 +572,15 @@
            {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"biralo","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"biralo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"skunqute","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"waser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"bisina","difficulty":2,"skills":[],"cores":[]},
-           {"name":"tresaur","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"skounquet","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"tresaur","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"skounquet","difficulty":2,"skills":[],"cores":[]},
            {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":730,
@@ -592,16 +592,16 @@
            {"name":"volt","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"rapi","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"rapi","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"volnamic","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"waser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"rapilux","difficulty":2,"skills":[],"cores":[]},
-           {"name":"voltaic","difficulty":2,"skills":[],"cores":[]}, 
+           {"name":"voltaic","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},			
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},
            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":731,
@@ -613,14 +613,14 @@
            {"name":"paupo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"dratter","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"dratter","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"paupo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"onin","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"furrygon","difficulty":2,"skills":[],"cores":[]},
-           {"name":"arispauva","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"peltry","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"arispauva","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"peltry","difficulty":2,"skills":[],"cores":[]},
            {"name":"rapnux","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":732,
@@ -632,14 +632,14 @@
            {"name":"lovinu","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lovidovi","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"rappub","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"sikipha","difficulty":2,"skills":[],"cores":[]},
-           {"name":"gradow","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"caninui","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"gradow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"caninui","difficulty":2,"skills":[],"cores":[]},
            {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":733,
@@ -651,15 +651,15 @@
            {"name":"gomarm","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"nekgiri","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"nekgiri","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"guazharm","difficulty":2,"skills":[],"cores":[]},
 		    {"name":"frogick","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"felclaw","difficulty":2,"skills":[],"cores":[]},
-           {"name":"guazharm","difficulty":2,"skills":[],"cores":[]}, 
-		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"guazharm","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},
            {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":734,
@@ -671,13 +671,13 @@
            {"name":"wadgon","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"mantoo","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"mantoo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lurkost","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"mantrass","difficulty":2,"skills":[],"cores":[]},
-           {"name":"horget","difficulty":2,"skills":[],"cores":[]}, 			
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]},
            {"name":"lurkennie","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":735,
@@ -689,15 +689,15 @@
            {"name":"mara","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"marasuma","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"mearn","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"hainok","difficulty":2,"skills":[],"cores":[]},
-           {"name":"raksuma","difficulty":2,"skills":[],"cores":[]}, 	
-		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"raksuma","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},
            {"name":"mojompu","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":736,
@@ -709,15 +709,15 @@
            {"name":"ponic","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"sikihob","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"giddiyelp","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"deember","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"dichala","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"sikipha","difficulty":2,"skills":[],"cores":[]},
-           {"name":"centeror","difficulty":2,"skills":[],"cores":[]}, 	
-		   {"name":"deember","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"centeror","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"deember","difficulty":2,"skills":[],"cores":[]},
            {"name":"namansi","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":737,
@@ -729,14 +729,14 @@
            {"name":"chibbit","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"orgot","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"orgot","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"xotor","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
-           {"name":"odiborg","difficulty":2,"skills":[],"cores":[]}, 	
-		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"odiborg","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
            {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":738,
@@ -748,15 +748,15 @@
            {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
            {"name":"yarnesty","difficulty":2,"skills":[],"cores":[]},
-           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]}, 	
-		   {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"antarzen","difficulty":2,"skills":[],"cores":[]},
            {"name":"globlob","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":739,
@@ -768,7 +768,7 @@
            {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"jeliflo","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"jeliflo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"coral","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},
@@ -776,9 +776,9 @@
        ],
        "party-late":[
            {"name":"jeliflux","difficulty":2,"skills":[],"cores":[]},
-           {"name":"fainglori","difficulty":2,"skills":[],"cores":[]}, 	
+           {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"sorvian","difficulty":2,"skills":[],"cores":[]},
            {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":740,
@@ -790,14 +790,14 @@
            {"name":"ploriol","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"bomriol","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"pont","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"navrigal","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"navrigal","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"bloomriol","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":741,
@@ -809,15 +809,15 @@
            {"name":"fortle","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"nakazuru","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"scalder","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"flotter","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"senshizuru","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"senshizuru","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fortank","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},
            {"name":"dratter","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":742,
@@ -829,15 +829,15 @@
            {"name":"waser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"helipa","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"helipa","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"waser","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},		
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]},
            {"name":"moonline","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":743,
@@ -849,14 +849,14 @@
            {"name":"larkito","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"moonette","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"moonette","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"moska","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"lunabelle","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"sakka","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]},
            {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":744,
@@ -868,15 +868,15 @@
            {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"glimoory","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"glimoory","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"smanic","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"resonic","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"resonic","difficulty":2,"skills":[],"cores":[]},
            {"name":"hydrose","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":745,
@@ -888,14 +888,14 @@
            {"name":"coral","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"frogick","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"frogick","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"bouldion","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
            {"name":"candly","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":746,
@@ -907,14 +907,14 @@
            {"name":"cruff","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"leechy","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"leechy","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"croncho","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"dracly","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"dracly","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"domigator","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
            {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":747,
@@ -926,14 +926,14 @@
            {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"pont","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"pont","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"streamoad","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},
            {"name":"snaibble","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":748,
@@ -945,14 +945,14 @@
            {"name":"sae","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"palsae","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"mermella","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"sirnymfa","difficulty":2,"skills":[],"cores":[]},
            {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":749,
@@ -964,14 +964,14 @@
            {"name":"leechy","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"blizzarm","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"blizzarm","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"leechy","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"faucefant","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"blizzaur","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"blizzaur","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"dracly","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"tuskant","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"tuskant","difficulty":2,"skills":[],"cores":[]},
            {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":750,
@@ -983,14 +983,14 @@
            {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fandiose","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"gravello","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},
            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":751,
@@ -1002,14 +1002,14 @@
            {"name":"pont","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"pont","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},
            {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":752,
@@ -1021,14 +1021,14 @@
            {"name":"trebly","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"spikarm","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"spikarm","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"thornox","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"thornox","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"tresaur","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},
            {"name":"goateeze","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":753,
@@ -1040,15 +1040,15 @@
            {"name":"tundri","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"tundri","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"bulbrit","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"foreer","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"tundrox","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]},
            {"name":"cromeon","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":754,
@@ -1060,14 +1060,14 @@
            {"name":"waser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"deebuz","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"waser","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"kawsnow","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"antlorm","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"harectic","difficulty":2,"skills":[],"cores":[]},
            {"name":"gemock","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":755,
@@ -1079,14 +1079,14 @@
            {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"moonsting","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"glimoory","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"sunknight","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"glamoory","difficulty":2,"skills":[],"cores":[]},
            {"name":"snaijet","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":756,
@@ -1098,14 +1098,14 @@
            {"name":"worb","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"glontern","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"glontern","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"lamparos","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"lamparos","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
            {"name":"mound","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":757,
@@ -1117,15 +1117,15 @@
            {"name":"oren","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"bouldion","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"orgot","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"scalder","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"parchidna","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"bouldcran","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"scailla","difficulty":2,"skills":[],"cores":[]},
            {"name":"holoch","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":758,
@@ -1137,14 +1137,14 @@
            {"name":"streamole","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"bombargrof","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"pebglem","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"bomblasta","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"streamog","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
            {"name":"antarzen","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":759,
@@ -1156,15 +1156,15 @@
            {"name":"porklet","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"pongo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"quarmor","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},
            {"name":"goatlanche","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":760,
@@ -1176,14 +1176,14 @@
            {"name":"chirrent","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"omepark","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"chirrent","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"omepark","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"chirrent","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"griffgar","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"omecharge","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"omecharge","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"ostrolt","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"lioness","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"lioness","difficulty":2,"skills":[],"cores":[]},
            {"name":"florozard","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":761,
@@ -1195,15 +1195,15 @@
            {"name":"lovinu","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"algon","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"lovinu","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"behilda","difficulty":2,"skills":[],"cores":[]},		
+           {"name":"algon","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"lovinu","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"behilda","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"rubby","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"reeferus","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lovidovi","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},
            {"name":"runk","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":762,
@@ -1215,14 +1215,14 @@
            {"name":"skunqute","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"skunqeau","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"skunqeau","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"durtacles","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"horget","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"skounquet","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},		 	
+		   {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
            {"name":"foxdra","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":763,
@@ -1234,16 +1234,16 @@
            {"name":"deyam","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},         	
+           {"name":"cerebrius","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"deyama","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"croo","difficulty":2,"skills":[],"cores":[]},		
-		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}			
+		   {"name":"croo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sounse","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"octollect","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"octollect","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"phantra","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"cadeto","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mound","difficulty":2,"skills":[],"cores":[]},
            {"name":"cranoad","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":764,
@@ -1255,14 +1255,14 @@
            {"name":"medlass","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"shardice","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"madamusa","difficulty":2,"skills":[],"cores":[]},			
-		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"shardice","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"madamusa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hohopi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"shardberg","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"shardberg","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"madamusa","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"mojompu","difficulty":2,"skills":[],"cores":[]},
            {"name":"moga","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":765,
@@ -1274,14 +1274,14 @@
            {"name":"scooptor","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"excravator","difficulty":2,"skills":[],"cores":[]},			
-		   {"name":"ghouze","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"vainok","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"excravator","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"ghouze","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"hainok","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"minetor","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"mazecter","difficulty":2,"skills":[],"cores":[]},
            {"name":"scalder","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":766,
@@ -1293,14 +1293,14 @@
            {"name":"prankrow","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"florauga","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"prankrow","difficulty":2,"skills":[],"cores":[]},			
-		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"florauga","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"prankrow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"frogick","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"quarauga","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"quarauga","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"kromicide","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"cranoad","difficulty":2,"skills":[],"cores":[]},
            {"name":"runk","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":767,
@@ -1312,15 +1312,15 @@
            {"name":"griff","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"griffgar","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"griffgar","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"singletti","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"singlette","difficulty":2,"skills":[],"cores":[]}			
+		   {"name":"singlette","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"malitress","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lioness","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"couplet","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"couplet","difficulty":2,"skills":[],"cores":[]},
            {"name":"bushnome","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":768,
@@ -1332,15 +1332,15 @@
            {"name":"ripha","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"grimmon","difficulty":2,"skills":[],"cores":[]},			
+           {"name":"fistuff","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"grimmon","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"lumbi","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}			
+		   {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"ninstuff","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"ninstuff","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"devoul","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"tiki","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"tiki","difficulty":2,"skills":[],"cores":[]},
            {"name":"grath","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":769,
@@ -1352,15 +1352,15 @@
            {"name":"kolphur","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},	 
-		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"tantrunt","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"sulphlo","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"grath","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"grath","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"moltano","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},			 	
-           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}		   
+		   {"name":"shardrillion","difficulty":2,"skills":[],"cores":[]},
+           {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
 	],
         "switch":770,
         "comment":"(11,8) -> 10"
@@ -1371,14 +1371,14 @@
            {"name":"pebglem","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"fortoise","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"fortank","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"fortank","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"boilgog","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},
            {"name":"cuisizle","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":771,
@@ -1390,14 +1390,14 @@
            {"name":"shromporo","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"shrombrela","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"wadtail","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"shrombrela","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"horget","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"horget","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"shromboff","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"mimorus","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"mimorus","difficulty":2,"skills":[],"cores":[]},
            {"name":"flizard","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":772,
@@ -1409,14 +1409,14 @@
            {"name":"chowser","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"chowser","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"rustu","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"chowser","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"rustu","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"cuisizle","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"rustung","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
            {"name":"boilgog","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":773,
@@ -1428,15 +1428,15 @@
            {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"gravello","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"sandillo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},
            {"name":"sorvian","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":774,
@@ -1448,14 +1448,14 @@
            {"name":"coral","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"coral","difficulty":2,"skills":[],"cores":[]},		  		 
-		   {"name":"pont","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"palsae","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"coral","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"pont","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"dalsae","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"grebal","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"stalagca","difficulty":2,"skills":[],"cores":[]},
            {"name":"varawirl","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":775,
@@ -1467,15 +1467,15 @@
            {"name":"sectoc","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"shloom","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"briar","difficulty":2,"skills":[],"cores":[]},	  		 
-		   {"name":"virox","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"shloom","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"minet","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"briar","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"virox","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"swamplow","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"swamplow","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"orologikus","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},			 	
+		   {"name":"chaparral","difficulty":2,"skills":[],"cores":[]},
            {"name":"bactoul","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":776,
@@ -1490,15 +1490,15 @@
            {"name":"skerdi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},		  		 
-		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"yomnom","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"aferaid","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"mimi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"glunch","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"glunch","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"dreddiful","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"moonline","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},				 	
+		   {"name":"lurkost","difficulty":2,"skills":[],"cores":[]},
            {"name":"masqat","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":777,
@@ -1510,14 +1510,14 @@
            {"name":"mearn","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},		  		 
-		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"felarnia","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blublub","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"roclas","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"yarnesty","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},				 	
+		   {"name":"globlob","difficulty":2,"skills":[],"cores":[]},
            {"name":"glidlee","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":778,
@@ -1529,15 +1529,15 @@
            {"name":"fanling","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"trebly","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"fanling","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},			  		 
-		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]}			
+           {"name":"trebly","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"fanling","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"snaiflow","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"baloompa","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"treclay","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"treclay","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"fainglori","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},				 	
+		   {"name":"snaijet","difficulty":2,"skills":[],"cores":[]},
            {"name":"blimpapa","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":779,
@@ -1549,15 +1549,15 @@
            {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"waser","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]}	
+           {"name":"waser","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"cruff","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"wargoyle","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"croncho","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},					 	
+		   {"name":"varawirl","difficulty":2,"skills":[],"cores":[]},
            {"name":"hyphoon","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":780,
@@ -1569,14 +1569,14 @@
            {"name":"porklet","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}	
+           {"name":"parchidna","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hoglet","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"holoch","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"barboraco","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]},		   				 	
+		   {"name":"blizstrong","difficulty":2,"skills":[],"cores":[]},
            {"name":"shardrine","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":781,
@@ -1588,16 +1588,16 @@
            {"name":"oren","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"orgot","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"keromb","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]}	
+           {"name":"rustu","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"orgot","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"keromb","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"imbuzi","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"rustung","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"rustung","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"oregoon","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"kerosion","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},		   				 	
+		   {"name":"kerosion","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"imburion","difficulty":2,"skills":[],"cores":[]},
            {"name":"imburion","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":782,
@@ -1609,16 +1609,16 @@
            {"name":"behilda","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"masqat","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"graciful","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}	
+           {"name":"masqat","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"graciful","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"tiliamber","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"feliblanqo","difficulty":2,"skills":[],"cores":[]},         
+           {"name":"feliblanqo","difficulty":2,"skills":[],"cores":[]},
 		   {"name":"heddeca","difficulty":2,"skills":[],"cores":[]},
-		   {"name":"floreina","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},			   				 	
+		   {"name":"floreina","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"blazetilia","difficulty":2,"skills":[],"cores":[]},
            {"name":"felclaw","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":783,
@@ -1630,15 +1630,15 @@
            {"name":"heliwurm","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-regular":[
-           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},         	
-		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},	
-		   {"name":"felclaw","difficulty":2,"skills":[],"cores":[]}	
+           {"name":"gemock","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"helipa","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrip","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"felclaw","difficulty":2,"skills":[],"cores":[]}
        ],
        "party-late":[
-           {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},         
-		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},		 
-		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},			   				 	
+           {"name":"gemaxar","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"heliventus","difficulty":2,"skills":[],"cores":[]},
+		   {"name":"hydrose","difficulty":2,"skills":[],"cores":[]},
            {"name":"reptomotor","difficulty":2,"skills":[],"cores":[]}
        ],
         "switch":784,
@@ -2936,7 +2936,7 @@
     },
 
 
-    
+
 
     "story-post-capture-vados": {
         "party":[

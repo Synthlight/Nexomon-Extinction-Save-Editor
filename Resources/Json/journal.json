@@ -1,5 +1,5 @@
 {
-    
+
     "1":{ "comment": "", "on_switches": [ ], "off_switches": [ ] },
     "2":{ "comment": "", "on_switches": [ 3 ], "off_switches": [ ] },
     "3":{ "comment": "", "on_switches": [ 5 ], "off_switches": [ ] },

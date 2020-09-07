@@ -25,7 +25,7 @@
       "item,anti-poison,5"
     ],
     "npc": [
-      
+
     ],
     "body-npc":"_fillers/generic/barbarians/8"
   },
@@ -174,7 +174,7 @@
       "item,quest-lunch,1"
     ],
     "npc": [
-      
+
     ],
     "body-npc":"_peculiar/snow/$11",
     "direction-npc": "left",
@@ -186,7 +186,7 @@
       "item,quest-ring,1"
     ],
     "npc": [
-      
+
     ],
     "body-npc":"_tamers/56"
   },
@@ -196,7 +196,7 @@
       "monster,imburion,1"
     ],
     "npc": [
-      
+
     ],
     "body-npc":"_fillers/special/274"
   },

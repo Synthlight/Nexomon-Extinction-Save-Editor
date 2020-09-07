@@ -38,7 +38,7 @@ namespace Save_Editor {
 
             for (short i = 0; i < monstersByName.Count; i++) {
                 MONSTERS_BY_ID[(short) (i + 1)]      = monstersByName.ElementAt(i).Value;
-                MONSTER_NAMES_BY_ID[(short) (i + 1)] = TEXT_INFO.ToTitleCase(monsterNames[i]);
+                MONSTER_NAMES_BY_ID[(short) (i + 1)] = TEXT_INFO.ToTitleCase(monsterNames[i]) + $" ({i + 1})";
             }
 
             var skillNames = Assets.skill_names.Split("\r\n");

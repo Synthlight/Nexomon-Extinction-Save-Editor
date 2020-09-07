@@ -52,7 +52,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.playerName}"/>
+                             Text="{Binding saveData.playerName, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="1"
                                Grid.Column="0"
@@ -64,7 +64,7 @@
                               Margin="8"
                               VerticalAlignment="Center"
                               ItemsSource="{x:Static local:Data.AVATARS}"
-                              SelectedItem="{Binding saveData.playerBody}"/>
+                              SelectedItem="{Binding saveData.playerBody, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="2"
                                Grid.Column="0"
@@ -76,7 +76,7 @@
                               Margin="8"
                               VerticalAlignment="Center"
                               ItemsSource="{x:Static local:Data.PET_AVATARS}"
-                              SelectedItem="{Binding saveData.petBody}"/>
+                              SelectedItem="{Binding saveData.petBody, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="3"
                                Grid.Column="0"
@@ -87,7 +87,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.playtimeSeconds}"/>
+                             Text="{Binding saveData.playtimeSeconds, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="4"
                                Grid.Column="0"
@@ -98,7 +98,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.mapId}"/>
+                             Text="{Binding saveData.mapId, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="5"
                                Grid.Column="0"
@@ -109,7 +109,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.playerX}"/>
+                             Text="{Binding saveData.playerX, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="6"
                                Grid.Column="0"
@@ -120,7 +120,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.playerY}"/>
+                             Text="{Binding saveData.playerY, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="7"
                                Grid.Column="0"
@@ -131,7 +131,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.checkpointMapId}"/>
+                             Text="{Binding saveData.checkpointMapId, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="8"
                                Grid.Column="0"
@@ -142,7 +142,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.checkpointX}"/>
+                             Text="{Binding saveData.checkpointX, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="9"
                                Grid.Column="0"
@@ -153,7 +153,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.checkpointY}"/>
+                             Text="{Binding saveData.checkpointY, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="10"
                                Grid.Column="0"
@@ -164,7 +164,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.volumeBGM}"/>
+                             Text="{Binding saveData.volumeBGM, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="11"
                                Grid.Column="0"
@@ -175,7 +175,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.volumeSFX}"/>
+                             Text="{Binding saveData.volumeSFX, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="12"
                                Grid.Column="0"
@@ -187,7 +187,7 @@
                               Margin="8"
                               HorizontalAlignment="Center"
                               VerticalAlignment="Center"
-                              IsChecked="{Binding saveData.autoSaveEnabled}"/>
+                              IsChecked="{Binding saveData.autoSaveEnabled, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="13"
                                Grid.Column="0"
@@ -198,7 +198,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.wallet.coins}"/>
+                             Text="{Binding saveData.wallet.coins, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="14"
                                Grid.Column="0"
@@ -209,7 +209,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.wallet.diamonds}"/>
+                             Text="{Binding saveData.wallet.diamonds, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="15"
                                Grid.Column="0"
@@ -220,7 +220,7 @@
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.wallet.tokens}"/>
+                             Text="{Binding saveData.wallet.tokens, UpdateSourceTrigger=PropertyChanged}"/>
                 </Grid>
             </TabItem>
             <TabItem>
@@ -231,14 +231,14 @@
                           CanUserAddRows="True"
                           CanUserDeleteRows="True"
                           EnableRowVirtualization="True"
-                          ItemsSource="{Binding saveData.items}">
+                          ItemsSource="{Binding saveData.items, UpdateSourceTrigger=PropertyChanged}">
                     <DataGrid.Columns>
                         <DataGridComboBoxColumn DisplayMemberPath="Value"
                                                 Header="Name"
                                                 ItemsSource="{x:Static local:Data.ITEM_NAMES_BY_ID}"
-                                                SelectedValueBinding="{Binding Id}"
+                                                SelectedValueBinding="{Binding Id, UpdateSourceTrigger=PropertyChanged}"
                                                 SelectedValuePath="Key"/>
-                        <DataGridTextColumn Binding="{Binding Quantity}"
+                        <DataGridTextColumn Binding="{Binding Quantity, UpdateSourceTrigger=PropertyChanged}"
                                             Header="Quantity"/>
                     </DataGrid.Columns>
                 </DataGrid>
