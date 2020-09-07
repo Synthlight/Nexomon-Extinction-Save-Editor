@@ -58,27 +58,57 @@ typedef struct {
     int tokens;
 } Wallet;
 
-uint saveVersion;
-ubyte size<hidden=true, optimize=false>; if (size > 0) char buildDate[size];
-ubyte size<hidden=true, optimize=false>; if (size > 0) char buildTarget[size];
-ubyte size<hidden=true, optimize=false>; if (size > 0) char buildVersion[size];
-ubyte size<hidden=true, optimize=false>; if (size > 0) char saveDateUtc[size];
-ubyte size<hidden=true, optimize=false>; if (size > 0) char playerName[size];
-ubyte size<hidden=true, optimize=false>; if (size > 0) char playerBody[size];
-int playtimeSeconds;
-ubyte size<hidden=true, optimize=false>; if (size > 0) char petBody[size];
-int mapId;
-int playerX;
-int playerY;
-FSkip(1); char playerDirection[ReadUByte(FTell() - 1)];
-int checkpointMapId;
-int checkpointX;
-int checkpointY;
-int volumeBGM;
-int volumeSFX;
-ubyte autoSaveEnabled;
-FSkip(1); char languageId[ReadUByte(FTell() - 1)];
-int size<hidden=true, optimize=false>; if (size > 0) Monster monsters[size]<optimize=false>;
-int size<hidden=true, optimize=false>; Box storageBoxes[size]<optimize=false>;
-int size<hidden=true, optimize=false>; Item items[size]<optimize=false>;
-Wallet wallet;
+typedef struct {
+    uint saveVersion;
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char buildDate[size];
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char buildTarget[size];
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char buildVersion[size];
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char saveDateUtc[size];
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char playerName[size];
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char playerBody[size];
+    int playtimeSeconds;
+    ubyte size<hidden=true, optimize=false>; if (size > 0) char petBody[size];
+    int mapId;
+    int playerX;
+    int playerY;
+    FSkip(1); char playerDirection[ReadUByte(FTell() - 1)];
+    int checkpointMapId;
+    int checkpointX;
+    int checkpointY;
+    int volumeBGM;
+    int volumeSFX;
+    ubyte autoSaveEnabled;
+    FSkip(1); char languageId[ReadUByte(FTell() - 1)];
+    int size<hidden=true, optimize=false>; if (size > 0) Monster monsters[size]<optimize=false>;
+    int size<hidden=true, optimize=false>; Box storageBoxes[size]<optimize=false>;
+    int size<hidden=true, optimize=false>; Item items[size]<optimize=false>;
+    Wallet wallet;
+} SaveData;
+
+typedef struct {
+    uint unk1;
+    uint unk2;
+    uint saveSize;
+    uint saveOffset<format=hex>;
+} Ps4SlotHeader;
+
+typedef struct {
+    string fallenStart; FSkip(1);
+    uint unk1;
+    uint unk2;
+    uint slotCount;
+    uint unk3;
+    Ps4SlotHeader ps4SlotHeader[slotCount];
+
+    local int i;
+    for (i = 0; i < slotCount; i++) {
+        FSeek(ps4SlotHeader[i].saveOffset);
+        SaveData saveData;
+    }
+} Ps4Header;
+
+if (ReadString(FTell()) == "FALLEN") {
+    Ps4Header ps4Header<open=true>;
+} else {
+    SaveData saveData<open=true>;
+}
