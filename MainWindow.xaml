@@ -42,6 +42,7 @@
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
                         <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
                     <TextBlock Grid.Row="0"
                                Grid.Column="0"
@@ -193,30 +194,42 @@
                                Grid.Column="0"
                                Margin="8"
                                VerticalAlignment="Center"
-                               Text="Coins:"/>
-                    <TextBox Grid.Row="13"
-                             Grid.Column="1"
-                             Margin="8"
-                             VerticalAlignment="Center"
-                             Text="{Binding saveData.wallet.coins, UpdateSourceTrigger=PropertyChanged}"/>
+                               Text="Language:"/>
+                    <ComboBox Grid.Row="13"
+                              Grid.Column="1"
+                              Margin="8"
+                              VerticalAlignment="Center"
+                              ItemsSource="{x:Static local:Data.LANGUAGES}"
+                              SelectedItem="{Binding saveData.languageId, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="14"
                                Grid.Column="0"
                                Margin="8"
                                VerticalAlignment="Center"
-                               Text="Diamonds:"/>
+                               Text="Coins:"/>
                     <TextBox Grid.Row="14"
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
-                             Text="{Binding saveData.wallet.diamonds, UpdateSourceTrigger=PropertyChanged}"/>
+                             Text="{Binding saveData.wallet.coins, UpdateSourceTrigger=PropertyChanged}"/>
 
                     <TextBlock Grid.Row="15"
                                Grid.Column="0"
                                Margin="8"
                                VerticalAlignment="Center"
-                               Text="Tokens:"/>
+                               Text="Diamonds:"/>
                     <TextBox Grid.Row="15"
+                             Grid.Column="1"
+                             Margin="8"
+                             VerticalAlignment="Center"
+                             Text="{Binding saveData.wallet.diamonds, UpdateSourceTrigger=PropertyChanged}"/>
+
+                    <TextBlock Grid.Row="16"
+                               Grid.Column="0"
+                               Margin="8"
+                               VerticalAlignment="Center"
+                               Text="Tokens:"/>
+                    <TextBox Grid.Row="16"
                              Grid.Column="1"
                              Margin="8"
                              VerticalAlignment="Center"
