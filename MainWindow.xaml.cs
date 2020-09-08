@@ -1,19 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Windows;
 using System.Windows.Input;
+using JetBrains.Annotations;
 using Microsoft.Win32;
 using Save_Editor.Models;
+using Save_Editor.Models.Ps4;
 using Save_Editor.Resources;
 
 namespace Save_Editor {
-    public partial class MainWindow {
-        private const string SAVE_FILE_FILTER = "Windows (DAT)|*.dat|Switch (slot-*)|slot-*";
+    public partial class MainWindow : INotifyPropertyChanged {
+        private const string SAVE_FILE_FILTER = "Windows|*.dat|Switch|slot-*|PS4|memory.dat";
 
-        public SaveData saveData { get; private set; }
-        public string   targetFile;
+        private Ps4Header                     ps4SaveData;
+        public  Visibility                    Ps4SaveVisibility => ps4SaveData == null ? Visibility.Collapsed : Visibility.Visible; // Easier than doing a not-null converter check in binding.
+        public  SlotPosition                  ps4ActiveSaveSlot { get; set; }
+        public  Dictionary<SlotPosition, int> ps4SlotPositions  { get; private set; }
+        private SaveData                      saveData;
+        public  SaveData                      SaveData => ps4SaveData != null ? ps4SaveData.saveData[ps4SlotPositions[ps4ActiveSaveSlot]] : saveData;
+        public  string                        targetFile;
 
         public MainWindow() {
             if (!LoadFile()) {
@@ -43,7 +52,25 @@ namespace Save_Editor {
 
             using var reader = new BinaryReader(File.Open(target, FileMode.Open, FileAccess.Read, FileShare.Read));
 
-            saveData = reader.ReadSaveData();
+            bool isPs4Save;
+            try {
+                isPs4Save = new string(reader.ReadChars(8)).ToLower().Contains("fallen");
+            } finally {
+                reader.BaseStream.Seek(0, SeekOrigin.Begin);
+            }
+
+            if (isPs4Save) {
+                ps4SaveData = reader.ReadPs4Header();
+
+                ps4SlotPositions = new Dictionary<SlotPosition, int>();
+                for (var i = 0; i < ps4SaveData.slotHeader.Length; i++) {
+                    ps4SlotPositions[ps4SaveData.slotHeader[i].slotPosition] = i;
+                }
+                ps4SlotPositions  = ps4SlotPositions.OrderBy(pair => pair.Key.ToString()).ToDictionary(pair => pair.Key, pair => pair.Value);
+                ps4ActiveSaveSlot = ps4SlotPositions.Keys.First();
+            } else {
+                saveData = reader.ReadSaveData();
+            }
 
             return true;
         }
@@ -54,7 +81,11 @@ namespace Save_Editor {
 
             using var writer = new BinaryWriter(File.Open(target, FileMode.Create, FileAccess.Write, FileShare.Read));
 
-            writer.Write(saveData);
+            if (ps4SaveData != null) {
+                writer.Write(ps4SaveData);
+            } else {
+                writer.Write(SaveData);
+            }
         }
 
         private string GetOpenTarget() {
@@ -91,13 +122,13 @@ namespace Save_Editor {
 
 #if DEBUG
         private void SetTo80() {
-            foreach (var item in saveData.items) {
+            foreach (var item in SaveData.items) {
                 if (item.Quantity >= 50 && item.Quantity < 80) item.Quantity = 80;
             }
         }
 
         private void SetCores() {
-            foreach (var monster in saveData.party) {
+            foreach (var monster in SaveData.party) {
                 foreach (var core in monster.cores) {
                     core.Id = ItemConst.Destruction_Core_III_;
                 }
@@ -110,7 +141,7 @@ namespace Save_Editor {
                 monster.harmony = 100;
             }
 
-            foreach (var box in saveData.storage) {
+            foreach (var box in SaveData.storage) {
                 foreach (var monster in box.slots) {
                     if (monster == null) continue;
                     monster.harmony = 100;
@@ -140,7 +171,7 @@ namespace Save_Editor {
                                      .ChunkIntoToLists(Box.SIZE)
                                      .GetEnumerator();
 
-            foreach (var box in saveData.storage) {
+            foreach (var box in SaveData.storage) {
                 int remainder;
 
                 // if we run out of monsters, we need to null the whole box.
@@ -170,10 +201,17 @@ namespace Save_Editor {
 #endif
 
         private IEnumerable<Monster> GetAllMonsters() {
-            return from box in saveData.storage
+            return from box in SaveData.storage
                    from monster in box.slots
                    where monster != null
                    select monster;
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        [NotifyPropertyChangedInvocator]
+        protected void OnPropertyChanged([CallerMemberName] string propertyName = null) {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }
