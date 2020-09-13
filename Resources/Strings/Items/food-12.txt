@@ -1,23 +1,3 @@
 Chocolate Muffin
 Chocolate Muffins
 A soft muffin filled with the sweetest chocolate you can find!
-<blank>
-<blank>
-You received a Chocolate Muffin!
-You received [amount] Chocolate Muffins!
-You found a Chocolate Muffin!
-You found [amount] Chocolate Muffins!
-Do you wish to use a Chocolate Muffin on [nickname]?
-[nickname] doesn't need a Chocolate Muffin!
-You used a Chocolate Muffin on [nickname]!
-Your opponent used a Chocolate Muffin on [nickname]!
-Chocolate Muffin has been enabled!
-Chocolate Muffin has been disabled!
-You crafted a Chocolate Muffin!
-You crafted [amount] Chocolate Muffins!
-You don't have enough shards to craft a Chocolate Muffin!
-You don't have enough shards to craft [amount] Chocolate Muffins!
-Do you want to sell a Chocolate Muffin for [coins] coins?
-Do you want to sell [amount] Chocolate Muffins for [coins] coins?
-Do you wish to buy a Chocolate Muffin for [coins] coins?
-Do you wish to buy [amount] Chocolate Muffins for [coins] coins?

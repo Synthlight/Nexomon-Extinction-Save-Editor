@@ -1,23 +1,3 @@
-Blizstrong Companion
+Blizstrong
 Blizstrongs
 A Blizstrong follower! Activate it in the profile menu.
-<blank>
-<blank>
-You received a Blizstrong Companion!
-You received [amount] Blizstrongs!
-You found a Blizstrong Companion!
-You found [amount] Blizstrongs!
-Do you wish to use a Blizstrong on [nickname]?
-[nickname] doesn't need a Blizstrong!
-You used a Blizstrong on [nickname]!
-Your opponent used a Blizstrong on [nickname]!
-Blizstrong has been enabled!
-Blizstrong has been disabled!
-You crafted a Blizstrong!
-You crafted [amount] Blizstrongs!
-You don't have enough shards to craft a Blizstrong!
-You don't have enough shards to craft [amount] Blizstrongs!
-Do you want to sell a Blizstrong for [coins] coins?
-Do you want to sell [amount] Blizstrongs for [coins] coins?
-Do you wish to buy a Blizstrong for [coins] coins?
-Do you wish to buy [amount] Blizstrongs for [coins] coins?

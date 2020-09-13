@@ -28,7 +28,7 @@ Supported platforms:
 - PS4
 
 If you have a save that breaks things, open an issue.<br>
-Should support saves up to version 21.
+Should support saves up to version 23.
 
 ### Use at your own risk, keep save backups, etc. I shouldn't need to tell you this part.
 

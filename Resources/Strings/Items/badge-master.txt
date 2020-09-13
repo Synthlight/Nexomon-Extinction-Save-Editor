@@ -1,23 +1,3 @@
 Grandmaster Badge
 Grandmaster Badges
 Only the strongest tamers in the entire world can wear this. Stand proud, [Playername]!
-<blank>
-<blank>
-You received a Grandmaster Badge!
-You received [amount] Grandmaster Badges!
-You found a Grandmaster Badge!
-You found [amount] Grandmaster Badges!
-Do you wish to use a Grandmaster Badge on [nickname]?
-[nickname] doesn't need a Grandmaster Badge!
-You used a Grandmaster Badge on [nickname]!
-Your opponent used a Grandmaster Badge on [nickname]!
-Grandmaster Badge has been enabled!
-Grandmaster Badge has been disabled!
-You crafted a Grandmaster Badge!
-You crafted [amount] Grandmaster Badges!
-You don't have enough shards to craft a Grandmaster Badge!
-You don't have enough shards to craft [amount] Grandmaster Badges!
-Do you want to sell a Grandmaster Badge for [coins] coins?
-Do you want to sell [amount] Grandmaster Badges for [coins] coins?
-Do you wish to buy a Grandmaster Badge for [coins] coins?
-Do you wish to buy [amount] Grandmaster Badges for [coins] coins?

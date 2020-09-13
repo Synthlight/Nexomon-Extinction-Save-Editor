@@ -1,23 +1,3 @@
 Bonnie's Access Card
 Bonnie's Access Cards
 Bonnie's credentials to let you enter Khan Woods, located in Parum!
-<blank>
-<blank>
-You received Bonnie's Access Card!
-You received [amount] Bonnie's Access Cards!
-You found Bonnie's Access Card!
-You found [amount] Bonnie's Access Cards!
-Do you wish to use Bonnie's Access Card on [nickname]?
-[nickname] doesn't need Bonnie's Access Card!
-You used Bonnie's Access Card on [nickname]!
-Your opponent used Bonnie's Access Card on [nickname]!
-Bonnie's Access Card has been enabled!
-Bonnie's Access Card has been disabled!
-You crafted Bonnie's Access Card!
-You crafted [amount] Bonnie's Access Cards!
-You don't have enough shards to craft Bonnie's Access Card!
-You don't have enough shards to craft [amount] Bonnie's Access Cards!
-Do you want to sell Bonnie's Access Card for [coins] coins?
-Do you want to sell [amount] Bonnie's Access Cards for [coins] coins?
-Do you wish to buy Bonnie's Access Card for [coins] coins?
-Do you wish to buy [amount] Bonnie's Access Cards for [coins] coins?

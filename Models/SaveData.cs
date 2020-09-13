@@ -7,8 +7,9 @@ using System.Linq;
 namespace Save_Editor.Models {
     public class SaveData : NotifyPropertyChangedImpl {
         public const int MIN_VERSION_WITH_AUTO_SAVE = 1;
-        public const int MIN_VERSION_WITH_COSMIC    = 15;
         public const int MIN_VERSION_WITH_HARMONY   = 12;
+        public const int MIN_VERSION_WITH_COSMIC    = 15;
+        public const int MIN_VERSION_WITH_EQUIPMENT = 23;
 
         public readonly char[]                              prefix;
         public readonly int                                 saveVersion;

@@ -1,23 +1,3 @@
 GHOST WHISTLE
 GHOST WHISTLES
 With this item, NexoTraps are [value_1]% more likely to capture Ghost-Type Nexomon. This can be stacked!
-<blank>
-<blank>
-You received a GHOST WHISTLE!
-You received [amount] GHOST WHISTLES!
-You found a GHOST WHISTLE!
-You found [amount] GHOST WHISTLES!
-Do you wish to use a GHOST WHISTLE on [nickname]?
-[nickname] doesn't need a GHOST WHISTLE!
-You used a GHOST WHISTLE on [nickname]!
-Your opponent used a GHOST WHISTLE on [nickname]!
-GHOST WHISTLE has been enabled!
-GHOST WHISTLE has been disabled!
-You crafted a GHOST WHISTLE!
-You crafted [amount] GHOST WHISTLES!
-You don't have enough shards to craft a GHOST WHISTLE!
-You don't have enough shards to craft [amount] GHOST WHISTLES!
-Do you want to sell a GHOST WHISTLE for [coins] coins?
-Do you want to sell [amount] GHOST WHISTLES for [coins] coins?
-Do you wish to buy a GHOST WHISTLE for [coins] coins?
-Do you wish to buy [amount] GHOST WHISTLES for [coins] coins?

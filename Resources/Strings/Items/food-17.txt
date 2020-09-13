@@ -1,23 +1,3 @@
 Cream Puff
 Cream Puffs
 A creamy dessert, it melts almost immediately inside your mouth.
-<blank>
-<blank>
-You received a Cream Puff!
-You received [amount] Cream Puffs!
-You found a Cream Puff!
-You found [amount] Cream Puffs!
-Do you wish to use a Cream Puff on [nickname]?
-[nickname] doesn't need a Cream Puff!
-You used a Cream Puff on [nickname]!
-Your opponent used a Cream Puff on [nickname]!
-Cream Puff has been enabled!
-Cream Puff has been disabled!
-You crafted a Cream Puff!
-You crafted [amount] Cream Puffs!
-You don't have enough shards to craft a Cream Puff!
-You don't have enough shards to craft [amount] Cream Puffs!
-Do you want to sell a Cream Puff for [coins] coins?
-Do you want to sell [amount] Cream Puffs for [coins] coins?
-Do you wish to buy a Cream Puff for [coins] coins?
-Do you wish to buy [amount] Cream Puffs for [coins] coins?

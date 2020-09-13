@@ -1,23 +1,3 @@
 Experimental Lure
 Experimental Lures
 A strange lure that attracts "extinct" Nexomon to you while exploring the wild.
-<blank>
-<blank>
-You received an Experimental Lure!
-You received [amount] Experimental Lures!
-You found an Experimental Lure!
-You found [amount] Experimental Lures!
-Do you wish to use an Experimental Lure on [nickname]?
-[nickname] doesn't need an Experimental Lure!
-You used an Experimental Lure on [nickname]!
-Your opponent used an Experimental Lure on [nickname]!
-Experimental Lure has been enabled!
-Experimental Lure has been disabled!
-You crafted an Experimental Lure!
-You crafted [amount] Experimental Lures!
-You don't have enough shards to craft an Experimental Lure!
-You don't have enough shards to craft [amount] Experimental Lures!
-Do you want to sell an Experimental Lure for [coins] coins?
-Do you want to sell [amount] Experimental Lures for [coins] coins?
-Do you wish to buy an Experimental Lure for [coins] coins?
-Do you wish to buy [amount] Experimental Lures for [coins] coins?

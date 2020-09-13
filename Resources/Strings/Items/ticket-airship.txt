@@ -1,23 +1,3 @@
 Airship Ticket
 Airship Tickets
 Use this ticket to board the Drake Isles airship.
-<blank>
-<blank>
-You received an Airship Ticket!
-You received [amount] Airship Tickets!
-You found an Airship Ticket!
-You found [amount] Airship Tickets!
-Do you wish to use an Airship Ticket on [nickname]?
-[nickname] doesn't need an Airship Ticket!
-You used an Airship Ticket on [nickname]!
-Your opponent used an Airship Ticket on [nickname]!
-Airship Ticket has been enabled!
-Airship Ticket has been disabled!
-You crafted an Airship Ticket!
-You crafted [amount] Airship Tickets!
-You don't have enough shards to craft an Airship Ticket!
-You don't have enough shards to craft [amount] Airship Tickets!
-Do you want to sell an Airship Ticket for [coins] coins?
-Do you want to sell [amount] Airship Tickets for [coins] coins?
-Do you wish to buy an Airship Ticket for [coins] coins?
-Do you wish to buy [amount] Airship Tickets for [coins] coins?

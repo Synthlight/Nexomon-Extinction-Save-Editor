@@ -1,23 +1,3 @@
-Malitress Companion
-Malitresses Companions
-A Malitress companion! Activate it in the profile menu.
-<blank>
-<blank>
-You received a Malitress Companion!
-You received [amount] Malitresses Companions!
-You found a Malitress Companion!
-You found [amount] Malitresses!
-Do you wish to use a Mailtress on [nickname]?
-[nickname] doesn't need a Mailtress!
-You used a Mailtress on [nickname]!
-Your opponent used a Mailtress on [nickname]!
-Mailtress has been enabled!
-Mailtress has been disabled!
-You crafted a Mailtress!
-You crafted [amount] Mailtresses!
-You don't have enough shards to craft a Mailtress!
-You don't have enough shards to craft [amount] Mailtresses!
-Do you want to sell a Mailtress for [coins] coins?
-Do you want to sell [amount] Mailtresses for [coins] coins?
-Do you wish to buy a Mailtress for [coins] coins?
-Do you wish to buy [amount] Mailtresses for [coins] coins?
+Mailtress
+Mailtresses
+A Mailtress follower! Activate it in the profile menu.

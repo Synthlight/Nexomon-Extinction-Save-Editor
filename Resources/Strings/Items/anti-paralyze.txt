@@ -1,23 +1,3 @@
 Anti Paralyze
 Anti Paralyzes
 Cures the "PARALYZED" status effect on a Nexomon!
-<blank>
-<blank>
-You received an Anti Paralyze!
-You received [amount] Anti Paralyzes!
-You found an Anti Paralyze!
-You found [amount] Anti Paralyzes!
-Do you wish to use an Anti Paralyze on [nickname]?
-[nickname] doesn't need an Anti Paralyze!
-You used an Anti Paralyze on [nickname]!
-Your opponent used an Anti Paralyze on [nickname]!
-Anti Paralyze has been enabled!
-Anti Paralyze has been disabled!
-You crafted an Anti Paralyze!
-You crafted [amount] Anti Paralyzes!
-You don't have enough shards to craft an Anti Paralyze!
-You don't have enough shards to craft [amount] Anti Paralyzes!
-Do you want to sell an Anti Paralyze for [coins] coins?
-Do you want to sell [amount] Anti Paralyzes for [coins] coins?
-Do you wish to buy an Anti Paralyze for [coins] coins?
-Do you wish to buy [amount] Anti Paralyzes for [coins] coins?

@@ -1,23 +1,3 @@
 Tower Key
 Tower Keys
 Atlanta says that this key can open a locked door in the Cursed Tower...
-<blank>
-<blank>
-You received the Tower Key!
-You received [amount] Tower Keys!
-You found the Tower Key!
-You found [amount] Tower Keys!
-Do you wish to use the Tower Key on [nickname]?
-[nickname] doesn't need the Tower Key!
-You used the Tower Key on [nickname]!
-Your opponent used the Tower Key on [nickname]!
-Tower Key has been enabled!
-Tower Key has been disabled!
-You crafted the Tower Key!
-You crafted [amount] Tower Keys!
-You don't have enough shards to craft the Tower Key!
-You don't have enough shards to craft [amount] Tower Keys!
-Do you want to sell the Tower Key for [coins] coins?
-Do you want to sell [amount] Tower Keys for [coins] coins?
-Do you wish to buy the Tower Key for [coins] coins?
-Do you wish to buy [amount] Tower Keys for [coins] coins?

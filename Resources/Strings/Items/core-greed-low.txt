@@ -1,23 +1,3 @@
 Greed Core (I)
 Greed Cores (I)
 Boosts the amount of coins earned in battle by [value_1]%.
-<blank>
-<blank>
-You received a Greed Core (I)!
-You received [amount] Greed Cores (I)!
-You found a Greed Core (I)!
-You found [amount] Greed Cores (I)!
-Do you wish to use a Greed Core (I) on [nickname]?
-[nickname] doesn't need a Greed Core (I)!
-You used a Greed Core (I) on [nickname]!
-Your opponent used a Greed Core (I) on [nickname]!
-Greed Core (I) has been enabled!
-Greed Core (I) has been disabled!
-You crafted a Greed Core (I)!
-You crafted [amount] Greed Cores (I)!
-You don't have enough shards to craft a Greed Core (I)!
-You don't have enough shards to craft [amount] Greed Cores (I)!
-Do you want to sell a Greed Core (I) for [coins] coins?
-Do you want to sell [amount] Greed Cores (I) for [coins] coins?
-Do you wish to buy a Greed Core (I) for [coins] coins?
-Do you wish to buy [amount] Greed Cores (I) for [coins] coins?

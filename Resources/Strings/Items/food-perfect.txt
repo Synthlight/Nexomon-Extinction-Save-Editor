@@ -1,23 +1,3 @@
 Perfect Berry
 Perfect Berries
 The ultimate meal! There is no Nexomon that can resist this!
-<blank>
-<blank>
-You received a Perfect Berry!
-You received [amount] Perfect Berries!
-You found a Perfect Berry!
-You found [amount] Perfect Berries!
-Do you wish to use a Perfect Berry on [nickname]?
-[nickname] doesn't need a Perfect Berry!
-You used a Perfect Berry on [nickname]!
-Your opponent used a Perfect Berry on [nickname]!
-Perfect Berry has been enabled!
-Perfect Berry has been disabled!
-You crafted a Perfect Berry!
-You crafted [amount] Perfect Berries!
-You don't have enough shards to craft a Perfect Berry!
-You don't have enough shards to craft [amount] Perfect Berries!
-Do you want to sell a Perfect Berry for [coins] coins?
-Do you want to sell [amount] Perfect Berries for [coins] coins?
-Do you wish to buy a Perfect Berry for [coins] coins?
-Do you wish to buy [amount] Perfect Berries for [coins] coins?

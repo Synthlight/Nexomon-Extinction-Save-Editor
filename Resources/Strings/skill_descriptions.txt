@@ -66,7 +66,7 @@ Damage caused by status effects is doubled.
 Creates an invisible shield with HP equivalent to 25% of this Nexomon's current HP for up to 3 turns.
 Deals Water-type damage with a 20% chance to inflict freeze.
 Increases chance to evade by 75% next turn.
-Reduces opponents's ATK and DEF stats by 25% for 3 turns. Has no effect on Psychic-type or Ghost-type Nexomon. 
+Reduces opponents's ATK and DEF stats by 25% for 3 turns. Has no effect on Psychic-type or Ghost-type Nexomon.
 Reduces critical hit chance of all opponent's skills by 60%.
 Increases chance to evade by 15%.
 Deals Water-type damage with a 30% chance to inflict freeze.

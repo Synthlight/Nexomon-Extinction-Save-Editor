@@ -1,23 +1,3 @@
 Vitality Core (I)
 Vitality Cores (I)
 Boosts the HP stat by [value_1]%.
-<blank>
-<blank>
-You received a Vitality Core (I)!
-You received [amount] Vitality Cores (I)!
-You found a Vitality Core (I)!
-You found [amount] Vitality Cores (I)!
-Do you wish to use a Vitality Core (I) on [nickname]?
-[nickname] doesn't need a Vitality Core (I)!
-You used a Vitality Core (I) on [nickname]!
-Your opponent used a Vitality Core (I) on [nickname]!
-Vitality Core (I) has been enabled!
-Vitality Core (I) has been disabled!
-You crafted a Vitality Core (I)!
-You crafted [amount] Vitality Cores (I)!
-You don't have enough shards to craft a Vitality Core (I)!
-You don't have enough shards to craft [amount] Vitality Cores (I)!
-Do you want to sell a Vitality Core (I) for [coins] coins?
-Do you want to sell [amount] Vitality Cores (I) for [coins] coins?
-Do you wish to buy a Vitality Core (I) for [coins] coins?
-Do you wish to buy [amount] Vitality Cores (I) for [coins] coins?

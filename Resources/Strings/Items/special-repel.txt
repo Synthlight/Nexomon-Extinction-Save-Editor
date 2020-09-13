@@ -1,23 +1,3 @@
 REPEL SPRAY
 REPEL SPRAYS
 Avoids any wild battle, including caves! You can enable or disable this item.
-<blank>
-<blank>
-You received a REPEL SPRAY!
-You received [amount] REPEL SPRAYS!
-You found a REPEL SPRAY!
-You found [amount] REPEL SPRAYS!
-Do you wish to use a REPEL SPRAY on [nickname]?
-[nickname] doesn't need a REPEL SPRAY!
-You used a REPEL SPRAY on [nickname]!
-Your opponent used a REPEL SPRAY on [nickname]!
-REPEL SPRAY has been enabled!
-REPEL SPRAY has been disabled!
-You crafted a REPEL SPRAY!
-You crafted [amount] REPEL SPRAYS!
-You don't have enough shards to craft a REPEL SPRAY!
-You don't have enough shards to craft [amount] REPEL SPRAYS!
-Do you want to sell a REPEL SPRAY for [coins] coins?
-Do you want to sell [amount] REPEL SPRAYS for [coins] coins?
-Do you wish to buy a REPEL SPRAY for [coins] coins?
-Do you wish to buy [amount] REPEL SPRAYS for [coins] coins?

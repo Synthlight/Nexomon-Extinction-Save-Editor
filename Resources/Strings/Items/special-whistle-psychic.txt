@@ -1,23 +1,3 @@
 PSYCHIC WHISTLE
 PSYCHIC WHISTLES
 With this item, NexoTraps are [value_1]% more likely to capture Psychic-Type Nexomon. This can be stacked!
-<blank>
-<blank>
-You received a PSYCHIC WHISTLE!
-You received [amount] PSYCHIC WHISTLES!
-You found a PSYCHIC WHISTLE!
-You found [amount] PSYCHIC WHISTLES!
-Do you wish to use a PSYCHIC WHISTLE on [nickname]?
-[nickname] doesn't need a PSYCHIC WHISTLE!
-You used a PSYCHIC WHISTLE on [nickname]!
-Your opponent used a PSYCHIC WHISTLE on [nickname]!
-PSYCHIC WHISTLE has been enabled!
-PSYCHIC WHISTLE has been disabled!
-You crafted a PSYCHIC WHISTLE!
-You crafted [amount] PSYCHIC WHISTLES!
-You don't have enough shards to craft a PSYCHIC WHISTLE!
-You don't have enough shards to craft [amount] PSYCHIC WHISTLES!
-Do you want to sell a PSYCHIC WHISTLE for [coins] coins?
-Do you want to sell [amount] PSYCHIC WHISTLES for [coins] coins?
-Do you wish to buy a PSYCHIC WHISTLE for [coins] coins?
-Do you wish to buy [amount] PSYCHIC WHISTLES for [coins] coins?

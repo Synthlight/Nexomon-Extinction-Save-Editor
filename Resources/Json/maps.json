@@ -2277,7 +2277,6 @@
     "autobgm": "jose/lateria",
     "head_icons": [
       { "entity": 14, "on_switches": [ 249 ], "off_switches": [ 252 ], "icon": "star" },
-      { "entity": 19, "on_switches": [ ], "off_switches": [ ], "icon": "shop", "offset_y":-12 },
       { "entity": 26, "on_switches": [ ], "off_switches": [ ], "icon": "shop", "offset_y":-12 },
       { "entity": 27, "on_switches": [ ], "off_switches": [ ], "icon": "shop", "offset_y":-12 },
       { "entity": 41, "on_switches": [ ], "off_switches": [824], "icon": "trade" }

@@ -1,23 +1,3 @@
 Anti Confusion
 Anti Confusions
 Cures the "CONFUSED" status effect on a Nexomon!
-<blank>
-<blank>
-You received an Anti Confusion!
-You received [amount] Anti Confusions!
-You found an Anti Confusion!
-You found [amount] Anti Confusions!
-Do you wish to use an Anti Confusion on [nickname]?
-[nickname] doesn't need an Anti Confusion!
-You used an Anti Confusion on [nickname]!
-Your opponent used an Anti Confusion on [nickname]!
-Anti Confusion has been enabled!
-Anti Confusion has been disabled!
-You crafted an Anti Confusion!
-You crafted [amount] Anti Confusions!
-You don't have enough shards to craft an Anti Confusion!
-You don't have enough shards to craft [amount] Anti Confusions!
-Do you want to sell an Anti Confusion for [coins] coins?
-Do you want to sell [amount] Anti Confusions for [coins] coins?
-Do you wish to buy an Anti Confusion for [coins] coins?
-Do you wish to buy [amount] Anti Confusions for [coins] coins?

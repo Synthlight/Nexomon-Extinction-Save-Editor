@@ -1,23 +1,3 @@
 Vault Key
 Vault Keys
 An ancient key that can unlock a secret treasure vault. But where?
-<blank>
-<blank>
-You received a Vault Key!
-You received [amount] Vault Keys!
-You found a Vault Key!
-You found [amount] Vault Keys!
-Do you wish to use a Vault Key on [nickname]?
-[nickname] doesn't need a Vault Key!
-You used a Vault Key on [nickname]!
-Your opponent used a Vault Key on [nickname]!
-Vault Key has been enabled!
-Vault Key has been disabled!
-You crafted a Vault Key!
-You crafted [amount] Vault Keys!
-You don't have enough shards to craft a Vault Key!
-You don't have enough shards to craft [amount] Vault Keys!
-Do you want to sell a Vault Key for [coins] coins?
-Do you want to sell [amount] Vault Keys for [coins] coins?
-Do you wish to buy a Vault Key for [coins] coins?
-Do you wish to buy [amount] Vault Keys for [coins] coins?
