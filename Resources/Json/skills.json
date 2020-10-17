@@ -1037,7 +1037,7 @@
     "target_hurt_animation": true,
     "target_hurt_animation_delay": 1.0,
     "mirror": true,
-    "execution_duration": 2.0
+    "execution_duration": 2.5
   },
 
   "50": {
@@ -1881,7 +1881,7 @@
     "user_effects": {
       "recover": {
         "chance": 100,
-        "duration": [ 3, 4 ],
+        "duration": [ 4, 6 ],
         "needs_to_hurt_target": false
       }
     },
@@ -2101,8 +2101,8 @@
   "99": {
     "target_fx": "",
     "user_fx": "fx_rock_wall",
-    "cost": 35,
-    "speed": 15,
+    "cost": 25,
+    "speed": 55,
     "element": "mineral",
     "damage_target": false,
     "damage_target_power": 0,
@@ -2198,10 +2198,10 @@
     "target_fx": "fx_tackle",
     "user_fx": "",
     "cost": 15,
-    "speed": 74,
+    "speed": 60,
     "element": "normal",
     "damage_target": true,
-    "damage_target_power": 30,
+    "damage_target_power": 50,
     "accuracy": 90,
     "critical": 20,
     "target_hurt_animation": true,
@@ -2684,7 +2684,7 @@
   "124": {
     "target_fx": "fx_seizure",
     "user_fx": "",
-    "cost": 5,
+    "cost": 10,
     "speed": 52,
     "element": "psychic",
     "damage_target": true,
@@ -3470,7 +3470,7 @@
     "speed": 71,
     "element": "normal",
     "damage_target": true,
-    "damage_target_power": 15,
+    "damage_target_power": 40,
     "accuracy": 95,
     "critical": 5,
     "target_hurt_animation": true,
@@ -3480,7 +3480,7 @@
     "user_effects": {},
     "target_effects": {
       "background160": {
-        "chance": 20,
+        "chance": 35,
         "duration": [ 1, 3 ],
         "needs_to_hurt_target": true
       }

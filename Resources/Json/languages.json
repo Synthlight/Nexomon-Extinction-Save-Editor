@@ -59,6 +59,16 @@
         }
     },
 
+    "portuguese": {
+        "strings": "portuguese",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
+
     "russian": {
         "strings": "russian",
         "fonts": {

@@ -2938,7 +2938,7 @@
 			{"name":"horget","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
 		    {"name":"rapnux","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
             {"name":"tundrox","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]},
-            {"name":"yomnom","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
+            {"name":"glunch","difficulty":2,"skills":[],"cores":["core-vitality-boss-50"]},
             {"name":"orologikus","difficulty":2,"skills":[],"cores":["core-vitality-boss-50","core-destruction-high"]}
         ],
         "switch":0,
