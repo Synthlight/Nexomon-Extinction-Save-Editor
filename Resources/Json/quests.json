@@ -1,873 +1,791 @@
 {
-
-    "1":{
-      "comment": "videll",
-      "file": "quests/1-videll",
-      "objectives": [
-        {"line": 5, "on_switches": [23], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [24], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [28], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [30], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [33], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [34], "off_switches": [], "comment": ""}
-      ],
-       "rewards": {
-        "coins": 500,
-        "food-perfect": 2,
-        "shard-fire": 3,
-        "shard-water": 3
-       },
-      "reputation": 10,
-      "body": "videll"
+    "1": {
+        "comment": "videll",
+        "file": "quests/1-videll",
+        "objectives": [
+            { "line": 5, "on_switches": [23], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [24], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [28], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [30], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [33], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [34], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 500,
+            "food-perfect": 2,
+            "shard-fire": 3,
+            "shard-water": 3
+        },
+        "reputation": 10,
+        "body": "videll"
     },
-
-    "2":{
-      "comment": "kidnappers",
-      "file": "quests/2-orphanage",
-      "objectives": [
-        {"line": 5, "on_switches": [34], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [36], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [40], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 500,
-        "nexotrap-wind": 1,
-        "nexotrap-plant": 1
-      },
-       "reputation":  10,
-      "body": "mentor"
+    "2": {
+        "comment": "kidnappers",
+        "file": "quests/2-orphanage",
+        "objectives": [
+            { "line": 5, "on_switches": [34], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [36], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [40], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 500,
+            "nexotrap-wind": 1,
+            "nexotrap-plant": 1
+        },
+        "reputation": 10,
+        "body": "mentor"
     },
-
-    "3":{
-      "comment": "ghost city",
-      "file": "quests/3-eliza-ghosts",
-      "objectives": [
-        {"line": 5, "on_switches": [47], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [55], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [56], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 400,
-        "food-16":2,
-        "food-20":2,
-        "food-29":2
-      },
-      "reputation":  10,
-      "body": "eliza"
+    "3": {
+        "comment": "ghost city",
+        "file": "quests/3-eliza-ghosts",
+        "objectives": [
+            { "line": 5, "on_switches": [47], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [55], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [56], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 400,
+            "food-16": 2,
+            "food-20": 2,
+            "food-29": 2
+        },
+        "reputation": 10,
+        "body": "eliza"
     },
-
-    "4":{
-      "comment": "lava city",
-      "file": "quests/4-tyrant-mulcimer",
-      "objectives": [
-        {"line": 5, "on_switches": [60], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [64], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [67], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [70], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [73], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [74], "off_switches": [], "comment": ""},
-        {"line": 11, "on_switches": [75], "off_switches": [], "comment": ""},
-        {"line": 12, "on_switches": [77], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 700,
-        "nexotrap-water":2,
-        "food-perfect":1,
-        "elixir-ultra":1
-      },
-      "reputation":  10,
-      "body": "amelie"
+    "4": {
+        "comment": "lava city",
+        "file": "quests/4-tyrant-mulcimer",
+        "objectives": [
+            { "line": 5, "on_switches": [60], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [64], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [67], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [70], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [73], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [74], "off_switches": [], "comment": "" },
+            { "line": 11, "on_switches": [75], "off_switches": [], "comment": "" },
+            { "line": 12, "on_switches": [77], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 700,
+            "nexotrap-water": 2,
+            "food-perfect": 1,
+            "elixir-ultra": 1
+        },
+        "reputation": 10,
+        "body": "amelie"
     },
-
-    "5":{
-      "comment": "xanders dragon",
-      "file": "quests/5-xanders-dragon",
-      "objectives": [
-        {"line": 5, "on_switches": [91], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [92], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [93], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [97], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [98], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [99], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 500,
-        "nexotrap-wind":1,
-        "nexotrap-ghost":1
-      },
-      "reputation":  10,
-      "body": "xanders"
+    "5": {
+        "comment": "xanders dragon",
+        "file": "quests/5-xanders-dragon",
+        "objectives": [
+            { "line": 5, "on_switches": [91], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [92], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [93], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [97], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [98], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [99], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 500,
+            "nexotrap-wind": 1,
+            "nexotrap-ghost": 1
+        },
+        "reputation": 10,
+        "body": "xanders"
     },
-
-    "6":{
-      "comment": "bunker",
-      "file": "quests/6-frozen-bunker",
-      "objectives": [
-        {"line": 5, "on_switches": [119], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [120], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [121], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [122], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [124], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [132], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 600,
-        "nexotrap-mineral": 2,
-        "special-discount-voucher":1
-      },
-      "reputation":  10,
-      "body": "videll"
+    "6": {
+        "comment": "bunker",
+        "file": "quests/6-frozen-bunker",
+        "objectives": [
+            { "line": 5, "on_switches": [119], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [120], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [121], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [122], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [124], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [132], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 600,
+            "nexotrap-mineral": 2,
+            "special-discount-voucher": 1
+        },
+        "reputation": 10,
+        "body": "videll"
     },
-
-    "7":{
-      "comment": "nexotower",
-      "file": "quests/7-cursed-tower",
-      "objectives": [
-        {"line": 5, "on_switches": [132], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [134], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [148], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [150], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 1000,
-        "nexotrap-golden": 1
-      },
-      "reputation":  10,
-      "body": "edward"
+    "7": {
+        "comment": "nexotower",
+        "file": "quests/7-cursed-tower",
+        "objectives": [
+            { "line": 5, "on_switches": [132], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [134], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [148], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [150], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 1000,
+            "nexotrap-golden": 1
+        },
+        "reputation": 10,
+        "body": "edward"
     },
-
-    "8":{
-      "comment": "cadium",
-      "file": "quests/8-sinking-city",
-      "objectives": [
-        {"line": 5, "on_switches": [158], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [163], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 250,
-        "food-14":3,
-        "food-18":3,
-        "food-29":3
-      },
-      "reputation":  10,
-      "body": "derek"
+    "8": {
+        "comment": "cadium",
+        "file": "quests/8-sinking-city",
+        "objectives": [
+            { "line": 5, "on_switches": [158], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [163], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 250,
+            "food-14": 3,
+            "food-18": 3,
+            "food-29": 3
+        },
+        "reputation": 10,
+        "body": "derek"
     },
-
-    "9":{
-      "comment": "lateria",
-      "file": "quests/9-desert-tyrant",
-      "objectives": [
-        {"line": 5, "on_switches": [192], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [199], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [201], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 400,
-        "food-perfect": 1,
-        "shard-plant": 3,
-        "shard-psychic": 3
-      },
-      "reputation":  10,
-      "body": "garen"
+    "9": {
+        "comment": "lateria",
+        "file": "quests/9-desert-tyrant",
+        "objectives": [
+            { "line": 5, "on_switches": [192], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [199], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [201], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 400,
+            "food-perfect": 1,
+            "shard-plant": 3,
+            "shard-psychic": 3
+        },
+        "reputation": 10,
+        "body": "garen"
     },
-
-    "10":{
-      "comment": "protect",
-      "file": "quests/10-protect-village",
-      "objectives": [
-        {"line": 5, "on_switches": [213], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [218], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 300,
-        "nexotrap-golden": 1
-      },
-      "reputation":  10,
-      "body": "shaman-ghost"
+    "10": {
+        "comment": "protect",
+        "file": "quests/10-protect-village",
+        "objectives": [
+            { "line": 5, "on_switches": [213], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [218], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 300,
+            "nexotrap-golden": 1
+        },
+        "reputation": 10,
+        "body": "shaman-ghost"
     },
-
-    "11":{
-      "comment": "WIIIIIND",
-      "file": "quests/11-revive-eurus",
-      "objectives": [
-        {"line": 5, "on_switches": [220], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [233], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [234], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "11": {
+        "comment": "WIIIIIND",
+        "file": "quests/11-revive-eurus",
+        "objectives": [
+            { "line": 5, "on_switches": [220], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [233], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [234], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "12":{
-      "comment": "FIREEEEEE",
-      "file": "quests/12-revive-mulcimer",
-      "objectives": [
-        {"line": 5, "on_switches": [220], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [221], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [222], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [224], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [228], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [229], "off_switches": [], "comment": ""},
-        {"line": 11, "on_switches": [230], "off_switches": [], "comment": ""},
-        {"line": 12, "on_switches": [231], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "jin"
+    "12": {
+        "comment": "FIREEEEEE",
+        "file": "quests/12-revive-mulcimer",
+        "objectives": [
+            { "line": 5, "on_switches": [220], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [221], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [222], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [224], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [228], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [229], "off_switches": [], "comment": "" },
+            { "line": 11, "on_switches": [230], "off_switches": [], "comment": "" },
+            { "line": 12, "on_switches": [231], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "jin"
     },
-
-    "13":{
-      "comment": "WATEEEEER",
-      "file": "quests/13-revive-nivalis",
-      "objectives": [
-        {"line": 5, "on_switches": [220], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [235], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [303], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [239], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [243], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "atlanta"
+    "13": {
+        "comment": "WATEEEEER",
+        "file": "quests/13-revive-nivalis",
+        "objectives": [
+            { "line": 5, "on_switches": [220], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [235], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [303], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [239], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [243], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "atlanta"
     },
-
-    "14":{
-      "comment": "THUNDERRRRRR",
-      "file": "quests/14-revive-bolzen",
-      "objectives": [
-        {"line": 5, "on_switches": [220], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [261], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [263], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [267], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [268], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [271], "off_switches": [], "comment": ""},
-        {"line": 11, "on_switches": [273], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "$logan"
+    "14": {
+        "comment": "THUNDERRRRRR",
+        "file": "quests/14-revive-bolzen",
+        "objectives": [
+            { "line": 5, "on_switches": [220], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [261], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [263], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [267], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [268], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [271], "off_switches": [], "comment": "" },
+            { "line": 11, "on_switches": [273], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "$logan"
     },
-
-    "15":{
-      "comment": "EARRRRTH",
-      "file": "quests/15-revive-petram",
-      "objectives": [
-        {"line": 5, "on_switches": [220], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [245], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [246], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [247], "off_switches": [], "comment": ""},
-        {"line": 9, "on_switches": [249], "off_switches": [], "comment": ""},
-        {"line": 10, "on_switches": [250, 251, 252, 253, 254, 255], "off_switches": [], "comment": ""},
-        {"line": 11, "on_switches": [258], "off_switches": [], "comment": ""},
-        {"line": 12, "on_switches": [260], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "celine"
+    "15": {
+        "comment": "EARRRRTH",
+        "file": "quests/15-revive-petram",
+        "objectives": [
+            { "line": 5, "on_switches": [220], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [245], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [246], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [247], "off_switches": [], "comment": "" },
+            { "line": 9, "on_switches": [249], "off_switches": [], "comment": "" },
+            { "line": 10, "on_switches": [250, 251, 252, 253, 254, 255], "off_switches": [], "comment": "" },
+            { "line": 11, "on_switches": [258], "off_switches": [], "comment": "" },
+            { "line": 12, "on_switches": [260], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "celine"
     },
-
-    "16":{
-      "comment": "Become Grandmaster",
-      "file": "quests/16-grandmaster",
-      "objectives": [
-        {"line": 5, "on_switches": [315], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [318], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 1000,
-        "nexotrap-golden": 1,
-        "food-perfect": 3
-      },
-      "reputation":  10,
-      "body": "admin"
+    "16": {
+        "comment": "Become Grandmaster",
+        "file": "quests/16-grandmaster",
+        "objectives": [
+            { "line": 5, "on_switches": [315], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [318], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 1000,
+            "nexotrap-golden": 1,
+            "food-perfect": 3
+        },
+        "reputation": 10,
+        "body": "admin"
     },
-
-    "17":{
-      "comment": "Destroy Vados",
-      "file": "quests/17-destroy-vados",
-      "objectives": [
-        {"line": 5, "on_switches": [320], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [332], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "amelie"
+    "17": {
+        "comment": "Destroy Vados",
+        "file": "quests/17-destroy-vados",
+        "objectives": [
+            { "line": 5, "on_switches": [320], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [332], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "amelie"
     },
-
-    "501":{
-      "comment": "liam letter",
-      "file": "sidequests/501-liam-letter",
-      "objectives": [
-        {"line": 5, "on_switches": [43], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [851], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [852], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [853], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 250,
-        "food-perfect":1,
-        "anti-poison": 2,
-        "revive": 1
-      },
-      "reputation":  10,
-      "body": "liam"
+    "501": {
+        "comment": "liam letter",
+        "file": "sidequests/501-liam-letter",
+        "objectives": [
+            { "line": 5, "on_switches": [43], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [851], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [852], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [853], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 250,
+            "food-perfect": 1,
+            "anti-poison": 2,
+            "revive": 1
+        },
+        "reputation": 10,
+        "body": "liam"
     },
-
-    "502":{
-      "comment": "alfred dream",
-      "file": "sidequests/502-alfred-dream",
-      "objectives": [
-        {"line": 5, "on_switches": [854], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [855], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [856], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 300,
-        "special-exp-booster":1,
-        "nexotrap-water":1
-      },
-      "reputation":  10,
-      "body": "alfred"
+    "502": {
+        "comment": "alfred dream",
+        "file": "sidequests/502-alfred-dream",
+        "objectives": [
+            { "line": 5, "on_switches": [854], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [855], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [856], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 300,
+            "special-exp-booster": 1,
+            "nexotrap-water": 1
+        },
+        "reputation": 10,
+        "body": "alfred"
     },
-
-    "503":{
-      "comment": "missing kid",
-      "file": "sidequests/503-missing-kid",
-      "objectives": [
-        {"line": 5, "on_switches": [857], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [858], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [859], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 400,
-        "elixir-super": 1,
-        "core-destruction-low": 1
-      },
-      "reputation":  10,
-      "body": "guard-female"
+    "503": {
+        "comment": "missing kid",
+        "file": "sidequests/503-missing-kid",
+        "objectives": [
+            { "line": 5, "on_switches": [857], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [858], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [859], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 400,
+            "elixir-super": 1,
+            "core-destruction-low": 1
+        },
+        "reputation": 10,
+        "body": "guard-female"
     },
-
-    "504":{
-      "comment": "miner in pinewoods, pickaxe trade",
-      "file": "sidequests/504-pretty-rocks",
-      "objectives": [
-        {"line": 5, "on_switches": [860], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [861], "off_switches": [], "comment": ""}
-      ],
+    "504": {
+        "comment": "miner in pinewoods, pickaxe trade",
+        "file": "sidequests/504-pretty-rocks",
+        "objectives": [
+            { "line": 5, "on_switches": [860], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [861], "off_switches": [], "comment": "" }
+        ],
         "rewards": {
             "pickaxe": 1
         },
-      "reputation":  10,
-      "body": "_fillers/generic/miners/2"
+        "reputation": 10,
+        "body": "_fillers/generic/miners/2"
     },
-
-    "505":{
-      "comment": "tree of gifts, map 321",
-      "file": "sidequests/505-tree-of-gifts",
-      "objectives": [
-        {"line": 5, "on_switches": [862], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [863], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1,
-        "nexotrap-golden": 1,
-        "core-experience-medium": 1,
-        "core-greed-medium": 1
-      },
-      "reputation":  10,
-      "body": "coco"
+    "505": {
+        "comment": "tree of gifts, map 321",
+        "file": "sidequests/505-tree-of-gifts",
+        "objectives": [
+            { "line": 5, "on_switches": [862], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [863], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1,
+            "nexotrap-golden": 1,
+            "core-experience-medium": 1,
+            "core-greed-medium": 1
+        },
+        "reputation": 10,
+        "body": "coco"
     },
-
-    "506":{
-      "comment": "anti-poison quest, map 62",
-      "file": "sidequests/506-ultimate-antidote",
-      "objectives": [
-        {"line": 5, "on_switches": [864], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [865], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [866], "off_switches": [], "comment": ""},
-        {"line": 8, "on_switches": [867], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "_fillers/generic/barbarians/8"
+    "506": {
+        "comment": "anti-poison quest, map 62",
+        "file": "sidequests/506-ultimate-antidote",
+        "objectives": [
+            { "line": 5, "on_switches": [864], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [865], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [866], "off_switches": [], "comment": "" },
+            { "line": 8, "on_switches": [867], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "_fillers/generic/barbarians/8"
     },
-
-    "507":{
-      "comment": "mayor ignitia rescue tamers quest, map 74",
-      "file": "sidequests/507-missing-tamers",
-      "objectives": [
-        {"line": 5, "on_switches": [868], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [869, 870], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [871], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 350,
-        "core-protection-low": 1,
-        "core-immunity-low": 1
-      },
-      "reputation":  10,
-      "body": "mayor"
+    "507": {
+        "comment": "mayor ignitia rescue tamers quest, map 74",
+        "file": "sidequests/507-missing-tamers",
+        "objectives": [
+            { "line": 5, "on_switches": [868], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [869, 870], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [871], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 350,
+            "core-protection-low": 1,
+            "core-immunity-low": 1
+        },
+        "reputation": 10,
+        "body": "mayor"
     },
-
-    "508":{
-      "comment": "namansi guy drake isles map 104",
-      "file": "sidequests/508-catching-namansi",
-      "objectives": [
-        {"line": 5, "on_switches": [872], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [873], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "_fillers/special/268"
+    "508": {
+        "comment": "namansi guy drake isles map 104",
+        "file": "sidequests/508-catching-namansi",
+        "objectives": [
+            { "line": 5, "on_switches": [872], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [873], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "_fillers/special/268"
     },
-
-    "509":{
-      "comment": "guild 24 guard asking to deliver supplies",
-      "file": "sidequests/509-supply-line",
-      "objectives": [
-        {"line": 5, "on_switches": [874], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [875], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 200,
-        "core-experience-medium": 1
-      },
-      "reputation":  10,
-      "body": "guard-male"
+    "509": {
+        "comment": "guild 24 guard asking to deliver supplies",
+        "file": "sidequests/509-supply-line",
+        "objectives": [
+            { "line": 5, "on_switches": [874], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [875], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 200,
+            "core-experience-medium": 1
+        },
+        "reputation": 10,
+        "body": "guard-male"
     },
-
-    "510":{
-      "comment": "cleaning Parum, map 20, near healing",
-      "file": "sidequests/510-beautiful-parum",
-      "objectives": [
-        {"line": 5, "on_switches": [876], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [877], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "_peculiar/drake/$19",
-      "cyclic": true
+    "510": {
+        "comment": "cleaning Parum, map 20, near healing",
+        "file": "sidequests/510-beautiful-parum",
+        "objectives": [
+            { "line": 5, "on_switches": [876], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [877], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "_peculiar/drake/$19",
+        "cyclic": true
     },
-
-    "511":{
-      "comment": "salem",
-      "file": "sidequests/511-salem",
-      "objectives": [
-        {"line": 5, "on_switches": [366], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [365], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "_peculiar/drake/$20"
+    "511": {
+        "comment": "salem",
+        "file": "sidequests/511-salem",
+        "objectives": [
+            { "line": 5, "on_switches": [366], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [365], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "_peculiar/drake/$20"
     },
-
-    "512":{
-      "comment": "lisa lunch map 446",
-      "file": "sidequests/512-lisa-lunch",
-      "objectives": [
-        {"line": 5, "on_switches": [881], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [882], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [883], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "_peculiar/snow/$11",
-      "direction": "left",
-      "cyclic": true
+    "512": {
+        "comment": "lisa lunch map 446",
+        "file": "sidequests/512-lisa-lunch",
+        "objectives": [
+            { "line": 5, "on_switches": [881], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [882], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [883], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "_peculiar/snow/$11",
+        "direction": "left",
+        "cyclic": true
     },
-
-    "513":{
-      "comment": "tech support ghost map 43",
-      "file": "sidequests/513-tech-support",
-      "objectives": [
-        {"line": 5, "on_switches": [884], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [885], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [886], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 350,
-        "core-vitality-low": 1,
-        "nexotrap-plant": 1
-      },
-      "reputation":  10,
-      "body": "_fillers/special/216"
+    "513": {
+        "comment": "tech support ghost map 43",
+        "file": "sidequests/513-tech-support",
+        "objectives": [
+            { "line": 5, "on_switches": [884], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [885], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [886], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 350,
+            "core-vitality-low": 1,
+            "nexotrap-plant": 1
+        },
+        "reputation": 10,
+        "body": "_fillers/special/216"
     },
-
-    "514":{
-      "comment": "lost ring map 174",
-      "file": "sidequests/514-lost-ring",
-      "objectives": [
-        {"line": 5, "on_switches": [887], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [888], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [889], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "_tamers/56"
+    "514": {
+        "comment": "lost ring map 174",
+        "file": "sidequests/514-lost-ring",
+        "objectives": [
+            { "line": 5, "on_switches": [887], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [888], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [889], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "_tamers/56"
     },
-
-
-    "515":{
-      "comment": "map 326 turn off heat",
-      "file": "sidequests/515-turning-off-heat",
-      "objectives": [
-        {"line": 5, "on_switches": [890], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [891], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 250,
-        "nexotrap-water": 2
-      },
-      "reputation":  10,
-      "body": "_fillers/special/225"
+    "515": {
+        "comment": "map 326 turn off heat",
+        "file": "sidequests/515-turning-off-heat",
+        "objectives": [
+            { "line": 5, "on_switches": [890], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [891], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 250,
+            "nexotrap-water": 2
+        },
+        "reputation": 10,
+        "body": "_fillers/special/225"
     },
-    "516":{
-      "comment": "map 152 turn up heat",
-      "file": "sidequests/516-turning-up-heat",
-      "objectives": [
-        {"line": 5, "on_switches": [892], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [893], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "_fillers/special/274"
+    "516": {
+        "comment": "map 152 turn up heat",
+        "file": "sidequests/516-turning-up-heat",
+        "objectives": [
+            { "line": 5, "on_switches": [892], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [893], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "_fillers/special/274"
     },
-
-    "517":{
-      "comment": "map 153 guild admin exorcise ghost",
-      "file": "sidequests/517-exorcism",
-      "objectives": [
-        {"line": 5, "on_switches": [894], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [895], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [896], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "key-vault": 1
-      },
-      "reputation":  10,
-      "body": "admin"
+    "517": {
+        "comment": "map 153 guild admin exorcise ghost",
+        "file": "sidequests/517-exorcism",
+        "objectives": [
+            { "line": 5, "on_switches": [894], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [895], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [896], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "key-vault": 1
+        },
+        "reputation": 10,
+        "body": "admin"
     },
-
-    "518":{
-      "comment": "map 152 guard thieves",
-      "file": "sidequests/518-thieves-of-tundra",
-      "objectives": [
-        {"line": 5, "on_switches": [897], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [898], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "coins": 700,
-        "nexotrap-regular": 3,
-        "core-vitality-low": 1
-      },
-      "reputation":  10,
-      "body": "guard-female"
+    "518": {
+        "comment": "map 152 guard thieves",
+        "file": "sidequests/518-thieves-of-tundra",
+        "objectives": [
+            { "line": 5, "on_switches": [897], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [898], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "coins": 700,
+            "nexotrap-regular": 3,
+            "core-vitality-low": 1
+        },
+        "reputation": 10,
+        "body": "guard-female"
     },
-
-    "519":{
-      "comment": "map 107 middleman",
-      "file": "sidequests/519-the-middleman",
-      "objectives": [
-        {"line": 5, "on_switches": [899], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [900], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "nexotrap-golden": 1,
-        "coins": 350,
-        "core-destruction-low": 1
-      },
-      "reputation":  10,
-      "body": "_tamers/62"
+    "519": {
+        "comment": "map 107 middleman",
+        "file": "sidequests/519-the-middleman",
+        "objectives": [
+            { "line": 5, "on_switches": [899], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [900], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "nexotrap-golden": 1,
+            "coins": 350,
+            "core-destruction-low": 1
+        },
+        "reputation": 10,
+        "body": "_tamers/62"
     },
-
-    "520":{
-      "comment": "map 458 logan blueprints",
-      "file": "sidequests/520-mad-scientist",
-      "objectives": [
-        {"line": 5, "on_switches": [370], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [371], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "$logan"
+    "520": {
+        "comment": "map 458 logan blueprints",
+        "file": "sidequests/520-mad-scientist",
+        "objectives": [
+            { "line": 5, "on_switches": [370], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [371], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "$logan"
     },
-
-    "521":{
-      "comment": "drake fire",
-      "file": "sidequests/521-post-dragon-fire",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 616], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [377], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "521": {
+        "comment": "drake fire",
+        "file": "sidequests/521-post-dragon-fire",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 616], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [377], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "522":{
-      "comment": "drake water",
-      "file": "sidequests/522-post-dragon-water",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 619], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [378], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "522": {
+        "comment": "drake water",
+        "file": "sidequests/522-post-dragon-water",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 619], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [378], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "523":{
-      "comment": "drake plant",
-      "file": "sidequests/523-post-dragon-plant",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 621], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [380], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "523": {
+        "comment": "drake plant",
+        "file": "sidequests/523-post-dragon-plant",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 621], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [380], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "524":{
-      "comment": "drake wind",
-      "file": "sidequests/524-post-dragon-wind",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 618], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [379], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "524": {
+        "comment": "drake wind",
+        "file": "sidequests/524-post-dragon-wind",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 618], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [379], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "525":{
-      "comment": "drake mineral",
-      "file": "sidequests/525-post-dragon-mineral",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 622], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [376], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "525": {
+        "comment": "drake mineral",
+        "file": "sidequests/525-post-dragon-mineral",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 622], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [376], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "526":{
-      "comment": "drake electric",
-      "file": "sidequests/526-post-dragon-electric",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 620], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [381], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "526": {
+        "comment": "drake electric",
+        "file": "sidequests/526-post-dragon-electric",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 620], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [381], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "527":{
-      "comment": "drake ghost",
-      "file": "sidequests/527-post-dragon-ghost",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 615], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [384], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "527": {
+        "comment": "drake ghost",
+        "file": "sidequests/527-post-dragon-ghost",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 615], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [384], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "528":{
-      "comment": "drake psychic",
-      "file": "sidequests/528-post-dragon-psychic",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 617], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [383], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "528": {
+        "comment": "drake psychic",
+        "file": "sidequests/528-post-dragon-psychic",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 617], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [383], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "529":{
-      "comment": "drake normal",
-      "file": "sidequests/529-post-dragon-normal",
-      "objectives": [
-        {"line": 5, "on_switches": [369], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [369, 614], "off_switches": [], "comment": ""},
-        {"line": 7, "on_switches": [382], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "lydia"
+    "529": {
+        "comment": "drake normal",
+        "file": "sidequests/529-post-dragon-normal",
+        "objectives": [
+            { "line": 5, "on_switches": [369], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [369, 614], "off_switches": [], "comment": "" },
+            { "line": 7, "on_switches": [382], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "lydia"
     },
-
-    "530":{
-      "comment": "revive fenrir",
-      "file": "sidequests/530-post-fenrir",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [387], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "fenrir"
+    "530": {
+        "comment": "revive fenrir",
+        "file": "sidequests/530-post-fenrir",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [387], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "fenrir"
     },
-
-    "531":{
-      "comment": "revive nadine",
-      "file": "sidequests/531-post-nadine",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [388], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "nadine"
+    "531": {
+        "comment": "revive nadine",
+        "file": "sidequests/531-post-nadine",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [388], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "nadine"
     },
-
-    "532":{
-      "comment": "revive merida",
-      "file": "sidequests/532-post-merida",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [391], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "merida"
+    "532": {
+        "comment": "revive merida",
+        "file": "sidequests/532-post-merida",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [391], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "merida"
     },
-
-    "533":{
-      "comment": "revive zetta",
-      "file": "sidequests/533-post-zetta",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [390], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "zetta"
+    "533": {
+        "comment": "revive zetta",
+        "file": "sidequests/533-post-zetta",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [390], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "zetta"
     },
-
-    "534":{
-      "comment": "revive mentor",
-      "file": "sidequests/534-post-mentor",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [389], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "mentor"
+    "534": {
+        "comment": "revive mentor",
+        "file": "sidequests/534-post-mentor",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [389], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "mentor"
     },
-
-    "535":{
-      "comment": "revive deena",
-      "file": "sidequests/535-post-deena",
-      "objectives": [
-        {"line": 5, "on_switches": [371], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [392], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "deena"
+    "535": {
+        "comment": "revive deena",
+        "file": "sidequests/535-post-deena",
+        "objectives": [
+            { "line": 5, "on_switches": [371], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [392], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "deena"
     },
-
-    "536":{
-      "comment": "amelie vados",
-      "file": "sidequests/536-amelie-vados",
-      "objectives": [
-        {"line": 5, "on_switches": [373], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [374], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-
-      },
-      "reputation":  10,
-      "body": "amelie"
+    "536": {
+        "comment": "amelie vados",
+        "file": "sidequests/536-amelie-vados",
+        "objectives": [
+            { "line": 5, "on_switches": [373], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [374], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+        },
+        "reputation": 10,
+        "body": "amelie"
     },
-
-    "537":{
-      "comment": "extinction clones map 469",
-      "file": "sidequests/537-extinction-project",
-      "objectives": [
-        {"line": 5, "on_switches": [901], "off_switches": [], "comment": ""},
-        {"line": 6, "on_switches": [902], "off_switches": [], "comment": ""}
-      ],
-      "rewards": {
-        "quest-lure": 1
-      },
-      "reputation":  10,
-      "body": "_fillers/extras/1/04"
+    "537": {
+        "comment": "extinction clones map 469",
+        "file": "sidequests/537-extinction-project",
+        "objectives": [
+            { "line": 5, "on_switches": [901], "off_switches": [], "comment": "" },
+            { "line": 6, "on_switches": [902], "off_switches": [], "comment": "" }
+        ],
+        "rewards": {
+            "quest-lure": 1
+        },
+        "reputation": 10,
+        "body": "_fillers/extras/1/04"
     }
-
-
 }
-

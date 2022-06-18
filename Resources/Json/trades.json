@@ -1,1116 +1,1054 @@
 {
-
-  "alfred-quest-502": {
-    "player": [
-      "item,nexotrap-regular,10"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"alfred"
-  },
-  "miner-pickaxe-quest-504": {
-    "player": [
-      "coins,200",
-      "item,potion,1",
-      "item,ether,1"
-    ],
-    "npc": [
-      "item,pickaxe,1"
-    ],
-    "body-npc":"_fillers/generic/miners/2"
-  },
-  "sick-tamer-quest-506": {
-    "player": [
-      "item,anti-poison,5"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"_fillers/generic/barbarians/8"
-  },
-  "tree-of-gifts-quest-505": {
-    "player": [
-      "monster,dreaver,1",
-      "monster,griff,1"
-    ],
-    "npc": [
-      "item,key-vault,1",
-      "item,nexotrap-golden,1",
-      "item,core-experience-medium,1",
-      "item,core-greed-medium,1"
-    ],
-    "body-npc":""
-  },
-  "ross": {
-    "player": [
-      "item,potion,3",
-      "monster,fortle,15",
-      "coins,300",
-      "diamonds,15"
-    ],
-    "npc": [
-      "item,ether,4",
-      "monster,fortle,15",
-      "diamonds,30",
-      "coins,100"
-    ],
-    "body-npc":"alfred"
-  },
-  "test": {
-    "player": [
-      "coins,300",
-      "diamonds,15"
-    ],
-    "npc": [
-      "monster,fortle,15",
-      "monster,fortle,15",
-      "monster,fortle,15",
-      "monster,fortle,15"
-    ],
-    "body-npc":"alfred"
-  },
-  "airship-tickets": {
-    "player": [
-      "coins,200"
-    ],
-    "npc": [
-      "item,ticket-airship,1"
-    ],
-    "body-npc":"_fillers/special/257"
-  },
-  "ingo-drake-isles-quest-508": {
-    "player": [
-      "monster,namansi,1"
-    ],
-    "npc": [
-      "item,key-vault,1"
-    ],
-    "body-npc":"_fillers/special/268"
-  },
-  "videll-black-nexomite": {
-    "player": [
-      "item,shard-ghost,5"
-    ],
-    "npc": [
-      "item,nexomite-black,1"
-    ],
-    "body-npc":"videll"
-  },
-  "lateria-recruit-221-13-supplies": {
-    "player": [
-      "item,potion-super,3",
-      "item,ether-super,3",
-      "item,elixir-super,1",
-      "item,revive-super,1"
-    ],
-    "npc": [
-
-    ],
-    "body-npc": "_peculiar/tamers/$26"
-  },
-  "lateria-recruit-222-14-supplies": {
-    "player": [
-      "coins,500"
-    ],
-    "npc": [
-
-    ],
-    "body-npc": "_peculiar/tamers/$24"
-  },
-  "lateria-recruit-219-26-nexotraps": {
-    "player": [
-      "item,nexotrap-regular,5",
-      "item,nexotrap-fire,2",
-      "item,nexotrap-water,2"
-    ],
-    "npc": [
-
-    ],
-    "body-npc": "_peculiar/tamers/$25"
-  },
-  "lateria-recruit-220-8-shards": {
-    "player": [
-      "item,shard-fire,3",
-      "item,shard-water,3",
-      "item,shard-wind,3",
-      "item,shard-electric,3"
-    ],
-    "npc": [
-
-    ],
-    "body-npc": "_peculiar/tamers/$11"
-  },
-  "quest-509-supplies": {
-    "player": [
-      "item,quest-supplies,1"
-    ],
-    "npc": [
-      "coins,200",
-      "item,core-experience-medium,1"
-    ],
-    "body-npc":"guard-male"
-  },
-  "quest-510-garbage": {
-    "player": [
-      "item,quest-garbage,12"
-    ],
-    "npc": [
-      "item,key-vault,1"
-    ],
-    "body-npc":"_peculiar/drake/$19"
-  },
-  "quest-512-chef-lunch": {
-    "player": [
-      "coins,150"
-    ],
-    "npc": [
-      "item,quest-lunch,1"
-    ],
-    "body-npc":"_fillers/old/beach/1"
-  },
-  "quest-512-lisa-lunch": {
-    "player": [
-      "item,quest-lunch,1"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"_peculiar/snow/$11",
-    "direction-npc": "left",
-    "cyclic-npc": true
-  },
-
-  "quest-514-lost-ring": {
-    "player": [
-      "item,quest-ring,1"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"_tamers/56"
-  },
-  "quest-516-heat": {
-    "player": [
-      "monster,glontern,1",
-      "monster,imburion,1"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"_fillers/special/274"
-  },
-  "quest-519-middleman": {
-    "player": [
-      "item,nexotrap-fire,1",
-      "item,nexotrap-water,1",
-      "item,nexotrap-wind,1",
-      "item,nexotrap-plant,1"
-    ],
-    "npc": [
-      "item,nexotrap-golden,1",
-      "coins,350",
-      "item,core-destruction-low,1"
-    ],
-    "body-npc":"_tamers/62"
-  },
-  "quest-537-extinction": {
-    "player": [
-      "coins,1000"
-    ],
-    "npc": [
-      "item,quest-lure,1"
-    ],
-    "body-npc":"_fillers/extras/1/04"
-  },
-
-
-
-  "logan-mad-scientist": {
-    "player": [
-      "item,blueprints-resurrection,1"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-fire": {
-    "player": [
-      "item,shard-fire,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-water": {
-    "player": [
-      "item,shard-water,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-wind": {
-    "player": [
-      "item,shard-wind,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-plant": {
-    "player": [
-      "item,shard-plant,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-mineral": {
-    "player": [
-      "item,shard-mineral,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "logan-electric": {
-    "player": [
-      "item,shard-electric,25"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"$logan"
-  },
-  "eliza-window": {
-    "player": [
-      "coins,500"
-    ],
-    "npc": [
-
-    ],
-    "body-npc":"eliza"
-  },
-
-
-
-
-  "npc-172-10": {
-    "player": [
-      "item,anti-freeze,5"
-    ],
-    "npc": [
-      "coins,350"
-    ],
-    "body-npc":"_peculiar/snow/$14",
-    "direction-npc": "left",
-    "cyclic-npc": true
-  },
-
-
-
-  "trader-802": {
-    "player": [
-      "item,nexotrap-regular,3"
-    ],
-    "npc": [
-      "coins,250",
-      "item,core-protection-low,1"
-    ],
-    "body-npc":"_fillers/main/094",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [29,29,7,15],
-    "auto-trader-switch": true
-  },
-
-  "trader-803": {
-    "player": [
-      "coins,300"
-    ],
-    "npc": [
-      "item,special-whistle-water,1"
-    ],
-    "body-npc":"_fillers/main/161",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [29,30,13,35],
-    "auto-trader-switch": true
-  },
-
-  "trader-804": {
-    "player": [
-      "coins,150"
-    ],
-    "npc": [
-      "item,anti-freeze,5"
-    ],
-    "body-npc":"_fillers/main/056",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [29,31,26,35],
-    "auto-trader-switch": true
-  },
-
-  "trader-805": {
-    "player": [
-      "coins,400"
-    ],
-    "npc": [
-      "item,nexotrap-electric,1",
-      "item,nexotrap-ghost,1",
-      "item,nexotrap-psychic,1"
-    ],
-    "body-npc":"_fillers/main/083",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [174,10,40,3],
-    "auto-trader-switch": true
-  },
-
-  "trader-806": {
-    "player": [
-      "item,potion,3",
-      "item,ether,3",
-      "item,revive,1"
-    ],
-    "npc": [
-      "coins,400"
-    ],
-    "body-npc":"guard-female",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [172,14,6,28],
-    "auto-trader-switch": true
-  },
-
-  "trader-807": {
-    "player": [
-      "coins,400"
-    ],
-    "npc": [
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/main/146",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [171,16,7,32],
-    "auto-trader-switch": true
-  },
-
-  "trader-808": {
-    "player": [
-      "coins,800"
-    ],
-    "npc": [
-      "item,special-whistle-plant,1",
-      "item,special-whistle-electric,1"
-    ],
-    "body-npc":"guard-male",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [170,17,16,11],
-    "auto-trader-switch": true
-  },
-
-  "trader-809": {
-    "player": [
-      "item,shard-ghost,3",
-      "item,shard-fire,3",
-      "item,shard-mineral,3",
-      "item,shard-wind,3"
-    ],
-    "npc": [
-      "item,special-whistle-ghost,1",
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/main/099",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [169,18,7,14],
-    "auto-trader-switch": true
-  },
-
-  "trader-810": {
-    "player": [
-      "item,potion-super,3",
-      "item,ether-super,3",
-      "item,elixir-super,3",
-      "item,revive-super,3"
-    ],
-    "npc": [
-      "item,special-whistle-dragon,1",
-      "item,nexotrap-golden,1"
-    ],
-    "body-npc":"_fillers/main/064",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [167,15,34,27],
-    "auto-trader-switch": true
-  },
-
-  "trader-811": {
-    "player": [
-      "item,nexotrap-regular,1",
-      "item,revive,1",
-      "coins,100"
-    ],
-    "npc": [
-      "item,nexotrap-ghost,2",
-      "item,nexotrap-psychic,2"
-    ],
-    "body-npc":"_fillers/main/092",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [15,14,4,11],
-    "auto-trader-switch": true
-  },
-
-  "trader-812": {
-    "player": [
-      "coins,200",
-      "item,shard-fire,2",
-      "item,shard-electric,2"
-    ],
-    "npc": [
-      "item,special-whistle-fire,1"
-    ],
-    "body-npc":"_fillers/main/125",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [41,11,12,6],
-    "auto-trader-switch": true
-  },
-
-  "trader-813": {
-    "player": [
-      "coins,500"
-    ],
-    "npc": [
-      "item,special-whistle-wind,1",
-      "item,special-secret-sauce,1"
-    ],
-    "body-npc":"_fillers/main/098",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [20,91,40,13],
-    "auto-trader-switch": true
-  },
-
-  "trader-814": {
-    "player": [
-      "item,shard-psychic,1",
-      "item,shard-mineral,1",
-      "item,potion,2",
-      "item,ether,2"
-    ],
-    "npc": [
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/main/067",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [20,92,38,11],
-    "auto-trader-switch": true
-  },
-
-  "trader-815": {
-    "player": [
-      "coins,250"
-    ],
-    "npc": [
-      "item,potion-max,1",
-      "item,ether-max,1",
-      "item,elixir-max,1"
-    ],
-    "body-npc":"_fillers/main/017",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [20,93,34,26],
-    "auto-trader-switch": true
-  },
-
-  "trader-816": {
-    "player": [
-      "item,shard-fire,5",
-      "item,shard-electric,5",
-      "item,shard-plant,5",
-      "item,shard-ghost,5"
-    ],
-    "npc": [
-      "item,special-whistle-psychic,1",
-      "item,special-whistle-dragon,1",
-      "item,nexotrap-golden,1",
-      "coins,400"
-    ],
-    "body-npc":"_fillers/main/063",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [207,40,12,9],
-    "auto-trader-switch": true
-  },
-
-  "trader-817": {
-    "player": [
-      "item,shard-water,2",
-      "item,shard-psychic,2",
-      "item,shard-mineral,2"
-    ],
-    "npc": [
-      "coins,300",
-      "item,special-whistle-mineral,1"
-    ],
-    "body-npc":"_fillers/main/065",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [238,25,23,8],
-    "auto-trader-switch": true
-  },
-
-  "trader-818": {
-    "player": [
-      "item,potion-max,2",
-      "item,ether-max,2"
-    ],
-    "npc": [
-      "coins,250",
-      "item,special-whistle-fire,1"
-    ],
-    "body-npc":"_fillers/main/081",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [47,50,15,5],
-    "auto-trader-switch": true
-  },
-
-  "trader-819": {
-    "player": [
-      "item,food-1,1",
-      "item,food-3,1",
-      "item,food-29,1",
-      "item,food-30,1"
-    ],
-    "npc": [
-      "item,special-whistle-ghost,1",
-      "item,nexotrap-mineral,1"
-    ],
-    "body-npc":"_fillers/main/042",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [46,52,5,17],
-    "auto-trader-switch": true
-  },
-
-  "trader-820": {
-    "player": [
-      "coins,200"
-    ],
-    "npc": [
-      "item,shard-wind,2",
-      "item,shard-ghost,2",
-      "item,shard-electric,2",
-      "item,shard-mineral,2"
-    ],
-    "body-npc":"_fillers/main/155",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [47,51,11,20],
-    "auto-trader-switch": true
-  },
-
-  "trader-821": {
-    "player": [
-      "monster,ghouze,1",
-      "monster,mimi,1"
-    ],
-    "npc": [
-      "coins,300",
-      "item,special-whistle-electric,1",
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/main/158",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [57,8,2,5],
-    "auto-trader-switch": true
-  },
-
-  "trader-822": {
-    "player": [
-      "item,nexotrap-ghost,4"
-    ],
-    "npc": [
-      "item,nexotrap-wind,1",
-      "item,nexotrap-plant,1",
-      "item,nexotrap-mineral,1",
-      "item,nexotrap-fire,1"
-    ],
-    "body-npc":"_fillers/main/153",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [56,10,17,7],
-    "auto-trader-switch": true
-  },
-
-  "trader-823": {
-    "player": [
-      "coins,250",
-      "item,shard-fire,4",
-      "item,shard-electric,3"
-    ],
-    "npc": [
-      "item,special-secret-sauce,1",
-      "item,food-perfect,3"
-    ],
-    "body-npc":"_fillers/main/147",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [58,14,17,16],
-    "auto-trader-switch": true
-  },
-
-  "trader-824": {
-    "player": [
-      "item,shard-ghost,3",
-      "item,shard-mineral,3",
-      "item,shard-water,3",
-      "item,shard-plant,3"
-    ],
-    "npc": [
-      "coins,300",
-      "item,special-exp-booster,1",
-      "item,elixir-ultra,1",
-      "item,revive-ultra,1"
-    ],
-    "body-npc":"_fillers/main/048",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [222,41,28,6],
-    "auto-trader-switch": true
-  },
-
-  "trader-825": {
-    "player": [
-      "item,shard-fire,3",
-      "item,shard-wind,3",
-      "item,shard-psychic,3",
-      "item,shard-electric,3"
-    ],
-    "npc": [
-      "coins,200",
-      "item,special-whistle-psychic,1",
-      "item,nexotrap-psychic,2"
-    ],
-    "body-npc":"_fillers/main/032",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [220,35,7,15],
-    "auto-trader-switch": true
-  },
-
-  "trader-826": {
-    "player": [
-      "item,shard-electric,3",
-      "item,shard-water,3",
-      "item,shard-ghost,3"
-    ],
-    "npc": [
-      "item,shard-fire,3",
-      "item,shard-psychic,3",
-      "item,shard-wind,3",
-      "item,special-whistle-mineral,1"
-    ],
-    "body-npc":"_fillers/main/074",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [221,34,23,14],
-    "auto-trader-switch": true
-  },
-
-  "trader-827": {
-    "player": [
-      "coins,300",
-      "item,shard-psychic,8",
-      "item,shard-electric,8",
-      "item,shard-mineral,8"
-    ],
-    "npc": [
-      "item,nexotrap-golden,1"
-    ],
-    "body-npc":"_fillers/main/144",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [221,34,23,14],
-    "auto-trader-switch": true
-  },
-
-  "trader-828": {
-    "player": [
-      "item,core-destruction-medium,1",
-      "item,core-protection-medium,1",
-      "item,core-vitality-medium,1"
-    ],
-    "npc": [
-      "coins,300",
-      "item,special-whistle-dragon,1"
-    ],
-    "body-npc":"_fillers/extras/2/20",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [220,36,15,16],
-    "auto-trader-switch": true
-  },
-
-  "trader-829": {
-    "player": [
-      "item,potion-super,4",
-      "item,ether-super,4",
-      "item,revive-super,2"
-    ],
-    "npc": [
-      "item,special-whistle-normal,1"
-    ],
-    "body-npc":"_fillers/main/091",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [220,36,15,16],
-    "auto-trader-switch": true
-  },
-
-  "trader-830": {
-    "player": [
-      "item,shard-fire,2",
-      "item,shard-wind,2",
-      "item,shard-psychic,2"
-    ],
-    "npc": [
-      "coins,300",
-      "item,special-whistle-fire,1"
-    ],
-    "body-npc":"_fillers/main/156",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [326,16,6,6],
-    "auto-trader-switch": true
-  },
-
-  "trader-831": {
-    "player": [
-      "item,potion-ultra,3",
-      "item,ether-ultra,3",
-      "item,elixir-ultra,1"
-    ],
-    "npc": [
-      "coins,250",
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/main/145",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [88,27,11,10],
-    "auto-trader-switch": true
-  },
-
-  "trader-832": {
-    "player": [
-      "item,shard-ghost,3",
-      "item,shard-water,3",
-      "item,shard-mineral,3",
-      "item,shard-electric,3"
-    ],
-    "npc": [
-      "item,nexotrap-water,2",
-      "item,nexotrap-fire,2"
-    ],
-    "body-npc":"_fillers/main/089",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [260,11,9,3],
-    "auto-trader-switch": true
-  },
-
-  "trader-833": {
-    "player": [
-      "item,core-vitality-low,1",
-      "item,core-stamina-low,1"
-    ],
-    "npc": [
-      "coins,200",
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_fillers/extras/4/38",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [74,80,14,11],
-    "auto-trader-switch": true
-  },
-
-  "trader-834": {
-    "player": [
-      "item,potion,5",
-      "item,ether,3",
-      "item,elixir,2",
-      "item,revive,1"
-    ],
-    "npc": [
-      "item,special-whistle-water,1"
-    ],
-    "body-npc":"_fillers/extras/6/59",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [74,81,28,19],
-    "auto-trader-switch": true
-  },
-
-  "trader-835": {
-    "player": [
-      "item,anti-poison,3",
-      "item,anti-freeze,3",
-      "item,anti-sleep,3"
-    ],
-    "npc": [
-      "item,special-discount-voucher,1"
-    ],
-    "body-npc":"_fillers/main/124",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [65,45,36,44],
-    "auto-trader-switch": true
-  },
-
-  "trader-836": {
-    "player": [
-      "coins,350",
-      "item,ether,4",
-      "item,ether-super,2"
-    ],
-    "npc": [
-      "item,core-stamina-medium,2"
-    ],
-    "body-npc":"_fillers/peculiar/witches/16",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [65,46,14,41],
-    "auto-trader-switch": true
-  },
-
-  "trader-837": {
-    "player": [
-      "coins,300",
-      "item,nexotrap-regular,4"
-    ],
-    "npc": [
-      "item,special-whistle-normal,1"
-    ],
-    "body-npc":"_fillers/special/204",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [268,12,14,10],
-    "auto-trader-switch": true
-  },
-
-  "trader-838": {
-    "player": [
-      "coins,350",
-      "item,shard-fire,1",
-      "item,shard-plant,1"
-    ],
-    "npc": [
-      "item,special-whistle-dragon,1"
-    ],
-    "body-npc":"_fillers/special/210",
-    "direction-npc": "down",
-    "cyclic-npc": true,
-    "location": [95,35,8,9],
-    "auto-trader-switch": true
-  },
-
-  "trader-839": {
-    "player": [
-      "coins,250"
-    ],
-    "npc": [
-      "item,food-13,2",
-      "item,food-1,2",
-      "item,food-5,2",
-      "item,food-20,2"
-    ],
-    "body-npc":"_peculiar/drake/$22",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [101,18,25,9],
-    "auto-trader-switch": true
-  },
-
-  "trader-840": {
-    "player": [
-      "item,potion-super,3",
-      "item,ether-super,3",
-      "item,revive-super,2"
-    ],
-    "npc": [
-      "item,core-experience-medium,1",
-      "item,core-immunity-medium,1"
-    ],
-    "body-npc":"_peculiar/tamers/$14",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [105,11,8,10],
-    "auto-trader-switch": true
-  },
-
-  "trader-841": {
-    "player": [
-      "item,shard-wind,3",
-      "item,shard-ghost,3",
-      "item,shard-electric,3"
-    ],
-    "npc": [
-      "item,special-discount-voucher,1",
-      "item,special-whistle-plant,1"
-    ],
-    "body-npc":"_peculiar/tamers/$15",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [109,71,20,15],
-    "auto-trader-switch": true
-  },
-
-  "trader-842": {
-    "player": [
-      "coins,300",
-      "item,shard-fire,3",
-      "item,shard-plant,3"
-    ],
-    "npc": [
-      "item,special-exp-booster,1"
-    ],
-    "body-npc":"_peculiar/tamers/$22",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [109,72,13,21],
-    "auto-trader-switch": true
-  },
-
-  "trader-843": {
-    "player": [
-      "item,core-experience-low,1",
-      "item,core-greed-low,1",
-      "item,core-vitality-low,1"
-    ],
-    "npc": [
-      "item,special-whistle-wind,1",
-      "item,food-perfect,3"
-    ],
-    "body-npc":"_peculiar/sweeping/$2",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [110,23,17,15],
-    "auto-trader-switch": true
-  },
-
-  "trader-844": {
-    "player": [
-      "item,nexotrap-regular,6",
-      "item,nexotrap-fire,3",
-      "item,nexotrap-water,3"
-    ],
-    "npc": [
-      "coins,300",
-      "item,core-immunity-medium,1",
-      "item,core-greed-medium,1"
-    ],
-    "body-npc":"_fillers/extras/2/40",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [111,32,19,21],
-    "auto-trader-switch": true
-  },
-
-  "trader-845": {
-    "player": [
-      "coins,600"
-    ],
-    "npc": [
-      "item,special-secret-sauce,1"
-    ],
-    "body-npc":"_fillers/main/033",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [275,25,22,9],
-    "auto-trader-switch": true
-  },
-
-  "trader-846": {
-    "player": [
-      "coins,450"
-    ],
-    "npc": [
-      "item,special-secret-sauce,1"
-    ],
-    "body-npc":"_peculiar/tamers/$21",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [452,10,9,6],
-    "auto-trader-switch": true
-  },
-
-  "trader-847": {
-    "player": [
-      "item,nexotrap-regular,3",
-      "item,potion,2",
-      "item,ether,1"
-    ],
-    "npc": [
-      "item,food-2,2",
-      "item,food-9,2",
-      "item,food-14,2",
-      "item,food-28,2"
-    ],
-    "body-npc":"_tamers/32",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [452,10,9,6],
-    "auto-trader-switch": true
-  },
-
-  "trader-848": {
-    "player": [
-      "monster,cruff,1"
-    ],
-    "npc": [
-      "item,nexotrap-golden,1"
-    ],
-    "body-npc":"_peculiar/tamers/$5",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [17,17,10,7],
-    "auto-trader-switch": true
-  },
-
-  "trader-849": {
-    "player": [
-      "monster,rubby,1"
-    ],
-    "npc": [
-      "coins,250"
-    ],
-    "body-npc":"_peculiar/tamers/$8",
-    "direction-npc": "down",
-    "cyclic-npc": false,
-    "location": [175,28,21,9],
-    "auto-trader-switch": true
-  }
-
-
-
-
-
+    "alfred-quest-502": {
+        "player": [
+            "item,nexotrap-regular,10"
+        ],
+        "npc": [
+        ],
+        "body-npc": "alfred"
+    },
+    "miner-pickaxe-quest-504": {
+        "player": [
+            "coins,200",
+            "item,potion,1",
+            "item,ether,1"
+        ],
+        "npc": [
+            "item,pickaxe,1"
+        ],
+        "body-npc": "_fillers/generic/miners/2"
+    },
+    "sick-tamer-quest-506": {
+        "player": [
+            "item,anti-poison,5"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_fillers/generic/barbarians/8"
+    },
+    "tree-of-gifts-quest-505": {
+        "player": [
+            "monster,dreaver,1",
+            "monster,griff,1"
+        ],
+        "npc": [
+            "item,key-vault,1",
+            "item,nexotrap-golden,1",
+            "item,core-experience-medium,1",
+            "item,core-greed-medium,1"
+        ],
+        "body-npc": ""
+    },
+    "ross": {
+        "player": [
+            "item,potion,3",
+            "monster,fortle,15",
+            "coins,300",
+            "diamonds,15"
+        ],
+        "npc": [
+            "item,ether,4",
+            "monster,fortle,15",
+            "diamonds,30",
+            "coins,100"
+        ],
+        "body-npc": "alfred"
+    },
+    "test": {
+        "player": [
+            "coins,300",
+            "diamonds,15"
+        ],
+        "npc": [
+            "monster,fortle,15",
+            "monster,fortle,15",
+            "monster,fortle,15",
+            "monster,fortle,15"
+        ],
+        "body-npc": "alfred"
+    },
+    "airship-tickets": {
+        "player": [
+            "coins,200"
+        ],
+        "npc": [
+            "item,ticket-airship,1"
+        ],
+        "body-npc": "_fillers/special/257"
+    },
+    "ingo-drake-isles-quest-508": {
+        "player": [
+            "monster,namansi,1"
+        ],
+        "npc": [
+            "item,key-vault,1"
+        ],
+        "body-npc": "_fillers/special/268"
+    },
+    "videll-black-nexomite": {
+        "player": [
+            "item,shard-ghost,5"
+        ],
+        "npc": [
+            "item,nexomite-black,1"
+        ],
+        "body-npc": "videll"
+    },
+    "lateria-recruit-221-13-supplies": {
+        "player": [
+            "item,potion-super,3",
+            "item,ether-super,3",
+            "item,elixir-super,1",
+            "item,revive-super,1"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_peculiar/tamers/$26"
+    },
+    "lateria-recruit-222-14-supplies": {
+        "player": [
+            "coins,500"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_peculiar/tamers/$24"
+    },
+    "lateria-recruit-219-26-nexotraps": {
+        "player": [
+            "item,nexotrap-regular,5",
+            "item,nexotrap-fire,2",
+            "item,nexotrap-water,2"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_peculiar/tamers/$25"
+    },
+    "lateria-recruit-220-8-shards": {
+        "player": [
+            "item,shard-fire,3",
+            "item,shard-water,3",
+            "item,shard-wind,3",
+            "item,shard-electric,3"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_peculiar/tamers/$11"
+    },
+    "quest-509-supplies": {
+        "player": [
+            "item,quest-supplies,1"
+        ],
+        "npc": [
+            "coins,200",
+            "item,core-experience-medium,1"
+        ],
+        "body-npc": "guard-male"
+    },
+    "quest-510-garbage": {
+        "player": [
+            "item,quest-garbage,12"
+        ],
+        "npc": [
+            "item,key-vault,1"
+        ],
+        "body-npc": "_peculiar/drake/$19"
+    },
+    "quest-512-chef-lunch": {
+        "player": [
+            "coins,150"
+        ],
+        "npc": [
+            "item,quest-lunch,1"
+        ],
+        "body-npc": "_fillers/old/beach/1"
+    },
+    "quest-512-lisa-lunch": {
+        "player": [
+            "item,quest-lunch,1"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_peculiar/snow/$11",
+        "direction-npc": "left",
+        "cyclic-npc": true
+    },
+    "quest-514-lost-ring": {
+        "player": [
+            "item,quest-ring,1"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_tamers/56"
+    },
+    "quest-516-heat": {
+        "player": [
+            "monster,glontern,1",
+            "monster,imburion,1"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_fillers/special/274"
+    },
+    "quest-519-middleman": {
+        "player": [
+            "item,nexotrap-fire,1",
+            "item,nexotrap-water,1",
+            "item,nexotrap-wind,1",
+            "item,nexotrap-plant,1"
+        ],
+        "npc": [
+            "item,nexotrap-golden,1",
+            "coins,350",
+            "item,core-destruction-low,1"
+        ],
+        "body-npc": "_tamers/62"
+    },
+    "quest-537-extinction": {
+        "player": [
+            "coins,1000"
+        ],
+        "npc": [
+            "item,quest-lure,1"
+        ],
+        "body-npc": "_fillers/extras/1/04"
+    },
+    "logan-mad-scientist": {
+        "player": [
+            "item,blueprints-resurrection,1"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-fire": {
+        "player": [
+            "item,shard-fire,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-water": {
+        "player": [
+            "item,shard-water,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-wind": {
+        "player": [
+            "item,shard-wind,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-plant": {
+        "player": [
+            "item,shard-plant,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-mineral": {
+        "player": [
+            "item,shard-mineral,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "logan-electric": {
+        "player": [
+            "item,shard-electric,25"
+        ],
+        "npc": [
+        ],
+        "body-npc": "$logan"
+    },
+    "eliza-window": {
+        "player": [
+            "coins,500"
+        ],
+        "npc": [
+        ],
+        "body-npc": "eliza"
+    },
+    "npc-172-10": {
+        "player": [
+            "item,anti-freeze,5"
+        ],
+        "npc": [
+            "coins,350"
+        ],
+        "body-npc": "_peculiar/snow/$14",
+        "direction-npc": "left",
+        "cyclic-npc": true
+    },
+    "trader-802": {
+        "player": [
+            "item,nexotrap-regular,3"
+        ],
+        "npc": [
+            "coins,250",
+            "item,core-protection-low,1"
+        ],
+        "body-npc": "_fillers/main/094",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [29, 29, 7, 15],
+        "auto-trader-switch": true
+    },
+    "trader-803": {
+        "player": [
+            "coins,300"
+        ],
+        "npc": [
+            "item,special-whistle-water,1"
+        ],
+        "body-npc": "_fillers/main/161",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [29, 30, 13, 35],
+        "auto-trader-switch": true
+    },
+    "trader-804": {
+        "player": [
+            "coins,150"
+        ],
+        "npc": [
+            "item,anti-freeze,5"
+        ],
+        "body-npc": "_fillers/main/056",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [29, 31, 26, 35],
+        "auto-trader-switch": true
+    },
+    "trader-805": {
+        "player": [
+            "coins,400"
+        ],
+        "npc": [
+            "item,nexotrap-electric,1",
+            "item,nexotrap-ghost,1",
+            "item,nexotrap-psychic,1"
+        ],
+        "body-npc": "_fillers/main/083",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [174, 10, 40, 3],
+        "auto-trader-switch": true
+    },
+    "trader-806": {
+        "player": [
+            "item,potion,3",
+            "item,ether,3",
+            "item,revive,1"
+        ],
+        "npc": [
+            "coins,400"
+        ],
+        "body-npc": "guard-female",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [172, 14, 6, 28],
+        "auto-trader-switch": true
+    },
+    "trader-807": {
+        "player": [
+            "coins,400"
+        ],
+        "npc": [
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/main/146",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [171, 16, 7, 32],
+        "auto-trader-switch": true
+    },
+    "trader-808": {
+        "player": [
+            "coins,800"
+        ],
+        "npc": [
+            "item,special-whistle-plant,1",
+            "item,special-whistle-electric,1"
+        ],
+        "body-npc": "guard-male",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [170, 17, 16, 11],
+        "auto-trader-switch": true
+    },
+    "trader-809": {
+        "player": [
+            "item,shard-ghost,3",
+            "item,shard-fire,3",
+            "item,shard-mineral,3",
+            "item,shard-wind,3"
+        ],
+        "npc": [
+            "item,special-whistle-ghost,1",
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/main/099",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [169, 18, 7, 14],
+        "auto-trader-switch": true
+    },
+    "trader-810": {
+        "player": [
+            "item,potion-super,3",
+            "item,ether-super,3",
+            "item,elixir-super,3",
+            "item,revive-super,3"
+        ],
+        "npc": [
+            "item,special-whistle-dragon,1",
+            "item,nexotrap-golden,1"
+        ],
+        "body-npc": "_fillers/main/064",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [167, 15, 34, 27],
+        "auto-trader-switch": true
+    },
+    "trader-811": {
+        "player": [
+            "item,nexotrap-regular,1",
+            "item,revive,1",
+            "coins,100"
+        ],
+        "npc": [
+            "item,nexotrap-ghost,2",
+            "item,nexotrap-psychic,2"
+        ],
+        "body-npc": "_fillers/main/092",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [15, 14, 4, 11],
+        "auto-trader-switch": true
+    },
+    "trader-812": {
+        "player": [
+            "coins,200",
+            "item,shard-fire,2",
+            "item,shard-electric,2"
+        ],
+        "npc": [
+            "item,special-whistle-fire,1"
+        ],
+        "body-npc": "_fillers/main/125",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [41, 11, 12, 6],
+        "auto-trader-switch": true
+    },
+    "trader-813": {
+        "player": [
+            "coins,500"
+        ],
+        "npc": [
+            "item,special-whistle-wind,1",
+            "item,special-secret-sauce,1"
+        ],
+        "body-npc": "_fillers/main/098",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [20, 91, 40, 13],
+        "auto-trader-switch": true
+    },
+    "trader-814": {
+        "player": [
+            "item,shard-psychic,1",
+            "item,shard-mineral,1",
+            "item,potion,2",
+            "item,ether,2"
+        ],
+        "npc": [
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/main/067",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [20, 92, 38, 11],
+        "auto-trader-switch": true
+    },
+    "trader-815": {
+        "player": [
+            "coins,250"
+        ],
+        "npc": [
+            "item,potion-max,1",
+            "item,ether-max,1",
+            "item,elixir-max,1"
+        ],
+        "body-npc": "_fillers/main/017",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [20, 93, 34, 26],
+        "auto-trader-switch": true
+    },
+    "trader-816": {
+        "player": [
+            "item,shard-fire,5",
+            "item,shard-electric,5",
+            "item,shard-plant,5",
+            "item,shard-ghost,5"
+        ],
+        "npc": [
+            "item,special-whistle-psychic,1",
+            "item,special-whistle-dragon,1",
+            "item,nexotrap-golden,1",
+            "coins,400"
+        ],
+        "body-npc": "_fillers/main/063",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [207, 40, 12, 9],
+        "auto-trader-switch": true
+    },
+    "trader-817": {
+        "player": [
+            "item,shard-water,2",
+            "item,shard-psychic,2",
+            "item,shard-mineral,2"
+        ],
+        "npc": [
+            "coins,300",
+            "item,special-whistle-mineral,1"
+        ],
+        "body-npc": "_fillers/main/065",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [238, 25, 23, 8],
+        "auto-trader-switch": true
+    },
+    "trader-818": {
+        "player": [
+            "item,potion-max,2",
+            "item,ether-max,2"
+        ],
+        "npc": [
+            "coins,250",
+            "item,special-whistle-fire,1"
+        ],
+        "body-npc": "_fillers/main/081",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [47, 50, 15, 5],
+        "auto-trader-switch": true
+    },
+    "trader-819": {
+        "player": [
+            "item,food-1,1",
+            "item,food-3,1",
+            "item,food-29,1",
+            "item,food-30,1"
+        ],
+        "npc": [
+            "item,special-whistle-ghost,1",
+            "item,nexotrap-mineral,1"
+        ],
+        "body-npc": "_fillers/main/042",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [46, 52, 5, 17],
+        "auto-trader-switch": true
+    },
+    "trader-820": {
+        "player": [
+            "coins,200"
+        ],
+        "npc": [
+            "item,shard-wind,2",
+            "item,shard-ghost,2",
+            "item,shard-electric,2",
+            "item,shard-mineral,2"
+        ],
+        "body-npc": "_fillers/main/155",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [47, 51, 11, 20],
+        "auto-trader-switch": true
+    },
+    "trader-821": {
+        "player": [
+            "monster,ghouze,1",
+            "monster,mimi,1"
+        ],
+        "npc": [
+            "coins,300",
+            "item,special-whistle-electric,1",
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/main/158",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [57, 8, 2, 5],
+        "auto-trader-switch": true
+    },
+    "trader-822": {
+        "player": [
+            "item,nexotrap-ghost,4"
+        ],
+        "npc": [
+            "item,nexotrap-wind,1",
+            "item,nexotrap-plant,1",
+            "item,nexotrap-mineral,1",
+            "item,nexotrap-fire,1"
+        ],
+        "body-npc": "_fillers/main/153",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [56, 10, 17, 7],
+        "auto-trader-switch": true
+    },
+    "trader-823": {
+        "player": [
+            "coins,250",
+            "item,shard-fire,4",
+            "item,shard-electric,3"
+        ],
+        "npc": [
+            "item,special-secret-sauce,1",
+            "item,food-perfect,3"
+        ],
+        "body-npc": "_fillers/main/147",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [58, 14, 17, 16],
+        "auto-trader-switch": true
+    },
+    "trader-824": {
+        "player": [
+            "item,shard-ghost,3",
+            "item,shard-mineral,3",
+            "item,shard-water,3",
+            "item,shard-plant,3"
+        ],
+        "npc": [
+            "coins,300",
+            "item,special-exp-booster,1",
+            "item,elixir-ultra,1",
+            "item,revive-ultra,1"
+        ],
+        "body-npc": "_fillers/main/048",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [222, 41, 28, 6],
+        "auto-trader-switch": true
+    },
+    "trader-825": {
+        "player": [
+            "item,shard-fire,3",
+            "item,shard-wind,3",
+            "item,shard-psychic,3",
+            "item,shard-electric,3"
+        ],
+        "npc": [
+            "coins,200",
+            "item,special-whistle-psychic,1",
+            "item,nexotrap-psychic,2"
+        ],
+        "body-npc": "_fillers/main/032",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [220, 35, 7, 15],
+        "auto-trader-switch": true
+    },
+    "trader-826": {
+        "player": [
+            "item,shard-electric,3",
+            "item,shard-water,3",
+            "item,shard-ghost,3"
+        ],
+        "npc": [
+            "item,shard-fire,3",
+            "item,shard-psychic,3",
+            "item,shard-wind,3",
+            "item,special-whistle-mineral,1"
+        ],
+        "body-npc": "_fillers/main/074",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [221, 34, 23, 14],
+        "auto-trader-switch": true
+    },
+    "trader-827": {
+        "player": [
+            "coins,300",
+            "item,shard-psychic,8",
+            "item,shard-electric,8",
+            "item,shard-mineral,8"
+        ],
+        "npc": [
+            "item,nexotrap-golden,1"
+        ],
+        "body-npc": "_fillers/main/144",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [221, 34, 23, 14],
+        "auto-trader-switch": true
+    },
+    "trader-828": {
+        "player": [
+            "item,core-destruction-medium,1",
+            "item,core-protection-medium,1",
+            "item,core-vitality-medium,1"
+        ],
+        "npc": [
+            "coins,300",
+            "item,special-whistle-dragon,1"
+        ],
+        "body-npc": "_fillers/extras/2/20",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [220, 36, 15, 16],
+        "auto-trader-switch": true
+    },
+    "trader-829": {
+        "player": [
+            "item,potion-super,4",
+            "item,ether-super,4",
+            "item,revive-super,2"
+        ],
+        "npc": [
+            "item,special-whistle-normal,1"
+        ],
+        "body-npc": "_fillers/main/091",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [220, 36, 15, 16],
+        "auto-trader-switch": true
+    },
+    "trader-830": {
+        "player": [
+            "item,shard-fire,2",
+            "item,shard-wind,2",
+            "item,shard-psychic,2"
+        ],
+        "npc": [
+            "coins,300",
+            "item,special-whistle-fire,1"
+        ],
+        "body-npc": "_fillers/main/156",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [326, 16, 6, 6],
+        "auto-trader-switch": true
+    },
+    "trader-831": {
+        "player": [
+            "item,potion-ultra,3",
+            "item,ether-ultra,3",
+            "item,elixir-ultra,1"
+        ],
+        "npc": [
+            "coins,250",
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/main/145",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [88, 27, 11, 10],
+        "auto-trader-switch": true
+    },
+    "trader-832": {
+        "player": [
+            "item,shard-ghost,3",
+            "item,shard-water,3",
+            "item,shard-mineral,3",
+            "item,shard-electric,3"
+        ],
+        "npc": [
+            "item,nexotrap-water,2",
+            "item,nexotrap-fire,2"
+        ],
+        "body-npc": "_fillers/main/089",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [260, 11, 9, 3],
+        "auto-trader-switch": true
+    },
+    "trader-833": {
+        "player": [
+            "item,core-vitality-low,1",
+            "item,core-stamina-low,1"
+        ],
+        "npc": [
+            "coins,200",
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_fillers/extras/4/38",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [74, 80, 14, 11],
+        "auto-trader-switch": true
+    },
+    "trader-834": {
+        "player": [
+            "item,potion,5",
+            "item,ether,3",
+            "item,elixir,2",
+            "item,revive,1"
+        ],
+        "npc": [
+            "item,special-whistle-water,1"
+        ],
+        "body-npc": "_fillers/extras/6/59",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [74, 81, 28, 19],
+        "auto-trader-switch": true
+    },
+    "trader-835": {
+        "player": [
+            "item,anti-poison,3",
+            "item,anti-freeze,3",
+            "item,anti-sleep,3"
+        ],
+        "npc": [
+            "item,special-discount-voucher,1"
+        ],
+        "body-npc": "_fillers/main/124",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [65, 45, 36, 44],
+        "auto-trader-switch": true
+    },
+    "trader-836": {
+        "player": [
+            "coins,350",
+            "item,ether,4",
+            "item,ether-super,2"
+        ],
+        "npc": [
+            "item,core-stamina-medium,2"
+        ],
+        "body-npc": "_fillers/peculiar/witches/16",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [65, 46, 14, 41],
+        "auto-trader-switch": true
+    },
+    "trader-837": {
+        "player": [
+            "coins,300",
+            "item,nexotrap-regular,4"
+        ],
+        "npc": [
+            "item,special-whistle-normal,1"
+        ],
+        "body-npc": "_fillers/special/204",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [268, 12, 14, 10],
+        "auto-trader-switch": true
+    },
+    "trader-838": {
+        "player": [
+            "coins,350",
+            "item,shard-fire,1",
+            "item,shard-plant,1"
+        ],
+        "npc": [
+            "item,special-whistle-dragon,1"
+        ],
+        "body-npc": "_fillers/special/210",
+        "direction-npc": "down",
+        "cyclic-npc": true,
+        "location": [95, 35, 8, 9],
+        "auto-trader-switch": true
+    },
+    "trader-839": {
+        "player": [
+            "coins,250"
+        ],
+        "npc": [
+            "item,food-13,2",
+            "item,food-1,2",
+            "item,food-5,2",
+            "item,food-20,2"
+        ],
+        "body-npc": "_peculiar/drake/$22",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [101, 18, 25, 9],
+        "auto-trader-switch": true
+    },
+    "trader-840": {
+        "player": [
+            "item,potion-super,3",
+            "item,ether-super,3",
+            "item,revive-super,2"
+        ],
+        "npc": [
+            "item,core-experience-medium,1",
+            "item,core-immunity-medium,1"
+        ],
+        "body-npc": "_peculiar/tamers/$14",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [105, 11, 8, 10],
+        "auto-trader-switch": true
+    },
+    "trader-841": {
+        "player": [
+            "item,shard-wind,3",
+            "item,shard-ghost,3",
+            "item,shard-electric,3"
+        ],
+        "npc": [
+            "item,special-discount-voucher,1",
+            "item,special-whistle-plant,1"
+        ],
+        "body-npc": "_peculiar/tamers/$15",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [109, 71, 20, 15],
+        "auto-trader-switch": true
+    },
+    "trader-842": {
+        "player": [
+            "coins,300",
+            "item,shard-fire,3",
+            "item,shard-plant,3"
+        ],
+        "npc": [
+            "item,special-exp-booster,1"
+        ],
+        "body-npc": "_peculiar/tamers/$22",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [109, 72, 13, 21],
+        "auto-trader-switch": true
+    },
+    "trader-843": {
+        "player": [
+            "item,core-experience-low,1",
+            "item,core-greed-low,1",
+            "item,core-vitality-low,1"
+        ],
+        "npc": [
+            "item,special-whistle-wind,1",
+            "item,food-perfect,3"
+        ],
+        "body-npc": "_peculiar/sweeping/$2",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [110, 23, 17, 15],
+        "auto-trader-switch": true
+    },
+    "trader-844": {
+        "player": [
+            "item,nexotrap-regular,6",
+            "item,nexotrap-fire,3",
+            "item,nexotrap-water,3"
+        ],
+        "npc": [
+            "coins,300",
+            "item,core-immunity-medium,1",
+            "item,core-greed-medium,1"
+        ],
+        "body-npc": "_fillers/extras/2/40",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [111, 32, 19, 21],
+        "auto-trader-switch": true
+    },
+    "trader-845": {
+        "player": [
+            "coins,600"
+        ],
+        "npc": [
+            "item,special-secret-sauce,1"
+        ],
+        "body-npc": "_fillers/main/033",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [275, 25, 22, 9],
+        "auto-trader-switch": true
+    },
+    "trader-846": {
+        "player": [
+            "coins,450"
+        ],
+        "npc": [
+            "item,special-secret-sauce,1"
+        ],
+        "body-npc": "_peculiar/tamers/$21",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [452, 10, 9, 6],
+        "auto-trader-switch": true
+    },
+    "trader-847": {
+        "player": [
+            "item,nexotrap-regular,3",
+            "item,potion,2",
+            "item,ether,1"
+        ],
+        "npc": [
+            "item,food-2,2",
+            "item,food-9,2",
+            "item,food-14,2",
+            "item,food-28,2"
+        ],
+        "body-npc": "_tamers/32",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [452, 10, 9, 6],
+        "auto-trader-switch": true
+    },
+    "trader-848": {
+        "player": [
+            "monster,cruff,1"
+        ],
+        "npc": [
+            "item,nexotrap-golden,1"
+        ],
+        "body-npc": "_peculiar/tamers/$5",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [17, 17, 10, 7],
+        "auto-trader-switch": true
+    },
+    "trader-849": {
+        "player": [
+            "monster,rubby,1"
+        ],
+        "npc": [
+            "coins,250"
+        ],
+        "body-npc": "_peculiar/tamers/$8",
+        "direction-npc": "down",
+        "cyclic-npc": false,
+        "location": [175, 28, 21, 9],
+        "auto-trader-switch": true
+    },
+    "abyssal-helovolk-cook-1": {
+        "player": [
+            "item,food-30,10",
+            "item,food-20,5",
+            "item,food-22,5",
+            "item,food-25,5"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_remakes/$2"
+    },
+    "abyssal-helovolk-cook-2": {
+        "player": [
+            "item,food-abyssal,6"
+        ],
+        "npc": [
+        ],
+        "body-npc": "_remakes/$2"
+    }
 }

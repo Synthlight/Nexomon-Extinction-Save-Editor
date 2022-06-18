@@ -1,30 +1,28 @@
 {
-  "primary-effects": {
-    "burn": {
-      "damage_percentage": 10
+    "primary-effects": {
+        "burn": {
+            "damage_percentage": 10
+        },
+        "sleep": {
+            "damage_percentage": 10
+        },
+        "paralyze": {
+            "damage_percentage": 10
+        },
+        "freeze": {
+            "damage_percentage": 10
+        },
+        "poison": {
+            "damage_percentage": 10
+        },
+        "demotivated": {
+            "damage_percentage": 10
+        }
     },
-    "sleep": {
-      "damage_percentage": 10
+    "secondary-effects": {
+        "hex": {
+        }
     },
-    "paralyze": {
-      "damage_percentage": 10
-    },
-    "freeze": {
-      "damage_percentage": 10
-    },
-    "poison": {
-      "damage_percentage": 10
-    },
-    "demotivated": {
-      "damage_percentage": 10
+    "background-effects": {
     }
-  },
-  "secondary-effects": {
-    "hex": {
-
-    }
-  },
-  "background-effects": {
-
-  }
 }

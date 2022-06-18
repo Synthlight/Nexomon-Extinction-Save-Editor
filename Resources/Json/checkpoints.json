@@ -1,492 +1,545 @@
 {
-
     "1": [
         {
             "override_map_target": 0,
-            "coords":[10,6],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"bedroom"
+            "coords": [10, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "bedroom"
         }
     ],
-
     "5": [
         {
-            "coords":[6,11],
-            "on_switches":[16],
-            "off_switches":[17],
-            "comments":"outside orphanage"
+            "coords": [6, 11],
+            "on_switches": [16],
+            "off_switches": [17],
+            "comments": "outside orphanage"
         },
         {
-            "coords":[6,11],
-            "on_switches":[],
-            "off_switches":[3],
-            "comments":"outside orphanage"
+            "coords": [6, 11],
+            "on_switches": [],
+            "off_switches": [3],
+            "comments": "outside orphanage"
         },
         {
-            "coords":[18,10],
-            "on_switches":[3],
-            "off_switches":[],
-            "comments":"outside orphanage"
+            "coords": [18, 10],
+            "on_switches": [3],
+            "off_switches": [],
+            "comments": "outside orphanage"
         }
     ],
-
     "6": [
         {
             "override_map_target": 0,
-            "coords":[10,6],
-            "on_switches":[],
-            "off_switches":[6],
-            "comments":"crossroads"
+            "coords": [10, 6],
+            "on_switches": [],
+            "off_switches": [6],
+            "comments": "crossroads"
         },
         {
             "override_map_target": 5,
-            "coords":[6,11],
-            "on_switches":[6],
-            "off_switches":[],
-            "comments":"crossroads"
+            "coords": [6, 11],
+            "on_switches": [6],
+            "off_switches": [],
+            "comments": "crossroads"
         }
     ],
-
     "11": [
         {
-            "coords":[10,13],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"hero tomb"
+            "coords": [10, 13],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "hero tomb"
         }
     ],
-
     "12": [
         {
-            "coords":[10,4],
-            "on_switches":[],
-            "off_switches":[12],
-            "comments":"hero tomb"
+            "coords": [10, 4],
+            "on_switches": [],
+            "off_switches": [12],
+            "comments": "hero tomb"
         }
     ],
-
     "16": [
         {
-            "coords":[4,10],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"darkwoods entrance"
+            "coords": [4, 10],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "darkwoods entrance"
         }
     ],
-
     "18": [
         {
-            "coords":[5,6],
-            "on_switches":[],
-            "off_switches":[19],
-            "comments":"parum bridge BEFORE AMELIE"
+            "coords": [5, 6],
+            "on_switches": [],
+            "off_switches": [19],
+            "comments": "parum bridge BEFORE AMELIE"
         },
         {
-            "coords":[13,10],
-            "on_switches":[19],
-            "off_switches":[],
-            "comments":"parum bridge AFTER AMELIE"
+            "coords": [13, 10],
+            "on_switches": [19],
+            "off_switches": [],
+            "comments": "parum bridge AFTER AMELIE"
         }
     ],
-
     "19": [
         {
-            "coords":[10,17],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"parum entrance"
+            "coords": [10, 17],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "parum entrance"
         }
     ],
-
     "20": [
         {
-            "coords":[24,28],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"parum"
+            "coords": [24, 28],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "parum"
         }
     ],
-
     "26": [
         {
-            "coords":[5,4],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"guild to upper levels"
+            "coords": [5, 4],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "guild to upper levels"
         }
     ],
-
     "29": [
         {
-            "coords":[2,26],
-            "on_switches":[23, 24],
-            "off_switches":[26],
-            "comments":"outlands camp when following VIDELL"
+            "coords": [2, 26],
+            "on_switches": [23, 24],
+            "off_switches": [26],
+            "comments": "outlands camp when following VIDELL"
         },
         {
-            "coords":[8,33],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"outlands camp"
+            "coords": [8, 33],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "outlands camp"
         }
     ],
-
     "46": [
         {
-            "coords":[10,12],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"immortal citadel"
+            "coords": [10, 12],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "immortal citadel"
         }
     ],
-
     "59": [
         {
-            "coords":[11,8],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"darkwoods camp"
+            "coords": [11, 8],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "darkwoods camp"
         }
     ],
-
     "65": [
         {
-            "coords":[25,43],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"grunda chasm"
+            "coords": [25, 43],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "grunda chasm"
         }
     ],
-
     "68": [
         {
-            "coords":[10,4],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"entrance ignitia elevator"
+            "coords": [10, 4],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "entrance ignitia elevator"
         }
     ],
-
     "74": [
         {
-            "coords":[34,24],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"ignitia in front of healing centre"
+            "coords": [34, 24],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "ignitia in front of healing centre"
         }
     ],
-
     "82": [
         {
-            "coords":[4,9],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"ignitia southern area"
+            "coords": [4, 9],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "ignitia southern area"
         }
     ],
-
     "87": [
         {
-            "coords":[7,13],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"ignitia fenrir tomb"
+            "coords": [7, 13],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "ignitia fenrir tomb"
         }
     ],
-
     "101": [
         {
-            "coords":[15,16],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"drake isles port"
+            "coords": [15, 16],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "drake isles port"
         }
     ],
-
     "109": [
         {
-            "coords":[6,6],
-            "on_switches":[],
-            "off_switches":[87],
-            "comments":"lydia village BEFORE ACCESS"
+            "coords": [6, 6],
+            "on_switches": [],
+            "off_switches": [87],
+            "comments": "lydia village BEFORE ACCESS"
         },
         {
-            "coords":[8,14],
-            "on_switches":[87],
-            "off_switches":[],
-            "comments":"lydia village AFTER ACCESS in front of healing centre"
+            "coords": [8, 14],
+            "on_switches": [87],
+            "off_switches": [],
+            "comments": "lydia village AFTER ACCESS in front of healing centre"
         }
     ],
-
     "132": [
         {
-            "coords":[10,6],
-            "on_switches":[133],
-            "off_switches":[],
-            "comments":"nexolord tower only AFTER getting the raid quest"
+            "coords": [10, 6],
+            "on_switches": [133],
+            "off_switches": [],
+            "comments": "nexolord tower only AFTER getting the raid quest"
         }
     ],
-
     "152": [
         {
-            "coords":[35,14],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"frozen tundra city in front of healing centre"
+            "coords": [35, 14],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "frozen tundra city in front of healing centre"
         }
     ],
-
     "153": [
         {
-            "coords":[36,20],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"frozen tundra guild bedroom"
+            "coords": [36, 20],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "frozen tundra guild bedroom"
         }
     ],
-
     "156": [
         {
-            "coords":[15,7],
-            "on_switches":[119],
-            "off_switches":[],
-            "comments":"outside bomb maker hut AFTER getting Videll quest"
+            "coords": [15, 7],
+            "on_switches": [119],
+            "off_switches": [],
+            "comments": "outside bomb maker hut AFTER getting Videll quest"
         }
     ],
-
     "161": [
         {
-            "coords":[9,5],
-            "on_switches":[123],
-            "off_switches":[],
-            "comments":"outside bunker AFTER destroying the gates"
+            "coords": [9, 5],
+            "on_switches": [123],
+            "off_switches": [],
+            "comments": "outside bunker AFTER destroying the gates"
         }
     ],
-
     "179": [
         {
-            "coords":[8,7],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Cadium first sub"
+            "coords": [8, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Cadium first sub"
         }
     ],
-
     "180": [
         {
-            "coords":[11,22],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Cadium city"
+            "coords": [11, 22],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Cadium city"
         }
     ],
-
     "191": [
         {
-            "coords":[10,10],
-            "on_switches":[167],
-            "off_switches":[],
-            "comments":"Cadium outside Amelie lab AFTER opening it"
+            "coords": [10, 10],
+            "on_switches": [167],
+            "off_switches": [],
+            "comments": "Cadium outside Amelie lab AFTER opening it"
         }
     ],
-
     "203": [
         {
-            "coords":[11,10],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Cadium Amelie lab before boss"
+            "coords": [11, 10],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Cadium Amelie lab before boss"
         }
     ],
-
     "205": [
         {
-            "coords":[15,7],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Cadium Amelie lab after boss SUB"
+            "coords": [15, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Cadium Amelie lab after boss SUB"
         }
     ],
-
     "206": [
         {
-            "coords":[6,5],
-            "on_switches":[173],
-            "off_switches":[],
-            "comments":"Parum harbor AFTER escaping with Zetta sub"
+            "coords": [6, 5],
+            "on_switches": [173],
+            "off_switches": [],
+            "comments": "Parum harbor AFTER escaping with Zetta sub"
         }
     ],
-
     "209": [
         {
-            "coords":[15,9],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Lateria prison cell"
+            "coords": [15, 9],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Lateria prison cell"
         }
     ],
-
     "214": [
         {
-            "coords":[20,6],
-            "on_switches":[186],
-            "off_switches":[],
-            "comments":"Lateria outside prison AFTER escaping"
+            "coords": [20, 6],
+            "on_switches": [186],
+            "off_switches": [],
+            "comments": "Lateria outside prison AFTER escaping"
         }
     ],
-
     "219": [
         {
-            "coords":[32,10],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Lateria city outside healing centre"
+            "coords": [32, 10],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Lateria city outside healing centre"
         }
     ],
-
     "236": [
         {
-            "coords":[4,5],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Lateria before Petram boss"
+            "coords": [4, 5],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Lateria before Petram boss"
         }
     ],
-
     "240": [
         {
-            "coords":[15,3],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Khan woods camp"
+            "coords": [15, 3],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Khan woods camp"
         }
     ],
-
     "254": [
         {
-            "coords":[12,11],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Khan Hidden Village"
+            "coords": [12, 11],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Khan Hidden Village"
         }
     ],
-
     "262": [
         {
-            "coords":[13,7],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Solus small Guild outpost south of Petram crater BEFORE raid"
+            "coords": [13, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Solus small Guild outpost south of Petram crater BEFORE raid"
         }
     ],
-
     "263": [
         {
-            "coords":[13,7],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Solus small Guild outpost south of Petram crater AFTER raid"
+            "coords": [13, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Solus small Guild outpost south of Petram crater AFTER raid"
         }
     ],
-
     "265": [
         {
-            "coords":[10,5],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Logan's shack"
+            "coords": [10, 5],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Logan's shack"
         }
     ],
-
     "268": [
         {
-            "coords":[19,8],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Outside Grunda's tomb"
+            "coords": [19, 8],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Outside Grunda's tomb"
         }
     ],
-
     "273": [
         {
-            "coords":[10,15],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Before Grunda's chamber"
+            "coords": [10, 15],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Before Grunda's chamber"
         }
     ],
-
     "274": [
         {
-            "coords":[14,5],
-            "on_switches":[287],
-            "off_switches":[],
-            "comments":"Grunda's chamber AFTER beating Hannah"
+            "coords": [14, 5],
+            "on_switches": [287],
+            "off_switches": [],
+            "comments": "Grunda's chamber AFTER beating Hannah"
         }
     ],
-
     "279": [
         {
-            "coords":[10,11],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Nexotower before Lobo's chamber"
+            "coords": [10, 11],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Nexotower before Lobo's chamber"
         }
     ],
-
     "287": [
         {
-            "coords":[8,6],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Palmaya port"
+            "coords": [8, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Palmaya port"
         }
     ],
-
     "288": [
         {
-            "coords":[8,3],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Palmaya city outside healing centre"
+            "coords": [8, 3],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Palmaya city outside healing centre"
         }
     ],
-
     "318": [
         {
-            "coords":[10,6],
-            "on_switches":[332],
-            "off_switches":[],
-            "comments":"Royalle City ruins AFTER main story"
+            "coords": [10, 6],
+            "on_switches": [332],
+            "off_switches": [],
+            "comments": "Royalle City ruins AFTER main story"
         }
     ],
-
     "458": [
         {
-            "coords":[11,7],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Guild upper level final room"
+            "coords": [11, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Guild upper level final room"
         }
     ],
-
     "462": [
         {
-            "coords":[9,6],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Terminus mountain base"
+            "coords": [9, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Terminus mountain base"
         }
     ],
-
     "468": [
         {
-            "coords":[10,6],
-            "on_switches":[],
-            "off_switches":[],
-            "comments":"Inside final airship"
+            "coords": [10, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "Inside final airship"
+        }
+    ],
+    "477": [
+        {
+            "coords": [19, 8],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "precursor landing"
+        }
+    ],
+    "479": [
+        {
+            "coords": [20, 25],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "precursor outpost"
+        }
+    ],
+    "481": [
+        {
+            "coords": [21, 4],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "dark maze"
+        }
+    ],
+    "484": [
+        {
+            "coords": [27, 9],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "cook camp"
+        }
+    ],
+    "488": [
+        {
+            "coords": [10, 2],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "frozen cavern"
+        }
+    ],
+    "494": [
+        {
+            "coords": [10, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "inominox camp"
+        }
+    ],
+    "496": [
+        {
+            "coords": [20, 5],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "rotramus woods"
+        }
+    ],
+    "500": [
+        {
+            "coords": [11, 8],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "videll cave"
+        }
+    ],
+    "505": [
+        {
+            "coords": [14, 6],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "tomb field"
+        }
+    ],
+    "516": [
+        {
+            "coords": [11, 18],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "long road"
+        }
+    ],
+    "517": [
+        {
+            "coords": [10, 5],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "eliza camp"
+        }
+    ],
+    "524": [
+        {
+            "coords": [6, 11],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "camp before kroma"
+        }
+    ],
+    "526": [
+        {
+            "coords": [11, 7],
+            "on_switches": [],
+            "off_switches": [],
+            "comments": "exit towards venefelis"
         }
     ]
-
 }

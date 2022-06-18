@@ -1,23 +1,23 @@
 {
-  "1" : {
-    "name" : "[COMMON]"
-  },
-  "2" : {
-    "name" : "[UNCOMMON]"
-  },
-  "3" : {
-    "name" : "[RARE]"
-  },
-  "4" : {
-    "name" : "[MEGA RARE]"
-  },
-  "5" : {
-    "name" : "[ULTRA RARE]"
-  },
-  "6" : {
-    "name" : "LEGENDARY"
-  },
-  "7" : {
-    "name" : "ULTIMATE"
-  }
+    "1": {
+        "name": "[COMMON]"
+    },
+    "2": {
+        "name": "[UNCOMMON]"
+    },
+    "3": {
+        "name": "[RARE]"
+    },
+    "4": {
+        "name": "[MEGA RARE]"
+    },
+    "5": {
+        "name": "[ULTRA RARE]"
+    },
+    "6": {
+        "name": "LEGENDARY"
+    },
+    "7": {
+        "name": "ULTIMATE"
+    }
 }

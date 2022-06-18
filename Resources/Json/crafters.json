@@ -31,6 +31,16 @@
                 "shard-psychic": 0,
                 "shard-ghost": 0
             },
+            "core-destruction-max": {
+                "shard-fire": 30,
+                "shard-water": 0,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 15,
+                "shard-electric": 15,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
             "core-protection-low": {
                 "shard-fire": 0,
                 "shard-water": 1,
@@ -57,6 +67,16 @@
                 "shard-wind": 0,
                 "shard-plant": 4,
                 "shard-mineral": 10,
+                "shard-electric": 0,
+                "shard-psychic": 0,
+                "shard-ghost": 0
+            },
+            "core-protection-max": {
+                "shard-fire": 0,
+                "shard-water": 18,
+                "shard-wind": 0,
+                "shard-plant": 12,
+                "shard-mineral": 30,
                 "shard-electric": 0,
                 "shard-psychic": 0,
                 "shard-ghost": 0
@@ -91,6 +111,16 @@
                 "shard-psychic": 3,
                 "shard-ghost": 0
             },
+            "core-vitality-max": {
+                "shard-fire": 0,
+                "shard-water": 12,
+                "shard-wind": 18,
+                "shard-plant": 30,
+                "shard-mineral": 0,
+                "shard-electric": 0,
+                "shard-psychic": 9,
+                "shard-ghost": 0
+            },
             "core-immunity-low": {
                 "shard-fire": 0,
                 "shard-water": 0,
@@ -121,6 +151,16 @@
                 "shard-psychic": 3,
                 "shard-ghost": 4
             },
+            "core-immunity-max": {
+                "shard-fire": 0,
+                "shard-water": 0,
+                "shard-wind": 12,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 18,
+                "shard-psychic": 9,
+                "shard-ghost": 12
+            },
             "core-experience-low": {
                 "shard-fire": 0,
                 "shard-water": 2,
@@ -149,6 +189,16 @@
                 "shard-mineral": 4,
                 "shard-electric": 0,
                 "shard-psychic": 10,
+                "shard-ghost": 0
+            },
+            "core-experience-max": {
+                "shard-fire": 0,
+                "shard-water": 18,
+                "shard-wind": 0,
+                "shard-plant": 24,
+                "shard-mineral": 12,
+                "shard-electric": 0,
+                "shard-psychic": 30,
                 "shard-ghost": 0
             },
             "core-greed-low": {
@@ -181,6 +231,16 @@
                 "shard-psychic": 0,
                 "shard-ghost": 7
             },
+            "core-greed-max": {
+                "shard-fire": 0,
+                "shard-water": 12,
+                "shard-wind": 0,
+                "shard-plant": 9,
+                "shard-mineral": 0,
+                "shard-electric": 15,
+                "shard-psychic": 0,
+                "shard-ghost": 21
+            },
             "core-stamina-low": {
                 "shard-fire": 0,
                 "shard-water": 0,
@@ -211,6 +271,16 @@
                 "shard-psychic": 0,
                 "shard-ghost": 4
             },
+            "core-stamina-max": {
+                "shard-fire": 12,
+                "shard-water": 9,
+                "shard-wind": 0,
+                "shard-plant": 0,
+                "shard-mineral": 0,
+                "shard-electric": 24,
+                "shard-psychic": 0,
+                "shard-ghost": 12
+            },
             "core-synergy-low": {
                 "shard-fire": 1,
                 "shard-water": 1,
@@ -240,10 +310,19 @@
                 "shard-electric": 5,
                 "shard-psychic": 5,
                 "shard-ghost": 5
+            },
+            "core-synergy-max": {
+                "shard-fire": 15,
+                "shard-water": 15,
+                "shard-wind": 15,
+                "shard-plant": 15,
+                "shard-mineral": 15,
+                "shard-electric": 15,
+                "shard-psychic": 15,
+                "shard-ghost": 15
             }
         }
     },
-
     "mylo": {
         "products": {
             "nexotrap-fire": {
@@ -288,8 +367,6 @@
             }
         }
     },
-
-
     "lisa": {
         "products": {
             "nexotrap-mineral": {
@@ -335,5 +412,3 @@
         }
     }
 }
-
-

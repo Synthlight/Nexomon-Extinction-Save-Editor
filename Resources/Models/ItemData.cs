@@ -9,5 +9,10 @@ namespace Save_Editor.Resources.Models {
         public List<int> effectValues;
         [JsonProperty("serialization")]
         public int itemId;
+        [JsonProperty("can_cm_copy")]
+        public bool canCmCopy;
+        [JsonProperty("can_randomizer_find")]
+        public bool canRandomizerFind;
+        public string folder;
     }
 }

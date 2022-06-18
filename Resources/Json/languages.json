@@ -8,7 +8,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "french": {
         "strings": "french",
         "fonts": {
@@ -18,7 +17,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "german": {
         "strings": "german",
         "fonts": {
@@ -28,7 +26,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "italian": {
         "strings": "italian",
         "fonts": {
@@ -38,7 +35,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "spanish": {
         "strings": "spanish",
         "fonts": {
@@ -48,7 +44,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "spanish-latam": {
         "strings": "spanish-latam",
         "fonts": {
@@ -58,7 +53,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "portuguese": {
         "strings": "portuguese",
         "fonts": {
@@ -68,7 +62,15 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
+    "portuguese-brazil": {
+        "strings": "portuguese-brazil",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
+    },
     "russian": {
         "strings": "russian",
         "fonts": {
@@ -78,7 +80,6 @@
             "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
         }
     },
-
     "chinese": {
         "strings": "chinese",
         "fonts": {
@@ -88,7 +89,24 @@
             "stroke-bold": "assets/raw/fonts/chinese/stroke-bold.asset"
         }
     },
-
+    "chinese-simplified": {
+        "strings": "chinese-simplified",
+        "fonts": {
+            "naked": "assets/raw/fonts/chinese/naked.asset",
+            "naked-bold": "assets/raw/fonts/chinese/naked-bold.asset",
+            "stroke": "assets/raw/fonts/chinese/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/chinese/stroke-bold.asset"
+        }
+    },
+    "chinese-traditional": {
+        "strings": "chinese-traditional",
+        "fonts": {
+            "naked": "assets/raw/fonts/chinese/naked.asset",
+            "naked-bold": "assets/raw/fonts/chinese/naked-bold.asset",
+            "stroke": "assets/raw/fonts/chinese/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/chinese/stroke-bold.asset"
+        }
+    },
     "japanese": {
         "strings": "japanese",
         "fonts": {
@@ -98,7 +116,6 @@
             "stroke-bold": "assets/raw/fonts/japanese/stroke-bold.asset"
         }
     },
-
     "korean": {
         "strings": "korean",
         "fonts": {
@@ -107,6 +124,14 @@
             "stroke": "assets/raw/fonts/korean/stroke.asset",
             "stroke-bold": "assets/raw/fonts/korean/stroke-bold.asset"
         }
+    },
+    "thai": {
+        "strings": "thai",
+        "fonts": {
+            "naked": "assets/raw/fonts/general/naked.asset",
+            "naked-bold": "assets/raw/fonts/general/naked-bold.asset",
+            "stroke": "assets/raw/fonts/general/stroke.asset",
+            "stroke-bold": "assets/raw/fonts/general/stroke-bold.asset"
+        }
     }
-
 }

@@ -6,10 +6,13 @@ using System.Linq;
 
 namespace Save_Editor.Models {
     public class SaveData : NotifyPropertyChangedImpl {
-        public const int MIN_VERSION_WITH_AUTO_SAVE = 1;
-        public const int MIN_VERSION_WITH_HARMONY   = 12;
-        public const int MIN_VERSION_WITH_COSMIC    = 15;
-        public const int MIN_VERSION_WITH_EQUIPMENT = 23;
+        public const int MIN_VERSION_WITH_AUTO_SAVE       = 1;
+        public const int MIN_VERSION_WITH_HARMONY         = 12;
+        public const int MIN_VERSION_WITH_COSMIC          = 15;
+        public const int MIN_VERSION_WITH_EQUIPMENT       = 23;
+        public const int MIN_VERSION_WITH_BEATEN_MONSTERS = 30;
+        public const int MIN_VERSION_WITH_CUSTOM          = 31;
+        public const int MIN_VERSION_WITH_LURING          = 39;
 
         public readonly char[]                              prefix;
         public readonly int                                 saveVersion;

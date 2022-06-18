@@ -1,357 +1,515 @@
 {
-
-  "events": [
-    {
-      "description": "Started the game",
-      "weight": 0.0,
-      "on_switches": [],
-      "off_switches": []
-    },
-    {
-      "description": "Amelie woods, after capture tutorial",
-      "weight": 1.0,
-      "on_switches": [13],
-      "off_switches": []
-    },
-    {
-      "description": "Entered Outlands first time",
-      "weight": 1.0,
-      "on_switches": [25],
-      "off_switches": []
-    },
-    {
-      "description": "Rescued Videll",
-      "weight": 1.5,
-      "on_switches": [31],
-      "off_switches": []
-    },
-    {
-      "description": "Rescued Orphans",
-      "weight": 1.0,
-      "on_switches": [40],
-      "off_switches": []
-    },
-    {
-      "description": "Towards Citadel",
-      "weight": 1.0,
-      "on_switches": [42],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Mega Darkness",
-      "weight": 1.5,
-      "on_switches": [56],
-      "off_switches": []
-    },
-    {
-      "description": "Seen crater",
-      "weight": 1.0,
-      "on_switches": [59],
-      "off_switches": []
-    },
-    {
-      "description": "Met Jin",
-      "weight": 1.0,
-      "on_switches": [66],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Atlanta",
-      "weight": 1.5,
-      "on_switches": [70],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Fenrir",
-      "weight": 1.5,
-      "on_switches": [70],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Jin",
-      "weight": 2.5,
-      "on_switches": [75],
-      "off_switches": []
-    },
-    {
-      "description": "Leo Prompt to Village",
-      "weight": 1.0,
-      "on_switches": [85],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Rangers",
-      "weight": 0.5,
-      "on_switches": [86],
-      "off_switches": []
-    },
-    {
-      "description": "Xanders waiting for dragon",
-      "weight": 1.5,
-      "on_switches": [98],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Dracon",
-      "weight": 1.0,
-      "on_switches": [99],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Eurus",
-      "weight": 1.5,
-      "on_switches": [104],
-      "off_switches": []
-    },
-    {
-      "description": "Skyfall Ross Nora",
-      "weight": 1.0,
-      "on_switches": [114],
-      "off_switches": []
-    },
-    {
-      "description": "Videll got explosives",
-      "weight": 1.5,
-      "on_switches": [122],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Ivan bunker",
-      "weight": 1.5,
-      "on_switches": [127],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Xanders",
-      "weight": 2.0,
-      "on_switches": [130],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Tower Dragons",
-      "weight": 3.0,
-      "on_switches": [148],
-      "off_switches": []
-    },
-    {
-      "description": "Fixed Cadium engines",
-      "weight": 2.0,
-      "on_switches": [163],
-      "off_switches": []
-    },
-    {
-      "description": "Beat tournament",
-      "weight": 1.5,
-      "on_switches": [167],
-      "off_switches": []
-    },
-    {
-      "description": "Beat bolzen cadium",
-      "weight": 1.5,
-      "on_switches": [172],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Petram Lateria",
-      "weight": 2.0,
-      "on_switches": [198],
-      "off_switches": []
-    },
-    {
-      "description": "Beat Hannah Tomb",
-      "weight": 1.0,
-      "on_switches": [287],
-      "off_switches": []
-    },
-    {
-      "description": "Vados slays all Tyrants",
-      "weight": 2.0,
-      "on_switches": [298],
-      "off_switches": []
-    },
-    {
-      "description": "Met Tikala, to RESURRECTION",
-      "weight": 1.5,
-      "on_switches": [220],
-      "off_switches": []
-    },
-    {
-      "description": "Recruited EURUS",
-      "weight": 1.0,
-      "on_switches": [233],
-      "off_switches": []
-    },
-    {
-      "description": "Recruited MULCIMER",
-      "weight": 2.0,
-      "on_switches": [231],
-      "off_switches": []
-    },
-    {
-      "description": "Recruited NIVALIS",
-      "weight": 2.5,
-      "on_switches": [243],
-      "off_switches": []
-    },
-    {
-      "description": "Recruited BOLZEN",
-      "weight": 1.5,
-      "on_switches": [273],
-      "off_switches": []
-    },
-    {
-      "description": "Recruited PETRAM",
-      "weight": 1.5,
-      "on_switches": [260],
-      "off_switches": []
-    },
-    {
-      "description": "GRANDMASTER",
-      "weight": 2.5,
-      "on_switches": [318],
-      "off_switches": []
-    },
-    {
-      "description": "BEAT XANDERS",
-      "weight": 1.0,
-      "on_switches": [351],
-      "off_switches": []
-    },
-    {
-      "description": "BEAT EDWARD",
-      "weight": 0.5,
-      "on_switches": [332],
-      "off_switches": []
-    },
-    {
-      "description": "FINISHED STORY",
-      "weight": 1.5,
-      "on_switches": [332],
-      "off_switches": []
-    },
-
-
-
-
-
-    {"description": "VAULT","weight": 0.4,"on_switches": [605],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [606],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [607],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [608],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [609],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [610],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [611],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [612],"off_switches": []},
-    {"description": "VAULT","weight": 0.4,"on_switches": [613],"off_switches": []},
-
-
-    {"description": "POST-FENRIR","weight": 0.6,"on_switches": [387],"off_switches": []},
-    {"description": "POST-NADINE","weight": 0.6,"on_switches": [388],"off_switches": []},
-    {"description": "POST-GRUNDA","weight": 0.6,"on_switches": [389],"off_switches": []},
-    {"description": "POST-ZETTA","weight": 0.6,"on_switches": [390],"off_switches": []},
-    {"description": "POST-MERIDA","weight": 0.6,"on_switches": [391],"off_switches": []},
-    {"description": "POST-DEENA","weight": 0.6,"on_switches": [392],"off_switches": []},
-
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [376],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [377],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [378],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [379],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [380],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [381],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [382],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [383],"off_switches": []},
-    {"description": "POST-DRAGON","weight": 0.5,"on_switches": [384],"off_switches": []}
-
-
-  ],
-
-  "regions": [
-
-    {
-      "description":"Drake Isles",
-      "maps": [101,102,103,104,105,106,107,108,109,110,111,112,113,114],
-      "entries": [
+    "events": [
         {
-          "weight": 1.0,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"South Orphanage",
-      "maps": [15],
-      "entries": [
+            "description": "Started the game",
+            "weight": 0.0,
+            "on_switches": [],
+            "off_switches": []
+        },
         {
-          "weight": 1.0,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"Haunted woods before citadel",
-      "maps": [41,42,43,44,45,46,47],
-      "entries": [
+            "description": "Amelie woods, after capture tutorial",
+            "weight": 1.0,
+            "on_switches": [13],
+            "off_switches": []
+        },
         {
-          "weight": 0.5,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"Haunted woods after citadel and before desert",
-      "maps": [55,56,57,58,59,60],
-      "entries": [
+            "description": "Entered Outlands first time",
+            "weight": 1.0,
+            "on_switches": [25],
+            "off_switches": []
+        },
         {
-          "weight": 1.5,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"Western desert",
-      "maps": [62,63],
-      "entries": [
+            "description": "Rescued Videll",
+            "weight": 1.5,
+            "on_switches": [31],
+            "off_switches": []
+        },
         {
-          "weight": 3.0,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"Eastern desert",
-      "maps": [64],
-      "entries": [
+            "description": "Rescued Orphans",
+            "weight": 1.0,
+            "on_switches": [40],
+            "off_switches": []
+        },
         {
-          "weight": 2.0,
-          "on_switches": [],
-          "off_switches": []
-        }
-      ]
-    },
-
-    {
-      "description":"Ignitia North",
-      "maps": [68,69,70,71,72,73],
-      "entries": [
+            "description": "Towards Citadel",
+            "weight": 1.0,
+            "on_switches": [42],
+            "off_switches": []
+        },
         {
-          "weight": 0.5,
-          "on_switches": [],
-          "off_switches": []
+            "description": "Beat Mega Darkness",
+            "weight": 1.5,
+            "on_switches": [56],
+            "off_switches": []
+        },
+        {
+            "description": "Seen crater",
+            "weight": 1.0,
+            "on_switches": [59],
+            "off_switches": []
+        },
+        {
+            "description": "Met Jin",
+            "weight": 1.0,
+            "on_switches": [66],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Atlanta",
+            "weight": 1.5,
+            "on_switches": [70],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Fenrir",
+            "weight": 1.5,
+            "on_switches": [70],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Jin",
+            "weight": 2.5,
+            "on_switches": [75],
+            "off_switches": []
+        },
+        {
+            "description": "Leo Prompt to Village",
+            "weight": 1.0,
+            "on_switches": [85],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Rangers",
+            "weight": 0.5,
+            "on_switches": [86],
+            "off_switches": []
+        },
+        {
+            "description": "Xanders waiting for dragon",
+            "weight": 1.5,
+            "on_switches": [98],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Dracon",
+            "weight": 1.0,
+            "on_switches": [99],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Eurus",
+            "weight": 1.5,
+            "on_switches": [104],
+            "off_switches": []
+        },
+        {
+            "description": "Skyfall Ross Nora",
+            "weight": 1.0,
+            "on_switches": [114],
+            "off_switches": []
+        },
+        {
+            "description": "Videll got explosives",
+            "weight": 1.5,
+            "on_switches": [122],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Ivan bunker",
+            "weight": 1.5,
+            "on_switches": [127],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Xanders",
+            "weight": 2.0,
+            "on_switches": [130],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Tower Dragons",
+            "weight": 3.0,
+            "on_switches": [148],
+            "off_switches": []
+        },
+        {
+            "description": "Fixed Cadium engines",
+            "weight": 2.0,
+            "on_switches": [163],
+            "off_switches": []
+        },
+        {
+            "description": "Beat tournament",
+            "weight": 1.5,
+            "on_switches": [167],
+            "off_switches": []
+        },
+        {
+            "description": "Beat bolzen cadium",
+            "weight": 1.5,
+            "on_switches": [172],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Petram Lateria",
+            "weight": 2.0,
+            "on_switches": [198],
+            "off_switches": []
+        },
+        {
+            "description": "Beat Hannah Tomb",
+            "weight": 1.0,
+            "on_switches": [287],
+            "off_switches": []
+        },
+        {
+            "description": "Vados slays all Tyrants",
+            "weight": 2.0,
+            "on_switches": [298],
+            "off_switches": []
+        },
+        {
+            "description": "Met Tikala, to RESURRECTION",
+            "weight": 1.5,
+            "on_switches": [220],
+            "off_switches": []
+        },
+        {
+            "description": "Recruited EURUS",
+            "weight": 1.0,
+            "on_switches": [233],
+            "off_switches": []
+        },
+        {
+            "description": "Recruited MULCIMER",
+            "weight": 2.0,
+            "on_switches": [231],
+            "off_switches": []
+        },
+        {
+            "description": "Recruited NIVALIS",
+            "weight": 2.5,
+            "on_switches": [243],
+            "off_switches": []
+        },
+        {
+            "description": "Recruited BOLZEN",
+            "weight": 1.5,
+            "on_switches": [273],
+            "off_switches": []
+        },
+        {
+            "description": "Recruited PETRAM",
+            "weight": 1.5,
+            "on_switches": [260],
+            "off_switches": []
+        },
+        {
+            "description": "GRANDMASTER",
+            "weight": 2.5,
+            "on_switches": [318],
+            "off_switches": []
+        },
+        {
+            "description": "BEAT XANDERS",
+            "weight": 1.0,
+            "on_switches": [351],
+            "off_switches": []
+        },
+        {
+            "description": "BEAT EDWARD",
+            "weight": 0.5,
+            "on_switches": [332],
+            "off_switches": []
+        },
+        {
+            "description": "FINISHED STORY",
+            "weight": 1.5,
+            "on_switches": [332],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [605],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [606],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [607],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [608],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [609],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [610],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [611],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [612],
+            "off_switches": []
+        },
+        {
+            "description": "VAULT",
+            "weight": 0.4,
+            "on_switches": [613],
+            "off_switches": []
+        },
+        {
+            "description": "POST-FENRIR",
+            "weight": 0.6,
+            "on_switches": [387],
+            "off_switches": []
+        },
+        {
+            "description": "POST-NADINE",
+            "weight": 0.6,
+            "on_switches": [388],
+            "off_switches": []
+        },
+        {
+            "description": "POST-GRUNDA",
+            "weight": 0.6,
+            "on_switches": [389],
+            "off_switches": []
+        },
+        {
+            "description": "POST-ZETTA",
+            "weight": 0.6,
+            "on_switches": [390],
+            "off_switches": []
+        },
+        {
+            "description": "POST-MERIDA",
+            "weight": 0.6,
+            "on_switches": [391],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DEENA",
+            "weight": 0.6,
+            "on_switches": [392],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [376],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [377],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [378],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [379],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [380],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [381],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [382],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [383],
+            "off_switches": []
+        },
+        {
+            "description": "POST-DRAGON",
+            "weight": 0.5,
+            "on_switches": [384],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL ADMIN GUILD",
+            "weight": 1.0,
+            "on_switches": [1006],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL HELOVOLK",
+            "weight": 0.7,
+            "on_switches": [1015],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL VOLCEL",
+            "weight": 0.7,
+            "on_switches": [1019],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL INOMINOX",
+            "weight": 0.7,
+            "on_switches": [1021],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL PLUVEAN",
+            "weight": 0.7,
+            "on_switches": [1023],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL ROTRAMUS",
+            "weight": 0.7,
+            "on_switches": [1029],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL CAELESA",
+            "weight": 0.7,
+            "on_switches": [1042],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL KROMA",
+            "weight": 0.7,
+            "on_switches": [1046],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL BRACCUS",
+            "weight": 0.7,
+            "on_switches": [1044],
+            "off_switches": []
+        },
+        {
+            "description": "ABYSSAL VENEFELIS",
+            "weight": 0.7,
+            "on_switches": [1049],
+            "off_switches": []
         }
-      ]
-    }
-
-  ]
-
-
+    ],
+    "regions": [
+        {
+            "description": "Drake Isles",
+            "maps": [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+            "entries": [
+                {
+                    "weight": 1.0,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "South Orphanage",
+            "maps": [15],
+            "entries": [
+                {
+                    "weight": 1.0,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "Haunted woods before citadel",
+            "maps": [41, 42, 43, 44, 45, 46, 47],
+            "entries": [
+                {
+                    "weight": 0.5,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "Haunted woods after citadel and before desert",
+            "maps": [55, 56, 57, 58, 59, 60],
+            "entries": [
+                {
+                    "weight": 1.5,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "Western desert",
+            "maps": [62, 63],
+            "entries": [
+                {
+                    "weight": 3.0,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "Eastern desert",
+            "maps": [64],
+            "entries": [
+                {
+                    "weight": 2.0,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        },
+        {
+            "description": "Ignitia North",
+            "maps": [68, 69, 70, 71, 72, 73],
+            "entries": [
+                {
+                    "weight": 0.5,
+                    "on_switches": [],
+                    "off_switches": []
+                }
+            ]
+        }
+    ]
 }

@@ -1,190 +1,181 @@
 {
-
-    "parum":{
-      "comment": "PARUM CITY",
-      "nameLineNumber": 1,
-      "map": 20,
-      "x": 24,
-      "y": 25,
-      "switches": [402],
-      "viewport": [ 274, -132, 0.5 ],
-      "graphic": "parum"
+    "parum": {
+        "comment": "PARUM CITY",
+        "nameLineNumber": 1,
+        "map": 20,
+        "x": 24,
+        "y": 25,
+        "switches": [402],
+        "viewport": [274, -132, 0.5],
+        "graphic": "parum"
     },
-
-  "frozenLake": {
-    "comment": "FROZEN LAKE",
-    "nameLineNumber": 2,
-    "map": 31,
-    "x": 21,
-    "y": 14,
-    "switches": [ 401 ],
-    "viewport": [ 16, -8, 0.5 ],
-    "graphic": "lake"
-  },
-
-  "outlands": {
-    "comment": "OUTLANDS",
-    "nameLineNumber": 3,
-    "map": 29,
-    "x": 9,
-    "y": 30,
-    "switches": [ 403 ],
-    "viewport": [ 15, -142, 0.5 ],
-    "graphic": "outlands"
-  },
-
-  "orphanage": {
-    "comment": "ORPHANAGE",
-    "nameLineNumber": 4,
-    "map": 5,
-    "x": 13,
-    "y": 8,
-    "switches": [ 404 ],
-    "viewport": [ 558, -99, 0.5 ],
-    "graphic": "orphanage"
-  },
-
-  "citadel": {
-    "comment": "GHOST",
-    "nameLineNumber": 5,
-    "map": 46,
-    "x": 11,
-    "y": 11,
-    "switches": [ 405 ],
-    "viewport": [ 560, 51, 0.5 ],
-    "graphic": "citadel"
-  },
-
-  "ignitia-west": {
-    "comment": "WEST IGNITIA",
-    "nameLineNumber": 6,
-    "map": 81,
-    "x": 13,
-    "y": 10,
-    "switches": [ 406 ],
-    "viewport": [ 450, 160, 0.5 ],
-    "graphic": "ignitia"
-  },
-
-  "ignitia-south": {
-    "comment": "SOUTH IGNITIA",
-    "nameLineNumber": 7,
-    "map": 82,
-    "x": 4,
-    "y": 10,
-    "switches": [ 70 ],
-    "viewport": [ 237, 160, 0.5 ],
-    "graphic": "ignitia"
-  },
-
-  "ignitia": {
-    "comment": "IGNITIA",
-    "nameLineNumber": 8,
-    "map": 74,
-    "x": 23,
-    "y": 23,
-    "switches": [ 408 ],
-    "viewport": [ 277, 160, 0.5 ],
-    "graphic": "ignitia"
-  },
-
-  "solus": {
-    "comment": "SOLUS",
-    "nameLineNumber": 9,
-    "map": 65,
-    "x": 28,
-    "y": 43,
-    "switches": [ 409 ],
-    "viewport": [ 262, 6, 0.5 ],
-    "graphic": "desert"
-  },
-
-  "frozen-city": {
-    "comment": "FROZEN CITY",
-    "nameLineNumber": 10,
-    "map": 152,
-    "x": 24,
-    "y": 11,
-    "switches": [ 410 ],
-    "viewport": [ -60, -150, 0.5 ],
-    "graphic": "tundra"
-  },
-
-  "cadium": {
-    "comment": "CADIUM",
-    "nameLineNumber": 16,
-    "map": 179,
-    "x": 14,
-    "y": 12,
-    "switches": [ 416 ],
-    "viewport": [ 560, 140, 0.5 ],
-    "graphic": "cadium"
-  },
-
-  "cadium-lab": {
-    "comment": "CADIUM LAB",
-    "nameLineNumber": 11,
-    "map": 203,
-    "x": 10,
-    "y": 12,
-    "switches": [ 411 ],
-    "viewport": [ 560, 140, 0.5 ],
-    "graphic": "vados"
-  },
-
-  "drake-village": {
-    "comment": "DRAKE VILLAGE",
-    "nameLineNumber": 12,
-    "map": 109,
-    "x": 18,
-    "y": 14,
-    "switches": [ 412 ],
-    "viewport": [ -60, -150, 0.5 ],
-    "graphic": "drake"
-  },
-
-  "frozen-base": {
-    "comment": "FROZEN TUNDRA BASE",
-    "nameLineNumber": 13,
-    "map": 172,
-    "x": 8,
-    "y": 18,
-    "switches": [ 413 ],
-    "viewport": [ -60, -150, 0.5 ],
-    "graphic": "tundra"
-  },
-
-  "khan-village": {
-    "comment": "KHAN VILLAGE",
-    "nameLineNumber": 14,
-    "map": 254,
-    "x": 13,
-    "y": 11,
-    "switches": [ 414 ],
-    "viewport": [ 560, -150, 0.5 ],
-    "graphic": "khan"
-  },
-
-  "palmaya": {
-    "comment": "PALMAYA",
-    "nameLineNumber": 15,
-    "map": 287,
-    "x": 5,
-    "y": 6,
-    "switches": [ 415 ],
-    "viewport": [ 560, -150, 0.5 ],
-    "graphic": "palmaya"
-  },
-
-  "lateria": {
-    "comment": "LATERIA",
-    "nameLineNumber": 17,
-    "map": 219,
-    "x": 12,
-    "y": 11,
-    "switches": [ 417 ],
-    "viewport": [ -50, 130, 0.5 ],
-    "graphic": "lateria"
-  }
-
+    "frozenLake": {
+        "comment": "FROZEN LAKE",
+        "nameLineNumber": 2,
+        "map": 31,
+        "x": 21,
+        "y": 14,
+        "switches": [401],
+        "viewport": [16, -8, 0.5],
+        "graphic": "lake"
+    },
+    "outlands": {
+        "comment": "OUTLANDS",
+        "nameLineNumber": 3,
+        "map": 29,
+        "x": 9,
+        "y": 30,
+        "switches": [403],
+        "viewport": [15, -142, 0.5],
+        "graphic": "outlands"
+    },
+    "orphanage": {
+        "comment": "ORPHANAGE",
+        "nameLineNumber": 4,
+        "map": 5,
+        "x": 13,
+        "y": 8,
+        "switches": [404],
+        "viewport": [558, -99, 0.5],
+        "graphic": "orphanage"
+    },
+    "citadel": {
+        "comment": "GHOST",
+        "nameLineNumber": 5,
+        "map": 46,
+        "x": 11,
+        "y": 11,
+        "switches": [405],
+        "viewport": [560, 51, 0.5],
+        "graphic": "citadel",
+        "viewport_tablet": [700, 51, 0.5]
+    },
+    "ignitia-west": {
+        "comment": "WEST IGNITIA",
+        "nameLineNumber": 6,
+        "map": 81,
+        "x": 13,
+        "y": 10,
+        "switches": [406],
+        "viewport": [450, 160, 0.5],
+        "graphic": "ignitia"
+    },
+    "ignitia-south": {
+        "comment": "SOUTH IGNITIA",
+        "nameLineNumber": 7,
+        "map": 82,
+        "x": 4,
+        "y": 10,
+        "switches": [70],
+        "viewport": [237, 160, 0.5],
+        "graphic": "ignitia"
+    },
+    "ignitia": {
+        "comment": "IGNITIA",
+        "nameLineNumber": 8,
+        "map": 74,
+        "x": 23,
+        "y": 23,
+        "switches": [408],
+        "viewport": [277, 160, 0.5],
+        "graphic": "ignitia"
+    },
+    "solus": {
+        "comment": "SOLUS",
+        "nameLineNumber": 9,
+        "map": 65,
+        "x": 28,
+        "y": 43,
+        "switches": [409],
+        "viewport": [262, 6, 0.5],
+        "graphic": "desert"
+    },
+    "frozen-city": {
+        "comment": "FROZEN CITY",
+        "nameLineNumber": 10,
+        "map": 152,
+        "x": 24,
+        "y": 11,
+        "switches": [410],
+        "viewport": [-60, -150, 0.5],
+        "graphic": "tundra",
+        "viewport_tablet": [-260, -160, 0.5]
+    },
+    "cadium": {
+        "comment": "CADIUM",
+        "nameLineNumber": 16,
+        "map": 179,
+        "x": 14,
+        "y": 12,
+        "switches": [416],
+        "viewport": [560, 140, 0.5],
+        "graphic": "cadium",
+        "viewport_tablet": [800, 140, 0.5]
+    },
+    "cadium-lab": {
+        "comment": "CADIUM LAB",
+        "nameLineNumber": 11,
+        "map": 203,
+        "x": 10,
+        "y": 12,
+        "switches": [411],
+        "viewport": [560, 140, 0.5],
+        "graphic": "vados",
+        "viewport_tablet": [800, 140, 0.5]
+    },
+    "drake-village": {
+        "comment": "DRAKE VILLAGE",
+        "nameLineNumber": 12,
+        "map": 109,
+        "x": 18,
+        "y": 14,
+        "switches": [412],
+        "viewport": [-60, -150, 0.5],
+        "graphic": "drake",
+        "viewport_tablet": [-300, -150, 0.5]
+    },
+    "frozen-base": {
+        "comment": "FROZEN TUNDRA BASE",
+        "nameLineNumber": 13,
+        "map": 172,
+        "x": 8,
+        "y": 18,
+        "switches": [413],
+        "viewport": [-60, -150, 0.5],
+        "graphic": "tundra",
+        "viewport_tablet": [-285, -150, 0.5]
+    },
+    "khan-village": {
+        "comment": "KHAN VILLAGE",
+        "nameLineNumber": 14,
+        "map": 254,
+        "x": 13,
+        "y": 11,
+        "switches": [414],
+        "viewport": [560, -150, 0.5],
+        "graphic": "khan",
+        "viewport_tablet": [750, -150, 0.5]
+    },
+    "palmaya": {
+        "comment": "PALMAYA",
+        "nameLineNumber": 15,
+        "map": 287,
+        "x": 5,
+        "y": 6,
+        "switches": [415],
+        "viewport": [560, -150, 0.5],
+        "graphic": "palmaya",
+        "viewport_tablet": [800, -150, 0.5]
+    },
+    "lateria": {
+        "comment": "LATERIA",
+        "nameLineNumber": 17,
+        "map": 219,
+        "x": 12,
+        "y": 11,
+        "switches": [417],
+        "viewport": [-50, 130, 0.5],
+        "graphic": "lateria",
+        "viewport_tablet": [-150, 130, 0.5]
+    }
 }
