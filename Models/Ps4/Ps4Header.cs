@@ -8,6 +8,7 @@ namespace Save_Editor.Models.Ps4 {
         public uint            unk3       { get; }
         public Ps4SlotHeader[] slotHeader { get; } // Count for this is between unk2 & unk3.
         public SaveData[]      saveData   { get; } // Must match the slot header size.
+        public byte[][]        unkData    { get; } // For the 'UNK' slot type since it's not a save.
 
         public Ps4Header(BinaryReader reader) {
             prefix = reader.ReadChars(8);
@@ -18,6 +19,7 @@ namespace Save_Editor.Models.Ps4 {
 
             slotHeader = new Ps4SlotHeader[slotSize];
             saveData   = new SaveData[slotSize];
+            unkData    = new byte[slotSize][];
 
             for (var i = 0; i < slotSize; i++) {
                 slotHeader[i] = reader.ReadPs4SlotHeader();
@@ -25,7 +27,12 @@ namespace Save_Editor.Models.Ps4 {
 
             for (var i = 0; i < slotSize; i++) {
                 reader.BaseStream.Seek(slotHeader[i].saveOffset, SeekOrigin.Begin);
-                saveData[i] = reader.ReadSaveData(true, slotHeader[i].saveSize);
+
+                if (slotHeader[i].slotPosition == SlotPosition.Unk) {
+                    unkData[i] = reader.ReadBytes((int) slotHeader[i].saveSize);
+                } else {
+                    saveData[i] = reader.ReadSaveData(true, slotHeader[i].saveSize);
+                }
             }
         }
     }
@@ -46,8 +53,13 @@ namespace Save_Editor.Models.Ps4 {
                 writer.Write(slotHeader);
             }
 
-            foreach (var saveData in ps4Header.saveData) {
-                writer.Write(saveData);
+            for (var i = 0; i < ps4Header.slotHeader.Length; i++) {
+                if (ps4Header.slotHeader[i].slotPosition == SlotPosition.Unk) {
+                    writer.Write(new byte[] {0x46, 0x41, 0x4C, 0x4C, 0x45, 0x4E, 0x00, 0x00}); // FALLEN
+                    writer.Write(ps4Header.unkData[i]);
+                } else {
+                    writer.Write(ps4Header.saveData[i]);
+                }
             }
         }
     }

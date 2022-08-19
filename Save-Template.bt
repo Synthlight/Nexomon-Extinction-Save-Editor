@@ -89,7 +89,8 @@ typedef struct {
     enum <uint> SlotPosition {
         TOP = 0xF73C5DB4,
         MIDDLE = 0x65CA5D56,
-        BOTTOM = 0xA9F518D3
+        BOTTOM = 0xA9F518D3,
+        UNK = 0x3D7878A0
     } slotPosition<format=hex>;
     uint unk2;
     uint saveSize;
@@ -107,7 +108,12 @@ typedef struct {
     local int i;
     for (i = 0; i < slotCount; i++) {
         FSeek(ps4SlotHeader[i].saveOffset);
-        SaveData saveData;
+
+        if (ps4SlotHeader[i].slotPosition == UNK) {
+            byte unk[ps4SlotHeader[i].saveSize];
+        } else {
+            SaveData saveData;
+        }
     }
 } Ps4Header;
 
